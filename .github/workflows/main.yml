@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}  # Uses the GITHUB_TOKEN for authentication
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v4
@@ -32,9 +32,12 @@ jobs:
           python your_script.py
 
       - name: Commit and push changes
+        env:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add badges.json
           git commit -m "Update badges data [skip ci]" || echo "No changes to commit"
-          git push
+          git remote set-url origin https://x-access-token:${{ env.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}
+          git push origin HEAD:${{ github.ref }}
