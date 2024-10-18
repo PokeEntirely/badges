@@ -1,5 +1,3 @@
-# .github/workflows/main.yml
-
 name: Run Badge Monitor Script
 
 on:
@@ -14,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false  # Important for using a custom PAT
 
       - name: Set up Python 3.9
         uses: actions/setup-python@v4
@@ -34,8 +30,6 @@ jobs:
           python your_script.py
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
