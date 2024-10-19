@@ -9,8 +9,10 @@ from concurrent.futures import ThreadPoolExecutor
 import aiofiles
 from datetime import datetime
 
+# Set to True if you want debug messages
 DEBUG = False
 
+# Use the webhook URL from environment variable for security
 WEBHOOK_URL = os.environ.get("WEBHOOK_URL")
 
 logging.basicConfig(
@@ -38,8 +40,6 @@ class WebhookSender:
             if badge_id not in self.sent_badges:
                 self.embeds.append(embed)
                 self.sent_badges.add(badge_id)
-                if len(self.embeds) >= 10:
-                    await self.send_batch()
 
     async def send_batch(self):
         async with self.lock:
@@ -56,101 +56,72 @@ class WebhookSender:
             self.embeds = self.embeds[batch_size:]
 
     async def send_webhook(self, payload):
-        retry_count = 0
-        max_retries = 5
-        delay = 1
-        while retry_count < max_retries:
-            try:
-                async with self.session.post(self.webhook_url, json=payload, timeout=120) as response:
-                    if response.status == 429:
-                        data = await response.json()
-                        retry_after = data.get("retry_after", delay)
-                        print(f"Rate limited by Discord. Retrying after {retry_after} seconds...")
-                        await asyncio.sleep(float(retry_after))
-                        delay *= 2
-                        retry_count += 1
-                        continue
-                    elif response.status >= 500:
-                        print(f"Server error ({response.status}). Retrying...")
-                        await asyncio.sleep(delay)
-                        delay *= 2
-                        retry_count += 1
-                        continue
-                    elif response.status != 200:
-                        text = await response.text()
-                        logging.error(f"Failed to send webhook: {text}")
-                        print(f"Failed to send webhook: {text}")
-                    else:
-                        return
-            except (aiohttp.ClientError, asyncio.TimeoutError) as e:
-                logging.error(f"Exception while sending webhook: {e}")
-                print(f"Exception while sending webhook: {e}")
-                await asyncio.sleep(delay)
-                delay *= 2
-                retry_count += 1
-        print("Max retries reached for sending webhook.")
+        try:
+            async with self.session.post(self.webhook_url, json=payload, timeout=10) as response:
+                if response.status == 429:
+                    data = await response.json()
+                    retry_after = data.get("retry_after", 5)
+                    await asyncio.sleep(retry_after)
+                    await self.session.post(self.webhook_url, json=payload, timeout=10)
+                else:
+                    response.raise_for_status()
+        except Exception as e:
+            logging.error(f"Failed to send webhook: {e}")
+            print(f"Failed to send webhook: {e}")
 
     async def close(self):
-        await self.send_batch()
+        await self.send_batch()  # Ensure all embeds are sent before closing
         await self.session.close()
         self.executor.shutdown(wait=True)
-
-async def make_request_with_backoff(session, url, retries=5):
-    delay = 1
-    for attempt in range(retries):
-        try:
-            async with session.get(url, timeout=10) as response:
-                if response.status == 429:
-                    retry_after = response.headers.get("Retry-After", delay)
-                    print(f"Rate limit hit. Retrying after {retry_after} seconds...")
-                    await asyncio.sleep(float(retry_after))
-                    delay *= 2
-                    continue
-                elif response.status >= 500:
-                    print(f"Server error ({response.status}). Retrying...")
-                    await asyncio.sleep(delay)
-                    delay *= 2
-                    continue
-                elif response.status != 200:
-                    text = await response.text()
-                    logging.error(f"Failed to fetch {url}: {text}")
-                    print(f"Failed to fetch {url}: {text}")
-                    return None
-                data = await response.json()
-                return data
-        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
-            print(f"Exception while fetching {url}: {e}. Retrying...")
-            logging.error(f"Exception while fetching {url}: {e}")
-            await asyncio.sleep(delay)
-            delay *= 2
-    print(f"Failed to get a valid response from {url} after {retries} attempts.")
-    return None
 
 async def get_badges(session, universe_id):
     badges = []
     cursor = ''
+    retry_count = 0
+    max_retries = 5
     while True:
         url = f"https://badges.roblox.com/v1/universes/{universe_id}/badges?limit=100&sortOrder=Asc"
         if cursor:
             url += f"&cursor={cursor}"
-        data = await make_request_with_backoff(session, url)
-        if not data:
-            break
-        if 'data' in data:
-            badges.extend(data.get('data', []))
-        else:
-            break
-        cursor = data.get('nextPageCursor')
-        if not cursor:
-            break
+        try:
+            async with session.get(url, timeout=10) as response:
+                if response.status == 429:
+                    await asyncio.sleep(30)
+                    continue
+                response.raise_for_status()
+                data = await response.json()
+                badges.extend(data.get('data', []))
+                cursor = data.get('nextPageCursor')
+                if not cursor:
+                    break
+                retry_count = 0
+        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+            retry_count += 1
+            if retry_count >= max_retries:
+                break
+            await asyncio.sleep(5)
     return badges
 
 async def get_badge_thumbnail_url(session, badge_id):
     url = f"https://thumbnails.roblox.com/v1/badges/icons?badgeIds={badge_id}&size=150x150&format=Png&isCircular=false"
-    data = await make_request_with_backoff(session, url)
-    if data and 'data' in data and data['data']:
-        return data['data'][0].get('imageUrl', '')
-    return ""
+    retry_count = 0
+    max_retries = 5
+    while True:
+        try:
+            async with session.get(url, timeout=10) as response:
+                if response.status == 429:
+                    await asyncio.sleep(30)
+                    continue
+                response.raise_for_status()
+                data = await response.json()
+                if data['data']:
+                    return data['data'][0].get('imageUrl', '')
+                return ""
+        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+            retry_count += 1
+            if retry_count >= max_retries:
+                return ""
+            await asyncio.sleep(5)
 
 async def process_new_badge(session, badge, webhook_sender):
     badge_id = badge['id']
@@ -197,18 +168,16 @@ async def process_new_badge(session, badge, webhook_sender):
 async def process_universe(session, universe_id, badges_data, webhook_sender):
     fetched_badges = await get_badges(session, universe_id)
     universe_id_str = str(universe_id)
-    new_badges_count = 0
-    if fetched_badges:
-        if universe_id_str in badges_data:
-            existing_badge_ids = set(str(badge['id']) for badge in badges_data[universe_id_str]['data'])
-            new_badges = [badge for badge in fetched_badges if str(badge['id']) not in existing_badge_ids]
-            if new_badges:
-                badges_data[universe_id_str]['data'].extend(new_badges)
-                await asyncio.gather(*(process_new_badge(session, badge, webhook_sender) for badge in new_badges))
-                new_badges_count = len(new_badges)
-        else:
-            badges_data[universe_id_str] = {"data": fetched_badges}
-    return new_badges_count
+    if universe_id_str in badges_data:
+        existing_badge_ids = set(str(badge['id']) for badge in badges_data[universe_id_str]['data'])
+        new_badges = [badge for badge in fetched_badges if str(badge['id']) not in existing_badge_ids]
+        if new_badges:
+            badges_data[universe_id_str]['data'].extend(new_badges)
+            await asyncio.gather(*(process_new_badge(session, badge, webhook_sender) for badge in new_badges))
+            return len(new_badges)
+    else:
+        badges_data[universe_id_str] = {"data": fetched_badges}
+    return 0
 
 async def load_universe_ids():
     async with aiofiles.open('hrefs.txt', 'r', encoding='utf-8') as f:
@@ -217,57 +186,25 @@ async def load_universe_ids():
 async def load_badges_data():
     if os.path.exists('badges.json'):
         async with aiofiles.open('badges.json', 'r', encoding='utf-8') as f:
-            content = await f.read()
-            try:
-                return json.loads(content)
-            except json.JSONDecodeError as e:
-                logging.error(f"Error decoding badges.json: {e}")
-                return {}
+            return json.loads(await f.read())
     return {}
 
 async def save_badges_data(badges_data):
-    if os.path.exists('badges.json'):
-        async with aiofiles.open('badges.json', 'r', encoding='utf-8') as f:
-            existing_data = await f.read()
-            try:
-                existing_data = json.loads(existing_data)
-                for universe_id, new_data in badges_data.items():
-                    if universe_id in existing_data:
-                        existing_data[universe_id]['data'].extend(new_data['data'])
-                    else:
-                        existing_data[universe_id] = new_data
-            except json.JSONDecodeError as e:
-                logging.error(f"Error decoding badges.json: {e}")
-                existing_data = badges_data
-    else:
-        existing_data = badges_data
-
     async with aiofiles.open('badges.json', 'w', encoding='utf-8') as f:
-        await f.write(json.dumps(existing_data, indent=2))
+        await f.write(json.dumps(badges_data, indent=2))
 
 async def main():
     debug_print("Starting main function")
-    if not WEBHOOK_URL:
-        print("Webhook URL not set. Please set the WEBHOOK_URL environment variable.")
-        return
-
     webhook_sender = WebhookSender(WEBHOOK_URL)
 
-    universe_ids = await load_universe_ids()
+    universal_ids = await load_universe_ids()
     badges_data = await load_badges_data()
 
     timeout = aiohttp.ClientTimeout(total=15)
 
     async with aiohttp.ClientSession(timeout=timeout) as session:
-        semaphore = asyncio.Semaphore(50)
-
-        async def sem_task(universe_id):
-            async with semaphore:
-                return await process_universe(session, universe_id, badges_data, webhook_sender)
-
-        tasks = [sem_task(universe_id) for universe_id in universe_ids]
-        results = await asyncio.gather(*tasks)
-        total_new_badges = sum(results)
+        tasks = [process_universe(session, universe_id, badges_data, webhook_sender) for universe_id in universal_ids]
+        total_new_badges = sum(await asyncio.gather(*tasks))
         await webhook_sender.send_batch()
     await save_badges_data(badges_data)
     print(f"Processed all universes. New badges: {total_new_badges}")
