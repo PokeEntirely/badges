@@ -10,7 +10,7 @@ import aiofiles
 from datetime import datetime
 
 # Set to True if you want debug messages
-DEBUG = False
+DEBUG = True
 
 # Use the webhook URL from environment variable for security
 WEBHOOK_URL = os.environ.get("WEBHOOK_URL")
