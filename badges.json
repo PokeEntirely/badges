@@ -64383,5 +64383,915 @@
         }
       }
     ]
+  },
+  "5569032992": {
+    "data": [
+      {
+        "id": 3251406176295219,
+        "name": "Welcome to Dandy's World!",
+        "description": "Earned by playing Dandy's World for the first time. Thank you for playing!",
+        "displayName": "Welcome to Dandy's World!",
+        "displayDescription": "Earned by playing Dandy's World for the first time. Thank you for playing!",
+        "enabled": true,
+        "iconImageId": 17782683663,
+        "displayIconImageId": 17782683663,
+        "created": "2024-06-08T18:20:15.324+00:00",
+        "updated": "2024-11-20T23:05:00.966+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 320952,
+          "awardedCount": 34748910,
+          "winRatePercentage": 0.057
+        },
+        "awardingUniverse": {
+          "id": 5569032992,
+          "name": "\u2744\ufe0f Dandy's World [ALPHA]",
+          "rootPlaceId": 16116270224
+        }
+      },
+      {
+        "id": 705395360789263,
+        "name": "Alpha Player!",
+        "description": "Earned by playing during the Alpha release of the game. This badge will give you a reward in the future when Dandy's World enters full Release.",
+        "displayName": "Alpha Player!",
+        "displayDescription": "Earned by playing during the Alpha release of the game. This badge will give you a reward in the future when Dandy's World enters full Release.",
+        "enabled": true,
+        "iconImageId": 17782753141,
+        "displayIconImageId": 17782753141,
+        "created": "2024-06-08T18:26:03.624+00:00",
+        "updated": "2024-11-20T02:49:01.434+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 320947,
+          "awardedCount": 34744935,
+          "winRatePercentage": 0.057
+        },
+        "awardingUniverse": {
+          "id": 5569032992,
+          "name": "\u2744\ufe0f Dandy's World [ALPHA]",
+          "rootPlaceId": 16116270224
+        }
+      }
+    ]
+  },
+  "4991821731": {
+    "data": [
+      {
+        "id": 2700123904205695,
+        "name": "Newcomer",
+        "description": "You have wandered into a world of the supernatural.",
+        "displayName": "Newcomer",
+        "displayDescription": "You have wandered into a world of the supernatural.",
+        "enabled": true,
+        "iconImageId": 15613380267,
+        "displayIconImageId": 15613380267,
+        "created": "2023-12-12T04:57:26.115+00:00",
+        "updated": "2024-11-20T14:21:39.58+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 55934,
+          "awardedCount": 22254196,
+          "winRatePercentage": 1.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 676041777118247,
+        "name": "Key Searcher",
+        "description": "A key serves as a means to unlock secrets, whether they are good or evil.",
+        "displayName": "Key Searcher",
+        "displayDescription": "A key serves as a means to unlock secrets, whether they are good or evil.",
+        "enabled": true,
+        "iconImageId": 15613475237,
+        "displayIconImageId": 15613475237,
+        "created": "2023-12-12T05:22:44.897+00:00",
+        "updated": "2024-11-20T02:38:42.863+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 21257,
+          "awardedCount": 5090568,
+          "winRatePercentage": 0.428
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3579479116160719,
+        "name": "The Power of Ofuda",
+        "description": "Ofuda is used to prevent evil and misfortune. The supernatural must be feared.",
+        "displayName": "The Power of Ofuda",
+        "displayDescription": "Ofuda is used to prevent evil and misfortune. The supernatural must be feared.",
+        "enabled": true,
+        "iconImageId": 15613478246,
+        "displayIconImageId": 15613478246,
+        "created": "2023-12-12T05:23:41.275+00:00",
+        "updated": "2024-11-21T04:24:45.103+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 23567,
+          "awardedCount": 4041110,
+          "winRatePercentage": 0.475
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2268685421640357,
+        "name": "Explorer",
+        "description": "You managed to escape from the hotel, perhaps thanks to luck.",
+        "displayName": "Explorer",
+        "displayDescription": "You managed to escape from the hotel, perhaps thanks to luck.",
+        "enabled": true,
+        "iconImageId": 15613480996,
+        "displayIconImageId": 15613480996,
+        "created": "2023-12-12T05:24:26.923+00:00",
+        "updated": "2024-11-20T07:33:34.091+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 30151,
+          "awardedCount": 6017053,
+          "winRatePercentage": 0.607
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3229669186390996,
+        "name": "Safe Unlocker",
+        "description": "A key must be concealed. Within or behind the safe is safety.",
+        "displayName": "Safe Unlocker",
+        "displayDescription": "A key must be concealed. Within or behind the safe is safety.",
+        "enabled": true,
+        "iconImageId": 15613483895,
+        "displayIconImageId": 15613483895,
+        "created": "2023-12-12T05:25:15.101+00:00",
+        "updated": "2024-11-20T22:44:34.423+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12216,
+          "awardedCount": 1289568,
+          "winRatePercentage": 0.246
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2722068389337515,
+        "name": "Navigator",
+        "description": "You escaped from the hotel for the second time in a row. Luck is not something that lasts long.",
+        "displayName": "Navigator",
+        "displayDescription": "You escaped from the hotel for the second time in a row. Luck is not something that lasts long.",
+        "enabled": true,
+        "iconImageId": 15613490560,
+        "displayIconImageId": 15613490560,
+        "created": "2023-12-12T05:27:04.537+00:00",
+        "updated": "2024-11-20T14:42:34.907+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 20125,
+          "awardedCount": 2371951,
+          "winRatePercentage": 0.405
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2456091590960549,
+        "name": "Look into the Abyss",
+        "description": "You should not have peeked into the hole. The hole leads to something evil.",
+        "displayName": "Look into the Abyss",
+        "displayDescription": "You should not have peeked into the hole. The hole leads to something evil.",
+        "enabled": true,
+        "iconImageId": 15613494532,
+        "displayIconImageId": 15613494532,
+        "created": "2023-12-12T05:28:05.381+00:00",
+        "updated": "2024-11-20T10:28:37.218+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8767,
+          "awardedCount": 572534,
+          "winRatePercentage": 0.177
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1477938678359132,
+        "name": "Pathfinder",
+        "description": "You escaped from the world of the supernatural. But be careful, the world of 'petapeta' is connected to your world.",
+        "displayName": "Pathfinder",
+        "displayDescription": "You escaped from the world of the supernatural. But be careful, the world of 'petapeta' is connected to your world.",
+        "enabled": true,
+        "iconImageId": 15613497479,
+        "displayIconImageId": 15613497479,
+        "created": "2023-12-12T05:28:51.21+00:00",
+        "updated": "2024-11-20T07:21:32.23+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12646,
+          "awardedCount": 898365,
+          "winRatePercentage": 0.255
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1552562864568225,
+        "name": "Lost in Fear",
+        "description": "DO NOT touch on supernatural being. You need to hide.",
+        "displayName": "Lost in Fear",
+        "displayDescription": "DO NOT touch on supernatural being. You need to hide.",
+        "enabled": true,
+        "iconImageId": 15613500051,
+        "displayIconImageId": 15613500051,
+        "created": "2023-12-12T05:29:35.004+00:00",
+        "updated": "2024-11-19T20:38:16.118+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 27284,
+          "awardedCount": 13171971,
+          "winRatePercentage": 0.55
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3559857351054969,
+        "name": "PETAPETA's Snack",
+        "description": "You are true \"Snack \" and become a part of PETAPETA. (Lost 99 times)",
+        "displayName": "PETAPETA's Snack",
+        "displayDescription": "You are true \"Snack \" and become a part of PETAPETA. (Lost 99 times)",
+        "enabled": true,
+        "iconImageId": 15613504459,
+        "displayIconImageId": 15613504459,
+        "created": "2023-12-12T05:30:50.365+00:00",
+        "updated": "2025-01-14T00:52:39.848+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 450,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 432445584193495,
+        "name": "Eyes Meet",
+        "description": "We said you should not peek into the hole. At least you shouldn't make eye contact.",
+        "displayName": "Eyes Meet",
+        "displayDescription": "We said you should not peek into the hole. At least you shouldn't make eye contact.",
+        "enabled": true,
+        "iconImageId": 15613507234,
+        "displayIconImageId": 15613507234,
+        "created": "2023-12-12T05:31:36.321+00:00",
+        "updated": "2024-11-20T01:12:18.632+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2471,
+          "awardedCount": 273190,
+          "winRatePercentage": 0.05
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 4198737581562763,
+        "name": "The Unyielding",
+        "description": "You must fear the supernatural. They are beyond human understanding. (Survived 3 times)",
+        "displayName": "The Unyielding",
+        "displayDescription": "You must fear the supernatural. They are beyond human understanding. (Survived 3 times)",
+        "enabled": true,
+        "iconImageId": 15613509789,
+        "displayIconImageId": 15613509789,
+        "created": "2023-12-12T05:32:17.121+00:00",
+        "updated": "2025-01-14T00:53:04.236+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 272,
+          "awardedCount": 46793,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 457439261514771,
+        "name": "Pursuer of Mystery",
+        "description": "You uncovered the truth of PETAPETA, which is not meant to be known. (Survived 10 times)",
+        "displayName": "Pursuer of Mystery",
+        "displayDescription": "You uncovered the truth of PETAPETA, which is not meant to be known. (Survived 10 times)",
+        "enabled": true,
+        "iconImageId": 15613512738,
+        "displayIconImageId": 15613512738,
+        "created": "2023-12-12T05:33:02.852+00:00",
+        "updated": "2025-01-14T00:53:28.915+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 39,
+          "awardedCount": 10032,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 4327188032301405,
+        "name": "PETAPETA's Best Friend",
+        "description": "Cheers to your love of horror. (Survived 50 times)",
+        "displayName": "PETAPETA's Best Friend",
+        "displayDescription": "Cheers to your love of horror. (Survived 50 times)",
+        "enabled": true,
+        "iconImageId": 15613515337,
+        "displayIconImageId": 15613515337,
+        "created": "2023-12-12T05:33:46.6+00:00",
+        "updated": "2025-01-14T00:53:41.449+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 844,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1043995062435537,
+        "name": "Let's Party",
+        "description": "He that is always shooting must sometimes hit. (Used party popper 10times)",
+        "displayName": "Let's Party",
+        "displayDescription": "He that is always shooting must sometimes hit. (Used party popper 10times)",
+        "enabled": true,
+        "iconImageId": 15613518342,
+        "displayIconImageId": 15613518342,
+        "created": "2023-12-12T05:34:38.502+00:00",
+        "updated": "2025-01-14T00:54:10.029+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 107,
+          "awardedCount": 24497,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2776199347465245,
+        "name": "I Love Onigiri",
+        "description": "Onigiri is a Japanese rice ball that is a portable and nutritious snack or meal. (Used Onigiri 5 times)",
+        "displayName": "I Love Onigiri",
+        "displayDescription": "Onigiri is a Japanese rice ball that is a portable and nutritious snack or meal. (Used Onigiri 5 times)",
+        "enabled": true,
+        "iconImageId": 15613521511,
+        "displayIconImageId": 15613521511,
+        "created": "2023-12-12T05:35:30.556+00:00",
+        "updated": "2025-01-14T00:54:22.842+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 68562,
+          "awardedCount": 5126520,
+          "winRatePercentage": 1.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1890960530481220,
+        "name": "Zeni Finder",
+        "description": "Hard work pays off. (Earned 10,000 Zeni)",
+        "displayName": "Zeni Finder",
+        "displayDescription": "Hard work pays off. (Earned 10,000 Zeni)",
+        "enabled": true,
+        "iconImageId": 15613523397,
+        "displayIconImageId": 15613523397,
+        "created": "2023-12-12T05:36:03.632+00:00",
+        "updated": "2025-01-14T00:54:55.855+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 355,
+          "awardedCount": 28661,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3701708608180527,
+        "name": "Zeni Collecter",
+        "description": "You're rich! (Earned 100,000 Zeni)",
+        "displayName": "Zeni Collecter",
+        "displayDescription": "You're rich! (Earned 100,000 Zeni)",
+        "enabled": true,
+        "iconImageId": 15613526188,
+        "displayIconImageId": 15613526188,
+        "created": "2023-12-12T05:36:42.299+00:00",
+        "updated": "2025-01-14T00:55:08.93+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9,
+          "awardedCount": 371,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3459233742304893,
+        "name": "Swimming in Zeni",
+        "description": "Nothing is out of your reach. (Earned 1,000,000 Zeni)",
+        "displayName": "Swimming in Zeni",
+        "displayDescription": "Nothing is out of your reach. (Earned 1,000,000 Zeni)",
+        "enabled": true,
+        "iconImageId": 15613531611,
+        "displayIconImageId": 15613531611,
+        "created": "2023-12-12T05:38:18.097+00:00",
+        "updated": "2025-01-14T00:55:25.446+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 33,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 4410145628954733,
+        "name": "Lone Wolf",
+        "description": "If you weren't tough, you wouldn't be alive.",
+        "displayName": "Lone Wolf",
+        "displayDescription": "If you weren't tough, you wouldn't be alive.",
+        "enabled": true,
+        "iconImageId": 15613534142,
+        "displayIconImageId": 15613534142,
+        "created": "2023-12-12T05:39:02.098+00:00",
+        "updated": "2024-11-21T10:52:53.27+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 165,
+          "awardedCount": 19258,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2479693467304399,
+        "name": "Gotta Go Fast",
+        "description": "You are the fastest thing alive! (Survived within 15min)",
+        "displayName": "Gotta Go Fast",
+        "displayDescription": "You are the fastest thing alive! (Survived within 15min)",
+        "enabled": true,
+        "iconImageId": 15613536550,
+        "displayIconImageId": 15613536550,
+        "created": "2023-12-12T05:39:39.607+00:00",
+        "updated": "2025-01-27T02:43:01.593+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 622,
+          "awardedCount": 11045,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 4139485926032036,
+        "name": "Fearless Runner",
+        "description": "You escaped from the hotel without fear, while almost all of wanderers are lost in fear.(Survived within 30min)",
+        "displayName": "Fearless Runner",
+        "displayDescription": "You escaped from the hotel without fear, while almost all of wanderers are lost in fear.(Survived within 30min)",
+        "enabled": true,
+        "iconImageId": 18556155431,
+        "displayIconImageId": 18556155431,
+        "created": "2024-07-19T04:22:04.128+00:00",
+        "updated": "2025-01-27T02:43:23.791+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2431,
+          "awardedCount": 43534,
+          "winRatePercentage": 0.049
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1312981954001378,
+        "name": "Five Heads Beter Than One",
+        "description": "Congratulations to escape of five party!",
+        "displayName": "Five Heads Beter Than One",
+        "displayDescription": "Congratulations to escape of five party!",
+        "enabled": true,
+        "iconImageId": 18556158542,
+        "displayIconImageId": 18556158542,
+        "created": "2024-07-19T04:22:30.813+00:00",
+        "updated": "2024-11-20T06:23:08.78+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 512,
+          "awardedCount": 41546,
+          "winRatePercentage": 0.01
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 4305472398166403,
+        "name": "Three Heads Better Than One",
+        "description": "Congratulations to escape of three party!",
+        "displayName": "Three Heads Better Than One",
+        "displayDescription": "Congratulations to escape of three party!",
+        "enabled": true,
+        "iconImageId": 18556160821,
+        "displayIconImageId": 18556160821,
+        "created": "2024-07-19T04:22:49.215+00:00",
+        "updated": "2024-11-21T09:09:16.893+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1001,
+          "awardedCount": 61068,
+          "winRatePercentage": 0.02
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 447970119171670,
+        "name": "Undivided Buddy",
+        "description": "No one left behind.",
+        "displayName": "Undivided Buddy",
+        "displayDescription": "No one left behind.",
+        "enabled": true,
+        "iconImageId": 18556164338,
+        "displayIconImageId": 18556164338,
+        "created": "2024-07-19T04:23:08.443+00:00",
+        "updated": "2024-11-20T01:17:42.008+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1491,
+          "awardedCount": 61867,
+          "winRatePercentage": 0.03
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2186060603451823,
+        "name": "Last of the Line",
+        "description": "Sole survivor standing.",
+        "displayName": "Last of the Line",
+        "displayDescription": "Sole survivor standing.",
+        "enabled": true,
+        "iconImageId": 18556170308,
+        "displayIconImageId": 18556170308,
+        "created": "2024-07-19T04:23:59.75+00:00",
+        "updated": "2024-11-20T06:16:27.609+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1053,
+          "awardedCount": 55682,
+          "winRatePercentage": 0.021
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3337062798407330,
+        "name": "Band of Brothers",
+        "description": "Good game with freinds.",
+        "displayName": "Band of Brothers",
+        "displayDescription": "Good game with freinds.",
+        "enabled": true,
+        "iconImageId": 18599197929,
+        "displayIconImageId": 18599197929,
+        "created": "2024-07-22T02:10:39.663+00:00",
+        "updated": "2024-11-21T00:27:07.623+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3180,
+          "awardedCount": 150445,
+          "winRatePercentage": 0.064
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3566469079156399,
+        "name": "Playing with dolls",
+        "description": "Smile at the dolls. they'll do the same.",
+        "displayName": "Playing with dolls",
+        "displayDescription": "Smile at the dolls. they'll do the same.",
+        "enabled": true,
+        "iconImageId": 122525132792905,
+        "displayIconImageId": 122525132792905,
+        "created": "2024-09-25T01:05:57.513+00:00",
+        "updated": "2024-11-21T04:12:29.629+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3862,
+          "awardedCount": 154877,
+          "winRatePercentage": 0.078
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1329540295512596,
+        "name": "Solver",
+        "description": "You have successfully escaped from the hotel four times. One step closer to a true \"escape\".",
+        "displayName": "Solver",
+        "displayDescription": "You have successfully escaped from the hotel four times. One step closer to a true \"escape\".",
+        "enabled": true,
+        "iconImageId": 140507703600290,
+        "displayIconImageId": 140507703600290,
+        "created": "2024-09-25T01:06:08.836+00:00",
+        "updated": "2024-11-20T06:29:06.512+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8044,
+          "awardedCount": 343120,
+          "winRatePercentage": 0.162
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2106483814784197,
+        "name": "Ting a ling",
+        "description": "Listening is believing. (Used Spirit Bell 10times)",
+        "displayName": "Ting a ling",
+        "displayDescription": "Listening is believing. (Used Spirit Bell 10times)",
+        "enabled": true,
+        "iconImageId": 108261973756161,
+        "displayIconImageId": 108261973756161,
+        "created": "2024-09-25T01:06:21.849+00:00",
+        "updated": "2025-01-14T00:56:34.325+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 33,
+          "awardedCount": 2301,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3679169179529332,
+        "name": "Doll's Trick",
+        "description": "Dolls love to play tricks on wanderers. Be careful.",
+        "displayName": "Doll's Trick",
+        "displayDescription": "Dolls love to play tricks on wanderers. Be careful.",
+        "enabled": true,
+        "iconImageId": 113075710883253,
+        "displayIconImageId": 113075710883253,
+        "created": "2024-09-25T01:06:32.434+00:00",
+        "updated": "2024-12-13T03:35:22.278+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4952,
+          "awardedCount": 222479,
+          "winRatePercentage": 0.1
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 297326545422253,
+        "name": "End of the Curse",
+        "description": "You finally put an end to the recurring curse. Now run away!",
+        "displayName": "End of the Curse",
+        "displayDescription": "You finally put an end to the recurring curse. Now run away!",
+        "enabled": true,
+        "iconImageId": 79076351086877,
+        "displayIconImageId": 79076351086877,
+        "created": "2024-09-25T01:06:46.881+00:00",
+        "updated": "2024-12-13T03:35:33.105+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5032,
+          "awardedCount": 173841,
+          "winRatePercentage": 0.101
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 895670757081112,
+        "name": "Shelf Unlocker",
+        "description": "Find the true answer, or face evil things.",
+        "displayName": "Shelf Unlocker",
+        "displayDescription": "Find the true answer, or face evil things.",
+        "enabled": true,
+        "iconImageId": 73215634132982,
+        "displayIconImageId": 73215634132982,
+        "created": "2024-12-04T09:13:23.982+00:00",
+        "updated": "2024-12-13T03:35:48.011+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2656,
+          "awardedCount": 99692,
+          "winRatePercentage": 0.053
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1041056248609434,
+        "name": "Exorcist",
+        "description": "Do the exorcism, or the night carry on forever.",
+        "displayName": "Exorcist",
+        "displayDescription": "Do the exorcism, or the night carry on forever.",
+        "enabled": true,
+        "iconImageId": 80979858181033,
+        "displayIconImageId": 80979858181033,
+        "created": "2024-12-04T09:14:00.323+00:00",
+        "updated": "2024-12-13T03:35:59.346+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2228,
+          "awardedCount": 75749,
+          "winRatePercentage": 0.045
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2779492389555436,
+        "name": "Scavenger",
+        "description": "You never miss even the smallest Zeni.(Earn 10,000Zeni through 1 play)",
+        "displayName": "Scavenger",
+        "displayDescription": "You never miss even the smallest Zeni.(Earn 10,000Zeni through 1 play)",
+        "enabled": true,
+        "iconImageId": 107385558440919,
+        "displayIconImageId": 107385558440919,
+        "created": "2024-12-04T09:14:41.941+00:00",
+        "updated": "2025-01-20T07:58:25.633+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12,
+          "awardedCount": 471,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1907804745691100,
+        "name": "Let's shopping",
+        "description": "Stumped by so many products.",
+        "displayName": "Let's shopping",
+        "displayDescription": "Stumped by so many products.",
+        "enabled": true,
+        "iconImageId": 121161454357883,
+        "displayIconImageId": 121161454357883,
+        "created": "2025-01-10T06:21:46.597+00:00",
+        "updated": "2025-01-27T02:44:14.263+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3266,
+          "awardedCount": 35688,
+          "winRatePercentage": 0.066
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1823189248580994,
+        "name": "Shopping Unstoppable",
+        "description": "Spending money is never a bad thing.(Paid 5,000Zeni)",
+        "displayName": "Shopping Unstoppable",
+        "displayDescription": "Spending money is never a bad thing.(Paid 5,000Zeni)",
+        "enabled": true,
+        "iconImageId": 102175222966260,
+        "displayIconImageId": 102175222966260,
+        "created": "2025-01-10T06:22:21.587+00:00",
+        "updated": "2025-01-27T02:44:28.658+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 292,
+          "awardedCount": 3129,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 61747094572679,
+        "name": "Shopping Addict",
+        "description": "You purchase unnecessary things.(Paid 50,000Zeni)",
+        "displayName": "Shopping Addict",
+        "displayDescription": "You purchase unnecessary things.(Paid 50,000Zeni)",
+        "enabled": true,
+        "iconImageId": 124139358018941,
+        "displayIconImageId": 124139358018941,
+        "created": "2025-01-10T06:22:49.681+00:00",
+        "updated": "2025-01-27T02:44:43.144+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 56,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1586480797851587,
+        "name": "Start your own store",
+        "description": "You have enough stock now(Paid 500,000Zeni)",
+        "displayName": "Start your own store",
+        "displayDescription": "You have enough stock now(Paid 500,000Zeni)",
+        "enabled": true,
+        "iconImageId": 130885487642545,
+        "displayIconImageId": 130885487642545,
+        "created": "2025-01-10T06:23:16.022+00:00",
+        "updated": "2025-01-27T02:44:56.641+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      }
+    ]
   }
 }
