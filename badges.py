@@ -156,11 +156,11 @@ async def process_new_badge(session, badge, webhook_sender):
         ],
         "thumbnail": {"url": thumbnail_url},
         "author": {
-            "name": "Note: This isn't a confirmed game, just a newly uploaded badge from a top Roblox game.",
+            "name": "New Badge Uploaded",
         },
         "footer": {
             "text": "Created by Poke",
-            "icon_url": "https://cdn.discordapp.com/avatars/381611177664577537/a45fe102ee104ed3357b65e56559f96e.png?size=1024"
+            "icon_url": "https://i.imgur.com/Od3xppJ.png"
         }
     }
     await webhook_sender.add_embed(embed, badge_id)
