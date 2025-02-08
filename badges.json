@@ -60262,5 +60262,1441 @@
         }
       }
     ]
+  },
+  "6764180126": {
+    "data": []
+  },
+  "6705549208": {
+    "data": []
+  },
+  "3990106548": {
+    "data": []
+  },
+  "6594435384": {
+    "data": []
+  },
+  "6906326545": {
+    "data": []
+  },
+  "13058": {
+    "data": []
+  },
+  "2936053166": {
+    "data": [
+      {
+        "id": 2124837285,
+        "name": "First Time Played",
+        "description": null,
+        "displayName": "First Time Played",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7645183727,
+        "displayIconImageId": 7645183727,
+        "created": "2021-10-03T18:54:09.59+00:00",
+        "updated": "2024-11-19T19:29:59.146+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 886007,
+          "awardedCount": 117808065,
+          "winRatePercentage": 0.459
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837287,
+        "name": "First Win",
+        "description": null,
+        "displayName": "First Win",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7645181334,
+        "displayIconImageId": 7645181334,
+        "created": "2021-10-03T18:54:50.08+00:00",
+        "updated": "2024-11-19T19:29:59.147+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 724875,
+          "awardedCount": 91279347,
+          "winRatePercentage": 0.376
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837288,
+        "name": "5 Wins",
+        "description": null,
+        "displayName": "5 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649126575,
+        "displayIconImageId": 7649126575,
+        "created": "2021-10-03T18:55:08.463+00:00",
+        "updated": "2024-11-19T19:29:59.147+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 334761,
+          "awardedCount": 29670807,
+          "winRatePercentage": 0.173
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837289,
+        "name": "10 Wins",
+        "description": null,
+        "displayName": "10 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649133023,
+        "displayIconImageId": 7649133023,
+        "created": "2021-10-03T18:55:29.047+00:00",
+        "updated": "2024-11-19T19:29:59.147+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 175297,
+          "awardedCount": 13207396,
+          "winRatePercentage": 0.091
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837290,
+        "name": "25 Wins",
+        "description": null,
+        "displayName": "25 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649136167,
+        "displayIconImageId": 7649136167,
+        "created": "2021-10-03T18:55:44.647+00:00",
+        "updated": "2024-11-19T19:29:59.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 68472,
+          "awardedCount": 3505874,
+          "winRatePercentage": 0.035
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837291,
+        "name": "50 Wins",
+        "description": null,
+        "displayName": "50 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649137707,
+        "displayIconImageId": 7649137707,
+        "created": "2021-10-03T18:55:57.627+00:00",
+        "updated": "2024-11-19T19:29:59.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 29403,
+          "awardedCount": 1053478,
+          "winRatePercentage": 0.015
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837292,
+        "name": "100 Wins",
+        "description": null,
+        "displayName": "100 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649139294,
+        "displayIconImageId": 7649139294,
+        "created": "2021-10-03T18:56:11.53+00:00",
+        "updated": "2024-11-19T19:29:59.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10048,
+          "awardedCount": 262805,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837293,
+        "name": "250 Wins",
+        "description": null,
+        "displayName": "250 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649140911,
+        "displayIconImageId": 7649140911,
+        "created": "2021-10-03T18:56:25.37+00:00",
+        "updated": "2024-11-19T19:29:59.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1556,
+          "awardedCount": 30415,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837294,
+        "name": "500 Wins",
+        "description": null,
+        "displayName": "500 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649143088,
+        "displayIconImageId": 7649143088,
+        "created": "2021-10-03T18:56:43.413+00:00",
+        "updated": "2024-11-19T19:29:59.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 275,
+          "awardedCount": 4508,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837295,
+        "name": "1000 Wins",
+        "description": null,
+        "displayName": "1000 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7649144984,
+        "displayIconImageId": 7649144984,
+        "created": "2021-10-03T18:56:55.733+00:00",
+        "updated": "2024-11-19T19:29:59.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 33,
+          "awardedCount": 535,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 2124837296,
+        "name": "Meet the Owner",
+        "description": null,
+        "displayName": "Meet the Owner",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7645187441,
+        "displayIconImageId": 7645187441,
+        "created": "2021-10-03T18:57:13.64+00:00",
+        "updated": "2024-11-19T19:29:59.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 39688,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 3243705188966685,
+        "name": "Play as the FRONTMAN",
+        "description": null,
+        "displayName": "Play as the FRONTMAN",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 92136146025897,
+        "displayIconImageId": 92136146025897,
+        "created": "2025-01-17T12:40:12.376+00:00",
+        "updated": "2025-01-17T12:40:12.376+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 58056,
+          "awardedCount": 1148802,
+          "winRatePercentage": 0.03
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 1707277447211888,
+        "name": "Play as 001",
+        "description": null,
+        "displayName": "Play as 001",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 116632682652650,
+        "displayIconImageId": 116632682652650,
+        "created": "2025-01-26T14:33:52.413+00:00",
+        "updated": "2025-01-26T14:33:52.413+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 17959,
+          "awardedCount": 176312,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      },
+      {
+        "id": 33282962398768,
+        "name": "Play as 456",
+        "description": null,
+        "displayName": "Play as 456",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 127381811919947,
+        "displayIconImageId": 127381811919947,
+        "created": "2025-01-26T14:34:04.501+00:00",
+        "updated": "2025-01-26T14:34:04.501+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 17419,
+          "awardedCount": 169612,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
+      }
+    ]
+  },
+  "3508322461": {
+    "data": [
+      {
+        "id": 2896779257883034,
+        "name": "Trophy Shenanigans",
+        "description": "Earned by completing the Medal.TV combat quest!",
+        "displayName": "Trophy Shenanigans",
+        "displayDescription": "Earned by completing the Medal.TV combat quest!",
+        "enabled": true,
+        "iconImageId": 109266189370367,
+        "displayIconImageId": 109266189370367,
+        "created": "2024-10-24T21:07:31.901+00:00",
+        "updated": "2024-11-20T17:26:57.321+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 17336,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3508322461,
+          "name": "[HEIAN] Jujutsu Shenanigans",
+          "rootPlaceId": 9391468976
+        }
+      },
+      {
+        "id": 1191883690827120,
+        "name": "Bouquet Shenanigans",
+        "description": "Earned by completing the Medal.TV world quest!",
+        "displayName": "Bouquet Shenanigans",
+        "displayDescription": "Earned by completing the Medal.TV world quest!",
+        "enabled": true,
+        "iconImageId": 102487575902028,
+        "displayIconImageId": 102487575902028,
+        "created": "2024-10-24T21:08:04.188+00:00",
+        "updated": "2024-11-20T05:39:32.215+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 17933,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3508322461,
+          "name": "[HEIAN] Jujutsu Shenanigans",
+          "rootPlaceId": 9391468976
+        }
+      }
+    ]
+  },
+  "6931042565": {
+    "data": [
+      {
+        "id": 1971928256657367,
+        "name": "HAIKYUU LEGENDS BEGINNER",
+        "description": "You played Haikyuu Legends Volleyball\r\n\r\nThanks for playing!",
+        "displayName": "HAIKYUU LEGENDS BEGINNER",
+        "displayDescription": "You played Haikyuu Legends Volleyball\r\n\r\nThanks for playing!",
+        "enabled": true,
+        "iconImageId": 95429469735837,
+        "displayIconImageId": 95429469735837,
+        "created": "2025-01-01T23:27:18.187+00:00",
+        "updated": "2025-02-06T21:55:05.678+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 617067,
+          "awardedCount": 12223670,
+          "winRatePercentage": 0.538
+        },
+        "awardingUniverse": {
+          "id": 6931042565,
+          "name": "Haikyuu Legends ",
+          "rootPlaceId": 73956553001240
+        }
+      }
+    ]
+  },
+  "6624299680": {
+    "data": [
+      {
+        "id": 3193968717515445,
+        "name": "Amazing Angler",
+        "description": "Caught 15 types of fish!",
+        "displayName": "Amazing Angler",
+        "displayDescription": "Caught 15 types of fish!",
+        "enabled": true,
+        "iconImageId": 88699070899065,
+        "displayIconImageId": 88699070899065,
+        "created": "2025-01-23T19:30:57.133+00:00",
+        "updated": "2025-01-23T19:30:57.133+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 53230,
+          "awardedCount": 237631,
+          "winRatePercentage": 0.122
+        },
+        "awardingUniverse": {
+          "id": 6624299680,
+          "name": "Be a Silly Seal [NIGHTFALL]",
+          "rootPlaceId": 71816718496622
+        }
+      },
+      {
+        "id": 673994488980906,
+        "name": "Stupendous Sleuth",
+        "description": "Found 15 types of treasures!",
+        "displayName": "Stupendous Sleuth",
+        "displayDescription": "Found 15 types of treasures!",
+        "enabled": true,
+        "iconImageId": 97752214435090,
+        "displayIconImageId": 97752214435090,
+        "created": "2025-01-23T19:31:55.673+00:00",
+        "updated": "2025-01-23T19:31:55.673+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1475,
+          "awardedCount": 11236,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 6624299680,
+          "name": "Be a Silly Seal [NIGHTFALL]",
+          "rootPlaceId": 71816718496622
+        }
+      },
+      {
+        "id": 431164366006618,
+        "name": "Astounding Angler",
+        "description": "Catch 30 different types of fish!",
+        "displayName": "Astounding Angler",
+        "displayDescription": "Catch 30 different types of fish!",
+        "enabled": true,
+        "iconImageId": 110338876490922,
+        "displayIconImageId": 110338876490922,
+        "created": "2025-02-05T01:34:15.446+00:00",
+        "updated": "2025-02-05T05:54:18.375+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 229,
+          "awardedCount": 768,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 6624299680,
+          "name": "Be a Silly Seal [NIGHTFALL]",
+          "rootPlaceId": 71816718496622
+        }
+      }
+    ]
+  },
+  "2955322961": {
+    "data": [
+      {
+        "id": 1877489283148900,
+        "name": "You Played!",
+        "description": "Welcome to Shrimp Game!",
+        "displayName": "You Played!",
+        "displayDescription": "Welcome to Shrimp Game!",
+        "enabled": true,
+        "iconImageId": 113261879315660,
+        "displayIconImageId": 113261879315660,
+        "created": "2024-12-29T16:38:28.079+00:00",
+        "updated": "2024-12-29T16:38:28.079+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1452085,
+          "awardedCount": 82048047,
+          "winRatePercentage": 0.568
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 1682512863415402,
+        "name": "First Win",
+        "description": "Congratulations! You won Shrimp Game!",
+        "displayName": "First Win",
+        "displayDescription": "Congratulations! You won Shrimp Game!",
+        "enabled": true,
+        "iconImageId": 117254143843827,
+        "displayIconImageId": 117254143843827,
+        "created": "2024-12-29T16:38:51.61+00:00",
+        "updated": "2025-01-08T04:52:24.168+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 86282,
+          "awardedCount": 5693113,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 310519506009841,
+        "name": "5 Wins",
+        "description": null,
+        "displayName": "5 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 118271063655697,
+        "displayIconImageId": 118271063655697,
+        "created": "2024-12-29T16:39:21.612+00:00",
+        "updated": "2024-12-29T16:39:21.612+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2589,
+          "awardedCount": 128793,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 1968741853961269,
+        "name": "10 Wins",
+        "description": null,
+        "displayName": "10 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 125394748120720,
+        "displayIconImageId": 125394748120720,
+        "created": "2024-12-29T16:39:31.591+00:00",
+        "updated": "2024-12-29T16:39:31.591+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 454,
+          "awardedCount": 20167,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 1982623730792091,
+        "name": "50 Wins",
+        "description": null,
+        "displayName": "50 Wins",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 93843117169552,
+        "displayIconImageId": 93843117169552,
+        "created": "2024-12-29T16:39:44.301+00:00",
+        "updated": "2024-12-29T16:39:44.301+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9,
+          "awardedCount": 344,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 831451398186884,
+        "name": "100 Wins",
+        "description": "Thanks for playing.",
+        "displayName": "100 Wins",
+        "displayDescription": "Thanks for playing.",
+        "enabled": true,
+        "iconImageId": 88617036365143,
+        "displayIconImageId": 88617036365143,
+        "created": "2024-12-29T16:40:03.987+00:00",
+        "updated": "2025-01-08T23:54:37.176+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 54,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 3362308516356687,
+        "name": "Complete Light Game",
+        "description": null,
+        "displayName": "Complete Light Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 95605640928962,
+        "displayIconImageId": 95605640928962,
+        "created": "2024-12-29T17:07:26.264+00:00",
+        "updated": "2024-12-29T17:07:26.264+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 922174,
+          "awardedCount": 58658184,
+          "winRatePercentage": 0.36
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 2587740860365735,
+        "name": "Complete Honeycomb Game",
+        "description": null,
+        "displayName": "Complete Honeycomb Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 92097688955418,
+        "displayIconImageId": 92097688955418,
+        "created": "2024-12-29T17:07:54.078+00:00",
+        "updated": "2024-12-29T17:07:54.078+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 702204,
+          "awardedCount": 48115918,
+          "winRatePercentage": 0.275
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 3759690978948136,
+        "name": "Complete Tug of War Game",
+        "description": null,
+        "displayName": "Complete Tug of War Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 105542630483423,
+        "displayIconImageId": 105542630483423,
+        "created": "2024-12-29T17:11:25.211+00:00",
+        "updated": "2024-12-29T17:11:25.211+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 154923,
+          "awardedCount": 14951011,
+          "winRatePercentage": 0.061
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 768334813076025,
+        "name": "Complete Stepping Stones Game",
+        "description": null,
+        "displayName": "Complete Stepping Stones Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 98077577641032,
+        "displayIconImageId": 98077577641032,
+        "created": "2024-12-29T17:12:22.19+00:00",
+        "updated": "2024-12-29T17:12:22.19+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 174361,
+          "awardedCount": 13155693,
+          "winRatePercentage": 0.068
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 811754872907639,
+        "name": "Complete Shrimp Game",
+        "description": null,
+        "displayName": "Complete Shrimp Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 111054936203827,
+        "displayIconImageId": 111054936203827,
+        "created": "2024-12-29T17:13:20.305+00:00",
+        "updated": "2024-12-29T17:13:20.305+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 62091,
+          "awardedCount": 4245735,
+          "winRatePercentage": 0.024
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 3810772301025628,
+        "name": "Complete Mingle Game",
+        "description": null,
+        "displayName": "Complete Mingle Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 136433052563841,
+        "displayIconImageId": 136433052563841,
+        "created": "2025-01-06T01:06:40.766+00:00",
+        "updated": "2025-01-06T01:06:40.766+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 276407,
+          "awardedCount": 21159228,
+          "winRatePercentage": 0.108
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 2410271638002169,
+        "name": "Mona Lisa",
+        "description": "What a shame! You got the impossible honeycomb cookie. Good luck...",
+        "displayName": "Mona Lisa",
+        "displayDescription": "What a shame! You got the impossible honeycomb cookie. Good luck...",
+        "enabled": true,
+        "iconImageId": 88169756948979,
+        "displayIconImageId": 88169756948979,
+        "created": "2025-01-07T22:57:56.279+00:00",
+        "updated": "2025-01-08T04:47:55.754+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 18419,
+          "awardedCount": 962598,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 3992213479999028,
+        "name": "Complete Mona Lisa",
+        "description": "You somehow carved the \"impossible\" honeycomb cookie, one of the lucky few. Congratulations.",
+        "displayName": "Complete Mona Lisa",
+        "displayDescription": "You somehow carved the \"impossible\" honeycomb cookie, one of the lucky few. Congratulations.",
+        "enabled": true,
+        "iconImageId": 135300804322952,
+        "displayIconImageId": 135300804322952,
+        "created": "2025-01-07T22:58:55.156+00:00",
+        "updated": "2025-01-08T04:48:41.862+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 605,
+          "awardedCount": 41125,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      },
+      {
+        "id": 2365231374878360,
+        "name": "Complete Pentathlon Game",
+        "description": null,
+        "displayName": "Complete Pentathlon Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 71072607519237,
+        "displayIconImageId": 71072607519237,
+        "created": "2025-01-18T11:08:00.915+00:00",
+        "updated": "2025-01-18T11:08:00.915+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 561964,
+          "awardedCount": 19931456,
+          "winRatePercentage": 0.22
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
+      }
+    ]
+  },
+  "210851291": {
+    "data": [
+      {
+        "id": 851853565,
+        "name": "Master Boater!",
+        "description": "Owners of this badge have proven themselves worthy by sailing their way to the end of the game!",
+        "displayName": "Master Boater!",
+        "displayDescription": "Owners of this badge have proven themselves worthy by sailing their way to the end of the game!",
+        "enabled": true,
+        "iconImageId": 5088654125,
+        "displayIconImageId": 5088654125,
+        "created": "2017-06-05T01:52:17.68+00:00",
+        "updated": "2024-11-19T19:23:21.915+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 35569,
+          "awardedCount": 59034527,
+          "winRatePercentage": 0.057
+        },
+        "awardingUniverse": {
+          "id": 210851291,
+          "name": "Build A Boat For Treasure",
+          "rootPlaceId": 537413528
+        }
+      },
+      {
+        "id": 1523822849,
+        "name": "Treasure Hunter!",
+        "description": "Receive this badge by completing 10 stages!",
+        "displayName": "Treasure Hunter!",
+        "displayDescription": "Receive this badge by completing 10 stages!",
+        "enabled": true,
+        "iconImageId": 5087917105,
+        "displayIconImageId": 5087917105,
+        "created": "2018-03-18T19:26:05.42+00:00",
+        "updated": "2024-11-19T19:23:51.502+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 64275,
+          "awardedCount": 98625391,
+          "winRatePercentage": 0.103
+        },
+        "awardingUniverse": {
+          "id": 210851291,
+          "name": "Build A Boat For Treasure",
+          "rootPlaceId": 537413528
+        }
+      },
+      {
+        "id": 2124488541,
+        "name": "Treasure Expert!",
+        "description": "Receive this badge by completing 20 stages!",
+        "displayName": "Treasure Expert!",
+        "displayDescription": "Receive this badge by completing 20 stages!",
+        "enabled": true,
+        "iconImageId": 5088329829,
+        "displayIconImageId": 5088329829,
+        "created": "2019-10-05T19:29:31.577+00:00",
+        "updated": "2024-11-19T19:24:56.262+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 35941,
+          "awardedCount": 51717239,
+          "winRatePercentage": 0.058
+        },
+        "awardingUniverse": {
+          "id": 210851291,
+          "name": "Build A Boat For Treasure",
+          "rootPlaceId": 537413528
+        }
+      },
+      {
+        "id": 2124541479,
+        "name": "Treasure Master!",
+        "description": "Receive this badge by completing 30 stages!",
+        "displayName": "Treasure Master!",
+        "displayDescription": "Receive this badge by completing 30 stages!",
+        "enabled": true,
+        "iconImageId": 5088796652,
+        "displayIconImageId": 5088796652,
+        "created": "2020-05-25T21:03:56.35+00:00",
+        "updated": "2024-11-19T19:25:42.7+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 20868,
+          "awardedCount": 27826363,
+          "winRatePercentage": 0.033
+        },
+        "awardingUniverse": {
+          "id": 210851291,
+          "name": "Build A Boat For Treasure",
+          "rootPlaceId": 537413528
+        }
+      },
+      {
+        "id": 2124634305,
+        "name": "Challenge Winner!",
+        "description": "Placed 1st in a player vs player challenge!",
+        "displayName": "Challenge Winner!",
+        "displayDescription": "Placed 1st in a player vs player challenge!",
+        "enabled": true,
+        "iconImageId": 6096654095,
+        "displayIconImageId": 6096654095,
+        "created": "2020-11-09T17:50:16.103+00:00",
+        "updated": "2024-11-19T19:27:03.156+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2138,
+          "awardedCount": 4165580,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 210851291,
+          "name": "Build A Boat For Treasure",
+          "rootPlaceId": 537413528
+        }
+      }
+    ]
+  },
+  "3808081382": {
+    "data": [
+      {
+        "id": 1999369003893837,
+        "name": "Era Clash",
+        "description": "This badge is earned by completing 'Era Clash' for The Hunt: First Edition. Make sure to check the cosmetic menu to claim the egg!",
+        "displayName": "Era Clash",
+        "displayDescription": "This badge is earned by completing 'Era Clash' for The Hunt: First Edition. Make sure to check the cosmetic menu to claim the egg!",
+        "enabled": true,
+        "iconImageId": 16734321812,
+        "displayIconImageId": 16734321812,
+        "created": "2024-03-07T01:02:22.211+00:00",
+        "updated": "2024-11-20T03:20:41.232+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3765778,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 3057416426456972,
+        "name": "Baby Steps",
+        "description": "Accumulate 1 total kill.",
+        "displayName": "Baby Steps",
+        "displayDescription": "Accumulate 1 total kill.",
+        "enabled": true,
+        "iconImageId": 16715133109,
+        "displayIconImageId": 16715133109,
+        "created": "2024-03-11T18:49:12.534+00:00",
+        "updated": "2024-11-20T19:59:58.651+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 217489,
+          "awardedCount": 82655459,
+          "winRatePercentage": 0.035
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 3114670201603542,
+        "name": "Head First",
+        "description": "Accumulate 10 total kills.",
+        "displayName": "Head First",
+        "displayDescription": "Accumulate 10 total kills.",
+        "enabled": true,
+        "iconImageId": 16715160384,
+        "displayIconImageId": 16715160384,
+        "created": "2024-03-11T18:51:55.999+00:00",
+        "updated": "2024-11-20T20:56:06.05+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 111936,
+          "awardedCount": 47700623,
+          "winRatePercentage": 0.018
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 3006399776257311,
+        "name": "A Natural",
+        "description": "Accumulate 100 total kills.",
+        "displayName": "A Natural",
+        "displayDescription": "Accumulate 100 total kills.",
+        "enabled": true,
+        "iconImageId": 16715216019,
+        "displayIconImageId": 16715216019,
+        "created": "2024-03-11T18:57:52.205+00:00",
+        "updated": "2024-11-20T19:10:20.793+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 37609,
+          "awardedCount": 18320602,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 268490457371003,
+        "name": "Turning Point",
+        "description": "Accumulate 1,000 total kills.",
+        "displayName": "Turning Point",
+        "displayDescription": "Accumulate 1,000 total kills.",
+        "enabled": true,
+        "iconImageId": 16715310593,
+        "displayIconImageId": 16715310593,
+        "created": "2024-03-11T19:06:42.256+00:00",
+        "updated": "2024-11-19T23:15:57.659+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10813,
+          "awardedCount": 6014278,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 341084106898320,
+        "name": "Seasoned Killer",
+        "description": "Accumulate 10,000 total kills.",
+        "displayName": "Seasoned Killer",
+        "displayDescription": "Accumulate 10,000 total kills.",
+        "enabled": true,
+        "iconImageId": 16715330058,
+        "displayIconImageId": 16715330058,
+        "created": "2024-03-11T19:08:40.651+00:00",
+        "updated": "2024-11-20T00:26:20.877+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1545,
+          "awardedCount": 570872,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 2724124286915993,
+        "name": "Skull Seeker",
+        "description": "Accumulate 100,000 total kills.",
+        "displayName": "Skull Seeker",
+        "displayDescription": "Accumulate 100,000 total kills.",
+        "enabled": true,
+        "iconImageId": 16715354890,
+        "displayIconImageId": 16715354890,
+        "created": "2024-03-11T19:11:12.734+00:00",
+        "updated": "2024-11-20T14:44:31.892+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 134,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 1257999597959356,
+        "name": "The Strongest",
+        "description": "Accumulate 1,000,000 total kills.",
+        "displayName": "The Strongest",
+        "displayDescription": "Accumulate 1,000,000 total kills.",
+        "enabled": true,
+        "iconImageId": 16882226003,
+        "displayIconImageId": 16882226003,
+        "created": "2024-03-11T19:11:29.302+00:00",
+        "updated": "2024-11-20T06:03:20.175+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 720271115543121,
+        "name": "Meet The Owner",
+        "description": "fresh french fries !!",
+        "displayName": "Meet The Owner",
+        "displayDescription": "fresh french fries !!",
+        "enabled": true,
+        "iconImageId": 16908587262,
+        "displayIconImageId": 16908587262,
+        "created": "2024-03-28T17:05:23.182+00:00",
+        "updated": "2024-11-20T02:54:14.742+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3693,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 3715633964463952,
+        "name": "Owner Approved",
+        "description": "Having this badge means you did something notable enough to receive a star above your name in the game.",
+        "displayName": "Owner Approved",
+        "displayDescription": "Having this badge means you did something notable enough to receive a star above your name in the game.",
+        "enabled": true,
+        "iconImageId": 18154629221,
+        "displayIconImageId": 18154629221,
+        "created": "2024-06-22T03:46:57.151+00:00",
+        "updated": "2024-11-21T06:32:59.006+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 308270158133254,
+        "name": "Da Crab",
+        "description": "The crab calls to you.",
+        "displayName": "Da Crab",
+        "displayDescription": "The crab calls to you.",
+        "enabled": true,
+        "iconImageId": 18905938847,
+        "displayIconImageId": 18905938847,
+        "created": "2024-08-11T14:46:17.552+00:00",
+        "updated": "2024-11-19T23:54:32.641+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 15742598,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 510425049285198,
+        "name": "Stargazer",
+        "description": "See the true beauty of the night sky for yourself \u2014 a sight to be admired.",
+        "displayName": "Stargazer",
+        "displayDescription": "See the true beauty of the night sky for yourself \u2014 a sight to be admired.",
+        "enabled": true,
+        "iconImageId": 83376626415771,
+        "displayIconImageId": 83376626415771,
+        "created": "2024-11-27T03:38:13.082+00:00",
+        "updated": "2024-11-27T03:38:13.082+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 162409,
+          "awardedCount": 5232703,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 2770144600386951,
+        "name": "Sharpshooter",
+        "description": "Win a snowball fight.",
+        "displayName": "Sharpshooter",
+        "displayDescription": "Win a snowball fight.",
+        "enabled": true,
+        "iconImageId": 98923421309502,
+        "displayIconImageId": 98923421309502,
+        "created": "2024-12-17T09:22:48.296+00:00",
+        "updated": "2024-12-17T09:23:17.811+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 608,
+          "awardedCount": 4419925,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 3272807355221424,
+        "name": "Fracture of Tundra",
+        "description": "An ancient fracture falls from the heavens and crashes into the battleground \u2014 find it & obtain its powers.",
+        "displayName": "Fracture of Tundra",
+        "displayDescription": "An ancient fracture falls from the heavens and crashes into the battleground \u2014 find it & obtain its powers.",
+        "enabled": true,
+        "iconImageId": 137564540473278,
+        "displayIconImageId": 137564540473278,
+        "created": "2024-12-21T11:52:35.715+00:00",
+        "updated": "2024-12-21T11:52:35.715+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 193080,
+          "awardedCount": 16097680,
+          "winRatePercentage": 0.031
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      },
+      {
+        "id": 1263657648675015,
+        "name": "Critical Hit",
+        "description": "A perfect hit that requires a precision of 0.000001 seconds",
+        "displayName": "Critical Hit",
+        "displayDescription": "A perfect hit that requires a precision of 0.000001 seconds",
+        "enabled": true,
+        "iconImageId": 136137156303482,
+        "displayIconImageId": 136137156303482,
+        "created": "2025-01-06T23:16:28.225+00:00",
+        "updated": "2025-01-06T23:16:28.225+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3808081382,
+          "name": "[KJ] The Strongest Battlegrounds",
+          "rootPlaceId": 10449761463
+        }
+      }
+    ]
+  },
+  "245662005": {
+    "data": [
+      {
+        "id": 958186367,
+        "name": "Most Valuable Player (MVP)",
+        "description": "The rarest badge of them all! Obtain all other badges for this MVP badge. You'll also get an exclusive wheel for any of your vehicles!",
+        "displayName": "Most Valuable Player (MVP)",
+        "displayDescription": "The rarest badge of them all! Obtain all other badges for this MVP badge. You'll also get an exclusive wheel for any of your vehicles!",
+        "enabled": true,
+        "iconImageId": 958185418,
+        "displayIconImageId": 958185418,
+        "created": "2017-08-04T04:00:42.487+00:00",
+        "updated": "2024-11-19T19:23:27.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 166,
+          "awardedCount": 876444,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      },
+      {
+        "id": 958186842,
+        "name": "Top Gun",
+        "description": "Shoot down an enemy helicopter while riding in a vehicle.",
+        "displayName": "Top Gun",
+        "displayDescription": "Shoot down an enemy helicopter while riding in a vehicle.",
+        "enabled": true,
+        "iconImageId": 958186827,
+        "displayIconImageId": 958186827,
+        "created": "2017-08-04T04:01:20.61+00:00",
+        "updated": "2024-11-19T19:23:27.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2321,
+          "awardedCount": 20113661,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      },
+      {
+        "id": 958186941,
+        "name": "Bank Bust",
+        "description": "Bust a bank robbery with more than 3 criminals involved.",
+        "displayName": "Bank Bust",
+        "displayDescription": "Bust a bank robbery with more than 3 criminals involved.",
+        "enabled": true,
+        "iconImageId": 958186930,
+        "displayIconImageId": 958186930,
+        "created": "2017-08-04T04:01:28.397+00:00",
+        "updated": "2024-11-19T19:23:27.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 433,
+          "awardedCount": 4051903,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      },
+      {
+        "id": 958187053,
+        "name": "Drill Sergeant",
+        "description": "Have zero criminals in a busy server while playing in the Police team.",
+        "displayName": "Drill Sergeant",
+        "displayDescription": "Have zero criminals in a busy server while playing in the Police team.",
+        "enabled": true,
+        "iconImageId": 958187012,
+        "displayIconImageId": 958187012,
+        "created": "2017-08-04T04:01:36.873+00:00",
+        "updated": "2024-11-19T19:23:27.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5736,
+          "awardedCount": 32337491,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      },
+      {
+        "id": 958187226,
+        "name": "Master Criminal",
+        "description": "Between sunrise and sunset in-game, rob the Jewelry Store, the Bank, Donut Shop, and Gas Station.",
+        "displayName": "Master Criminal",
+        "displayDescription": "Between sunrise and sunset in-game, rob the Jewelry Store, the Bank, Donut Shop, and Gas Station.",
+        "enabled": true,
+        "iconImageId": 958187201,
+        "displayIconImageId": 958187201,
+        "created": "2017-08-04T04:01:45.583+00:00",
+        "updated": "2024-11-19T19:23:27.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1432,
+          "awardedCount": 7474730,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      },
+      {
+        "id": 958187343,
+        "name": "Bonnie & Clyde",
+        "description": "Break a fellow criminal out of handcuffs and defeat the player who cuffed them!",
+        "displayName": "Bonnie & Clyde",
+        "displayDescription": "Break a fellow criminal out of handcuffs and defeat the player who cuffed them!",
+        "enabled": true,
+        "iconImageId": 958187316,
+        "displayIconImageId": 958187316,
+        "created": "2017-08-04T04:01:52.147+00:00",
+        "updated": "2024-11-19T19:23:27.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 587,
+          "awardedCount": 3741012,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      },
+      {
+        "id": 958187470,
+        "name": "Smooth Criminal",
+        "description": "Achieve the highest bounty in a busy server. Bounty must be greater than 500.",
+        "displayName": "Smooth Criminal",
+        "displayDescription": "Achieve the highest bounty in a busy server. Bounty must be greater than 500.",
+        "enabled": true,
+        "iconImageId": 958187457,
+        "displayIconImageId": 958187457,
+        "created": "2017-08-04T04:02:03.11+00:00",
+        "updated": "2024-11-19T19:23:27.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7899,
+          "awardedCount": 41213427,
+          "winRatePercentage": 0.018
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      },
+      {
+        "id": 2129891386,
+        "name": "Defeat The CEO!",
+        "description": "Partake in an epic Boss Battle and defeat the supervillain against all things Jailbreak: The CEO!",
+        "displayName": "Defeat The CEO!",
+        "displayDescription": "Partake in an epic Boss Battle and defeat the supervillain against all things Jailbreak: The CEO!",
+        "enabled": true,
+        "iconImageId": 11831617908,
+        "displayIconImageId": 11831617908,
+        "created": "2022-12-16T05:47:28.653+00:00",
+        "updated": "2024-11-20T17:28:37.176+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1462,
+          "awardedCount": 1630099,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 245662005,
+          "name": "Jailbreak \u26c4\ufe0f",
+          "rootPlaceId": 606849621
+        }
+      }
+    ]
   }
 }
