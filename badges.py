@@ -180,7 +180,7 @@ async def process_universe(session, universe_id, badges_data, webhook_sender):
     return 0
 
 async def load_universe_ids():
-    async with aiofiles.open('hrefs.txt', 'r', encoding='utf-8') as f:
+    async with aiofiles.open('games.txt', 'r', encoding='utf-8') as f:
         return [line.strip() for line in await f.readlines()]
 
 async def load_badges_data():
