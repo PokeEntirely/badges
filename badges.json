@@ -61720,5 +61720,2668 @@
         }
       }
     ]
+  },
+  "4724071612": {
+    "data": []
+  },
+  "5430301679": {
+    "data": [
+      {
+        "id": 3685902342265663,
+        "name": "I Am A Jujutsu Sorcerer.",
+        "description": "Completed the Jujutsu Tech Exams to become an official Jujutsu Sorcerer.",
+        "displayName": "I Am A Jujutsu Sorcerer.",
+        "displayDescription": "Completed the Jujutsu Tech Exams to become an official Jujutsu Sorcerer.",
+        "enabled": true,
+        "iconImageId": 91865380977217,
+        "displayIconImageId": 91865380977217,
+        "created": "2024-10-07T13:26:58.219+00:00",
+        "updated": "2024-11-21T06:04:51.811+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7016,
+          "awardedCount": 46852,
+          "winRatePercentage": 0.057
+        },
+        "awardingUniverse": {
+          "id": 5430301679,
+          "name": "[2X CT\ud83d\udd2e] Jujutsu Odyssey",
+          "rootPlaceId": 15717957289
+        }
+      }
+    ]
+  },
+  "3647333358": {
+    "data": [
+      {
+        "id": 2127549787,
+        "name": "Pre-Alpha Tester",
+        "description": "Thanks for helping us test",
+        "displayName": "Pre-Alpha Tester",
+        "displayDescription": "Thanks for helping us test",
+        "enabled": true,
+        "iconImageId": 10319441919,
+        "displayIconImageId": 10319441919,
+        "created": "2022-07-22T17:12:34.357+00:00",
+        "updated": "2024-11-21T20:13:48.792+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1496,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2127838782,
+        "name": "Escape?",
+        "description": "Fall into the many holes located in this Backrooms location.",
+        "displayName": "Escape?",
+        "displayDescription": "Fall into the many holes located in this Backrooms location.",
+        "enabled": true,
+        "iconImageId": 10476934395,
+        "displayIconImageId": 10476934395,
+        "created": "2022-08-04T17:16:40.157+00:00",
+        "updated": "2024-11-21T17:35:15.362+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2314,
+          "awardedCount": 5432526,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2127838802,
+        "name": "Hit and Run",
+        "description": "Run over the nextbot with the bus in Desert Bus.",
+        "displayName": "Hit and Run",
+        "displayDescription": "Run over the nextbot with the bus in Desert Bus.",
+        "enabled": true,
+        "iconImageId": 10476949258,
+        "displayIconImageId": 10476949258,
+        "created": "2022-08-04T17:18:11.363+00:00",
+        "updated": "2024-11-21T17:35:15.414+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 43679,
+          "awardedCount": 29429872,
+          "winRatePercentage": 0.03
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2127838858,
+        "name": "Procedure",
+        "description": "Find the keys and unlock the secret entrance in Arid Ruins.",
+        "displayName": "Procedure",
+        "displayDescription": "Find the keys and unlock the secret entrance in Arid Ruins.",
+        "enabled": true,
+        "iconImageId": 10477010647,
+        "displayIconImageId": 10477010647,
+        "created": "2022-08-04T17:24:51.553+00:00",
+        "updated": "2024-11-21T17:35:15.552+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 193,
+          "awardedCount": 11594836,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2127839123,
+        "name": "Flawless Survival",
+        "description": "Survive a game without being downed.",
+        "displayName": "Flawless Survival",
+        "displayDescription": "Survive a game without being downed.",
+        "enabled": true,
+        "iconImageId": 10477262816,
+        "displayIconImageId": 10477262816,
+        "created": "2022-08-04T17:50:49.673+00:00",
+        "updated": "2024-11-21T17:35:16.191+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2353,
+          "awardedCount": 86942025,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2128167319,
+        "name": "Level 25",
+        "description": "Reach Level 25. Great job, you definitely know how to win.",
+        "displayName": "Level 25",
+        "displayDescription": "Reach Level 25. Great job, you definitely know how to win.",
+        "enabled": true,
+        "iconImageId": 10666221707,
+        "displayIconImageId": 10666221707,
+        "created": "2022-08-21T04:39:13.937+00:00",
+        "updated": "2024-11-21T17:48:32.465+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 23274,
+          "awardedCount": 24243975,
+          "winRatePercentage": 0.016
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2128167321,
+        "name": "Level 50",
+        "description": "Reach Level 50. Halfway there! The struggle isn't over yet.",
+        "displayName": "Level 50",
+        "displayDescription": "Reach Level 50. Halfway there! The struggle isn't over yet.",
+        "enabled": true,
+        "iconImageId": 10666223182,
+        "displayIconImageId": 10666223182,
+        "created": "2022-08-21T04:39:24.707+00:00",
+        "updated": "2024-11-21T17:48:32.468+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5985,
+          "awardedCount": 6015235,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2128167324,
+        "name": "Level 75",
+        "description": "Reach Level 75. You're a natural professional at this game.",
+        "displayName": "Level 75",
+        "displayDescription": "Reach Level 75. You're a natural professional at this game.",
+        "enabled": true,
+        "iconImageId": 10666224086,
+        "displayIconImageId": 10666224086,
+        "created": "2022-08-21T04:39:33.733+00:00",
+        "updated": "2024-11-21T17:48:32.478+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2027,
+          "awardedCount": 1846868,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2128167328,
+        "name": "Level 100",
+        "description": "Reach Level 100. A rank above all ranks (except 125). Congratulations you made it this far. As a reward here is this badge. :)",
+        "displayName": "Level 100",
+        "displayDescription": "Reach Level 100. A rank above all ranks (except 125). Congratulations you made it this far. As a reward here is this badge. :)",
+        "enabled": true,
+        "iconImageId": 10666226312,
+        "displayIconImageId": 10666226312,
+        "created": "2022-08-21T04:39:54.893+00:00",
+        "updated": "2024-11-21T17:48:32.481+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 839,
+          "awardedCount": 687973,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2128167329,
+        "name": "Level 125",
+        "description": "Reach Level 125. Wow. You reached this level? How many hours did it take? I'm quite speechless... you really deserve a round of applause.",
+        "displayName": "Level 125",
+        "displayDescription": "Reach Level 125. Wow. You reached this level? How many hours did it take? I'm quite speechless... you really deserve a round of applause.",
+        "enabled": true,
+        "iconImageId": 10666227433,
+        "displayIconImageId": 10666227433,
+        "created": "2022-08-21T04:40:08.77+00:00",
+        "updated": "2024-11-21T17:48:32.482+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 333,
+          "awardedCount": 263565,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 2099026142558304,
+        "name": "Interlope",
+        "description": "Beat the Interloper mission during April Fools.",
+        "displayName": "Interlope",
+        "displayDescription": "Beat the Interloper mission during April Fools.",
+        "enabled": true,
+        "iconImageId": 16973309820,
+        "displayIconImageId": 16973309820,
+        "created": "2024-04-01T18:04:19.171+00:00",
+        "updated": "2024-11-20T04:54:56.341+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 38763,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 1134375315335621,
+        "name": "Fooled",
+        "description": "Play the game during the April Fools event.",
+        "displayName": "Fooled",
+        "displayDescription": "Play the game during the April Fools event.",
+        "enabled": true,
+        "iconImageId": 16973571771,
+        "displayIconImageId": 16973571771,
+        "created": "2024-04-01T18:21:07.126+00:00",
+        "updated": "2024-11-20T05:19:27.178+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2053826,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      },
+      {
+        "id": 1289447278573021,
+        "name": "Destruction",
+        "description": "The end of the world is near.",
+        "displayName": "Destruction",
+        "displayDescription": "The end of the world is near.",
+        "enabled": true,
+        "iconImageId": 87125730878858,
+        "displayIconImageId": 87125730878858,
+        "created": "2024-10-13T04:02:23.986+00:00",
+        "updated": "2024-11-20T06:14:41.256+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 128841,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3647333358,
+          "name": "\ud83c\udfeeEvade\ud83c\udfee",
+          "rootPlaceId": 9872472334
+        }
+      }
+    ]
+  },
+  "495693931": {
+    "data": [
+      {
+        "id": 2124444600,
+        "name": "You killed a Developer",
+        "description": "Obtained by killing a Doomspire Brickbattle Developer, probably the hardest thing you've ever done, in your entire life.",
+        "displayName": "You killed a Developer",
+        "displayDescription": "Obtained by killing a Doomspire Brickbattle Developer, probably the hardest thing you've ever done, in your entire life.",
+        "enabled": true,
+        "iconImageId": 2744189504,
+        "displayIconImageId": 2744189504,
+        "created": "2018-12-08T23:37:15.783+00:00",
+        "updated": "2024-11-19T19:24:18.284+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3260,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 495693931,
+          "name": "Doomspire Brickbattle",
+          "rootPlaceId": 1215581239
+        }
+      },
+      {
+        "id": 2124450213,
+        "name": "The Edge",
+        "description": null,
+        "displayName": "The Edge",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 2739602044,
+        "displayIconImageId": 2739602044,
+        "created": "2019-01-12T01:26:44.727+00:00",
+        "updated": "2024-11-19T19:24:23.142+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 307,
+          "awardedCount": 743738,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 495693931,
+          "name": "Doomspire Brickbattle",
+          "rootPlaceId": 1215581239
+        }
+      }
+    ]
+  },
+  "572803727": {
+    "data": [
+      {
+        "id": 1441796281,
+        "name": "Egg of Wishes",
+        "description": "Sure, when you wish upon a star you might get your hearts greatest desire... but a wish at a well gets you an egg! Which is still fairly impressive.",
+        "displayName": "Egg of Wishes",
+        "displayDescription": "Sure, when you wish upon a star you might get your hearts greatest desire... but a wish at a well gets you an egg! Which is still fairly impressive.",
+        "enabled": true,
+        "iconImageId": 1556647174,
+        "displayIconImageId": 1556647174,
+        "created": "2018-02-20T19:04:45.727+00:00",
+        "updated": "2024-11-19T19:23:48.006+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 925212,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441796637,
+        "name": "Good Knight Egg",
+        "description": "Here, ye! Here, ye! May I presenteth, the Good Knight Egg! Given his title and rank by a strange lady, who threw a sword at him from yonder pond",
+        "displayName": "Good Knight Egg",
+        "displayDescription": "Here, ye! Here, ye! May I presenteth, the Good Knight Egg! Given his title and rank by a strange lady, who threw a sword at him from yonder pond",
+        "enabled": true,
+        "iconImageId": 1556648048,
+        "displayIconImageId": 1556648048,
+        "created": "2018-02-20T19:04:54.213+00:00",
+        "updated": "2024-11-19T19:23:48.006+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 679660,
+          "winRatePercentage": 0.039
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441798392,
+        "name": "Painted Rose Egg",
+        "description": "A rose by any other name would smell as sweet. But any colour other than red? Well, off with their head.",
+        "displayName": "Painted Rose Egg",
+        "displayDescription": "A rose by any other name would smell as sweet. But any colour other than red? Well, off with their head.",
+        "enabled": true,
+        "iconImageId": 1556648722,
+        "displayIconImageId": 1556648722,
+        "created": "2018-02-20T19:05:46.903+00:00",
+        "updated": "2024-11-19T19:23:48.006+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 27,
+          "awardedCount": 1651249,
+          "winRatePercentage": 0.174
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441798616,
+        "name": "Yolker Egg",
+        "description": "I am funny how? Am I funny like I am a clown? Oh, I am? Phew \u2013 I thought my jokes might have been falling flat!",
+        "displayName": "Yolker Egg",
+        "displayDescription": "I am funny how? Am I funny like I am a clown? Oh, I am? Phew \u2013 I thought my jokes might have been falling flat!",
+        "enabled": true,
+        "iconImageId": 1556649785,
+        "displayIconImageId": 1556649785,
+        "created": "2018-02-20T19:05:54.72+00:00",
+        "updated": "2024-11-19T19:23:48.006+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 22,
+          "awardedCount": 1477798,
+          "winRatePercentage": 0.142
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441799461,
+        "name": "Treasured Egg of Wonderland",
+        "description": "What a long, strange trip it\u2019s been through this wondrous land! You made it out unscrambled though and with this golden treasure!",
+        "displayName": "Treasured Egg of Wonderland",
+        "displayDescription": "What a long, strange trip it\u2019s been through this wondrous land! You made it out unscrambled though and with this golden treasure!",
+        "enabled": true,
+        "iconImageId": 1556652139,
+        "displayIconImageId": 1556652139,
+        "created": "2018-02-20T19:06:19.37+00:00",
+        "updated": "2024-11-19T19:23:48.006+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 707039,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441800789,
+        "name": "Dreggon",
+        "description": "A rare find! Perhaps unsurprisingly, the whole Dragon part of this is rumored to make getting it a bit tougher to survive\u2026 sorry, \u201cacquire.\"",
+        "displayName": "Dreggon",
+        "displayDescription": "A rare find! Perhaps unsurprisingly, the whole Dragon part of this is rumored to make getting it a bit tougher to survive\u2026 sorry, \u201cacquire.\"",
+        "enabled": true,
+        "iconImageId": 1556652618,
+        "displayIconImageId": 1556652618,
+        "created": "2018-02-20T19:06:57.547+00:00",
+        "updated": "2024-11-19T19:23:48.006+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 567838,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441802630,
+        "name": "Teapot Egg",
+        "description": "The tea, you must have a cup of tea! But don\u2019t be late, you might miss someone\u2019s unbirthday party!",
+        "displayName": "Teapot Egg",
+        "displayDescription": "The tea, you must have a cup of tea! But don\u2019t be late, you might miss someone\u2019s unbirthday party!",
+        "enabled": true,
+        "iconImageId": 1556655861,
+        "displayIconImageId": 1556655861,
+        "created": "2018-02-20T19:07:47.753+00:00",
+        "updated": "2024-11-19T19:23:48.01+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 55,
+          "awardedCount": 4663726,
+          "winRatePercentage": 0.355
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441803788,
+        "name": "Inkwell Egg",
+        "description": "So strange, everyone claims the egg looks a little different to them. Sometimes an egg is just an egg!",
+        "displayName": "Inkwell Egg",
+        "displayDescription": "So strange, everyone claims the egg looks a little different to them. Sometimes an egg is just an egg!",
+        "enabled": true,
+        "iconImageId": 1556656333,
+        "displayIconImageId": 1556656333,
+        "created": "2018-02-20T19:08:20.07+00:00",
+        "updated": "2024-11-19T19:23:48.01+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 72,
+          "awardedCount": 9043220,
+          "winRatePercentage": 0.465
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441805769,
+        "name": "Alleggator",
+        "description": "Amazing specimens, Alleggators! Evolving from eggs to lizard eggs and then mastering sailing. Crikey! Quite a remarkable creature!",
+        "displayName": "Alleggator",
+        "displayDescription": "Amazing specimens, Alleggators! Evolving from eggs to lizard eggs and then mastering sailing. Crikey! Quite a remarkable creature!",
+        "enabled": true,
+        "iconImageId": 1556657149,
+        "displayIconImageId": 1556657149,
+        "created": "2018-02-20T19:09:16.67+00:00",
+        "updated": "2024-11-19T19:23:48.022+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10,
+          "awardedCount": 991251,
+          "winRatePercentage": 0.065
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441807823,
+        "name": "Feast Egg",
+        "description": "Did you know there are over 54,816 ways to prepare an egg? But don\u2019t worry, we\u2019re sure you\u2019ll learn them all before next year\u2019s feast!",
+        "displayName": "Feast Egg",
+        "displayDescription": "Did you know there are over 54,816 ways to prepare an egg? But don\u2019t worry, we\u2019re sure you\u2019ll learn them all before next year\u2019s feast!",
+        "enabled": true,
+        "iconImageId": 1556660162,
+        "displayIconImageId": 1556660162,
+        "created": "2018-02-20T19:10:08.107+00:00",
+        "updated": "2024-11-19T19:23:48.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 592712,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441808935,
+        "name": "Club Egg Skewer",
+        "description": "As tempting as it is, no \u2013 you are not allowed to sword fight with the skewer when you finish your meal.",
+        "displayName": "Club Egg Skewer",
+        "displayDescription": "As tempting as it is, no \u2013 you are not allowed to sword fight with the skewer when you finish your meal.",
+        "enabled": true,
+        "iconImageId": 1556661635,
+        "displayIconImageId": 1556661635,
+        "created": "2018-02-20T19:10:38.767+00:00",
+        "updated": "2024-11-19T19:23:48.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 763342,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441809788,
+        "name": "Demeaning Egg",
+        "description": "At a certain point this egg will finally understand it\u2019s not a phase! \u3048\u3050",
+        "displayName": "Demeaning Egg",
+        "displayDescription": "At a certain point this egg will finally understand it\u2019s not a phase! \u3048\u3050",
+        "enabled": true,
+        "iconImageId": 1556663315,
+        "displayIconImageId": 1556663315,
+        "created": "2018-02-20T19:10:57.92+00:00",
+        "updated": "2024-11-19T19:23:48.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 622878,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441810250,
+        "name": "Sugar Crystal Egg",
+        "description": "To satisfy the craving for those with a real sweet tooth. Warning: prolonged exposure known to cause cavities and heightened state of eggxiety.",
+        "displayName": "Sugar Crystal Egg",
+        "displayDescription": "To satisfy the craving for those with a real sweet tooth. Warning: prolonged exposure known to cause cavities and heightened state of eggxiety.",
+        "enabled": true,
+        "iconImageId": 1556664028,
+        "displayIconImageId": 1556664028,
+        "created": "2018-02-20T19:11:09.033+00:00",
+        "updated": "2024-11-19T19:23:48.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12,
+          "awardedCount": 989279,
+          "winRatePercentage": 0.077
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441810619,
+        "name": "Treasured Cuisine Egg",
+        "description": "Some say this represents pinnacle of culinary eggchievement. Others say horses are just land dolphins, but that\u2019s a different matter.",
+        "displayName": "Treasured Cuisine Egg",
+        "displayDescription": "Some say this represents pinnacle of culinary eggchievement. Others say horses are just land dolphins, but that\u2019s a different matter.",
+        "enabled": true,
+        "iconImageId": 1556666917,
+        "displayIconImageId": 1556666917,
+        "created": "2018-02-20T19:11:17.363+00:00",
+        "updated": "2024-11-19T19:23:48.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7,
+          "awardedCount": 752803,
+          "winRatePercentage": 0.045
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441811785,
+        "name": "Mad Scientist Egg",
+        "description": "They spent so much time wondering if they \u201ccould,\u201d yet never paused to ask if they \u201cshould.\u201d Guess that\u2019s what drove \u2018em mad!",
+        "displayName": "Mad Scientist Egg",
+        "displayDescription": "They spent so much time wondering if they \u201ccould,\u201d yet never paused to ask if they \u201cshould.\u201d Guess that\u2019s what drove \u2018em mad!",
+        "enabled": true,
+        "iconImageId": 1556668063,
+        "displayIconImageId": 1556668063,
+        "created": "2018-02-20T19:11:50.433+00:00",
+        "updated": "2024-11-19T19:23:48.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 652666,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441812011,
+        "name": "Eggchup",
+        "description": "A peerless condiment and titan of tomato egg based product. And king of sparking regional spelling and pronunciation debates.",
+        "displayName": "Eggchup",
+        "displayDescription": "A peerless condiment and titan of tomato egg based product. And king of sparking regional spelling and pronunciation debates.",
+        "enabled": true,
+        "iconImageId": 1556670094,
+        "displayIconImageId": 1556670094,
+        "created": "2018-02-20T19:11:55.863+00:00",
+        "updated": "2024-11-19T19:23:48.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 18,
+          "awardedCount": 1690058,
+          "winRatePercentage": 0.116
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441812263,
+        "name": "Eggplant",
+        "description": "Some eggs when cracked and unattended are known to sprout and flower! Nature truly is the most mysterious frontier.",
+        "displayName": "Eggplant",
+        "displayDescription": "Some eggs when cracked and unattended are known to sprout and flower! Nature truly is the most mysterious frontier.",
+        "enabled": true,
+        "iconImageId": 1556670637,
+        "displayIconImageId": 1556670637,
+        "created": "2018-02-20T19:12:01.887+00:00",
+        "updated": "2024-11-19T19:23:48.025+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 14,
+          "awardedCount": 1219353,
+          "winRatePercentage": 0.09
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441812653,
+        "name": "Egg Capone",
+        "description": "The most notorious egg in all Hardboiled City. Word abouts town is someone bumped into him and he hads \u2018em scrambled.",
+        "displayName": "Egg Capone",
+        "displayDescription": "The most notorious egg in all Hardboiled City. Word abouts town is someone bumped into him and he hads \u2018em scrambled.",
+        "enabled": true,
+        "iconImageId": 1556672552,
+        "displayIconImageId": 1556672552,
+        "created": "2018-02-20T19:12:13.337+00:00",
+        "updated": "2024-11-19T19:23:48.025+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 607342,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441812950,
+        "name": "Investeggator",
+        "description": "Nobody comes tougher than this Hardboiled City deteggtive! He\u2019s cracked all the big cases including which came first, the chicken or the egg.",
+        "displayName": "Investeggator",
+        "displayDescription": "Nobody comes tougher than this Hardboiled City deteggtive! He\u2019s cracked all the big cases including which came first, the chicken or the egg.",
+        "enabled": true,
+        "iconImageId": 1556675218,
+        "displayIconImageId": 1556675218,
+        "created": "2018-02-20T19:12:21.863+00:00",
+        "updated": "2024-11-19T19:23:48.025+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 584924,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441813183,
+        "name": "Garbag\u00e9 Egg",
+        "description": "One Robloxian\u2019s trash is another's treasure. Except in this case, where its clearly labelled recycling.",
+        "displayName": "Garbag\u00e9 Egg",
+        "displayDescription": "One Robloxian\u2019s trash is another's treasure. Except in this case, where its clearly labelled recycling.",
+        "enabled": true,
+        "iconImageId": 1556675995,
+        "displayIconImageId": 1556675995,
+        "created": "2018-02-20T19:12:28.713+00:00",
+        "updated": "2024-11-19T19:23:48.027+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 649978,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441814019,
+        "name": "Eggcellent Actor",
+        "description": "Its portrayal as Eggmund in Eggspeare\u2019s \u201cKing Chandelier\u201d is still considered one of the greatest performances to grace the stage.",
+        "displayName": "Eggcellent Actor",
+        "displayDescription": "Its portrayal as Eggmund in Eggspeare\u2019s \u201cKing Chandelier\u201d is still considered one of the greatest performances to grace the stage.",
+        "enabled": true,
+        "iconImageId": 1556678452,
+        "displayIconImageId": 1556678452,
+        "created": "2018-02-20T19:12:53.88+00:00",
+        "updated": "2024-11-19T19:23:48.027+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7,
+          "awardedCount": 717926,
+          "winRatePercentage": 0.045
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441814355,
+        "name": "Hardboiled Treasure Egg",
+        "description": "You cracked the cases and cleaned up the streets. Proof egg related crime never pays. Unless you\u2019re stopping it, then you get this as a reward!",
+        "displayName": "Hardboiled Treasure Egg",
+        "displayDescription": "You cracked the cases and cleaned up the streets. Proof egg related crime never pays. Unless you\u2019re stopping it, then you get this as a reward!",
+        "enabled": true,
+        "iconImageId": 1556679697,
+        "displayIconImageId": 1556679697,
+        "created": "2018-02-20T19:13:03.08+00:00",
+        "updated": "2024-11-19T19:23:48.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 532528,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441816699,
+        "name": "Egg Hunt 2013 Sugar Egg",
+        "description": "A throwback for some real eggficianados! An omelette du \"homage,\" if you will! Cheers to The Sugar Team!",
+        "displayName": "Egg Hunt 2013 Sugar Egg",
+        "displayDescription": "A throwback for some real eggficianados! An omelette du \"homage,\" if you will! Cheers to The Sugar Team!",
+        "enabled": true,
+        "iconImageId": 1556680774,
+        "displayIconImageId": 1556680774,
+        "created": "2018-02-20T19:14:08.783+00:00",
+        "updated": "2024-11-19T19:23:48.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 399964,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441816891,
+        "name": "Newsie Egg",
+        "description": "Eggstrie \u2013 eggstrie! Adventurer shows up in Act III to rescue the city! Read all about it!",
+        "displayName": "Newsie Egg",
+        "displayDescription": "Eggstrie \u2013 eggstrie! Adventurer shows up in Act III to rescue the city! Read all about it!",
+        "enabled": true,
+        "iconImageId": 1556681671,
+        "displayIconImageId": 1556681671,
+        "created": "2018-02-20T19:14:14.973+00:00",
+        "updated": "2024-11-19T19:23:48.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 1063577,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441818976,
+        "name": "Doggo Egg",
+        "description": "Egg truly is man\u2019s best friend. Wait\u2026.no, yeah actually pretty sure that\u2019s right...",
+        "displayName": "Doggo Egg",
+        "displayDescription": "Egg truly is man\u2019s best friend. Wait\u2026.no, yeah actually pretty sure that\u2019s right...",
+        "enabled": true,
+        "iconImageId": 1556682163,
+        "displayIconImageId": 1556682163,
+        "created": "2018-02-20T19:15:09.383+00:00",
+        "updated": "2024-11-19T19:23:48.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9,
+          "awardedCount": 1464463,
+          "winRatePercentage": 0.058
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441820122,
+        "name": "Dance Dance Eggolution",
+        "description": "You can dance; you can jive; having the quest of your life! Watch that scene; digging the egg huntin\u2019!",
+        "displayName": "Dance Dance Eggolution",
+        "displayDescription": "You can dance; you can jive; having the quest of your life! Watch that scene; digging the egg huntin\u2019!",
+        "enabled": true,
+        "iconImageId": 1556683593,
+        "displayIconImageId": 1556683593,
+        "created": "2018-02-20T19:15:42.84+00:00",
+        "updated": "2024-11-19T19:23:48.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 864219,
+          "winRatePercentage": 0.039
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441822819,
+        "name": "Idol Egg",
+        "description": "Deep within the jungle, through the creeping vines and beyond where the flower blooms, an ancient treasure, fraught with danger, looms.",
+        "displayName": "Idol Egg",
+        "displayDescription": "Deep within the jungle, through the creeping vines and beyond where the flower blooms, an ancient treasure, fraught with danger, looms.",
+        "enabled": true,
+        "iconImageId": 1556684117,
+        "displayIconImageId": 1556684117,
+        "created": "2018-02-20T19:17:04.447+00:00",
+        "updated": "2024-11-19T19:23:48.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 810490,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441824628,
+        "name": "Monkeying Around Egg",
+        "description": "What could be more fun than swinging free through the trees? These rascals love to get into trouble!",
+        "displayName": "Monkeying Around Egg",
+        "displayDescription": "What could be more fun than swinging free through the trees? These rascals love to get into trouble!",
+        "enabled": true,
+        "iconImageId": 1556686880,
+        "displayIconImageId": 1556686880,
+        "created": "2018-02-20T19:17:47.527+00:00",
+        "updated": "2024-11-19T19:23:48.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 589311,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441826172,
+        "name": "Eggsplorer",
+        "description": "Dr. Eggingstone, I presume? Oh, you\u2019re not? My mistake. Well, it\u2019s just I didn\u2019t expect to run into anyone else out here!",
+        "displayName": "Eggsplorer",
+        "displayDescription": "Dr. Eggingstone, I presume? Oh, you\u2019re not? My mistake. Well, it\u2019s just I didn\u2019t expect to run into anyone else out here!",
+        "enabled": true,
+        "iconImageId": 1556687787,
+        "displayIconImageId": 1556687787,
+        "created": "2018-02-20T19:18:28.507+00:00",
+        "updated": "2024-11-19T19:23:48.031+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 539582,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441826529,
+        "name": "Jungle Flower Egg",
+        "description": "These flowers are even more dangerous than they look. Word is that one of these wrecked up some downtown flower shop!",
+        "displayName": "Jungle Flower Egg",
+        "displayDescription": "These flowers are even more dangerous than they look. Word is that one of these wrecked up some downtown flower shop!",
+        "enabled": true,
+        "iconImageId": 1556688569,
+        "displayIconImageId": 1556688569,
+        "created": "2018-02-20T19:18:36.547+00:00",
+        "updated": "2024-11-19T19:23:48.033+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 505420,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441826942,
+        "name": "Treasured Egg of the Wookong Jungle",
+        "description": "Not all that glitters is gold, but this here is the real Mc Coy! Only the most committed eggsplorers ever even see this.",
+        "displayName": "Treasured Egg of the Wookong Jungle",
+        "displayDescription": "Not all that glitters is gold, but this here is the real Mc Coy! Only the most committed eggsplorers ever even see this.",
+        "enabled": true,
+        "iconImageId": 1556689582,
+        "displayIconImageId": 1556689582,
+        "created": "2018-02-20T19:18:46.817+00:00",
+        "updated": "2024-11-19T19:23:48.033+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 472212,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441829688,
+        "name": "Super Egg",
+        "description": "Able to lift as much as 80 eggs. Faster than someone on heelys. It\u2019s Super Egg!",
+        "displayName": "Super Egg",
+        "displayDescription": "Able to lift as much as 80 eggs. Faster than someone on heelys. It\u2019s Super Egg!",
+        "enabled": true,
+        "iconImageId": 1556690324,
+        "displayIconImageId": 1556690324,
+        "created": "2018-02-20T19:19:54.943+00:00",
+        "updated": "2024-11-19T19:23:48.044+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 479240,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441832283,
+        "name": "Rock That Looks Like an Egg Rock",
+        "description": "A rock is like an egg, but the whole thing is a shell. This, though, is just an egg that resembles a rock.",
+        "displayName": "Rock That Looks Like an Egg Rock",
+        "displayDescription": "A rock is like an egg, but the whole thing is a shell. This, though, is just an egg that resembles a rock.",
+        "enabled": true,
+        "iconImageId": 1556702853,
+        "displayIconImageId": 1556702853,
+        "created": "2018-02-20T19:21:10.24+00:00",
+        "updated": "2024-11-19T19:23:48.044+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 1234314,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441832991,
+        "name": "King Cobregg",
+        "description": "Dripping malice, eyes cold as the grave. It is said by the time you see one of these eggs it was already too late 3 minutes ago.",
+        "displayName": "King Cobregg",
+        "displayDescription": "Dripping malice, eyes cold as the grave. It is said by the time you see one of these eggs it was already too late 3 minutes ago.",
+        "enabled": true,
+        "iconImageId": 1556693164,
+        "displayIconImageId": 1556693164,
+        "created": "2018-02-20T19:21:29.76+00:00",
+        "updated": "2024-11-19T19:23:48.044+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 1158350,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441833576,
+        "name": "Egg of Dark Nest",
+        "description": "This is a testament to victory snatched from the dark nest and a harrowing exit, nothing more. Nothing more.",
+        "displayName": "Egg of Dark Nest",
+        "displayDescription": "This is a testament to victory snatched from the dark nest and a harrowing exit, nothing more. Nothing more.",
+        "enabled": true,
+        "iconImageId": 1556691953,
+        "displayIconImageId": 1556691953,
+        "created": "2018-02-20T19:21:47.41+00:00",
+        "updated": "2024-11-19T19:23:48.044+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 762536,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441834984,
+        "name": "Spider Egg",
+        "description": "Oh, what a tangled web we weave in search of eggventure! One that sometimes involves cramped spaces and terrifying creatures.",
+        "displayName": "Spider Egg",
+        "displayDescription": "Oh, what a tangled web we weave in search of eggventure! One that sometimes involves cramped spaces and terrifying creatures.",
+        "enabled": true,
+        "iconImageId": 1556690865,
+        "displayIconImageId": 1556690865,
+        "created": "2018-02-20T19:22:31.367+00:00",
+        "updated": "2024-11-19T19:23:48.044+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 707324,
+          "winRatePercentage": 0.039
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441837398,
+        "name": "Newton\u2019s Third Law of Eggs",
+        "description": "Exhibit A: For every action, there is an equal and opposite reaction. And this normally ends poorly for eggs.",
+        "displayName": "Newton\u2019s Third Law of Eggs",
+        "displayDescription": "Exhibit A: For every action, there is an equal and opposite reaction. And this normally ends poorly for eggs.",
+        "enabled": true,
+        "iconImageId": 1556686764,
+        "displayIconImageId": 1556686764,
+        "created": "2018-02-20T19:23:31.873+00:00",
+        "updated": "2024-11-19T19:23:48.045+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 506619,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441837610,
+        "name": "Aymegg",
+        "description": "You stared into the eye of darkness and never blinked. To the victor go the spoils!",
+        "displayName": "Aymegg",
+        "displayDescription": "You stared into the eye of darkness and never blinked. To the victor go the spoils!",
+        "enabled": true,
+        "iconImageId": 1556692200,
+        "displayIconImageId": 1556692200,
+        "created": "2018-02-20T19:23:37.57+00:00",
+        "updated": "2024-11-19T19:23:48.045+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 364585,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441837847,
+        "name": "Presegg",
+        "description": "Don\u2019t shake it too hard \u2013 you might break what is hiding inside! Just kidding \u2013 its empty.",
+        "displayName": "Presegg",
+        "displayDescription": "Don\u2019t shake it too hard \u2013 you might break what is hiding inside! Just kidding \u2013 its empty.",
+        "enabled": true,
+        "iconImageId": 1556685960,
+        "displayIconImageId": 1556685960,
+        "created": "2018-02-20T19:23:44.083+00:00",
+        "updated": "2024-11-19T19:23:48.045+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 378122,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441838958,
+        "name": "Radio Egg",
+        "description": "A dim red dot glows and the hiss of static. Next thing you know the party is all around. This egg was  designed by user PartyMonsterToast!",
+        "displayName": "Radio Egg",
+        "displayDescription": "A dim red dot glows and the hiss of static. Next thing you know the party is all around. This egg was  designed by user PartyMonsterToast!",
+        "enabled": true,
+        "iconImageId": 1556684910,
+        "displayIconImageId": 1556684910,
+        "created": "2018-02-20T19:24:19.243+00:00",
+        "updated": "2024-11-19T19:23:48.046+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 1012233,
+          "winRatePercentage": 0.039
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441844406,
+        "name": "Eggfection",
+        "description": "Nobody knows how it began. But before anything could be done, the world was overrun. Silver lining: a lot less traffic!",
+        "displayName": "Eggfection",
+        "displayDescription": "Nobody knows how it began. But before anything could be done, the world was overrun. Silver lining: a lot less traffic!",
+        "enabled": true,
+        "iconImageId": 1556683551,
+        "displayIconImageId": 1556683551,
+        "created": "2018-02-20T19:26:40.28+00:00",
+        "updated": "2024-11-19T19:23:48.047+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 3963869,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441844652,
+        "name": "Eggmin 2018",
+        "description": "An Admin? How auspicious! From everyone at Roblox, we hope you have enjoyed Egg Hunt 2018!",
+        "displayName": "Eggmin 2018",
+        "displayDescription": "An Admin? How auspicious! From everyone at Roblox, we hope you have enjoyed Egg Hunt 2018!",
+        "enabled": true,
+        "iconImageId": 1556682266,
+        "displayIconImageId": 1556682266,
+        "created": "2018-02-20T19:26:47.323+00:00",
+        "updated": "2024-11-19T19:23:48.047+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7,
+          "awardedCount": 570392,
+          "winRatePercentage": 0.045
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441844939,
+        "name": "D.I.Y. Egg",
+        "description": "Sometimes if you want something done right, you just gotta do it yourself. This was not one of those times. You must have beaten Lord Aymor to obtain this badge.",
+        "displayName": "D.I.Y. Egg",
+        "displayDescription": "Sometimes if you want something done right, you just gotta do it yourself. This was not one of those times. You must have beaten Lord Aymor to obtain this badge.",
+        "enabled": true,
+        "iconImageId": 1556681615,
+        "displayIconImageId": 1556681615,
+        "created": "2018-02-20T19:26:55.763+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 309082,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441845405,
+        "name": "Feathered Faberg\u00e9gg",
+        "description": "Don\u2019t call it a comeback when you been here for years. See? Just look how you rock your peers. Towerin\u2019 above competition! Congratulations on earning every egg in the Great Yolktales: Egg Hunt 2018!",
+        "displayName": "Feathered Faberg\u00e9gg",
+        "displayDescription": "Don\u2019t call it a comeback when you been here for years. See? Just look how you rock your peers. Towerin\u2019 above competition! Congratulations on earning every egg in the Great Yolktales: Egg Hunt 2018!",
+        "enabled": true,
+        "iconImageId": 1556680845,
+        "displayIconImageId": 1556680845,
+        "created": "2018-02-20T19:27:06.38+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 301272,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441845814,
+        "name": "Fifteam Egg",
+        "description": "The most ambitious crossover since Infinity War.\r\n\r\nWhat a journey! The eggs. The puns. And, oh, who could forget the egg puns? A huge thanks to Fifteam for making this one of the most memorable Egg Hunts to date!",
+        "displayName": "Fifteam Egg",
+        "displayDescription": "The most ambitious crossover since Infinity War.\r\n\r\nWhat a journey! The eggs. The puns. And, oh, who could forget the egg puns? A huge thanks to Fifteam for making this one of the most memorable Egg Hunts to date!",
+        "enabled": true,
+        "iconImageId": 1556678820,
+        "displayIconImageId": 1556678820,
+        "created": "2018-02-20T19:27:16.73+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 158976,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441846066,
+        "name": "Stained Glass Egg",
+        "description": "Throughout the history of stained glass never has there been a more exemplary piece of master crafting.\r\n\r\nThis egg will not show up in the book in-game as it is related to the Ready Player One event.",
+        "displayName": "Stained Glass Egg",
+        "displayDescription": "Throughout the history of stained glass never has there been a more exemplary piece of master crafting.\r\n\r\nThis egg will not show up in the book in-game as it is related to the Ready Player One event.",
+        "enabled": true,
+        "iconImageId": 1592272612,
+        "displayIconImageId": 1592272612,
+        "created": "2018-02-20T19:27:23.61+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 206602,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441846689,
+        "name": "Welcome To The End",
+        "description": "You have unraveled the Ready Player One mysteries in Egg Hunt 2018 and the way ahead to Megacorp is now unlocked! Good luck, gunters, and welcome to the end!",
+        "displayName": "Welcome To The End",
+        "displayDescription": "You have unraveled the Ready Player One mysteries in Egg Hunt 2018 and the way ahead to Megacorp is now unlocked! Good luck, gunters, and welcome to the end!",
+        "enabled": true,
+        "iconImageId": 1592292201,
+        "displayIconImageId": 1592292201,
+        "created": "2018-02-20T19:27:38.43+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 215387,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441846914,
+        "name": "Treasure Hunter",
+        "description": "Collect 5,000 Golden Eggs. Buying Golden Eggs does not count! Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Treasure Hunter",
+        "displayDescription": "Collect 5,000 Golden Eggs. Buying Golden Eggs does not count! Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1556642138,
+        "displayIconImageId": 1556642138,
+        "created": "2018-02-20T19:27:43.967+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 7117,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441855618,
+        "name": "Treasure Finder",
+        "description": "Collect 1,000 Golden Eggs. Buying Golden Eggs does not count! Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Treasure Finder",
+        "displayDescription": "Collect 1,000 Golden Eggs. Buying Golden Eggs does not count! Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1556643233,
+        "displayIconImageId": 1556643233,
+        "created": "2018-02-20T19:31:05.907+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 313850,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1441855899,
+        "name": "Speed Run",
+        "description": "Complete the game in under 2 hours. You WILL have the option to restart at some point in your adventure. Does not contribute to collection of eggs or completion of game.\r\n\r\nThe timer starts after Booker asks you to introduce yourself, and ends after Booker thanks you for restoring the library.",
+        "displayName": "Speed Run",
+        "displayDescription": "Complete the game in under 2 hours. You WILL have the option to restart at some point in your adventure. Does not contribute to collection of eggs or completion of game.\r\n\r\nThe timer starts after Booker asks you to introduce yourself, and ends after Booker thanks you for restoring the library.",
+        "enabled": true,
+        "iconImageId": 1556647169,
+        "displayIconImageId": 1556647169,
+        "created": "2018-02-20T19:31:11.793+00:00",
+        "updated": "2024-11-19T19:23:48.049+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4803,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1555915032,
+        "name": "Egg Hoarder",
+        "description": "Collect at least 45 of the 48 eggs. Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Egg Hoarder",
+        "displayDescription": "Collect at least 45 of the 48 eggs. Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1556649390,
+        "displayIconImageId": 1556649390,
+        "created": "2018-03-28T16:30:54.033+00:00",
+        "updated": "2024-11-19T19:23:52.958+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 173613,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1555916518,
+        "name": "Flower Power",
+        "description": "Complete the Rose Egg minigame without missing a throw. Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Flower Power",
+        "displayDescription": "Complete the Rose Egg minigame without missing a throw. Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1557040287,
+        "displayIconImageId": 1557040287,
+        "created": "2018-03-28T16:31:33.327+00:00",
+        "updated": "2024-11-19T19:23:52.96+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 166446,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1555917283,
+        "name": "Burger Connoisseur",
+        "description": "Complete the Feast Egg minigame with 5 stars. Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Burger Connoisseur",
+        "displayDescription": "Complete the Feast Egg minigame with 5 stars. Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1556660480,
+        "displayIconImageId": 1556660480,
+        "created": "2018-03-28T16:31:52.487+00:00",
+        "updated": "2024-11-19T19:23:52.96+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 11,
+          "awardedCount": 333574,
+          "winRatePercentage": 0.071
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1555919638,
+        "name": "Renowned Performer",
+        "description": "Complete the Eggcellent Actor minigame without missing an action. Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Renowned Performer",
+        "displayDescription": "Complete the Eggcellent Actor minigame without missing an action. Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1557040048,
+        "displayIconImageId": 1557040048,
+        "created": "2018-03-28T16:32:54.587+00:00",
+        "updated": "2024-11-19T19:23:52.96+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 122033,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1555921007,
+        "name": "Fly High",
+        "description": "Complete the Dark Nest Egg minigame in 20 seconds or less. Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Fly High",
+        "displayDescription": "Complete the Dark Nest Egg minigame in 20 seconds or less. Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1556670610,
+        "displayIconImageId": 1556670610,
+        "created": "2018-03-28T16:33:25.54+00:00",
+        "updated": "2024-11-19T19:23:52.96+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 34121,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1555921841,
+        "name": "Perfect Winter",
+        "description": "Complete the Blizzard Valley minigame without missing a shot. Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Perfect Winter",
+        "displayDescription": "Complete the Blizzard Valley minigame without missing a shot. Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1556775264,
+        "displayIconImageId": 1556775264,
+        "created": "2018-03-28T16:33:46.837+00:00",
+        "updated": "2024-11-19T19:23:52.96+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2153,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 1556765011,
+        "name": "Welcome",
+        "description": "You played Egg Hunt 2018: The Great Yolktales. Does not contribute to collection of eggs or completion of game.",
+        "displayName": "Welcome",
+        "displayDescription": "You played Egg Hunt 2018: The Great Yolktales. Does not contribute to collection of eggs or completion of game.",
+        "enabled": true,
+        "iconImageId": 1556764950,
+        "displayIconImageId": 1556764950,
+        "created": "2018-03-28T22:20:22.527+00:00",
+        "updated": "2024-11-19T19:23:53.009+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 117,
+          "awardedCount": 13687317,
+          "winRatePercentage": 0.755
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 2124462287,
+        "name": "The Egg of Origin",
+        "description": "The egg definitely came first.",
+        "displayName": "The Egg of Origin",
+        "displayDescription": "The egg definitely came first.",
+        "enabled": true,
+        "iconImageId": 3082965555,
+        "displayIconImageId": 3082965555,
+        "created": "2019-04-01T13:23:58.727+00:00",
+        "updated": "2024-11-19T19:24:33.485+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 192837,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 2124462288,
+        "name": "Eggmin 2019",
+        "description": "Obtain this egg from the Eggmin 2019 Launcher!",
+        "displayName": "Eggmin 2019",
+        "displayDescription": "Obtain this egg from the Eggmin 2019 Launcher!",
+        "enabled": true,
+        "iconImageId": 3082965629,
+        "displayIconImageId": 3082965629,
+        "created": "2019-04-01T13:24:21.56+00:00",
+        "updated": "2024-11-19T19:24:33.486+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 284863,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      },
+      {
+        "id": 2124462289,
+        "name": "Influencer Egg",
+        "description": "Obtain this egg from the Influencer Egg Launcher!",
+        "displayName": "Influencer Egg",
+        "displayDescription": "Obtain this egg from the Influencer Egg Launcher!",
+        "enabled": true,
+        "iconImageId": 3082965590,
+        "displayIconImageId": 3082965590,
+        "created": "2019-04-01T13:24:58.16+00:00",
+        "updated": "2024-11-19T19:24:33.498+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 251422,
+          "winRatePercentage": 0.039
+        },
+        "awardingUniverse": {
+          "id": 572803727,
+          "name": "Egg Hunt: The Great Yolktales",
+          "rootPlaceId": 1441335069
+        }
+      }
+    ]
+  },
+  "289185728": {
+    "data": [
+      {
+        "id": 716414505,
+        "name": "Top of the World Egg",
+        "description": null,
+        "displayName": "Top of the World Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722388702,
+        "displayIconImageId": 722388702,
+        "created": "2017-03-30T00:50:14.627+00:00",
+        "updated": "2024-11-19T19:23:16.586+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13,
+          "awardedCount": 1734361,
+          "winRatePercentage": 0.224
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716414741,
+        "name": "Lost in Transit Egg",
+        "description": null,
+        "displayName": "Lost in Transit Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722389208,
+        "displayIconImageId": 722389208,
+        "created": "2017-03-30T00:50:30.92+00:00",
+        "updated": "2024-11-19T19:23:16.586+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 303157,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716414835,
+        "name": "Humpty Dumpty",
+        "description": null,
+        "displayName": "Humpty Dumpty",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722389366,
+        "displayIconImageId": 722389366,
+        "created": "2017-03-30T00:50:37.75+00:00",
+        "updated": "2024-11-19T19:23:16.586+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 843486,
+          "winRatePercentage": 0.103
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716414953,
+        "name": "The Eggteen-Twelve Overture",
+        "description": null,
+        "displayName": "The Eggteen-Twelve Overture",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722389960,
+        "displayIconImageId": 722389960,
+        "created": "2017-03-30T00:50:45.237+00:00",
+        "updated": "2024-11-19T19:23:16.586+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 639153,
+          "winRatePercentage": 0.138
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415126,
+        "name": "S.S. Egg - The Mighty Dirigible",
+        "description": null,
+        "displayName": "S.S. Egg - The Mighty Dirigible",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722390412,
+        "displayIconImageId": 722390412,
+        "created": "2017-03-30T00:50:55.057+00:00",
+        "updated": "2024-11-19T19:23:16.587+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 493517,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415209,
+        "name": "The Answer Egg",
+        "description": null,
+        "displayName": "The Answer Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722390660,
+        "displayIconImageId": 722390660,
+        "created": "2017-03-30T00:51:01.743+00:00",
+        "updated": "2024-11-19T19:23:16.588+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 420625,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415287,
+        "name": "Faster than Light Egg",
+        "description": null,
+        "displayName": "Faster than Light Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722391965,
+        "displayIconImageId": 722391965,
+        "created": "2017-03-30T00:51:08.57+00:00",
+        "updated": "2024-11-19T19:23:16.592+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 527806,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415472,
+        "name": "Close Eggcounters",
+        "description": null,
+        "displayName": "Close Eggcounters",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722392126,
+        "displayIconImageId": 722392126,
+        "created": "2017-03-30T00:51:19.93+00:00",
+        "updated": "2024-11-19T19:23:16.592+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 438767,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415646,
+        "name": "The Eggverse",
+        "description": null,
+        "displayName": "The Eggverse",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722392340,
+        "displayIconImageId": 722392340,
+        "created": "2017-03-30T00:51:30.81+00:00",
+        "updated": "2024-11-19T19:23:16.592+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 1027430,
+          "winRatePercentage": 0.086
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415783,
+        "name": "Tesla Egg",
+        "description": null,
+        "displayName": "Tesla Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722392531,
+        "displayIconImageId": 722392531,
+        "created": "2017-03-30T00:51:41.347+00:00",
+        "updated": "2024-11-19T19:23:16.593+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 834692,
+          "winRatePercentage": 0.086
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415893,
+        "name": "Martian Egghunter",
+        "description": null,
+        "displayName": "Martian Egghunter",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722392714,
+        "displayIconImageId": 722392714,
+        "created": "2017-03-30T00:51:48.73+00:00",
+        "updated": "2024-11-19T19:23:16.594+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 1655721,
+          "winRatePercentage": 0.103
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716415994,
+        "name": "EGG9000",
+        "description": null,
+        "displayName": "EGG9000",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722393003,
+        "displayIconImageId": 722393003,
+        "created": "2017-03-30T00:51:56.22+00:00",
+        "updated": "2024-11-19T19:23:16.596+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 534517,
+          "winRatePercentage": 0.069
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716416119,
+        "name": "Peep-A-Boo Egg",
+        "description": null,
+        "displayName": "Peep-A-Boo Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722393785,
+        "displayIconImageId": 722393785,
+        "created": "2017-03-30T00:52:05.96+00:00",
+        "updated": "2024-11-19T19:23:16.596+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 1411700,
+          "winRatePercentage": 0.103
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716416188,
+        "name": "Frostbitten Egg",
+        "description": null,
+        "displayName": "Frostbitten Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722394091,
+        "displayIconImageId": 722394091,
+        "created": "2017-03-30T00:52:11.127+00:00",
+        "updated": "2024-11-19T19:23:16.596+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 594181,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716416403,
+        "name": "Pegguin Egg",
+        "description": null,
+        "displayName": "Pegguin Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722394540,
+        "displayIconImageId": 722394540,
+        "created": "2017-03-30T00:52:28.4+00:00",
+        "updated": "2024-11-19T19:23:16.597+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 467721,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716427961,
+        "name": "Seal Egg",
+        "description": null,
+        "displayName": "Seal Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722395149,
+        "displayIconImageId": 722395149,
+        "created": "2017-03-30T01:03:32.867+00:00",
+        "updated": "2024-11-19T19:23:16.599+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 820003,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428066,
+        "name": "Snowman Egg",
+        "description": null,
+        "displayName": "Snowman Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722395402,
+        "displayIconImageId": 722395402,
+        "created": "2017-03-30T01:03:40.1+00:00",
+        "updated": "2024-11-19T19:23:16.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 789131,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428170,
+        "name": "Eggvalanche",
+        "description": null,
+        "displayName": "Eggvalanche",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722395847,
+        "displayIconImageId": 722395847,
+        "created": "2017-03-30T01:03:46.587+00:00",
+        "updated": "2024-11-19T19:23:16.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 338795,
+          "winRatePercentage": 0.052
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428287,
+        "name": "SnowSpheroid",
+        "description": null,
+        "displayName": "SnowSpheroid",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722396108,
+        "displayIconImageId": 722396108,
+        "created": "2017-03-30T01:03:54.227+00:00",
+        "updated": "2024-11-19T19:23:16.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 349419,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428416,
+        "name": "Egg of Ra",
+        "description": null,
+        "displayName": "Egg of Ra",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722396307,
+        "displayIconImageId": 722396307,
+        "created": "2017-03-30T01:04:01.367+00:00",
+        "updated": "2024-11-19T19:23:16.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 833879,
+          "winRatePercentage": 0.069
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428540,
+        "name": "Eggtus",
+        "description": null,
+        "displayName": "Eggtus",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722411195,
+        "displayIconImageId": 722411195,
+        "created": "2017-03-30T01:04:06.523+00:00",
+        "updated": "2024-11-19T19:23:16.601+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 530583,
+          "winRatePercentage": 0.086
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428628,
+        "name": "Dust Deviled Egg",
+        "description": null,
+        "displayName": "Dust Deviled Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722396913,
+        "displayIconImageId": 722396913,
+        "created": "2017-03-30T01:04:11.477+00:00",
+        "updated": "2024-11-19T19:23:16.601+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 733363,
+          "winRatePercentage": 0.069
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428724,
+        "name": "Sand Shark Egg",
+        "description": null,
+        "displayName": "Sand Shark Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722397079,
+        "displayIconImageId": 722397079,
+        "created": "2017-03-30T01:04:16.803+00:00",
+        "updated": "2024-11-19T19:23:16.605+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 487095,
+          "winRatePercentage": 0.069
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428848,
+        "name": "The Sands of Time",
+        "description": null,
+        "displayName": "The Sands of Time",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722397408,
+        "displayIconImageId": 722397408,
+        "created": "2017-03-30T01:04:22.46+00:00",
+        "updated": "2024-11-19T19:23:16.607+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 421812,
+          "winRatePercentage": 0.069
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716428966,
+        "name": "Mummy Egg",
+        "description": null,
+        "displayName": "Mummy Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722397719,
+        "displayIconImageId": 722397719,
+        "created": "2017-03-30T01:04:27.477+00:00",
+        "updated": "2024-11-19T19:23:16.607+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 315150,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716429081,
+        "name": "Eggdress of the Chief",
+        "description": null,
+        "displayName": "Eggdress of the Chief",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722398280,
+        "displayIconImageId": 722398280,
+        "created": "2017-03-30T01:04:33.21+00:00",
+        "updated": "2024-11-19T19:23:16.607+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 439679,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716429201,
+        "name": "Eggcano",
+        "description": null,
+        "displayName": "Eggcano",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722398481,
+        "displayIconImageId": 722398481,
+        "created": "2017-03-30T01:04:38.507+00:00",
+        "updated": "2024-11-19T19:23:16.607+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 203060,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716429365,
+        "name": "Unstable Egg",
+        "description": null,
+        "displayName": "Unstable Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722398781,
+        "displayIconImageId": 722398781,
+        "created": "2017-03-30T01:04:47.147+00:00",
+        "updated": "2024-11-19T19:23:16.607+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 237408,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716429447,
+        "name": "The Amber Egg",
+        "description": null,
+        "displayName": "The Amber Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722399041,
+        "displayIconImageId": 722399041,
+        "created": "2017-03-30T01:04:53.617+00:00",
+        "updated": "2024-11-19T19:23:16.608+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 322942,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716429602,
+        "name": "The Obsidian Egg",
+        "description": null,
+        "displayName": "The Obsidian Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722399286,
+        "displayIconImageId": 722399286,
+        "created": "2017-03-30T01:05:02.413+00:00",
+        "updated": "2024-11-19T19:23:16.612+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 328718,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716433177,
+        "name": "The Ruby Egg",
+        "description": null,
+        "displayName": "The Ruby Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722399482,
+        "displayIconImageId": 722399482,
+        "created": "2017-03-30T01:08:00.637+00:00",
+        "updated": "2024-11-19T19:23:16.614+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 251542,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716433312,
+        "name": "Egg-Bit",
+        "description": null,
+        "displayName": "Egg-Bit",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 724037423,
+        "displayIconImageId": 724037423,
+        "created": "2017-03-30T01:08:06.433+00:00",
+        "updated": "2024-11-19T19:23:16.614+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 489553,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716433451,
+        "name": "Pompeiian Egg",
+        "description": null,
+        "displayName": "Pompeiian Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722400262,
+        "displayIconImageId": 722400262,
+        "created": "2017-03-30T01:08:13.573+00:00",
+        "updated": "2024-11-19T19:23:16.617+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 181833,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716433546,
+        "name": "The Pearl",
+        "description": null,
+        "displayName": "The Pearl",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722400895,
+        "displayIconImageId": 722400895,
+        "created": "2017-03-30T01:08:19.683+00:00",
+        "updated": "2024-11-19T19:23:16.617+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 312852,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716433732,
+        "name": "The Abyssal Egg",
+        "description": null,
+        "displayName": "The Abyssal Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722401047,
+        "displayIconImageId": 722401047,
+        "created": "2017-03-30T01:08:30.59+00:00",
+        "updated": "2024-11-19T19:23:16.617+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 211815,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716434157,
+        "name": "Treasure Eggland",
+        "description": null,
+        "displayName": "Treasure Eggland",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722401316,
+        "displayIconImageId": 722401316,
+        "created": "2017-03-30T01:08:59.417+00:00",
+        "updated": "2024-11-19T19:23:16.617+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 488228,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716434267,
+        "name": "Lumineggscence",
+        "description": null,
+        "displayName": "Lumineggscence",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722401742,
+        "displayIconImageId": 722401742,
+        "created": "2017-03-30T01:09:05.527+00:00",
+        "updated": "2024-11-19T19:23:16.619+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2,
+          "awardedCount": 251308,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716434379,
+        "name": "The Eggtopus",
+        "description": null,
+        "displayName": "The Eggtopus",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722401949,
+        "displayIconImageId": 722401949,
+        "created": "2017-03-30T01:09:13.62+00:00",
+        "updated": "2024-11-19T19:23:16.619+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 312361,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716434860,
+        "name": "The Pirate Egg",
+        "description": null,
+        "displayName": "The Pirate Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722402127,
+        "displayIconImageId": 722402127,
+        "created": "2017-03-30T01:09:40.227+00:00",
+        "updated": "2024-11-19T19:23:16.619+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 293495,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716435036,
+        "name": "Aqua Pal of Egglantis",
+        "description": null,
+        "displayName": "Aqua Pal of Egglantis",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722402317,
+        "displayIconImageId": 722402317,
+        "created": "2017-03-30T01:09:47.853+00:00",
+        "updated": "2024-11-19T19:23:16.62+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5,
+          "awardedCount": 654543,
+          "winRatePercentage": 0.086
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716435182,
+        "name": "The FabergEgg",
+        "description": null,
+        "displayName": "The FabergEgg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722402429,
+        "displayIconImageId": 722402429,
+        "created": "2017-03-30T01:09:53.81+00:00",
+        "updated": "2024-11-19T19:23:16.62+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 115895,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716435330,
+        "name": "EBR Egg",
+        "description": null,
+        "displayName": "EBR Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722402735,
+        "displayIconImageId": 722402735,
+        "created": "2017-03-30T01:10:00.31+00:00",
+        "updated": "2024-11-19T19:23:16.62+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 170941,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 716435775,
+        "name": "ROBLOX Egg",
+        "description": null,
+        "displayName": "ROBLOX Egg",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 722402928,
+        "displayIconImageId": 722402928,
+        "created": "2017-03-30T01:10:26.473+00:00",
+        "updated": "2024-11-19T19:23:16.62+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 222737,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      },
+      {
+        "id": 1549980211,
+        "name": "tester1",
+        "description": "hmm",
+        "displayName": "tester1",
+        "displayDescription": "hmm",
+        "enabled": true,
+        "iconImageId": 1549980111,
+        "displayIconImageId": 1549980111,
+        "created": "2018-03-26T22:34:12.957+00:00",
+        "updated": "2024-11-19T19:23:52.713+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 289185728,
+          "name": "Egg Hunt 2017: The Lost Eggs",
+          "rootPlaceId": 715646038
+        }
+      }
+    ]
   }
 }
