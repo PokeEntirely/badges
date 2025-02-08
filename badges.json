@@ -30954,6 +30954,28 @@
           "name": "islanmd",
           "rootPlaceId": 17734719377
         }
+      },
+      {
+        "id": 7462897028478,
+        "name": "hi!!",
+        "description": null,
+        "displayName": "hi!!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 82202534707910,
+        "displayIconImageId": 82202534707910,
+        "created": "2025-02-08T19:54:01.18+00:00",
+        "updated": "2025-02-08T19:54:01.18+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6074594363,
+          "name": "islanmd",
+          "rootPlaceId": 17734719377
+        }
       }
     ]
   },
