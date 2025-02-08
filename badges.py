@@ -159,7 +159,7 @@ async def process_new_badge(session, badge, webhook_sender):
             "name": "New Badge Uploaded",
         },
         "footer": {
-            "text": "Created by Poke",
+            "text": "Made by Poke • @PokeTheMagnific on X",
             "icon_url": "https://i.imgur.com/Od3xppJ.png"
         }
     }
