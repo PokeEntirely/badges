@@ -70005,5 +70005,1703 @@
         }
       }
     ]
+  },
+  "78351145": {
+    "data": [
+      {
+        "id": 174605507,
+        "name": "It's A Blast!",
+        "description": "Join Super Bomb Survival for the first time.",
+        "displayName": "It's A Blast!",
+        "displayDescription": "Join Super Bomb Survival for the first time.",
+        "enabled": true,
+        "iconImageId": 174605441,
+        "displayIconImageId": 174605441,
+        "created": "2014-08-26T19:43:42.323+00:00",
+        "updated": "2024-11-19T19:22:21.488+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4082,
+          "awardedCount": 51204755,
+          "winRatePercentage": 0.551
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174605653,
+        "name": "So Close!!",
+        "description": "Lose in the last 30 seconds of a round.",
+        "displayName": "So Close!!",
+        "displayDescription": "Lose in the last 30 seconds of a round.",
+        "enabled": true,
+        "iconImageId": 174605628,
+        "displayIconImageId": 174605628,
+        "created": "2014-08-26T19:44:27.59+00:00",
+        "updated": "2024-11-19T19:22:21.488+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2007,
+          "awardedCount": 25712031,
+          "winRatePercentage": 0.271
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174605742,
+        "name": "Survivor",
+        "description": "Survive for the entirety of a single round.",
+        "displayName": "Survivor",
+        "displayDescription": "Survive for the entirety of a single round.",
+        "enabled": true,
+        "iconImageId": 174605734,
+        "displayIconImageId": 174605734,
+        "created": "2014-08-26T19:44:55.373+00:00",
+        "updated": "2024-11-19T19:22:21.489+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2687,
+          "awardedCount": 34483936,
+          "winRatePercentage": 0.363
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174605895,
+        "name": "Fuse Rank",
+        "description": "Get 10 wins.",
+        "displayName": "Fuse Rank",
+        "displayDescription": "Get 10 wins.",
+        "enabled": true,
+        "iconImageId": 174605884,
+        "displayIconImageId": 174605884,
+        "created": "2014-08-26T19:45:46.26+00:00",
+        "updated": "2024-11-19T19:22:21.49+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 856,
+          "awardedCount": 9503008,
+          "winRatePercentage": 0.116
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174605966,
+        "name": "Iron Rank",
+        "description": "Get 25 wins.",
+        "displayName": "Iron Rank",
+        "displayDescription": "Get 25 wins.",
+        "enabled": true,
+        "iconImageId": 174605950,
+        "displayIconImageId": 174605950,
+        "created": "2014-08-26T19:46:08.337+00:00",
+        "updated": "2024-11-19T19:22:21.49+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 446,
+          "awardedCount": 4043220,
+          "winRatePercentage": 0.06
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606018,
+        "name": "Nitro Rank",
+        "description": "Get 100 wins.",
+        "displayName": "Nitro Rank",
+        "displayDescription": "Get 100 wins.",
+        "enabled": true,
+        "iconImageId": 174606009,
+        "displayIconImageId": 174606009,
+        "created": "2014-08-26T19:46:27.947+00:00",
+        "updated": "2024-11-19T19:22:21.49+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 150,
+          "awardedCount": 666949,
+          "winRatePercentage": 0.02
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606082,
+        "name": "Crystal Rank",
+        "description": "Get 250 wins.",
+        "displayName": "Crystal Rank",
+        "displayDescription": "Get 250 wins.",
+        "enabled": true,
+        "iconImageId": 174606074,
+        "displayIconImageId": 174606074,
+        "created": "2014-08-26T19:46:49.893+00:00",
+        "updated": "2024-11-19T19:22:21.49+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 58,
+          "awardedCount": 171778,
+          "winRatePercentage": 0.008
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606189,
+        "name": "Brave Yet Dumb",
+        "description": "Touch a nuke before it hits the ground.",
+        "displayName": "Brave Yet Dumb",
+        "displayDescription": "Touch a nuke before it hits the ground.",
+        "enabled": true,
+        "iconImageId": 174606171,
+        "displayIconImageId": 174606171,
+        "created": "2014-08-26T19:47:22.153+00:00",
+        "updated": "2024-11-19T19:22:21.49+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 503,
+          "awardedCount": 3182567,
+          "winRatePercentage": 0.068
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606278,
+        "name": "Hardcore",
+        "description": "Win a round with Hardcore turned on in Options.",
+        "displayName": "Hardcore",
+        "displayDescription": "Win a round with Hardcore turned on in Options.",
+        "enabled": true,
+        "iconImageId": 174606268,
+        "displayIconImageId": 174606268,
+        "created": "2014-08-26T19:47:49.763+00:00",
+        "updated": "2024-11-19T19:22:21.49+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 114,
+          "awardedCount": 1093262,
+          "winRatePercentage": 0.015
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606652,
+        "name": "Taking Credit",
+        "description": "During the game, pick up 100 Credits worth of coins.",
+        "displayName": "Taking Credit",
+        "displayDescription": "During the game, pick up 100 Credits worth of coins.",
+        "enabled": true,
+        "iconImageId": 174606637,
+        "displayIconImageId": 174606637,
+        "created": "2014-08-26T19:49:50.447+00:00",
+        "updated": "2024-11-19T19:22:21.494+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1280,
+          "awardedCount": 5074797,
+          "winRatePercentage": 0.173
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606749,
+        "name": "So Shiny...",
+        "description": "Pick up a fallen Gem during a round.",
+        "displayName": "So Shiny...",
+        "displayDescription": "Pick up a fallen Gem during a round.",
+        "enabled": true,
+        "iconImageId": 174606739,
+        "displayIconImageId": 174606739,
+        "created": "2014-08-26T19:50:21.317+00:00",
+        "updated": "2024-11-19T19:22:21.494+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 690,
+          "awardedCount": 5798696,
+          "winRatePercentage": 0.093
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606817,
+        "name": "Explosive Rookie",
+        "description": "Play Super Bomb Survival for one hour total.",
+        "displayName": "Explosive Rookie",
+        "displayDescription": "Play Super Bomb Survival for one hour total.",
+        "enabled": true,
+        "iconImageId": 174606805,
+        "displayIconImageId": 174606805,
+        "created": "2014-08-26T19:50:48.273+00:00",
+        "updated": "2024-11-19T19:22:21.495+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 902,
+          "awardedCount": 3988526,
+          "winRatePercentage": 0.122
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606898,
+        "name": "Explosive Master",
+        "description": "Play Super Bomb Survival for 10 hours total.",
+        "displayName": "Explosive Master",
+        "displayDescription": "Play Super Bomb Survival for 10 hours total.",
+        "enabled": true,
+        "iconImageId": 174606888,
+        "displayIconImageId": 174606888,
+        "created": "2014-08-26T19:51:13.903+00:00",
+        "updated": "2024-11-19T19:22:21.499+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 134,
+          "awardedCount": 318229,
+          "winRatePercentage": 0.018
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174606991,
+        "name": "Leveling Your Odds",
+        "description": "Level up one of your Skills.",
+        "displayName": "Leveling Your Odds",
+        "displayDescription": "Level up one of your Skills.",
+        "enabled": true,
+        "iconImageId": 174606978,
+        "displayIconImageId": 174606978,
+        "created": "2014-08-26T19:51:41.553+00:00",
+        "updated": "2024-11-19T19:22:21.502+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2471,
+          "awardedCount": 28810328,
+          "winRatePercentage": 0.334
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174607051,
+        "name": "Score!!",
+        "description": "Have a total score of over 1000.",
+        "displayName": "Score!!",
+        "displayDescription": "Have a total score of over 1000.",
+        "enabled": true,
+        "iconImageId": 174607039,
+        "displayIconImageId": 174607039,
+        "created": "2014-08-26T19:52:04.9+00:00",
+        "updated": "2024-11-19T19:22:21.502+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1471,
+          "awardedCount": 13307418,
+          "winRatePercentage": 0.199
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174607152,
+        "name": "Just Gettin' Started",
+        "description": "Play 10 rounds.",
+        "displayName": "Just Gettin' Started",
+        "displayDescription": "Play 10 rounds.",
+        "enabled": true,
+        "iconImageId": 174607143,
+        "displayIconImageId": 174607143,
+        "created": "2014-08-26T19:52:31.183+00:00",
+        "updated": "2024-11-19T19:22:21.508+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1319,
+          "awardedCount": 15935541,
+          "winRatePercentage": 0.178
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174607387,
+        "name": "Back for More",
+        "description": "Return to Super Bomb Survival after playing it before.",
+        "displayName": "Back for More",
+        "displayDescription": "Return to Super Bomb Survival after playing it before.",
+        "enabled": true,
+        "iconImageId": 174607378,
+        "displayIconImageId": 174607378,
+        "created": "2014-08-26T19:53:40.557+00:00",
+        "updated": "2024-11-19T19:22:21.508+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1707,
+          "awardedCount": 22010436,
+          "winRatePercentage": 0.231
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174607466,
+        "name": "Skilled Buyer",
+        "description": "Unlock your first Skill at the Survival Shop.",
+        "displayName": "Skilled Buyer",
+        "displayDescription": "Unlock your first Skill at the Survival Shop.",
+        "enabled": true,
+        "iconImageId": 174607455,
+        "displayIconImageId": 174607455,
+        "created": "2014-08-26T19:54:06.793+00:00",
+        "updated": "2024-11-19T19:22:21.508+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1755,
+          "awardedCount": 17958706,
+          "winRatePercentage": 0.237
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174607542,
+        "name": "Perking Up",
+        "description": "Unlock your first Perk at the Survival Shop.",
+        "displayName": "Perking Up",
+        "displayDescription": "Unlock your first Perk at the Survival Shop.",
+        "enabled": true,
+        "iconImageId": 174607530,
+        "displayIconImageId": 174607530,
+        "created": "2014-08-26T19:54:33.3+00:00",
+        "updated": "2024-11-19T19:22:21.508+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1195,
+          "awardedCount": 8296832,
+          "winRatePercentage": 0.161
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 174607692,
+        "name": "Seasoned Survivor",
+        "description": "Play 100 rounds.",
+        "displayName": "Seasoned Survivor",
+        "displayDescription": "Play 100 rounds.",
+        "enabled": true,
+        "iconImageId": 174607683,
+        "displayIconImageId": 174607683,
+        "created": "2014-08-26T19:55:21.317+00:00",
+        "updated": "2024-11-19T19:22:21.509+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 236,
+          "awardedCount": 1609667,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 203435939,
+        "name": "Nuclear Rank",
+        "description": "Get 1000 wins.",
+        "displayName": "Nuclear Rank",
+        "displayDescription": "Get 1000 wins.",
+        "enabled": true,
+        "iconImageId": 203435938,
+        "displayIconImageId": 203435938,
+        "created": "2015-01-13T05:52:20.543+00:00",
+        "updated": "2024-11-19T19:22:29.764+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 18486,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 220791455,
+        "name": "Hardcore Hero",
+        "description": "Get 10 wins with Hardcore mode on.",
+        "displayName": "Hardcore Hero",
+        "displayDescription": "Get 10 wins with Hardcore mode on.",
+        "enabled": true,
+        "iconImageId": 220791435,
+        "displayIconImageId": 220791435,
+        "created": "2015-02-26T16:22:34.783+00:00",
+        "updated": "2024-11-19T19:22:32.557+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 67,
+          "awardedCount": 230660,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 220791551,
+        "name": "Hardcore Hierophant",
+        "description": "Get 100 wins with Hardcore mode on.",
+        "displayName": "Hardcore Hierophant",
+        "displayDescription": "Get 100 wins with Hardcore mode on.",
+        "enabled": true,
+        "iconImageId": 220791538,
+        "displayIconImageId": 220791538,
+        "created": "2015-02-26T16:22:53.457+00:00",
+        "updated": "2024-11-19T19:22:32.557+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8,
+          "awardedCount": 30233,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 249079143,
+        "name": "Intense",
+        "description": "Clear a round on 4.0 Intensity or higher.",
+        "displayName": "Intense",
+        "displayDescription": "Clear a round on 4.0 Intensity or higher.",
+        "enabled": true,
+        "iconImageId": 249079108,
+        "displayIconImageId": 249079108,
+        "created": "2015-05-16T20:36:41.567+00:00",
+        "updated": "2024-11-19T19:22:37.092+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2298,
+          "awardedCount": 7630340,
+          "winRatePercentage": 0.31
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 249079321,
+        "name": "Intensity Intensifies",
+        "description": "Clear 10 rounds on 5.0 Intensity.",
+        "displayName": "Intensity Intensifies",
+        "displayDescription": "Clear 10 rounds on 5.0 Intensity.",
+        "enabled": true,
+        "iconImageId": 249079289,
+        "displayIconImageId": 249079289,
+        "created": "2015-05-16T20:37:07.723+00:00",
+        "updated": "2024-11-19T19:22:37.092+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 169,
+          "awardedCount": 357015,
+          "winRatePercentage": 0.023
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 249079500,
+        "name": "Unbreakable Spirit",
+        "description": "Clear a round on Hardcore on 4.0 Intensity or higher.",
+        "displayName": "Unbreakable Spirit",
+        "displayDescription": "Clear a round on Hardcore on 4.0 Intensity or higher.",
+        "enabled": true,
+        "iconImageId": 249079482,
+        "displayIconImageId": 249079482,
+        "created": "2015-05-16T20:37:35.243+00:00",
+        "updated": "2024-11-19T19:22:37.093+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 96,
+          "awardedCount": 389326,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 521650824,
+        "name": "Target Practice",
+        "description": "Hit the big target in the lobby.",
+        "displayName": "Target Practice",
+        "displayDescription": "Hit the big target in the lobby.",
+        "enabled": true,
+        "iconImageId": 521650821,
+        "displayIconImageId": 521650821,
+        "created": "2016-10-13T04:23:44.573+00:00",
+        "updated": "2024-11-19T19:23:04.639+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 376,
+          "awardedCount": 5150253,
+          "winRatePercentage": 0.051
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 522109857,
+        "name": "Pizza My Heart",
+        "description": "Eat 200 slices of delicious, cheesy, stuffed-crust pizza.",
+        "displayName": "Pizza My Heart",
+        "displayDescription": "Eat 200 slices of delicious, cheesy, stuffed-crust pizza.",
+        "enabled": true,
+        "iconImageId": 522109842,
+        "displayIconImageId": 522109842,
+        "created": "2016-10-14T01:28:46.767+00:00",
+        "updated": "2024-11-19T19:23:04.691+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 161,
+          "awardedCount": 383999,
+          "winRatePercentage": 0.022
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1603205395,
+        "name": "Orange You Glad?",
+        "description": "Find a banana in the lobby. (Unlocks Banana Skill)",
+        "displayName": "Orange You Glad?",
+        "displayDescription": "Find a banana in the lobby. (Unlocks Banana Skill)",
+        "enabled": true,
+        "iconImageId": 1603205273,
+        "displayIconImageId": 1603205273,
+        "created": "2018-04-11T04:03:47.593+00:00",
+        "updated": "2024-11-19T19:23:55.229+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 428,
+          "awardedCount": 2995462,
+          "winRatePercentage": 0.058
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1627199489,
+        "name": "Checks Mark the Spot",
+        "description": "Complete your Daily and Hourly Challenge.",
+        "displayName": "Checks Mark the Spot",
+        "displayDescription": "Complete your Daily and Hourly Challenge.",
+        "enabled": true,
+        "iconImageId": 1627199379,
+        "displayIconImageId": 1627199379,
+        "created": "2018-04-17T02:52:28.76+00:00",
+        "updated": "2024-11-19T19:23:55.951+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 326,
+          "awardedCount": 1070768,
+          "winRatePercentage": 0.044
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1627277012,
+        "name": "The Main Event",
+        "description": "Grab an Event Icon and start an event.",
+        "displayName": "The Main Event",
+        "displayDescription": "Grab an Event Icon and start an event.",
+        "enabled": true,
+        "iconImageId": 1627301032,
+        "displayIconImageId": 1627301032,
+        "created": "2018-04-17T03:18:02.75+00:00",
+        "updated": "2024-11-19T19:23:55.958+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1044,
+          "awardedCount": 7474062,
+          "winRatePercentage": 0.141
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1777660772,
+        "name": "Streakin'",
+        "description": "Win 3 rounds in a row.",
+        "displayName": "Streakin'",
+        "displayDescription": "Win 3 rounds in a row.",
+        "enabled": true,
+        "iconImageId": 1777660441,
+        "displayIconImageId": 1777660441,
+        "created": "2018-05-15T22:24:10.353+00:00",
+        "updated": "2024-11-19T19:23:59.164+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1382,
+          "awardedCount": 8414632,
+          "winRatePercentage": 0.187
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1777661649,
+        "name": "Consistent",
+        "description": "Win 10 rounds in a row.",
+        "displayName": "Consistent",
+        "displayDescription": "Win 10 rounds in a row.",
+        "enabled": true,
+        "iconImageId": 9207397423,
+        "displayIconImageId": 9207397423,
+        "created": "2018-05-15T22:24:24.353+00:00",
+        "updated": "2024-11-19T19:23:59.164+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 199,
+          "awardedCount": 343561,
+          "winRatePercentage": 0.027
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1778063552,
+        "name": "Supportive",
+        "description": "Use defensive Skills to heal 5 players.",
+        "displayName": "Supportive",
+        "displayDescription": "Use defensive Skills to heal 5 players.",
+        "enabled": true,
+        "iconImageId": 1778182209,
+        "displayIconImageId": 1778182209,
+        "created": "2018-05-16T00:00:39.383+00:00",
+        "updated": "2024-11-19T19:23:59.166+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 146,
+          "awardedCount": 417901,
+          "winRatePercentage": 0.02
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1874298577,
+        "name": "Meddler",
+        "description": "Damage someone with a Bomb-Head explosion.",
+        "displayName": "Meddler",
+        "displayDescription": "Damage someone with a Bomb-Head explosion.",
+        "enabled": true,
+        "iconImageId": 1874298408,
+        "displayIconImageId": 1874298408,
+        "created": "2018-06-02T08:22:29.963+00:00",
+        "updated": "2024-11-19T19:24:00.83+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 353,
+          "awardedCount": 4164514,
+          "winRatePercentage": 0.048
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2124712504,
+        "name": "Fresh Air",
+        "description": "???",
+        "displayName": "Fresh Air",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 6586843938,
+        "displayIconImageId": 6586843938,
+        "created": "2021-03-30T00:30:16.42+00:00",
+        "updated": "2024-11-19T19:28:10.769+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 187,
+          "awardedCount": 509678,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2124712613,
+        "name": "Protected!",
+        "description": "Pick up a Magic Shield or Fire Shield.",
+        "displayName": "Protected!",
+        "displayDescription": "Pick up a Magic Shield or Fire Shield.",
+        "enabled": true,
+        "iconImageId": 6587271995,
+        "displayIconImageId": 6587271995,
+        "created": "2021-03-30T03:01:57.703+00:00",
+        "updated": "2024-11-19T19:28:10.867+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2346,
+          "awardedCount": 5565445,
+          "winRatePercentage": 0.317
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2124722019,
+        "name": "Supercharged!",
+        "description": "Pick up a Supercharge Soda and gain the power of a Level 4 Skill!",
+        "displayName": "Supercharged!",
+        "displayDescription": "Pick up a Supercharge Soda and gain the power of a Level 4 Skill!",
+        "enabled": true,
+        "iconImageId": 6670226104,
+        "displayIconImageId": 6670226104,
+        "created": "2021-04-11T23:14:10.293+00:00",
+        "updated": "2024-11-19T19:28:19.091+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1401,
+          "awardedCount": 3452301,
+          "winRatePercentage": 0.189
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2124722605,
+        "name": "Randomized!",
+        "description": "Win a round with a full Randomizer loadout. (Randomizers unlock in your inventory after getting 5 Skills or 5 Perks)",
+        "displayName": "Randomized!",
+        "displayDescription": "Win a round with a full Randomizer loadout. (Randomizers unlock in your inventory after getting 5 Skills or 5 Perks)",
+        "enabled": true,
+        "iconImageId": 6674102775,
+        "displayIconImageId": 6674102775,
+        "created": "2021-04-12T22:24:42.103+00:00",
+        "updated": "2024-11-19T19:28:19.58+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 105,
+          "awardedCount": 375861,
+          "winRatePercentage": 0.014
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2124722608,
+        "name": "So Random",
+        "description": "Win 10 rounds with a full Randomizer loadout.",
+        "displayName": "So Random",
+        "displayDescription": "Win 10 rounds with a full Randomizer loadout.",
+        "enabled": true,
+        "iconImageId": 6674121781,
+        "displayIconImageId": 6674121781,
+        "created": "2021-04-12T22:30:59.703+00:00",
+        "updated": "2024-11-19T19:28:19.583+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 82,
+          "awardedCount": 173210,
+          "winRatePercentage": 0.011
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2124784440,
+        "name": "Halcyon",
+        "description": "THE QUESTION-MARK REACHES ITS FINAL STAGE / A LOFTY DOOR, UNDER A CRIMSON SKY / MEMORIES RESURFACE FOR YOUR REWARD",
+        "displayName": "Halcyon",
+        "displayDescription": "THE QUESTION-MARK REACHES ITS FINAL STAGE / A LOFTY DOOR, UNDER A CRIMSON SKY / MEMORIES RESURFACE FOR YOUR REWARD",
+        "enabled": true,
+        "iconImageId": 7106200212,
+        "displayIconImageId": 7106200212,
+        "created": "2021-07-16T18:57:42.363+00:00",
+        "updated": "2024-11-19T19:29:13.398+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 61,
+          "awardedCount": 159279,
+          "winRatePercentage": 0.008
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2124788823,
+        "name": "Nostalgic View",
+        "description": "Climb the statue outside.",
+        "displayName": "Nostalgic View",
+        "displayDescription": "Climb the statue outside.",
+        "enabled": true,
+        "iconImageId": 7134195303,
+        "displayIconImageId": 7134195303,
+        "created": "2021-07-22T04:54:26.043+00:00",
+        "updated": "2024-11-19T19:29:17.125+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 472,
+          "awardedCount": 1196880,
+          "winRatePercentage": 0.064
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125060282,
+        "name": "It Tolls, Nonetheless",
+        "description": "Get deleted by a Grimbell while you have a forcefield.",
+        "displayName": "It Tolls, Nonetheless",
+        "displayDescription": "Get deleted by a Grimbell while you have a forcefield.",
+        "enabled": true,
+        "iconImageId": 8981231355,
+        "displayIconImageId": 8981231355,
+        "created": "2022-03-01T20:27:52.807+00:00",
+        "updated": "2024-11-19T19:33:13.344+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 127,
+          "awardedCount": 242526,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125653806,
+        "name": "Bubbled Buddy",
+        "description": "Get trapped in a bubble.",
+        "displayName": "Bubbled Buddy",
+        "displayDescription": "Get trapped in a bubble.",
+        "enabled": true,
+        "iconImageId": 9170770997,
+        "displayIconImageId": 9170770997,
+        "created": "2022-03-22T17:54:10.93+00:00",
+        "updated": "2024-11-19T19:41:48.422+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2015,
+          "awardedCount": 3710837,
+          "winRatePercentage": 0.272
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125653807,
+        "name": "Duck Slap",
+        "description": "Slap a duck with the Smack skill. Unlocks the \"Duck Bomb\" skill.",
+        "displayName": "Duck Slap",
+        "displayDescription": "Slap a duck with the Smack skill. Unlocks the \"Duck Bomb\" skill.",
+        "enabled": true,
+        "iconImageId": 9170771719,
+        "displayIconImageId": 9170771719,
+        "created": "2022-03-22T17:54:20.213+00:00",
+        "updated": "2024-11-19T19:41:48.422+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 74,
+          "awardedCount": 145978,
+          "winRatePercentage": 0.01
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125653809,
+        "name": "Defuser",
+        "description": "Get 100 Skill Points with the Disarm skill.",
+        "displayName": "Defuser",
+        "displayDescription": "Get 100 Skill Points with the Disarm skill.",
+        "enabled": true,
+        "iconImageId": 9170772627,
+        "displayIconImageId": 9170772627,
+        "created": "2022-03-22T17:54:30.923+00:00",
+        "updated": "2024-11-19T19:41:48.422+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 102,
+          "awardedCount": 167753,
+          "winRatePercentage": 0.014
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125668501,
+        "name": "Prize-Winning Gardener",
+        "description": "Get 100 Skill Points with the Heart Flower skill.",
+        "displayName": "Prize-Winning Gardener",
+        "displayDescription": "Get 100 Skill Points with the Heart Flower skill.",
+        "enabled": true,
+        "iconImageId": 9181140508,
+        "displayIconImageId": 9181140508,
+        "created": "2022-03-24T04:35:29.243+00:00",
+        "updated": "2024-11-19T19:42:01.158+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 41,
+          "awardedCount": 83620,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125668581,
+        "name": "Respectful",
+        "description": "Get 100 Skill Points with the Bomb skill.",
+        "displayName": "Respectful",
+        "displayDescription": "Get 100 Skill Points with the Bomb skill.",
+        "enabled": true,
+        "iconImageId": 9181230234,
+        "displayIconImageId": 9181230234,
+        "created": "2022-03-24T05:00:42.35+00:00",
+        "updated": "2024-11-19T19:42:01.25+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 47,
+          "awardedCount": 106347,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125703568,
+        "name": "Sleeping Giant",
+        "description": "Re-activate a decommissioned Destroyer.",
+        "displayName": "Sleeping Giant",
+        "displayDescription": "Re-activate a decommissioned Destroyer.",
+        "enabled": true,
+        "iconImageId": 9207100714,
+        "displayIconImageId": 9207100714,
+        "created": "2022-03-27T01:52:07.103+00:00",
+        "updated": "2024-11-19T19:42:31.626+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 534,
+          "awardedCount": 853121,
+          "winRatePercentage": 0.072
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125703668,
+        "name": "Super Collector",
+        "description": "Collect all (non-exclusive) Skills & Perks.",
+        "displayName": "Super Collector",
+        "displayDescription": "Collect all (non-exclusive) Skills & Perks.",
+        "enabled": true,
+        "iconImageId": 9207847446,
+        "displayIconImageId": 9207847446,
+        "created": "2022-03-27T02:04:23.6+00:00",
+        "updated": "2024-11-19T19:42:31.709+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13,
+          "awardedCount": 18933,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125705682,
+        "name": "Level Headed",
+        "description": "Upgrade all non-exclusive Skills to level 3.",
+        "displayName": "Level Headed",
+        "displayDescription": "Upgrade all non-exclusive Skills to level 3.",
+        "enabled": true,
+        "iconImageId": 9208630860,
+        "displayIconImageId": 9208630860,
+        "created": "2022-03-27T06:05:15.6+00:00",
+        "updated": "2024-11-19T19:42:33.441+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 23,
+          "awardedCount": 24386,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125739019,
+        "name": "Zombie Slayer",
+        "description": "Defeat a zombie with Healing Pulse.",
+        "displayName": "Zombie Slayer",
+        "displayDescription": "Defeat a zombie with Healing Pulse.",
+        "enabled": true,
+        "iconImageId": 9232301438,
+        "displayIconImageId": 9232301438,
+        "created": "2022-03-30T01:48:53.887+00:00",
+        "updated": "2024-11-19T19:43:02.408+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 78,
+          "awardedCount": 140068,
+          "winRatePercentage": 0.011
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125739030,
+        "name": "Grim Consequences",
+        "description": "Disarm a Grimbell.",
+        "displayName": "Grim Consequences",
+        "displayDescription": "Disarm a Grimbell.",
+        "enabled": true,
+        "iconImageId": 9232305657,
+        "displayIconImageId": 9232305657,
+        "created": "2022-03-30T01:49:40.32+00:00",
+        "updated": "2024-11-19T19:43:02.412+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 116,
+          "awardedCount": 194138,
+          "winRatePercentage": 0.016
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125746852,
+        "name": "Slippin' Slide",
+        "description": "Go down all 3 slides in the lobby while ragdolling.",
+        "displayName": "Slippin' Slide",
+        "displayDescription": "Go down all 3 slides in the lobby while ragdolling.",
+        "enabled": true,
+        "iconImageId": 9237704753,
+        "displayIconImageId": 9237704753,
+        "created": "2022-03-30T19:19:05.44+00:00",
+        "updated": "2024-11-19T19:43:09.165+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 141,
+          "awardedCount": 301903,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125747077,
+        "name": "No Harm Done",
+        "description": "Survive a round on 5.0 Intensity without taking any damage.",
+        "displayName": "No Harm Done",
+        "displayDescription": "Survive a round on 5.0 Intensity without taking any damage.",
+        "enabled": true,
+        "iconImageId": 9237860196,
+        "displayIconImageId": 9237860196,
+        "created": "2022-03-30T19:47:36.513+00:00",
+        "updated": "2024-11-19T19:43:09.365+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 197,
+          "awardedCount": 302401,
+          "winRatePercentage": 0.027
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2125747086,
+        "name": "Indomitable",
+        "description": "Survive a round after taking at least 200 total damage.",
+        "displayName": "Indomitable",
+        "displayDescription": "Survive a round after taking at least 200 total damage.",
+        "enabled": true,
+        "iconImageId": 9237913108,
+        "displayIconImageId": 9237913108,
+        "created": "2022-03-30T19:48:19.597+00:00",
+        "updated": "2024-11-19T19:43:09.367+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 221,
+          "awardedCount": 278886,
+          "winRatePercentage": 0.03
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2132599781,
+        "name": "Obsidian Toilet",
+        "description": "Obsidian Toilet.",
+        "displayName": "Obsidian Toilet",
+        "displayDescription": "Obsidian Toilet.",
+        "enabled": true,
+        "iconImageId": 12254000479,
+        "displayIconImageId": 12254000479,
+        "created": "2023-01-24T01:28:34.173+00:00",
+        "updated": "2024-11-20T18:09:56.792+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 34,
+          "awardedCount": 43965,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2132601100,
+        "name": "Ragdoll Rebel",
+        "description": "Ragdoll ingame for a full minute.",
+        "displayName": "Ragdoll Rebel",
+        "displayDescription": "Ragdoll ingame for a full minute.",
+        "enabled": true,
+        "iconImageId": 12254173468,
+        "displayIconImageId": 12254173468,
+        "created": "2023-01-24T01:54:06.8+00:00",
+        "updated": "2024-11-20T18:09:58.056+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1523,
+          "awardedCount": 422275,
+          "winRatePercentage": 0.206
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2132601642,
+        "name": "Obsidian Sittin'",
+        "description": "Create an obsidian platform on lava using an ice explosion.",
+        "displayName": "Obsidian Sittin'",
+        "displayDescription": "Create an obsidian platform on lava using an ice explosion.",
+        "enabled": true,
+        "iconImageId": 12254242448,
+        "displayIconImageId": 12254242448,
+        "created": "2023-01-24T02:04:16.657+00:00",
+        "updated": "2024-11-20T18:09:58.521+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 370,
+          "awardedCount": 405744,
+          "winRatePercentage": 0.05
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2132603326,
+        "name": "Icebreaker",
+        "description": "Free someone trapped in an ice crystal.",
+        "displayName": "Icebreaker",
+        "displayDescription": "Free someone trapped in an ice crystal.",
+        "enabled": true,
+        "iconImageId": 12254455083,
+        "displayIconImageId": 12254455083,
+        "created": "2023-01-24T02:36:45.907+00:00",
+        "updated": "2024-11-20T18:10:00.115+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 182,
+          "awardedCount": 236703,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144233590,
+        "name": "Super Explorer",
+        "description": "Win a round on every map in the game.",
+        "displayName": "Super Explorer",
+        "displayDescription": "Win a round on every map in the game.",
+        "enabled": true,
+        "iconImageId": 13166958284,
+        "displayIconImageId": 13166958284,
+        "created": "2023-04-17T21:19:55.023+00:00",
+        "updated": "2024-11-20T21:17:24.585+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 23,
+          "awardedCount": 21814,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144288248,
+        "name": "Exhausted",
+        "description": "Use a Skill 15 times in one round.",
+        "displayName": "Exhausted",
+        "displayDescription": "Use a Skill 15 times in one round.",
+        "enabled": true,
+        "iconImageId": 13175927888,
+        "displayIconImageId": 13175927888,
+        "created": "2023-04-18T22:09:26.89+00:00",
+        "updated": "2024-11-20T21:18:13.067+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 234,
+          "awardedCount": 153670,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144288254,
+        "name": "Trash Enjoyer",
+        "description": "Eat a Cursed Pizza somehow.",
+        "displayName": "Trash Enjoyer",
+        "displayDescription": "Eat a Cursed Pizza somehow.",
+        "enabled": true,
+        "iconImageId": 13175929861,
+        "displayIconImageId": 13175929861,
+        "created": "2023-04-18T22:09:44.483+00:00",
+        "updated": "2024-11-20T21:18:13.077+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 55,
+          "awardedCount": 64678,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144288269,
+        "name": "Spelunker",
+        "description": "Collect 50 items from caves.",
+        "displayName": "Spelunker",
+        "displayDescription": "Collect 50 items from caves.",
+        "enabled": true,
+        "iconImageId": 13175932867,
+        "displayIconImageId": 13175932867,
+        "created": "2023-04-18T22:10:14.25+00:00",
+        "updated": "2024-11-20T21:18:13.085+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 291,
+          "awardedCount": 198079,
+          "winRatePercentage": 0.039
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144288297,
+        "name": "Tough Stuff",
+        "description": "Have 250 max health.",
+        "displayName": "Tough Stuff",
+        "displayDescription": "Have 250 max health.",
+        "enabled": true,
+        "iconImageId": 13176169911,
+        "displayIconImageId": 13176169911,
+        "created": "2023-04-18T22:11:15.657+00:00",
+        "updated": "2024-11-20T21:18:13.109+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 39,
+          "awardedCount": 35127,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144289188,
+        "name": "Stressed Out",
+        "description": "Survive for 30 seconds at 5 Health.",
+        "displayName": "Stressed Out",
+        "displayDescription": "Survive for 30 seconds at 5 Health.",
+        "enabled": true,
+        "iconImageId": 13176159961,
+        "displayIconImageId": 13176159961,
+        "created": "2023-04-18T22:46:24.65+00:00",
+        "updated": "2024-11-20T21:18:13.887+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 754,
+          "awardedCount": 729802,
+          "winRatePercentage": 0.102
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144689377,
+        "name": "Purple Prize",
+        "description": "Collect a rare Purple Coin.",
+        "displayName": "Purple Prize",
+        "displayDescription": "Collect a rare Purple Coin.",
+        "enabled": true,
+        "iconImageId": 13252704041,
+        "displayIconImageId": 13252704041,
+        "created": "2023-04-25T21:20:03.06+00:00",
+        "updated": "2024-11-20T21:24:10.875+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 338,
+          "awardedCount": 324722,
+          "winRatePercentage": 0.046
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144689379,
+        "name": "Super Liminal",
+        "description": "???",
+        "displayName": "Super Liminal",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 13252705693,
+        "displayIconImageId": 13252705693,
+        "created": "2023-04-25T21:20:15.893+00:00",
+        "updated": "2024-11-20T21:24:10.883+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 239,
+          "awardedCount": 248380,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144689453,
+        "name": "Fearless",
+        "description": "Win a round on 6.0 Intensity.",
+        "displayName": "Fearless",
+        "displayDescription": "Win a round on 6.0 Intensity.",
+        "enabled": true,
+        "iconImageId": 13252726495,
+        "displayIconImageId": 13252726495,
+        "created": "2023-04-25T21:23:36.023+00:00",
+        "updated": "2024-11-20T21:24:10.945+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 129,
+          "awardedCount": 147676,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2144689474,
+        "name": "6.0 Hero",
+        "description": "Win 100 rounds on 6.0 Intensity.",
+        "displayName": "6.0 Hero",
+        "displayDescription": "Win 100 rounds on 6.0 Intensity.",
+        "enabled": true,
+        "iconImageId": 13252730819,
+        "displayIconImageId": 13252730819,
+        "created": "2023-04-25T21:24:23.397+00:00",
+        "updated": "2024-11-20T21:24:10.961+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9,
+          "awardedCount": 7172,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2151462823,
+        "name": "Musical Mind",
+        "description": "What a familiar tune!",
+        "displayName": "Musical Mind",
+        "displayDescription": "What a familiar tune!",
+        "enabled": true,
+        "iconImageId": 14684676076,
+        "displayIconImageId": 14684676076,
+        "created": "2023-09-03T18:03:16.31+00:00",
+        "updated": "2024-11-21T01:04:51.886+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 68,
+          "awardedCount": 70472,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 3123260076444555,
+        "name": "Sweetheart",
+        "description": "Use Gift Wrap to give a Heart to another player.",
+        "displayName": "Sweetheart",
+        "displayDescription": "Use Gift Wrap to give a Heart to another player.",
+        "enabled": true,
+        "iconImageId": 16042717058,
+        "displayIconImageId": 16042717058,
+        "created": "2024-01-20T02:53:38.664+00:00",
+        "updated": "2024-11-20T21:04:17.999+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 50,
+          "awardedCount": 26057,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 895970074124458,
+        "name": "World Destroyer",
+        "description": "Somehow capture & release an Ultimate Destroyer with Gift Wrap.",
+        "displayName": "World Destroyer",
+        "displayDescription": "Somehow capture & release an Ultimate Destroyer with Gift Wrap.",
+        "enabled": true,
+        "iconImageId": 16042718327,
+        "displayIconImageId": 16042718327,
+        "created": "2024-01-20T02:53:48.933+00:00",
+        "updated": "2024-11-20T03:56:35.794+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 48,
+          "awardedCount": 18607,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1995620351640687,
+        "name": "Elemental",
+        "description": "Have all 3 Shield types at the same time.",
+        "displayName": "Elemental",
+        "displayDescription": "Have all 3 Shield types at the same time.",
+        "enabled": true,
+        "iconImageId": 16145524000,
+        "displayIconImageId": 16145524000,
+        "created": "2024-01-28T04:39:33.122+00:00",
+        "updated": "2024-11-20T03:17:07.54+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 604,
+          "awardedCount": 264842,
+          "winRatePercentage": 0.082
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 837624094482997,
+        "name": "Infinite",
+        "description": "Collect an ever-respawning Infinity Soda.",
+        "displayName": "Infinite",
+        "displayDescription": "Collect an ever-respawning Infinity Soda.",
+        "enabled": true,
+        "iconImageId": 16145528425,
+        "displayIconImageId": 16145528425,
+        "created": "2024-01-28T04:40:04.444+00:00",
+        "updated": "2024-11-20T03:35:29.2+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 758,
+          "awardedCount": 331715,
+          "winRatePercentage": 0.102
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 2543917557304951,
+        "name": "April's Fool",
+        "description": "Touch a Fake Event Icon during the April Fool's Day event.",
+        "displayName": "April's Fool",
+        "displayDescription": "Touch a Fake Event Icon during the April Fool's Day event.",
+        "enabled": true,
+        "iconImageId": 16975997012,
+        "displayIconImageId": 16975997012,
+        "created": "2024-04-01T21:42:53.304+00:00",
+        "updated": "2024-11-20T11:50:56.167+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 50374,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      },
+      {
+        "id": 1707119364975318,
+        "name": "Wastelander",
+        "description": "Restore 100 HP with the Gas Mask perk during a round.",
+        "displayName": "Wastelander",
+        "displayDescription": "Restore 100 HP with the Gas Mask perk during a round.",
+        "enabled": true,
+        "iconImageId": 17208075678,
+        "displayIconImageId": 17208075678,
+        "created": "2024-04-19T19:46:11.429+00:00",
+        "updated": "2024-11-19T22:45:18.305+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 78,
+          "awardedCount": 32004,
+          "winRatePercentage": 0.011
+        },
+        "awardingUniverse": {
+          "id": 78351145,
+          "name": "Super Bomb Survival",
+          "rootPlaceId": 164051105
+        }
+      }
+    ]
   }
 }
