@@ -30884,6 +30884,28 @@
           "name": "[\ud83d\udd25 MASTERY] Heroes Battlegrounds",
           "rootPlaceId": 13076380114
         }
+      },
+      {
+        "id": 1333790445664317,
+        "name": "Violet Inferno",
+        "description": "Unlocked Azure Flame's Mastery through quests.",
+        "displayName": "Violet Inferno",
+        "displayDescription": "Unlocked Azure Flame's Mastery through quests.",
+        "enabled": true,
+        "iconImageId": 115784280506216,
+        "displayIconImageId": 115784280506216,
+        "created": "2025-02-02T03:38:38.967+00:00",
+        "updated": "2025-02-09T19:09:51.661+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1174,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4568630521,
+          "name": "[UPD] Heroes Battlegrounds",
+          "rootPlaceId": 13076380114
+        }
       }
     ]
   },
