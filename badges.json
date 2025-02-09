@@ -66519,5 +66519,3491 @@
         }
       }
     ]
+  },
+  "2729513759": {
+    "data": [
+      {
+        "id": 2124780868,
+        "name": "Welcome!",
+        "description": "You get this upon playing Speed Draw! for the first time!",
+        "displayName": "Welcome!",
+        "displayDescription": "You get this upon playing Speed Draw! for the first time!",
+        "enabled": true,
+        "iconImageId": 8435337097,
+        "displayIconImageId": 8435337097,
+        "created": "2021-07-10T16:59:44.073+00:00",
+        "updated": "2025-01-16T03:33:25.945+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 208110,
+          "awardedCount": 234956665,
+          "winRatePercentage": 0.871
+        },
+        "awardingUniverse": {
+          "id": 2729513759,
+          "name": "Speed Draw! ",
+          "rootPlaceId": 7074772062
+        }
+      },
+      {
+        "id": 2124780869,
+        "name": "First Place",
+        "description": "Congrats, you got first place!",
+        "displayName": "First Place",
+        "displayDescription": "Congrats, you got first place!",
+        "enabled": true,
+        "iconImageId": 8435402322,
+        "displayIconImageId": 8435402322,
+        "created": "2021-07-10T17:00:24.79+00:00",
+        "updated": "2024-11-19T19:29:10.281+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 69338,
+          "awardedCount": 82636293,
+          "winRatePercentage": 0.29
+        },
+        "awardingUniverse": {
+          "id": 2729513759,
+          "name": "Speed Draw! ",
+          "rootPlaceId": 7074772062
+        }
+      },
+      {
+        "id": 2124780876,
+        "name": "5 Star Review ",
+        "description": "Congratulations, all players in the server have awarded your artwork with a 5 star rating! (requires a full server)",
+        "displayName": "5 Star Review ",
+        "displayDescription": "Congratulations, all players in the server have awarded your artwork with a 5 star rating! (requires a full server)",
+        "enabled": true,
+        "iconImageId": 7075218427,
+        "displayIconImageId": 7075218427,
+        "created": "2021-07-10T17:05:18.507+00:00",
+        "updated": "2024-11-19T19:29:10.284+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 20937,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2729513759,
+          "name": "Speed Draw! ",
+          "rootPlaceId": 7074772062
+        }
+      }
+    ]
+  },
+  "4342047058": {
+    "data": [
+      {
+        "id": 2135317030,
+        "name": "Old Yeller",
+        "description": "Put a survivor who's broken their legs out of their misery.",
+        "displayName": "Old Yeller",
+        "displayDescription": "Put a survivor who's broken their legs out of their misery.",
+        "enabled": true,
+        "iconImageId": 118278917392840,
+        "displayIconImageId": 118278917392840,
+        "created": "2023-01-31T06:58:33.643+00:00",
+        "updated": "2024-11-20T18:50:49.98+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1115,
+          "awardedCount": 539394,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2135317177,
+        "name": "Cold Front",
+        "description": "Successfully escape Vardohus Fortress in objective mode IN ONE LIFE.",
+        "displayName": "Cold Front",
+        "displayDescription": "Successfully escape Vardohus Fortress in objective mode IN ONE LIFE.",
+        "enabled": true,
+        "iconImageId": 80991364861409,
+        "displayIconImageId": 80991364861409,
+        "created": "2023-01-31T06:58:56.22+00:00",
+        "updated": "2024-11-20T18:50:50.103+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1318,
+          "awardedCount": 947009,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2141000564,
+        "name": "Explosive Retreat",
+        "description": "Successfully escape Leipzig in objective mode IN ONE LIFE.",
+        "displayName": "Explosive Retreat",
+        "displayDescription": "Successfully escape Leipzig in objective mode IN ONE LIFE.",
+        "enabled": true,
+        "iconImageId": 12475548879,
+        "displayIconImageId": 12475548879,
+        "created": "2023-02-13T09:40:12.687+00:00",
+        "updated": "2024-11-20T20:28:41.95+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2301,
+          "awardedCount": 923764,
+          "winRatePercentage": 0.015
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2141168889,
+        "name": "Slight Miscalculation",
+        "description": "Get blown up by the bridge explosion in Leipzig. ",
+        "displayName": "Slight Miscalculation",
+        "displayDescription": "Get blown up by the bridge explosion in Leipzig. ",
+        "enabled": true,
+        "iconImageId": 12630428135,
+        "displayIconImageId": 12630428135,
+        "created": "2023-02-16T21:49:41.037+00:00",
+        "updated": "2024-11-20T20:31:16.695+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1760,
+          "awardedCount": 731704,
+          "winRatePercentage": 0.012
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2145539312,
+        "name": "Recruited by The Empire Of the Dead ",
+        "description": "By dying in the Paris Catacombs your body becomes part of the Empire of The Dead.",
+        "displayName": "Recruited by The Empire Of the Dead ",
+        "displayDescription": "By dying in the Paris Catacombs your body becomes part of the Empire of The Dead.",
+        "enabled": true,
+        "iconImageId": 13413372118,
+        "displayIconImageId": 13413372118,
+        "created": "2023-05-11T19:16:23.723+00:00",
+        "updated": "2024-11-20T21:36:59.602+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3754,
+          "awardedCount": 1618023,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2145540410,
+        "name": "Deliverance from the Catacombs",
+        "description": "Successfully escape Catacombes de Paris in objective mode IN ONE LIFE.",
+        "displayName": "Deliverance from the Catacombs",
+        "displayDescription": "Successfully escape Catacombes de Paris in objective mode IN ONE LIFE.",
+        "enabled": true,
+        "iconImageId": 13466253334,
+        "displayIconImageId": 13466253334,
+        "created": "2023-05-11T20:08:02.25+00:00",
+        "updated": "2024-11-20T21:37:00.562+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1678,
+          "awardedCount": 964646,
+          "winRatePercentage": 0.011
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2149492872,
+        "name": "Soldats de ma Vieille Garde",
+        "description": "(Badge may require to rejoin, or to press P multiple times)\nIn order to get this badge, you must complete the following tasks:\n\n1. Get a KDR of 10 or above.\n2. Save 51 teammates from being grabbed by a zombie.\n3. Stay alive for 35 rounds, without restarting, on Endless. It can start at any wave, just as long as you stay alive for 35 rounds in total.\n4. Win 30 times or above in the campaign mode.\n5. Acquire the following badges: Old Yeller, Cold Front, Explosive Retreat, and Deliverance from the Catacombs.\n\nThis unlocks the Old Guard Regiment under France.",
+        "displayName": "Soldats de ma Vieille Garde",
+        "displayDescription": "(Badge may require to rejoin, or to press P multiple times)\nIn order to get this badge, you must complete the following tasks:\n\n1. Get a KDR of 10 or above.\n2. Save 51 teammates from being grabbed by a zombie.\n3. Stay alive for 35 rounds, without restarting, on Endless. It can start at any wave, just as long as you stay alive for 35 rounds in total.\n4. Win 30 times or above in the campaign mode.\n5. Acquire the following badges: Old Yeller, Cold Front, Explosive Retreat, and Deliverance from the Catacombs.\n\nThis unlocks the Old Guard Regiment under France.",
+        "enabled": true,
+        "iconImageId": 14390913484,
+        "displayIconImageId": 14390913484,
+        "created": "2023-07-31T23:28:09.467+00:00",
+        "updated": "2024-11-20T23:47:50.517+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 355,
+          "awardedCount": 105439,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2149670646,
+        "name": "Forlorn Hope",
+        "description": "Successfully escape San Sebasti\u00e1n in objective mode IN ONE LIFE.",
+        "displayName": "Forlorn Hope",
+        "displayDescription": "Successfully escape San Sebasti\u00e1n in objective mode IN ONE LIFE.",
+        "enabled": true,
+        "iconImageId": 14304622534,
+        "displayIconImageId": 14304622534,
+        "created": "2023-08-03T21:21:56.55+00:00",
+        "updated": "2024-11-20T23:54:48.946+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1542,
+          "awardedCount": 657051,
+          "winRatePercentage": 0.01
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2149861668,
+        "name": "Vos Enterrement",
+        "description": "Lower the platform for your team using the winch so they can escape on San Sebasti\u00e1n.",
+        "displayName": "Vos Enterrement",
+        "displayDescription": "Lower the platform for your team using the winch so they can escape on San Sebasti\u00e1n.",
+        "enabled": true,
+        "iconImageId": 14343581300,
+        "displayIconImageId": 14343581300,
+        "created": "2023-08-07T00:52:47.183+00:00",
+        "updated": "2024-11-21T00:02:18.864+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1259,
+          "awardedCount": 559127,
+          "winRatePercentage": 0.008
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2150105222,
+        "name": "GIVE 'EM STEEL",
+        "description": "Kill 10 zombies with the Bayonet charge only. \nRequires Officer's \"Charge\" ability to be active.",
+        "displayName": "GIVE 'EM STEEL",
+        "displayDescription": "Kill 10 zombies with the Bayonet charge only. \nRequires Officer's \"Charge\" ability to be active.",
+        "enabled": true,
+        "iconImageId": 14390963754,
+        "displayIconImageId": 14390963754,
+        "created": "2023-08-11T02:19:04.577+00:00",
+        "updated": "2024-11-21T00:11:52.238+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 796,
+          "awardedCount": 252345,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2150105286,
+        "name": "NO, FREDERICK!",
+        "description": "Hit (and most likely die) to a bomber while in a Bayonet charge.\nRequires Officer's \"Charge\" ability to be active.",
+        "displayName": "NO, FREDERICK!",
+        "displayDescription": "Hit (and most likely die) to a bomber while in a Bayonet charge.\nRequires Officer's \"Charge\" ability to be active.",
+        "enabled": true,
+        "iconImageId": 14391240070,
+        "displayIconImageId": 14391240070,
+        "created": "2023-08-11T02:21:20.247+00:00",
+        "updated": "2024-11-21T00:11:52.388+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1219,
+          "awardedCount": 335287,
+          "winRatePercentage": 0.008
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2152744338,
+        "name": "Soldier's Grace",
+        "description": "Given to those whom sacrificed themselves for the betterment of their fellow soldier.\nObtaining this badge unlocks Chaplain and the Cross Necklace.\n\nTo unlock this achievement, you must:\n- Save 150 teammates from being grabbed.\n- Kill 75 runners pinning your teammate.\n- Obtain the badge \"Vos Enterrement\".\n- Heal teammates over 50 times (as Surgeon).\n",
+        "displayName": "Soldier's Grace",
+        "displayDescription": "Given to those whom sacrificed themselves for the betterment of their fellow soldier.\nObtaining this badge unlocks Chaplain and the Cross Necklace.\n\nTo unlock this achievement, you must:\n- Save 150 teammates from being grabbed.\n- Kill 75 runners pinning your teammate.\n- Obtain the badge \"Vos Enterrement\".\n- Heal teammates over 50 times (as Surgeon).\n",
+        "enabled": true,
+        "iconImageId": 14949916072,
+        "displayIconImageId": 14949916072,
+        "created": "2023-10-02T09:19:58.317+00:00",
+        "updated": "2024-11-21T01:54:52.177+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 891,
+          "awardedCount": 362981,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2152744362,
+        "name": "Glory to the Survivors",
+        "description": "Survive a campaign map (with the exception of Vardohus Fortress) with half of the server (10 players total) still on their first life.\nRequires 10+ players in order to obtain.\n\nObtaining this badge unlocks the Battle Scar accessory.",
+        "displayName": "Glory to the Survivors",
+        "displayDescription": "Survive a campaign map (with the exception of Vardohus Fortress) with half of the server (10 players total) still on their first life.\nRequires 10+ players in order to obtain.\n\nObtaining this badge unlocks the Battle Scar accessory.",
+        "enabled": true,
+        "iconImageId": 14947772521,
+        "displayIconImageId": 14947772521,
+        "created": "2023-10-02T09:21:15.18+00:00",
+        "updated": "2024-11-21T01:54:52.233+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1778,
+          "awardedCount": 721414,
+          "winRatePercentage": 0.012
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 2153260837,
+        "name": "For Whom The Bell Tolls",
+        "description": "Beat the Halloween map \"Sleepy Hollow\" without dying.\n\nObtaining this badge unlocks the Jack-o'-lantern Utility.",
+        "displayName": "For Whom The Bell Tolls",
+        "displayDescription": "Beat the Halloween map \"Sleepy Hollow\" without dying.\n\nObtaining this badge unlocks the Jack-o'-lantern Utility.",
+        "enabled": true,
+        "iconImageId": 15082185624,
+        "displayIconImageId": 15082185624,
+        "created": "2023-10-14T23:03:34.17+00:00",
+        "updated": "2024-11-19T20:20:30.591+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 243205,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 4067857183776782,
+        "name": "Confederation of the Undead",
+        "description": "Successfully survive Kaub in objective mode IN ONE LIFE.",
+        "displayName": "Confederation of the Undead",
+        "displayDescription": "Successfully survive Kaub in objective mode IN ONE LIFE.",
+        "enabled": true,
+        "iconImageId": 15889398149,
+        "displayIconImageId": 15889398149,
+        "created": "2023-12-22T08:54:42.785+00:00",
+        "updated": "2024-11-21T05:17:51.724+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 914,
+          "awardedCount": 416715,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 4274021500128099,
+        "name": "Beresinalied",
+        "description": "Successfully defend/build the bridge in Berezina. This badge is based off contribution to building the bridge, or doing enough to support your team.",
+        "displayName": "Beresinalied",
+        "displayDescription": "Successfully defend/build the bridge in Berezina. This badge is based off contribution to building the bridge, or doing enough to support your team.",
+        "enabled": true,
+        "iconImageId": 17123504513,
+        "displayIconImageId": 17123504513,
+        "created": "2024-04-03T06:15:26.865+00:00",
+        "updated": "2024-11-21T08:38:05.674+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 750,
+          "awardedCount": 310678,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 3426925391633020,
+        "name": "Dur \u00e0 Cuire",
+        "description": "Rewards you with the 1e Grenadiers.\n\nRequirements:\n10 hours of playtime\n2000 kills\n20 campaign wins",
+        "displayName": "Dur \u00e0 Cuire",
+        "displayDescription": "Rewards you with the 1e Grenadiers.\n\nRequirements:\n10 hours of playtime\n2000 kills\n20 campaign wins",
+        "enabled": true,
+        "iconImageId": 17259627630,
+        "displayIconImageId": 17259627630,
+        "created": "2024-04-06T08:15:43.969+00:00",
+        "updated": "2024-11-21T01:56:06.011+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1036,
+          "awardedCount": 402645,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 4366647684892586,
+        "name": "The Most Terrible Night",
+        "description": "Successfully escape Copenhagen in objective mode IN ONE LIFE.",
+        "displayName": "The Most Terrible Night",
+        "displayDescription": "Successfully escape Copenhagen in objective mode IN ONE LIFE.",
+        "enabled": true,
+        "iconImageId": 18242080824,
+        "displayIconImageId": 18242080824,
+        "created": "2024-06-09T08:38:02.846+00:00",
+        "updated": "2024-11-21T10:09:48.988+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 508,
+          "awardedCount": 207167,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 3440369202632995,
+        "name": "Rule Britannia!",
+        "description": "Britannia rules the canal!\n\nDie to the crew of the British Brig-Sloop in Copenhagen in Objective Mode.",
+        "displayName": "Rule Britannia!",
+        "displayDescription": "Britannia rules the canal!\n\nDie to the crew of the British Brig-Sloop in Copenhagen in Objective Mode.",
+        "enabled": true,
+        "iconImageId": 18209498555,
+        "displayIconImageId": 18209498555,
+        "created": "2024-06-09T08:39:22.271+00:00",
+        "updated": "2024-11-21T02:09:22.664+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 636,
+          "awardedCount": 255706,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 3353623664586041,
+        "name": "If I Had a Brain",
+        "description": "Get crushed by the falling drawbridge in Kaub.",
+        "displayName": "If I Had a Brain",
+        "displayDescription": "Get crushed by the falling drawbridge in Kaub.",
+        "enabled": true,
+        "iconImageId": 17813551334,
+        "displayIconImageId": 17813551334,
+        "created": "2024-06-11T02:18:23.882+00:00",
+        "updated": "2024-11-21T00:43:39.227+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 408,
+          "awardedCount": 131312,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 1019642655158068,
+        "name": "Stop that useless noise!",
+        "description": "\"You'll hurt yourself.\"",
+        "displayName": "Stop that useless noise!",
+        "displayDescription": "\"You'll hurt yourself.\"",
+        "enabled": true,
+        "iconImageId": 18193980696,
+        "displayIconImageId": 18193980696,
+        "created": "2024-06-24T18:29:56.687+00:00",
+        "updated": "2024-11-20T04:39:29.792+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1457,
+          "awardedCount": 384109,
+          "winRatePercentage": 0.01
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 4216601446154650,
+        "name": "Don't Give Up the Ship",
+        "description": "Successfully escape Roscoff in objective mode IN ONE LIFE.",
+        "displayName": "Don't Give Up the Ship",
+        "displayDescription": "Successfully escape Roscoff in objective mode IN ONE LIFE.",
+        "enabled": true,
+        "iconImageId": 81700779602336,
+        "displayIconImageId": 81700779602336,
+        "created": "2024-12-19T20:47:51.138+00:00",
+        "updated": "2024-12-20T21:46:24.463+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1040,
+          "awardedCount": 93763,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 912959112985644,
+        "name": "Search and Rescue",
+        "description": "Successfully escort the diplomat and escape Roscoff alive, playing from the beginning of the map. ",
+        "displayName": "Search and Rescue",
+        "displayDescription": "Successfully escort the diplomat and escape Roscoff alive, playing from the beginning of the map. ",
+        "enabled": true,
+        "iconImageId": 122793123618962,
+        "displayIconImageId": 122793123618962,
+        "created": "2024-12-19T20:48:05.588+00:00",
+        "updated": "2024-12-20T21:46:28.201+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1155,
+          "awardedCount": 102956,
+          "winRatePercentage": 0.008
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder",
+          "rootPlaceId": 12334109280
+        }
+      }
+    ]
+  },
+  "1709917610": {
+    "data": [
+      {
+        "id": 2124851042,
+        "name": "YOU BEAT THE OBBY",
+        "description": "yayay!!",
+        "displayName": "YOU BEAT THE OBBY",
+        "displayDescription": "yayay!!",
+        "enabled": true,
+        "iconImageId": 13611366329,
+        "displayIconImageId": 13611366329,
+        "created": "2021-10-28T10:58:55.807+00:00",
+        "updated": "2024-11-19T19:30:11.136+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5361,
+          "awardedCount": 2636069,
+          "winRatePercentage": 0.047
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2124851045,
+        "name": "YOU JOINED",
+        "description": "woo woo awesum :P",
+        "displayName": "YOU JOINED",
+        "displayDescription": "woo woo awesum :P",
+        "enabled": true,
+        "iconImageId": 13611362042,
+        "displayIconImageId": 13611362042,
+        "created": "2021-10-28T11:05:05.627+00:00",
+        "updated": "2024-11-19T19:30:11.137+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 42794,
+          "awardedCount": 18097282,
+          "winRatePercentage": 0.375
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2125612772,
+        "name": "UNFORTUNATE DISCOVERY",
+        "description": "you don't belong here.",
+        "displayName": "UNFORTUNATE DISCOVERY",
+        "displayDescription": "you don't belong here.",
+        "enabled": true,
+        "iconImageId": 9155675929,
+        "displayIconImageId": 9155675929,
+        "created": "2022-03-20T17:55:36.8+00:00",
+        "updated": "2024-11-19T19:41:12.749+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1605,
+          "awardedCount": 876996,
+          "winRatePercentage": 0.014
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2125643702,
+        "name": "BULLSEYE",
+        "description": "ayy u hit the middle part of the target ^^",
+        "displayName": "BULLSEYE",
+        "displayDescription": "ayy u hit the middle part of the target ^^",
+        "enabled": true,
+        "iconImageId": 13611358672,
+        "displayIconImageId": 13611358672,
+        "created": "2022-03-21T21:06:08.553+00:00",
+        "updated": "2024-11-19T19:41:39.752+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12686,
+          "awardedCount": 5157581,
+          "winRatePercentage": 0.111
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2146518597,
+        "name": "INNER PEACE",
+        "description": "No one destroyed anything in the birthday apartment, all is well!",
+        "displayName": "INNER PEACE",
+        "displayDescription": "No one destroyed anything in the birthday apartment, all is well!",
+        "enabled": true,
+        "iconImageId": 13611392174,
+        "displayIconImageId": 13611392174,
+        "created": "2023-05-31T21:05:25.477+00:00",
+        "updated": "2024-11-20T21:51:55.436+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1108,
+          "awardedCount": 420261,
+          "winRatePercentage": 0.01
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2146518646,
+        "name": "LOCATE THE GIGGLERS GIFT",
+        "description": "You found the giggler!",
+        "displayName": "LOCATE THE GIGGLERS GIFT",
+        "displayDescription": "You found the giggler!",
+        "enabled": true,
+        "iconImageId": 13611407851,
+        "displayIconImageId": 13611407851,
+        "created": "2023-05-31T21:07:40.54+00:00",
+        "updated": "2024-11-20T21:51:55.48+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4872,
+          "awardedCount": 1930632,
+          "winRatePercentage": 0.043
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2146518673,
+        "name": "THATS BANANAS",
+        "description": "Stumble upon the rare Mandrill Maze variant of the maze floor!",
+        "displayName": "THATS BANANAS",
+        "displayDescription": "Stumble upon the rare Mandrill Maze variant of the maze floor!",
+        "enabled": true,
+        "iconImageId": 13611415535,
+        "displayIconImageId": 13611415535,
+        "created": "2023-05-31T21:08:53.723+00:00",
+        "updated": "2024-11-20T21:51:55.502+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 616,
+          "awardedCount": 240367,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2146518706,
+        "name": "YOU MET A DEV",
+        "description": "Wow you met one of the creators!",
+        "displayName": "YOU MET A DEV",
+        "displayDescription": "Wow you met one of the creators!",
+        "enabled": true,
+        "iconImageId": 13611427595,
+        "displayIconImageId": 13611427595,
+        "created": "2023-05-31T21:10:36.84+00:00",
+        "updated": "2024-11-20T21:51:55.525+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 30,
+          "awardedCount": 27752,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2146518746,
+        "name": "THE FROG LIVES",
+        "description": "You did not accidentally throw the frog into lava.\r\nYou wouldn't think this'd be a notable achievement, but you would be surprised!",
+        "displayName": "THE FROG LIVES",
+        "displayDescription": "You did not accidentally throw the frog into lava.\r\nYou wouldn't think this'd be a notable achievement, but you would be surprised!",
+        "enabled": true,
+        "iconImageId": 13611442166,
+        "displayIconImageId": 13611442166,
+        "created": "2023-05-31T21:12:52.453+00:00",
+        "updated": "2024-11-20T21:51:55.567+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2637,
+          "awardedCount": 1400202,
+          "winRatePercentage": 0.023
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2146518771,
+        "name": "SAVE THE PRINCESS",
+        "description": "You were the princesses savior, congrats!",
+        "displayName": "SAVE THE PRINCESS",
+        "displayDescription": "You were the princesses savior, congrats!",
+        "enabled": true,
+        "iconImageId": 13611450538,
+        "displayIconImageId": 13611450538,
+        "created": "2023-05-31T21:14:06.433+00:00",
+        "updated": "2024-11-20T21:51:55.588+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3677,
+          "awardedCount": 1809870,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2146557913,
+        "name": "MR FOUND YOU",
+        "description": "\"MR\" entered the elevator",
+        "displayName": "MR FOUND YOU",
+        "displayDescription": "\"MR\" entered the elevator",
+        "enabled": true,
+        "iconImageId": 13618325590,
+        "displayIconImageId": 13618325590,
+        "created": "2023-06-01T16:09:31.467+00:00",
+        "updated": "2024-11-20T21:52:31.138+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2199,
+          "awardedCount": 1198393,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2149742415,
+        "name": "\"DONATION\"",
+        "description": "Pest mugged you, pest would probably spend the money better anyways.",
+        "displayName": "\"DONATION\"",
+        "displayDescription": "Pest mugged you, pest would probably spend the money better anyways.",
+        "enabled": true,
+        "iconImageId": 14319209100,
+        "displayIconImageId": 14319209100,
+        "created": "2023-08-05T02:07:07.387+00:00",
+        "updated": "2024-11-20T23:57:37.873+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3818,
+          "awardedCount": 1455640,
+          "winRatePercentage": 0.033
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2149742518,
+        "name": "WISCONSIN",
+        "description": "You acted awfully cheesy in the cheesiest room.\n-10 goptillian dollars",
+        "displayName": "WISCONSIN",
+        "displayDescription": "You acted awfully cheesy in the cheesiest room.\n-10 goptillian dollars",
+        "enabled": true,
+        "iconImageId": 15248312876,
+        "displayIconImageId": 15248312876,
+        "created": "2023-08-05T02:08:49.297+00:00",
+        "updated": "2024-11-20T23:57:38.093+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 271,
+          "awardedCount": 200416,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2149742688,
+        "name": "RAPID UNSCHEDULED DISASSEMBLY",
+        "description": "Made spud angry!!!\r\n-5 social karma",
+        "displayName": "RAPID UNSCHEDULED DISASSEMBLY",
+        "displayDescription": "Made spud angry!!!\r\n-5 social karma",
+        "enabled": true,
+        "iconImageId": 15248314042,
+        "displayIconImageId": 15248314042,
+        "created": "2023-08-05T02:11:06.733+00:00",
+        "updated": "2024-11-20T23:57:38.477+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 586,
+          "awardedCount": 323772,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2151609814,
+        "name": "I think I've seen you somewhere",
+        "description": "The flesh cousin disguised itself as you!",
+        "displayName": "I think I've seen you somewhere",
+        "displayDescription": "The flesh cousin disguised itself as you!",
+        "enabled": true,
+        "iconImageId": 14704348358,
+        "displayIconImageId": 14704348358,
+        "created": "2023-09-07T01:20:17.767+00:00",
+        "updated": "2024-11-21T01:10:35.46+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6657,
+          "awardedCount": 2532714,
+          "winRatePercentage": 0.058
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2151672249,
+        "name": "CERTIFIED MECHANIC ",
+        "description": "You restored the power to the Regretevator! \r\nQuite impressive!",
+        "displayName": "CERTIFIED MECHANIC ",
+        "displayDescription": "You restored the power to the Regretevator! \r\nQuite impressive!",
+        "enabled": true,
+        "iconImageId": 14720749363,
+        "displayIconImageId": 14720749363,
+        "created": "2023-09-08T21:55:11.48+00:00",
+        "updated": "2024-11-21T01:13:01.711+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2666,
+          "awardedCount": 981700,
+          "winRatePercentage": 0.023
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2151672268,
+        "name": "One LONG Minute",
+        "description": "Uh, Hello? Hello hello?",
+        "displayName": "One LONG Minute",
+        "displayDescription": "Uh, Hello? Hello hello?",
+        "enabled": true,
+        "iconImageId": 14720757705,
+        "displayIconImageId": 14720757705,
+        "created": "2023-09-08T21:56:14.11+00:00",
+        "updated": "2024-11-21T01:13:01.754+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 938,
+          "awardedCount": 1994422,
+          "winRatePercentage": 0.008
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2151784913,
+        "name": "Holy Split!",
+        "description": "Beat the Splitsville floor!",
+        "displayName": "Holy Split!",
+        "displayDescription": "Beat the Splitsville floor!",
+        "enabled": true,
+        "iconImageId": 15248315285,
+        "displayIconImageId": 15248315285,
+        "created": "2023-09-10T21:10:00.663+00:00",
+        "updated": "2024-11-21T01:17:25.788+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7801,
+          "awardedCount": 2724434,
+          "winRatePercentage": 0.068
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153879443,
+        "name": "10 Floors",
+        "description": "You have seen a total of 10 floors!",
+        "displayName": "10 Floors",
+        "displayDescription": "You have seen a total of 10 floors!",
+        "enabled": true,
+        "iconImageId": 15238779175,
+        "displayIconImageId": 15238779175,
+        "created": "2023-11-02T00:08:57.99+00:00",
+        "updated": "2024-11-19T20:30:03.337+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 18830,
+          "awardedCount": 7275718,
+          "winRatePercentage": 0.165
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153879512,
+        "name": "100 Floors",
+        "description": "You've seen 100 floors total!",
+        "displayName": "100 Floors",
+        "displayDescription": "You've seen 100 floors total!",
+        "enabled": true,
+        "iconImageId": 15238798994,
+        "displayIconImageId": 15238798994,
+        "created": "2023-11-02T00:12:23.703+00:00",
+        "updated": "2024-11-19T20:30:03.403+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5810,
+          "awardedCount": 1985020,
+          "winRatePercentage": 0.051
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153879532,
+        "name": "1k Floors",
+        "description": "Get this badge by surviving 1k+ floors!",
+        "displayName": "1k Floors",
+        "displayDescription": "Get this badge by surviving 1k+ floors!",
+        "enabled": true,
+        "iconImageId": 15238810292,
+        "displayIconImageId": 15238810292,
+        "created": "2023-11-02T00:14:19.157+00:00",
+        "updated": "2024-11-19T20:30:03.407+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 835,
+          "awardedCount": 202016,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153879541,
+        "name": "10k Floors",
+        "description": "10k floors! You've seen 'em!",
+        "displayName": "10k Floors",
+        "displayDescription": "10k floors! You've seen 'em!",
+        "enabled": true,
+        "iconImageId": 15238818430,
+        "displayIconImageId": 15238818430,
+        "created": "2023-11-02T00:15:28.6+00:00",
+        "updated": "2024-11-19T20:30:03.424+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9,
+          "awardedCount": 792,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153879550,
+        "name": "100K Floors",
+        "description": "this is what you get for 80 days worth of regretting",
+        "displayName": "100K Floors",
+        "displayDescription": "this is what you get for 80 days worth of regretting",
+        "enabled": true,
+        "iconImageId": 15238824968,
+        "displayIconImageId": 15238824968,
+        "created": "2023-11-02T00:16:31.137+00:00",
+        "updated": "2024-11-19T20:30:03.427+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153905622,
+        "name": "TOOTHETTES FALL",
+        "description": "Get toothette in the ball pit!",
+        "displayName": "TOOTHETTES FALL",
+        "displayDescription": "Get toothette in the ball pit!",
+        "enabled": true,
+        "iconImageId": 15248617826,
+        "displayIconImageId": 15248617826,
+        "created": "2023-11-03T02:21:46.103+00:00",
+        "updated": "2024-11-19T20:30:27.306+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 95,
+          "awardedCount": 166669,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153905647,
+        "name": "SNOWY AGONY",
+        "description": "End someone with a snowball!",
+        "displayName": "SNOWY AGONY",
+        "displayDescription": "End someone with a snowball!",
+        "enabled": true,
+        "iconImageId": 15248626194,
+        "displayIconImageId": 15248626194,
+        "created": "2023-11-03T02:23:25.71+00:00",
+        "updated": "2024-11-19T20:30:27.328+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 60,
+          "awardedCount": 24750,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2153905690,
+        "name": "CLOVER SLAM",
+        "description": "End someone using clover!",
+        "displayName": "CLOVER SLAM",
+        "displayDescription": "End someone using clover!",
+        "enabled": true,
+        "iconImageId": 15843030621,
+        "displayIconImageId": 15843030621,
+        "created": "2023-11-03T02:27:19.827+00:00",
+        "updated": "2024-11-19T20:30:27.355+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2824,
+          "awardedCount": 713526,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4167027034839419,
+        "name": "ONLY UP FROM HERE",
+        "description": "Board the elevator for the first time",
+        "displayName": "ONLY UP FROM HERE",
+        "displayDescription": "Board the elevator for the first time",
+        "enabled": true,
+        "iconImageId": 15898481264,
+        "displayIconImageId": 15898481264,
+        "created": "2024-01-03T10:25:04.473+00:00",
+        "updated": "2024-11-21T06:53:49.772+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 41272,
+          "awardedCount": 14709662,
+          "winRatePercentage": 0.362
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4376072597217144,
+        "name": "FORCED TO EAT CEMENT",
+        "description": "Drink some Gray Stuff!",
+        "displayName": "FORCED TO EAT CEMENT",
+        "displayDescription": "Drink some Gray Stuff!",
+        "enabled": true,
+        "iconImageId": 15902925269,
+        "displayIconImageId": 15902925269,
+        "created": "2024-01-03T10:25:16.604+00:00",
+        "updated": "2024-11-21T10:19:09.675+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2683,
+          "awardedCount": 1022935,
+          "winRatePercentage": 0.024
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3484808052517078,
+        "name": "T-SIDED MAP",
+        "description": "Fling a player using the C4",
+        "displayName": "T-SIDED MAP",
+        "displayDescription": "Fling a player using the C4",
+        "enabled": true,
+        "iconImageId": 15980839897,
+        "displayIconImageId": 15980839897,
+        "created": "2024-01-03T10:25:22.402+00:00",
+        "updated": "2024-11-21T02:53:15.243+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4874,
+          "awardedCount": 854557,
+          "winRatePercentage": 0.043
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2825439814354923,
+        "name": "SHOPPING SPREE",
+        "description": "Own every item in the shop! (excluding V.I.P. and Robux items.)",
+        "displayName": "SHOPPING SPREE",
+        "displayDescription": "Own every item in the shop! (excluding V.I.P. and Robux items.)",
+        "enabled": true,
+        "iconImageId": 101724822352447,
+        "displayIconImageId": 101724822352447,
+        "created": "2024-01-03T10:25:28.459+00:00",
+        "updated": "2024-12-19T05:24:24.746+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 109,
+          "awardedCount": 84210,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2760768460475467,
+        "name": "QUAKE PRO",
+        "description": "Crank your FOV to maximum!",
+        "displayName": "QUAKE PRO",
+        "displayDescription": "Crank your FOV to maximum!",
+        "enabled": true,
+        "iconImageId": 15898525535,
+        "displayIconImageId": 15898525535,
+        "created": "2024-01-03T10:25:34.743+00:00",
+        "updated": "2024-11-20T15:19:03.984+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3606,
+          "awardedCount": 1574396,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4434570840497189,
+        "name": "#1 VICTORY ROYALE",
+        "description": "Get a dub on the TNT Run floor!",
+        "displayName": "#1 VICTORY ROYALE",
+        "displayDescription": "Get a dub on the TNT Run floor!",
+        "enabled": true,
+        "iconImageId": 103959735190103,
+        "displayIconImageId": 103959735190103,
+        "created": "2024-01-03T10:25:43.689+00:00",
+        "updated": "2024-12-19T04:58:46.18+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5518,
+          "awardedCount": 1930148,
+          "winRatePercentage": 0.048
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2506900853026782,
+        "name": "BAAALD",
+        "description": "WIG FLEW (Get your hats blown off by the bomb on the Defusal floor)",
+        "displayName": "BAAALD",
+        "displayDescription": "WIG FLEW (Get your hats blown off by the bomb on the Defusal floor)",
+        "enabled": true,
+        "iconImageId": 15899249048,
+        "displayIconImageId": 15899249048,
+        "created": "2024-01-03T10:25:53.445+00:00",
+        "updated": "2024-11-20T11:16:04.621+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 779,
+          "awardedCount": 288084,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2481119442051287,
+        "name": "HOLY GRUB",
+        "description": "Collect not a SINGLE rock on the Bugbo floor",
+        "displayName": "HOLY GRUB",
+        "displayDescription": "Collect not a SINGLE rock on the Bugbo floor",
+        "enabled": true,
+        "iconImageId": 15898544058,
+        "displayIconImageId": 15898544058,
+        "created": "2024-01-03T10:26:05.26+00:00",
+        "updated": "2024-11-20T10:51:57.063+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1409,
+          "awardedCount": 456989,
+          "winRatePercentage": 0.012
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1217616318813895,
+        "name": "LICENSED BUTTON CLICKER",
+        "description": "Click at least 1 (one) button on the Button Competition floor, that's all you need for a license apparently",
+        "displayName": "LICENSED BUTTON CLICKER",
+        "displayDescription": "Click at least 1 (one) button on the Button Competition floor, that's all you need for a license apparently",
+        "enabled": true,
+        "iconImageId": 128464602964811,
+        "displayIconImageId": 128464602964811,
+        "created": "2024-01-03T10:26:16.269+00:00",
+        "updated": "2024-12-19T04:45:34.195+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12284,
+          "awardedCount": 4602519,
+          "winRatePercentage": 0.108
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2438644657330968,
+        "name": "ANKLE BITER",
+        "description": "Get stabbed by a knife-wielding Voomba!",
+        "displayName": "ANKLE BITER",
+        "displayDescription": "Get stabbed by a knife-wielding Voomba!",
+        "enabled": true,
+        "iconImageId": 15898559547,
+        "displayIconImageId": 15898559547,
+        "created": "2024-01-03T10:26:23.846+00:00",
+        "updated": "2024-11-20T10:12:18.448+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 19867,
+          "awardedCount": 4048251,
+          "winRatePercentage": 0.174
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1732521716326460,
+        "name": "DANCE WITH DEATH",
+        "description": "Survive the Dance floor",
+        "displayName": "DANCE WITH DEATH",
+        "displayDescription": "Survive the Dance floor",
+        "enabled": true,
+        "iconImageId": 15898579940,
+        "displayIconImageId": 15898579940,
+        "created": "2024-01-03T10:26:33.874+00:00",
+        "updated": "2024-11-19T23:09:08.38+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7872,
+          "awardedCount": 2750723,
+          "winRatePercentage": 0.069
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3716537508998413,
+        "name": "CRASH LANDING",
+        "description": "Meet Gnarpy for the first time",
+        "displayName": "CRASH LANDING",
+        "displayDescription": "Meet Gnarpy for the first time",
+        "enabled": true,
+        "iconImageId": 15898585413,
+        "displayIconImageId": 15898585413,
+        "created": "2024-01-03T10:26:41.514+00:00",
+        "updated": "2024-11-21T06:33:50.446+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10020,
+          "awardedCount": 3130374,
+          "winRatePercentage": 0.088
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2709287423313803,
+        "name": "SIDE-SPLITTER",
+        "description": "Meet Split for the first time!",
+        "displayName": "SIDE-SPLITTER",
+        "displayDescription": "Meet Split for the first time!",
+        "enabled": true,
+        "iconImageId": 15898593626,
+        "displayIconImageId": 15898593626,
+        "created": "2024-01-03T10:26:49.28+00:00",
+        "updated": "2024-11-20T14:30:23.407+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10031,
+          "awardedCount": 3561462,
+          "winRatePercentage": 0.088
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1802324417318785,
+        "name": "BOOWOMP",
+        "description": "Meet Pilby for the first time",
+        "displayName": "BOOWOMP",
+        "displayDescription": "Meet Pilby for the first time",
+        "enabled": true,
+        "iconImageId": 15898602488,
+        "displayIconImageId": 15898602488,
+        "created": "2024-01-03T10:27:07.774+00:00",
+        "updated": "2024-11-20T00:14:29.472+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13029,
+          "awardedCount": 3037569,
+          "winRatePercentage": 0.114
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1221031295111498,
+        "name": "LET THERE BE LIGHT",
+        "description": "Meet Lampert for the first time",
+        "displayName": "LET THERE BE LIGHT",
+        "displayDescription": "Meet Lampert for the first time",
+        "enabled": true,
+        "iconImageId": 15898606123,
+        "displayIconImageId": 15898606123,
+        "created": "2024-01-03T10:27:15.458+00:00",
+        "updated": "2024-11-20T05:50:02.293+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6661,
+          "awardedCount": 2380834,
+          "winRatePercentage": 0.058
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 29131526587288,
+        "name": "I PAUSED MY GAME TO BE HERE",
+        "description": "Meet Infected for the first time",
+        "displayName": "I PAUSED MY GAME TO BE HERE",
+        "displayDescription": "Meet Infected for the first time",
+        "enabled": true,
+        "iconImageId": 15898959225,
+        "displayIconImageId": 15898959225,
+        "created": "2024-01-03T10:27:23.829+00:00",
+        "updated": "2024-11-19T20:42:47.189+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8558,
+          "awardedCount": 3379396,
+          "winRatePercentage": 0.075
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1106698869759718,
+        "name": "DO NOT PUSH THIS BUTTON, I BEG YOU",
+        "description": "WHY DID WE EVER NEED A BUTTON FOR THIS!?",
+        "displayName": "DO NOT PUSH THIS BUTTON, I BEG YOU",
+        "displayDescription": "WHY DID WE EVER NEED A BUTTON FOR THIS!?",
+        "enabled": true,
+        "iconImageId": 15977547838,
+        "displayIconImageId": 15977547838,
+        "created": "2024-01-03T10:27:32.508+00:00",
+        "updated": "2024-11-20T05:09:46.64+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13827,
+          "awardedCount": 5154545,
+          "winRatePercentage": 0.121
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2599423528764448,
+        "name": "HEY MARK",
+        "description": "That hurt. (Meet Mannequin Mark for the first time)",
+        "displayName": "HEY MARK",
+        "displayDescription": "That hurt. (Meet Mannequin Mark for the first time)",
+        "enabled": true,
+        "iconImageId": 15899038844,
+        "displayIconImageId": 15899038844,
+        "created": "2024-01-03T10:27:41.994+00:00",
+        "updated": "2024-11-20T12:44:40.846+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12321,
+          "awardedCount": 4828521,
+          "winRatePercentage": 0.108
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 659116306864820,
+        "name": "EMPTY POCKETS",
+        "description": "Meet Pest for the first time",
+        "displayName": "EMPTY POCKETS",
+        "displayDescription": "Meet Pest for the first time",
+        "enabled": true,
+        "iconImageId": 15899099156,
+        "displayIconImageId": 15899099156,
+        "created": "2024-01-03T10:27:51.06+00:00",
+        "updated": "2024-11-20T02:32:46.567+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10022,
+          "awardedCount": 3546013,
+          "winRatePercentage": 0.088
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2671671484255195,
+        "name": "TRAUMA TIME",
+        "description": "Meet Spud! for the first time",
+        "displayName": "TRAUMA TIME",
+        "displayDescription": "Meet Spud! for the first time",
+        "enabled": true,
+        "iconImageId": 15899048191,
+        "displayIconImageId": 15899048191,
+        "created": "2024-01-03T10:27:58.487+00:00",
+        "updated": "2024-11-20T13:54:34.478+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10019,
+          "awardedCount": 3582976,
+          "winRatePercentage": 0.088
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3147565018155396,
+        "name": "LET'S GET THE PARTY STARTED",
+        "description": "Meet PartyNoob for the first time",
+        "displayName": "LET'S GET THE PARTY STARTED",
+        "displayDescription": "Meet PartyNoob for the first time",
+        "enabled": true,
+        "iconImageId": 15899053742,
+        "displayIconImageId": 15899053742,
+        "created": "2024-01-03T10:28:09.487+00:00",
+        "updated": "2024-11-20T21:27:10.948+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9407,
+          "awardedCount": 3539883,
+          "winRatePercentage": 0.082
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3547335869802213,
+        "name": "HARHARHARHARHAR",
+        "description": "Meet Reddy for the first time",
+        "displayName": "HARHARHARHARHAR",
+        "displayDescription": "Meet Reddy for the first time",
+        "enabled": true,
+        "iconImageId": 15899059603,
+        "displayIconImageId": 15899059603,
+        "created": "2024-01-03T10:28:17.232+00:00",
+        "updated": "2024-11-21T03:53:00.698+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8672,
+          "awardedCount": 3249554,
+          "winRatePercentage": 0.076
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4124962966734059,
+        "name": "MEOW MEOW MEOW",
+        "description": "Meet Dr. RETRO for the first time",
+        "displayName": "MEOW MEOW MEOW",
+        "displayDescription": "Meet Dr. RETRO for the first time",
+        "enabled": true,
+        "iconImageId": 15899232183,
+        "displayIconImageId": 15899232183,
+        "created": "2024-01-03T10:28:28.689+00:00",
+        "updated": "2024-11-21T06:12:59.747+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7975,
+          "awardedCount": 2882517,
+          "winRatePercentage": 0.07
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1175224451753905,
+        "name": "173",
+        "description": "PartyNoob didn't appreciate you doing that...",
+        "displayName": "173",
+        "displayDescription": "PartyNoob didn't appreciate you doing that...",
+        "enabled": true,
+        "iconImageId": 15899066217,
+        "displayIconImageId": 15899066217,
+        "created": "2024-01-03T10:28:38.772+00:00",
+        "updated": "2024-11-20T05:33:45.565+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 415,
+          "awardedCount": 196300,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3908263262039992,
+        "name": "IMA FIRIN' MAH LAZOR",
+        "description": "Nuh uh uh!",
+        "displayName": "IMA FIRIN' MAH LAZOR",
+        "displayDescription": "Nuh uh uh!",
+        "enabled": true,
+        "iconImageId": 15899116094,
+        "displayIconImageId": 15899116094,
+        "created": "2024-01-03T10:28:51.333+00:00",
+        "updated": "2024-11-21T09:35:56.107+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1639,
+          "awardedCount": 702032,
+          "winRatePercentage": 0.014
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 893401328944749,
+        "name": "PARTY PLOOPER",
+        "description": "Blow up PartyNoob's apartment while they are on the elevator.",
+        "displayName": "PARTY PLOOPER",
+        "displayDescription": "Blow up PartyNoob's apartment while they are on the elevator.",
+        "enabled": true,
+        "iconImageId": 15899125856,
+        "displayIconImageId": 15899125856,
+        "created": "2024-01-03T10:28:59.073+00:00",
+        "updated": "2024-11-20T03:55:42.666+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3440,
+          "awardedCount": 1144668,
+          "winRatePercentage": 0.03
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3368487566547015,
+        "name": "sv_cheats 1",
+        "description": "noclip ON",
+        "displayName": "sv_cheats 1",
+        "displayDescription": "noclip ON",
+        "enabled": true,
+        "iconImageId": 15899142989,
+        "displayIconImageId": 15899142989,
+        "created": "2024-01-03T10:29:39.67+00:00",
+        "updated": "2024-11-21T00:58:22.804+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13851,
+          "awardedCount": 5219717,
+          "winRatePercentage": 0.121
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 171290007455880,
+        "name": "BANNED FOREVER",
+        "description": "Look man, he said his dad was Builderman, what were you expecting?",
+        "displayName": "BANNED FOREVER",
+        "displayDescription": "Look man, he said his dad was Builderman, what were you expecting?",
+        "enabled": true,
+        "iconImageId": 15899152651,
+        "displayIconImageId": 15899152651,
+        "created": "2024-01-03T10:29:54.989+00:00",
+        "updated": "2024-11-19T21:42:40.123+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2808,
+          "awardedCount": 1061141,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2070626571797664,
+        "name": "WORST BADGE EVER",
+        "description": "Meet Unpleasant for the first time",
+        "displayName": "WORST BADGE EVER",
+        "displayDescription": "Meet Unpleasant for the first time",
+        "enabled": true,
+        "iconImageId": 15899160845,
+        "displayIconImageId": 15899160845,
+        "created": "2024-01-03T10:30:07.526+00:00",
+        "updated": "2024-11-20T04:28:06.958+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8569,
+          "awardedCount": 3388917,
+          "winRatePercentage": 0.075
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1022495493876169,
+        "name": "HEARTLESS",
+        "description": "Spray Pilby with water, you monster.",
+        "displayName": "HEARTLESS",
+        "displayDescription": "Spray Pilby with water, you monster.",
+        "enabled": true,
+        "iconImageId": 16329496049,
+        "displayIconImageId": 16329496049,
+        "created": "2024-01-03T10:30:17.699+00:00",
+        "updated": "2024-11-20T04:40:29.301+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3879,
+          "awardedCount": 1046034,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2209156561921813,
+        "name": "OUCH",
+        "description": "Die for the first time",
+        "displayName": "OUCH",
+        "displayDescription": "Die for the first time",
+        "enabled": true,
+        "iconImageId": 15899174429,
+        "displayIconImageId": 15899174429,
+        "created": "2024-01-03T10:30:33.545+00:00",
+        "updated": "2024-11-20T06:38:02.784+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 32275,
+          "awardedCount": 11612792,
+          "winRatePercentage": 0.283
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 774929165573889,
+        "name": "KABLOOEY",
+        "description": "Die to an explosion for the first time",
+        "displayName": "KABLOOEY",
+        "displayDescription": "Die to an explosion for the first time",
+        "enabled": true,
+        "iconImageId": 15899219183,
+        "displayIconImageId": 15899219183,
+        "created": "2024-01-03T10:30:45.892+00:00",
+        "updated": "2024-11-20T03:13:23.693+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3656,
+          "awardedCount": 1640225,
+          "winRatePercentage": 0.032
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 293807702746187,
+        "name": "RIP THE KNOB OFF",
+        "description": "Crank the volume to the max!\n..hey what's that coming out of my ear?",
+        "displayName": "RIP THE KNOB OFF",
+        "displayDescription": "Crank the volume to the max!\n..hey what's that coming out of my ear?",
+        "enabled": true,
+        "iconImageId": 15899191427,
+        "displayIconImageId": 15899191427,
+        "created": "2024-01-03T10:31:23.562+00:00",
+        "updated": "2024-11-19T23:40:31.31+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 532,
+          "awardedCount": 532069,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2808868072671565,
+        "name": "IT'S A PILE OF BALLS",
+        "description": "Sure is!",
+        "displayName": "IT'S A PILE OF BALLS",
+        "displayDescription": "Sure is!",
+        "enabled": true,
+        "iconImageId": 15899195887,
+        "displayIconImageId": 15899195887,
+        "created": "2024-01-03T10:31:33.27+00:00",
+        "updated": "2024-11-20T16:04:18.285+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1440,
+          "awardedCount": 2961652,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4060857951042904,
+        "name": "BAJA... BLAST!",
+        "description": "Get a tasty exclusive thrown at your face",
+        "displayName": "BAJA... BLAST!",
+        "displayDescription": "Get a tasty exclusive thrown at your face",
+        "enabled": true,
+        "iconImageId": 15899204954,
+        "displayIconImageId": 15899204954,
+        "created": "2024-01-03T10:31:44.057+00:00",
+        "updated": "2024-11-21T05:11:09.705+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7014,
+          "awardedCount": 2439316,
+          "winRatePercentage": 0.062
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2302691601059493,
+        "name": "NPC_CREATE WALLTER",
+        "description": "Meet Wallter for the first time",
+        "displayName": "NPC_CREATE WALLTER",
+        "displayDescription": "Meet Wallter for the first time",
+        "enabled": true,
+        "iconImageId": 15899211727,
+        "displayIconImageId": 15899211727,
+        "created": "2024-01-03T10:31:52.843+00:00",
+        "updated": "2024-11-20T08:05:19.126+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13229,
+          "awardedCount": 4895502,
+          "winRatePercentage": 0.116
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1008450140303732,
+        "name": "FIREPROOF",
+        "description": "That was only just the warm up.",
+        "displayName": "FIREPROOF",
+        "displayDescription": "That was only just the warm up.",
+        "enabled": true,
+        "iconImageId": 16319070162,
+        "displayIconImageId": 16319070162,
+        "created": "2024-02-08T01:36:05.565+00:00",
+        "updated": "2024-11-20T04:35:37.32+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2892,
+          "awardedCount": 820065,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 830543838231361,
+        "name": "TURN UP THE HEAT",
+        "description": "You survived the power of the sun.",
+        "displayName": "TURN UP THE HEAT",
+        "displayDescription": "You survived the power of the sun.",
+        "enabled": true,
+        "iconImageId": 16319079032,
+        "displayIconImageId": 16319079032,
+        "created": "2024-02-08T01:36:29.664+00:00",
+        "updated": "2024-11-20T03:32:55.373+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 696,
+          "awardedCount": 72545,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1801682036898818,
+        "name": "SHOPLIFTER",
+        "description": "It's time for you to pay the price.",
+        "displayName": "SHOPLIFTER",
+        "displayDescription": "It's time for you to pay the price.",
+        "enabled": true,
+        "iconImageId": 16319092848,
+        "displayIconImageId": 16319092848,
+        "created": "2024-02-08T01:36:46.668+00:00",
+        "updated": "2024-11-20T00:13:53.596+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6790,
+          "awardedCount": 1988316,
+          "winRatePercentage": 0.06
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3009474062236439,
+        "name": "HAMMER OF",
+        "description": "She's a lot faster than what her name implies.",
+        "displayName": "HAMMER OF",
+        "displayDescription": "She's a lot faster than what her name implies.",
+        "enabled": true,
+        "iconImageId": 16319097219,
+        "displayIconImageId": 16319097219,
+        "created": "2024-02-08T01:37:01.212+00:00",
+        "updated": "2024-11-20T19:13:15.043+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1829,
+          "awardedCount": 440425,
+          "winRatePercentage": 0.016
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4141762461717770,
+        "name": "IS THIS BUGGED?",
+        "description": "It is simply... terrible fortune.",
+        "displayName": "IS THIS BUGGED?",
+        "displayDescription": "It is simply... terrible fortune.",
+        "enabled": true,
+        "iconImageId": 16319100587,
+        "displayIconImageId": 16319100587,
+        "created": "2024-02-08T01:37:20.036+00:00",
+        "updated": "2024-11-21T06:29:16.902+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1004,
+          "awardedCount": 273864,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2769035432085551,
+        "name": "You Played Toolbox Speedway!!",
+        "description": "Thanks for coming! :D (Step on the badge giver on the Toolbox Speedway Floor)",
+        "displayName": "You Played Toolbox Speedway!!",
+        "displayDescription": "Thanks for coming! :D (Step on the badge giver on the Toolbox Speedway Floor)",
+        "enabled": true,
+        "iconImageId": 16322945103,
+        "displayIconImageId": 16322945103,
+        "created": "2024-02-09T12:36:14.671+00:00",
+        "updated": "2024-11-20T15:26:51.016+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 14291,
+          "awardedCount": 4627996,
+          "winRatePercentage": 0.125
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3981194924369781,
+        "name": "IP67 RATED",
+        "description": "Why would you try that on a robot?\r\nHow cruel!",
+        "displayName": "IP67 RATED",
+        "displayDescription": "Why would you try that on a robot?\r\nHow cruel!",
+        "enabled": true,
+        "iconImageId": 16660938718,
+        "displayIconImageId": 16660938718,
+        "created": "2024-03-07T23:34:36.686+00:00",
+        "updated": "2024-11-21T10:47:23.235+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2639,
+          "awardedCount": 1033552,
+          "winRatePercentage": 0.023
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1240426333961054,
+        "name": "DELAYED REACTION",
+        "description": "You were warned and everything!",
+        "displayName": "DELAYED REACTION",
+        "displayDescription": "You were warned and everything!",
+        "enabled": true,
+        "iconImageId": 16660950876,
+        "displayIconImageId": 16660950876,
+        "created": "2024-03-07T23:36:26.127+00:00",
+        "updated": "2024-11-20T05:57:01.07+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10945,
+          "awardedCount": 2792517,
+          "winRatePercentage": 0.096
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2232347497738119,
+        "name": "BETA TEST",
+        "description": "You met prototype!\nI don't him.",
+        "displayName": "BETA TEST",
+        "displayDescription": "You met prototype!\nI don't him.",
+        "enabled": true,
+        "iconImageId": 16660965966,
+        "displayIconImageId": 16660965966,
+        "created": "2024-03-07T23:38:26.744+00:00",
+        "updated": "2024-11-20T06:59:36.041+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9679,
+          "awardedCount": 2908301,
+          "winRatePercentage": 0.085
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1875914858807128,
+        "name": "FIRE HAZARD",
+        "description": "You sprayed Lampert with water.",
+        "displayName": "FIRE HAZARD",
+        "displayDescription": "You sprayed Lampert with water.",
+        "enabled": true,
+        "iconImageId": 16660978451,
+        "displayIconImageId": 16660978451,
+        "created": "2024-03-07T23:40:12.674+00:00",
+        "updated": "2024-11-20T01:23:22.914+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1981,
+          "awardedCount": 796446,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1056544469459482,
+        "name": "PLUMMET",
+        "description": "You completed the dropper on the Unsteady Floor!",
+        "displayName": "PLUMMET",
+        "displayDescription": "You completed the dropper on the Unsteady Floor!",
+        "enabled": true,
+        "iconImageId": 16660986583,
+        "displayIconImageId": 16660986583,
+        "created": "2024-03-07T23:41:23.318+00:00",
+        "updated": "2024-11-20T04:52:19.562+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 103,
+          "awardedCount": 29891,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1959912402795218,
+        "name": "SCREEN SAVED",
+        "description": "Wow this place probably looks familiar!",
+        "displayName": "SCREEN SAVED",
+        "displayDescription": "Wow this place probably looks familiar!",
+        "enabled": true,
+        "iconImageId": 16660997228,
+        "displayIconImageId": 16660997228,
+        "created": "2024-03-07T23:42:57.429+00:00",
+        "updated": "2024-11-20T02:43:12.624+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 14653,
+          "awardedCount": 4422974,
+          "winRatePercentage": 0.129
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3348425927851433,
+        "name": "FULL HOUSE",
+        "description": "This elevator is cramped, I hate it in here.",
+        "displayName": "FULL HOUSE",
+        "displayDescription": "This elevator is cramped, I hate it in here.",
+        "enabled": true,
+        "iconImageId": 16661005061,
+        "displayIconImageId": 16661005061,
+        "created": "2024-03-07T23:44:05.864+00:00",
+        "updated": "2024-11-21T00:38:29.391+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 20652,
+          "awardedCount": 5098352,
+          "winRatePercentage": 0.181
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1301337771413600,
+        "name": "BRAIN WASHER",
+        "description": "You have disrupted Bive.\r\nPeople are so rude to her for no reason!",
+        "displayName": "BRAIN WASHER",
+        "displayDescription": "You have disrupted Bive.\r\nPeople are so rude to her for no reason!",
+        "enabled": true,
+        "iconImageId": 16661021637,
+        "displayIconImageId": 16661021637,
+        "created": "2024-03-07T23:46:20.641+00:00",
+        "updated": "2024-11-20T06:18:58.656+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4422,
+          "awardedCount": 1316698,
+          "winRatePercentage": 0.039
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1586548800782278,
+        "name": "5 FLOOR STREAK",
+        "description": "wow you got to a floor streak of five. \nYou are normal.",
+        "displayName": "5 FLOOR STREAK",
+        "displayDescription": "wow you got to a floor streak of five. \nYou are normal.",
+        "enabled": true,
+        "iconImageId": 17654268608,
+        "displayIconImageId": 17654268608,
+        "created": "2024-05-29T06:43:47.462+00:00",
+        "updated": "2024-11-19T20:50:02.932+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 23488,
+          "awardedCount": 4973259,
+          "winRatePercentage": 0.206
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 148231676939486,
+        "name": "10 FLOOR STREAK",
+        "description": "wow you got to a floor streak of 10.\r\nYou are still regular and average.",
+        "displayName": "10 FLOOR STREAK",
+        "displayDescription": "wow you got to a floor streak of 10.\r\nYou are still regular and average.",
+        "enabled": true,
+        "iconImageId": 17654280937,
+        "displayIconImageId": 17654280937,
+        "created": "2024-05-29T06:45:43.292+00:00",
+        "updated": "2024-11-19T21:24:42.664+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12411,
+          "awardedCount": 2402472,
+          "winRatePercentage": 0.109
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1527958924542855,
+        "name": "25 FLOOR STREAK",
+        "description": "okay you got to a floor streak of 25 floors.\r\nIt's not to late to turn back now, you can still change things for the better.",
+        "displayName": "25 FLOOR STREAK",
+        "displayDescription": "okay you got to a floor streak of 25 floors.\r\nIt's not to late to turn back now, you can still change things for the better.",
+        "enabled": true,
+        "iconImageId": 17654288681,
+        "displayIconImageId": 17654288681,
+        "created": "2024-05-29T06:47:02.656+00:00",
+        "updated": "2024-11-19T20:29:43.876+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2400,
+          "awardedCount": 368116,
+          "winRatePercentage": 0.021
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4296507258408322,
+        "name": "50 FLOOR STREAK",
+        "description": "alright you got to a floor streak of 50.\r\nThis is a point of no true return.",
+        "displayName": "50 FLOOR STREAK",
+        "displayDescription": "alright you got to a floor streak of 50.\r\nThis is a point of no true return.",
+        "enabled": true,
+        "iconImageId": 17654299123,
+        "displayIconImageId": 17654299123,
+        "created": "2024-05-29T06:48:43.773+00:00",
+        "updated": "2024-11-21T09:00:23.992+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 565,
+          "awardedCount": 71210,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3636736410895622,
+        "name": "100 FLOOR STREAK",
+        "description": "you got to a floor streak of 100.\r\nAre you happy with yourself?",
+        "displayName": "100 FLOOR STREAK",
+        "displayDescription": "you got to a floor streak of 100.\r\nAre you happy with yourself?",
+        "enabled": true,
+        "iconImageId": 17654303523,
+        "displayIconImageId": 17654303523,
+        "created": "2024-05-29T06:49:23.607+00:00",
+        "updated": "2024-11-21T05:18:37.489+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 135,
+          "awardedCount": 15097,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2635333700022672,
+        "name": "500 FLOOR STREAK",
+        "description": "reached 500 floors. in a streak.\r\n\r\nyou should become familiar with the warmth of the sun.",
+        "displayName": "500 FLOOR STREAK",
+        "displayDescription": "reached 500 floors. in a streak.\r\n\r\nyou should become familiar with the warmth of the sun.",
+        "enabled": true,
+        "iconImageId": 17654318977,
+        "displayIconImageId": 17654318977,
+        "created": "2024-05-29T06:51:58.102+00:00",
+        "updated": "2024-11-20T13:19:28.433+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 126,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 4397276692618508,
+        "name": "HER",
+        "description": "You defeated Folly and got her to join the elevator.",
+        "displayName": "HER",
+        "displayDescription": "You defeated Folly and got her to join the elevator.",
+        "enabled": true,
+        "iconImageId": 18580351181,
+        "displayIconImageId": 18580351181,
+        "created": "2024-07-20T19:20:19.968+00:00",
+        "updated": "2024-11-21T10:40:08.799+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3274,
+          "awardedCount": 598612,
+          "winRatePercentage": 0.029
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2750711222126363,
+        "name": "HER ROYALTY!",
+        "description": "Met Mozelle!",
+        "displayName": "HER ROYALTY!",
+        "displayDescription": "Met Mozelle!",
+        "enabled": true,
+        "iconImageId": 18580357119,
+        "displayIconImageId": 18580357119,
+        "created": "2024-07-20T19:20:55.07+00:00",
+        "updated": "2024-11-20T15:09:35.724+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8505,
+          "awardedCount": 1549600,
+          "winRatePercentage": 0.075
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2768239988698257,
+        "name": "STAT",
+        "description": "She is here.",
+        "displayName": "STAT",
+        "displayDescription": "She is here.",
+        "enabled": true,
+        "iconImageId": 18580366059,
+        "displayIconImageId": 18580366059,
+        "created": "2024-07-20T19:21:42.416+00:00",
+        "updated": "2024-11-20T15:26:04.889+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6926,
+          "awardedCount": 607809,
+          "winRatePercentage": 0.061
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 578463815214812,
+        "name": "SAVED NPCS",
+        "description": "Wow! You helped save them! Good job!",
+        "displayName": "SAVED NPCS",
+        "displayDescription": "Wow! You helped save them! Good job!",
+        "enabled": true,
+        "iconImageId": 102043315325346,
+        "displayIconImageId": 102043315325346,
+        "created": "2024-08-19T20:35:09.355+00:00",
+        "updated": "2024-11-20T02:04:11.491+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10055,
+          "awardedCount": 958604,
+          "winRatePercentage": 0.088
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2899041066987372,
+        "name": "SEBASTIAN GOT YOU",
+        "description": "maybe next time don't pester him so much! \n\nUnlocks the \"Pleasant\" Jumpsuit to wear in Pressure. \n(Badge art by spumoniiee)",
+        "displayName": "SEBASTIAN GOT YOU",
+        "displayDescription": "maybe next time don't pester him so much! \n\nUnlocks the \"Pleasant\" Jumpsuit to wear in Pressure. \n(Badge art by spumoniiee)",
+        "enabled": true,
+        "iconImageId": 96838880306148,
+        "displayIconImageId": 96838880306148,
+        "created": "2024-08-22T02:20:30.953+00:00",
+        "updated": "2025-01-10T03:14:32.328+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3062,
+          "awardedCount": 568108,
+          "winRatePercentage": 0.027
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 1752836244813410,
+        "name": "S.T.A.T. DEFEATED",
+        "description": "you've defeated S.T.A.T.\n\nHow tragic.",
+        "displayName": "S.T.A.T. DEFEATED",
+        "displayDescription": "you've defeated S.T.A.T.\n\nHow tragic.",
+        "enabled": true,
+        "iconImageId": 76181669416362,
+        "displayIconImageId": 76181669416362,
+        "created": "2024-10-26T01:23:57.139+00:00",
+        "updated": "2024-11-19T23:28:15.572+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8781,
+          "awardedCount": 464029,
+          "winRatePercentage": 0.077
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2253246489631967,
+        "name": "ITS JUMP TIME",
+        "description": "Melanie entered the elevator",
+        "displayName": "ITS JUMP TIME",
+        "displayDescription": "Melanie entered the elevator",
+        "enabled": true,
+        "iconImageId": 112089347503099,
+        "displayIconImageId": 112089347503099,
+        "created": "2024-12-11T05:46:45.901+00:00",
+        "updated": "2024-12-19T04:25:32.159+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 27641,
+          "awardedCount": 1178414,
+          "winRatePercentage": 0.242
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2599010148457580,
+        "name": "WOAH PERFECT",
+        "description": "Get the secret gate on the Rock Park floor open while being next to the gate",
+        "displayName": "WOAH PERFECT",
+        "displayDescription": "Get the secret gate on the Rock Park floor open while being next to the gate",
+        "enabled": true,
+        "iconImageId": 123898615527865,
+        "displayIconImageId": 123898615527865,
+        "created": "2024-12-21T09:11:06.564+00:00",
+        "updated": "2024-12-21T09:13:02.046+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 24,
+          "awardedCount": 984,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      }
+    ]
+  },
+  "2956631811": {
+    "data": [
+      {
+        "id": 603486068571798,
+        "name": "Welcome!",
+        "description": "First time huh?",
+        "displayName": "Welcome!",
+        "displayDescription": "First time huh?",
+        "enabled": true,
+        "iconImageId": 72280675715973,
+        "displayIconImageId": 72280675715973,
+        "created": "2025-01-10T04:52:56.726+00:00",
+        "updated": "2025-01-10T04:52:56.726+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 164220,
+          "awardedCount": 3353707,
+          "winRatePercentage": 0.638
+        },
+        "awardingUniverse": {
+          "id": 2956631811,
+          "name": "[\u2728UPD] Octopus Game [SQUID GAME]",
+          "rootPlaceId": 7610176192
+        }
+      },
+      {
+        "id": 3328362891125915,
+        "name": "First Victory!",
+        "description": null,
+        "displayName": "First Victory!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 130292285110825,
+        "displayIconImageId": 130292285110825,
+        "created": "2025-01-10T04:53:25.682+00:00",
+        "updated": "2025-01-10T04:53:25.682+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4792,
+          "awardedCount": 78649,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 2956631811,
+          "name": "[\u2728UPD] Octopus Game [SQUID GAME]",
+          "rootPlaceId": 7610176192
+        }
+      }
+    ]
+  },
+  "65241": {
+    "data": [
+      {
+        "id": 66918518,
+        "name": "Survived a Disaster",
+        "description": "Congratulations. Unfortunately, one is not enough.",
+        "displayName": "Survived a Disaster",
+        "displayDescription": "Congratulations. Unfortunately, one is not enough.",
+        "enabled": true,
+        "iconImageId": 736107043,
+        "displayIconImageId": 736107043,
+        "created": "2011-12-03T10:52:05.5+00:00",
+        "updated": "2024-11-19T19:20:18.059+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 158116,
+          "awardedCount": 360816839,
+          "winRatePercentage": 0.281
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918551,
+        "name": "Survived 10 Disasters",
+        "description": "Nice job, keep going!",
+        "displayName": "Survived 10 Disasters",
+        "displayDescription": "Nice job, keep going!",
+        "enabled": true,
+        "iconImageId": 737056199,
+        "displayIconImageId": 737056199,
+        "created": "2011-12-03T10:53:16.463+00:00",
+        "updated": "2024-11-19T19:20:18.059+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 34015,
+          "awardedCount": 107049516,
+          "winRatePercentage": 0.06
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918611,
+        "name": "Survived 25 Disasters",
+        "description": "That is a good amount. You live to die another day.",
+        "displayName": "Survived 25 Disasters",
+        "displayDescription": "That is a good amount. You live to die another day.",
+        "enabled": true,
+        "iconImageId": 737056527,
+        "displayIconImageId": 737056527,
+        "created": "2011-12-03T10:55:43.627+00:00",
+        "updated": "2024-11-19T19:20:18.059+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 15875,
+          "awardedCount": 47593736,
+          "winRatePercentage": 0.028
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918640,
+        "name": "Survived 50 Disasters",
+        "description": "Jeeze. Not many people can say they have done the same.",
+        "displayName": "Survived 50 Disasters",
+        "displayDescription": "Jeeze. Not many people can say they have done the same.",
+        "enabled": true,
+        "iconImageId": 737057107,
+        "displayIconImageId": 737057107,
+        "created": "2011-12-03T10:56:43.467+00:00",
+        "updated": "2024-11-19T19:20:18.059+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8423,
+          "awardedCount": 22192439,
+          "winRatePercentage": 0.015
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918685,
+        "name": "Survived 100 Disasters",
+        "description": "This is definitely a feat worth boasting about.",
+        "displayName": "Survived 100 Disasters",
+        "displayDescription": "This is definitely a feat worth boasting about.",
+        "enabled": true,
+        "iconImageId": 738529047,
+        "displayIconImageId": 738529047,
+        "created": "2011-12-03T10:58:37.7+00:00",
+        "updated": "2024-11-19T19:20:18.059+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4269,
+          "awardedCount": 8777562,
+          "winRatePercentage": 0.008
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918716,
+        "name": "Survived 200 Disasters",
+        "description": "This badge is only for the most unstoppable players. Anyone with this badge is far beyond expert. I congratulate the few who actually achieve this badge.",
+        "displayName": "Survived 200 Disasters",
+        "displayDescription": "This badge is only for the most unstoppable players. Anyone with this badge is far beyond expert. I congratulate the few who actually achieve this badge.",
+        "enabled": true,
+        "iconImageId": 738529493,
+        "displayIconImageId": 738529493,
+        "created": "2011-12-03T11:00:47.287+00:00",
+        "updated": "2024-11-19T19:20:18.061+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1787,
+          "awardedCount": 2891779,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918795,
+        "name": "Survived 400 Disasters",
+        "description": "Okay. You won. What more do you want from me? Seriously, 400 times? You people are insane. Again... Nice job to the few who venture this far, to endure the torment of disaster after disaster.",
+        "displayName": "Survived 400 Disasters",
+        "displayDescription": "Okay. You won. What more do you want from me? Seriously, 400 times? You people are insane. Again... Nice job to the few who venture this far, to endure the torment of disaster after disaster.",
+        "enabled": true,
+        "iconImageId": 738529999,
+        "displayIconImageId": 738529999,
+        "created": "2011-12-03T11:03:36.087+00:00",
+        "updated": "2024-11-19T19:20:18.061+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 701,
+          "awardedCount": 843642,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918848,
+        "name": "Chance",
+        "description": "Struck by the last bolt of lightning. What are the chances?",
+        "displayName": "Chance",
+        "displayDescription": "Struck by the last bolt of lightning. What are the chances?",
+        "enabled": true,
+        "iconImageId": 2434900534,
+        "displayIconImageId": 2434900534,
+        "created": "2011-12-03T11:05:38.823+00:00",
+        "updated": "2024-11-19T19:20:18.062+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 812,
+          "awardedCount": 2563878,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918916,
+        "name": "High Survive Five!",
+        "description": "Survive five rounds in a row.",
+        "displayName": "High Survive Five!",
+        "displayDescription": "Survive five rounds in a row.",
+        "enabled": true,
+        "iconImageId": 2434901375,
+        "displayIconImageId": 2434901375,
+        "created": "2011-12-03T11:08:17.547+00:00",
+        "updated": "2024-11-19T19:20:18.064+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6807,
+          "awardedCount": 33145516,
+          "winRatePercentage": 0.012
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918948,
+        "name": "Surf's Up!",
+        "description": "Survive a tsunami on the map Surf Central.",
+        "displayName": "Surf's Up!",
+        "displayDescription": "Survive a tsunami on the map Surf Central.",
+        "enabled": true,
+        "iconImageId": 2434903199,
+        "displayIconImageId": 2434903199,
+        "created": "2011-12-03T11:09:44+00:00",
+        "updated": "2024-11-19T19:20:18.064+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5888,
+          "awardedCount": 23771593,
+          "winRatePercentage": 0.01
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66918988,
+        "name": "Barn Fire",
+        "description": "What's that Lassie? The barn is on fire?!?!",
+        "displayName": "Barn Fire",
+        "displayDescription": "What's that Lassie? The barn is on fire?!?!",
+        "enabled": true,
+        "iconImageId": 2434904246,
+        "displayIconImageId": 2434904246,
+        "created": "2011-12-03T11:11:05.333+00:00",
+        "updated": "2024-11-19T19:20:18.064+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4952,
+          "awardedCount": 18166902,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66919023,
+        "name": "Close Call",
+        "description": "Survive a disaster with 10hp or less.",
+        "displayName": "Close Call",
+        "displayDescription": "Survive a disaster with 10hp or less.",
+        "enabled": true,
+        "iconImageId": 2434904968,
+        "displayIconImageId": 2434904968,
+        "created": "2011-12-03T11:12:26.98+00:00",
+        "updated": "2024-11-19T19:20:18.065+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 35318,
+          "awardedCount": 106269607,
+          "winRatePercentage": 0.063
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66919105,
+        "name": "House Flood",
+        "description": "Survive a flood at your happy home.\r\n\r\nAny clever comments on a house being flooded?\r\n\r\nCaution: floor slippery when wet.",
+        "displayName": "House Flood",
+        "displayDescription": "Survive a flood at your happy home.\r\n\r\nAny clever comments on a house being flooded?\r\n\r\nCaution: floor slippery when wet.",
+        "enabled": true,
+        "iconImageId": 2434905682,
+        "displayIconImageId": 2434905682,
+        "created": "2011-12-03T11:15:26.593+00:00",
+        "updated": "2024-11-19T19:20:18.065+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2386,
+          "awardedCount": 8603343,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66919155,
+        "name": "GET TO THE CHOPPA!",
+        "description": "Get to the choppa.. and survive a thunderstorm.",
+        "displayName": "GET TO THE CHOPPA!",
+        "displayDescription": "Get to the choppa.. and survive a thunderstorm.",
+        "enabled": true,
+        "iconImageId": 2434906921,
+        "displayIconImageId": 2434906921,
+        "created": "2011-12-03T11:18:06.767+00:00",
+        "updated": "2024-11-19T19:20:18.065+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2898,
+          "awardedCount": 12563749,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 66956295,
+        "name": "Tornado vs. Trailer Park",
+        "description": "Survive it.",
+        "displayName": "Tornado vs. Trailer Park",
+        "displayDescription": "Survive it.",
+        "enabled": true,
+        "iconImageId": 2434855877,
+        "displayIconImageId": 2434855877,
+        "created": "2011-12-03T19:54:07.04+00:00",
+        "updated": "2024-11-19T19:20:18.167+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3705,
+          "awardedCount": 16554835,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 454956782,
+        "name": "Survive Power 2 Multi-Disaster",
+        "description": "Survive a power 2 Multi-Disaster.",
+        "displayName": "Survive Power 2 Multi-Disaster",
+        "displayDescription": "Survive a power 2 Multi-Disaster.",
+        "enabled": true,
+        "iconImageId": 738530525,
+        "displayIconImageId": 738530525,
+        "created": "2016-07-13T07:30:42.343+00:00",
+        "updated": "2024-11-19T19:22:59.072+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4983,
+          "awardedCount": 10946690,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 454956889,
+        "name": "Survive Power 3 Multi-Disaster",
+        "description": "Survive a power 3 Multi-Disaster.",
+        "displayName": "Survive Power 3 Multi-Disaster",
+        "displayDescription": "Survive a power 3 Multi-Disaster.",
+        "enabled": true,
+        "iconImageId": 738583858,
+        "displayIconImageId": 738583858,
+        "created": "2016-07-13T07:30:58.853+00:00",
+        "updated": "2024-11-19T19:22:59.072+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1436,
+          "awardedCount": 2142056,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 454957071,
+        "name": "Survive Power 4 Multi-Disaster",
+        "description": "Survive a power 4 Multi-Disaster.",
+        "displayName": "Survive Power 4 Multi-Disaster",
+        "displayDescription": "Survive a power 4 Multi-Disaster.",
+        "enabled": true,
+        "iconImageId": 738583616,
+        "displayIconImageId": 738583616,
+        "created": "2016-07-13T07:31:35.147+00:00",
+        "updated": "2024-11-19T19:22:59.072+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 602,
+          "awardedCount": 542630,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 454957253,
+        "name": "Survive Power 5 Multi-Disaster",
+        "description": "Survive a power 5 Multi-Disaster.",
+        "displayName": "Survive Power 5 Multi-Disaster",
+        "displayDescription": "Survive a power 5 Multi-Disaster.",
+        "enabled": true,
+        "iconImageId": 738584517,
+        "displayIconImageId": 738584517,
+        "created": "2016-07-13T07:32:17.83+00:00",
+        "updated": "2024-11-19T19:22:59.073+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 247,
+          "awardedCount": 198623,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 454957314,
+        "name": "Survive Power 6 Multi-Disaster",
+        "description": "Survive a power 6 Multi-Disaster.",
+        "displayName": "Survive Power 6 Multi-Disaster",
+        "displayDescription": "Survive a power 6 Multi-Disaster.",
+        "enabled": true,
+        "iconImageId": 738584326,
+        "displayIconImageId": 738584326,
+        "created": "2016-07-13T07:32:38.51+00:00",
+        "updated": "2024-11-19T19:22:59.073+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 185,
+          "awardedCount": 78216,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 454957377,
+        "name": "Survive Power 7 Multi-Disaster",
+        "description": "Survive a power 7 Multi-Disaster.",
+        "displayName": "Survive Power 7 Multi-Disaster",
+        "displayDescription": "Survive a power 7 Multi-Disaster.",
+        "enabled": true,
+        "iconImageId": 738584071,
+        "displayIconImageId": 738584071,
+        "created": "2016-07-13T07:32:52.637+00:00",
+        "updated": "2024-11-19T19:22:59.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 585,
+          "awardedCount": 171418,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 2124428687,
+        "name": "Survived 1000 Disasters",
+        "description": "One thousand times you've lived through a natural disaster. You are the best of the best.",
+        "displayName": "Survived 1000 Disasters",
+        "displayDescription": "One thousand times you've lived through a natural disaster. You are the best of the best.",
+        "enabled": true,
+        "iconImageId": 2434731837,
+        "displayIconImageId": 2434731837,
+        "created": "2018-10-03T17:11:35.077+00:00",
+        "updated": "2024-11-19T19:24:13.139+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 168,
+          "awardedCount": 160548,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 2124457881,
+        "name": "Rocket Escape!",
+        "description": "Blast Off!",
+        "displayName": "Rocket Escape!",
+        "displayDescription": "Blast Off!",
+        "enabled": true,
+        "iconImageId": 2930571909,
+        "displayIconImageId": 2930571909,
+        "created": "2019-03-06T22:13:25.647+00:00",
+        "updated": "2024-11-19T19:24:29.713+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 51736,
+          "awardedCount": 104957644,
+          "winRatePercentage": 0.092
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 3310494142087904,
+        "name": "The Hunt: Lost Clocks",
+        "description": "Find lost clocks while surviving disasters and bring them back to the timetraveler in the lobby. He needs 3 clocks to return home!\n\nThis badge was earned by completing Lost Clocks Quest for The Hunt: First Edition.",
+        "displayName": "The Hunt: Lost Clocks",
+        "displayDescription": "Find lost clocks while surviving disasters and bring them back to the timetraveler in the lobby. He needs 3 clocks to return home!\n\nThis badge was earned by completing Lost Clocks Quest for The Hunt: First Edition.",
+        "enabled": true,
+        "iconImageId": 16752068815,
+        "displayIconImageId": 16752068815,
+        "created": "2024-03-05T07:52:48.374+00:00",
+        "updated": "2024-11-21T00:00:34.399+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4203902,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      }
+    ]
+  },
+  "6331902150": {
+    "data": [
+      {
+        "id": 411480180016665,
+        "name": "Eternally Forsaken",
+        "description": "Play the game for the first time.",
+        "displayName": "Eternally Forsaken",
+        "displayDescription": "Play the game for the first time.",
+        "enabled": true,
+        "iconImageId": 136557718202051,
+        "displayIconImageId": 136557718202051,
+        "created": "2024-12-20T19:29:33.063+00:00",
+        "updated": "2024-12-20T21:59:50.425+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 127153,
+          "awardedCount": 3327409,
+          "winRatePercentage": 0.232
+        },
+        "awardingUniverse": {
+          "id": 6331902150,
+          "name": "[ALPHA] \ud83c\udf84 Forsaken",
+          "rootPlaceId": 18687417158
+        }
+      }
+    ]
+  },
+  "156639": {
+    "data": [
+      {
+        "id": 14417332,
+        "name": "John, Loved of Muses",
+        "description": "Awarded to people who find my \"signature\" that I left on this level.",
+        "displayName": "John, Loved of Muses",
+        "displayDescription": "Awarded to people who find my \"signature\" that I left on this level.",
+        "enabled": true,
+        "iconImageId": 14417331,
+        "displayIconImageId": 14417331,
+        "created": "2009-08-13T05:22:32.393+00:00",
+        "updated": "2024-11-19T19:16:12.559+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 136,
+          "awardedCount": 159324,
+          "winRatePercentage": 0.063
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 14468729,
+        "name": "5 Kills at Sword Fight on the Heights",
+        "description": "Score 5 kills at Sword Fight on the Heights to win this badge. If you can't do this, maybe you would rather play \"Tea Party on the Heights\" or \"Sword Dancing at Fat Camp With Starwars Kid\".",
+        "displayName": "5 Kills at Sword Fight on the Heights",
+        "displayDescription": "Score 5 kills at Sword Fight on the Heights to win this badge. If you can't do this, maybe you would rather play \"Tea Party on the Heights\" or \"Sword Dancing at Fat Camp With Starwars Kid\".",
+        "enabled": true,
+        "iconImageId": 14468617,
+        "displayIconImageId": 14468617,
+        "created": "2009-08-14T01:27:38.913+00:00",
+        "updated": "2024-11-19T19:16:15.258+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 350,
+          "awardedCount": 1940338,
+          "winRatePercentage": 0.162
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 14468788,
+        "name": "20 Kills at Sword Fight on the Heights  ",
+        "description": "Score 20 kills at Sword Fight on the Heights to win this badge. If you can do this you probably know enough about sword fighting to not stick yourself.",
+        "displayName": "20 Kills at Sword Fight on the Heights  ",
+        "displayDescription": "Score 20 kills at Sword Fight on the Heights to win this badge. If you can do this you probably know enough about sword fighting to not stick yourself.",
+        "enabled": true,
+        "iconImageId": 14468743,
+        "displayIconImageId": 14468743,
+        "created": "2009-08-14T01:29:01.753+00:00",
+        "updated": "2024-11-19T19:16:15.259+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 45,
+          "awardedCount": 496071,
+          "winRatePercentage": 0.021
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 14468882,
+        "name": "97 Kills at Sword Fight on the Heights ",
+        "description": "I know what you're thinking. \"Why 97?! What is Telamon's deal? That makes no sense.\" To these people, I say: \"YOU MAKE NO SENSE\". 97 is an elite number of kills. If you get that many, you rock.",
+        "displayName": "97 Kills at Sword Fight on the Heights ",
+        "displayDescription": "I know what you're thinking. \"Why 97?! What is Telamon's deal? That makes no sense.\" To these people, I say: \"YOU MAKE NO SENSE\". 97 is an elite number of kills. If you get that many, you rock.",
+        "enabled": true,
+        "iconImageId": 14468802,
+        "displayIconImageId": 14468802,
+        "created": "2009-08-14T01:30:49.803+00:00",
+        "updated": "2024-11-19T19:16:15.259+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9,
+          "awardedCount": 63255,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 14469303,
+        "name": "Blademaster",
+        "description": "Masters in the art of swordplay win this badge by achieving a score of 20:0. Anyone who has this badge is very dangerous.",
+        "displayName": "Blademaster",
+        "displayDescription": "Masters in the art of swordplay win this badge by achieving a score of 20:0. Anyone who has this badge is very dangerous.",
+        "enabled": true,
+        "iconImageId": 14469172,
+        "displayIconImageId": 14469172,
+        "created": "2009-08-14T01:38:21.333+00:00",
+        "updated": "2024-11-19T19:16:15.279+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13,
+          "awardedCount": 62263,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 83094426,
+        "name": "Pwned Shedletsky",
+        "description": "Ouch.",
+        "displayName": "Pwned Shedletsky",
+        "displayDescription": "Ouch.",
+        "enabled": true,
+        "iconImageId": 83094404,
+        "displayIconImageId": 83094404,
+        "created": "2012-06-09T17:53:22.02+00:00",
+        "updated": "2024-11-19T19:21:06.313+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 969,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 83094517,
+        "name": "Pwned Shedletsky *EPIC*",
+        "description": "Pwn Shedletsky with a normal sword? You are either: 1) very lucky 2) very good or 3) both.",
+        "displayName": "Pwned Shedletsky *EPIC*",
+        "displayDescription": "Pwn Shedletsky with a normal sword? You are either: 1) very lucky 2) very good or 3) both.",
+        "enabled": true,
+        "iconImageId": 83094464,
+        "displayIconImageId": 83094464,
+        "created": "2012-06-09T17:54:06.933+00:00",
+        "updated": "2024-11-19T19:21:06.314+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1375,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 83094644,
+        "name": "Blame John",
+        "description": "You got pwned.",
+        "displayName": "Blame John",
+        "displayDescription": "You got pwned.",
+        "enabled": true,
+        "iconImageId": 83094620,
+        "displayIconImageId": 83094620,
+        "created": "2012-06-09T17:55:18.77+00:00",
+        "updated": "2024-11-19T19:21:06.314+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1102,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 83094935,
+        "name": "OMG It's Shedletsky!",
+        "description": "You met Shedletsky in-game. He was probably too busy pwning noobs to chat too much. Sorry! Ping me on twitter if you want @shedletsky",
+        "displayName": "OMG It's Shedletsky!",
+        "displayDescription": "You met Shedletsky in-game. He was probably too busy pwning noobs to chat too much. Sorry! Ping me on twitter if you want @shedletsky",
+        "enabled": true,
+        "iconImageId": 83094898,
+        "displayIconImageId": 83094898,
+        "created": "2012-06-09T17:57:57.717+00:00",
+        "updated": "2024-11-19T19:21:06.315+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 5093,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      },
+      {
+        "id": 83333920,
+        "name": "Meta Pwn",
+        "description": "You pwned someone who pwned John. It's nice to know that someone has my back.",
+        "displayName": "Meta Pwn",
+        "displayDescription": "You pwned someone who pwned John. It's nice to know that someone has my back.",
+        "enabled": true,
+        "iconImageId": 83333419,
+        "displayIconImageId": 83333419,
+        "created": "2012-06-12T00:40:57.6+00:00",
+        "updated": "2024-11-19T19:21:06.896+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 126645,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 156639,
+          "name": "\u2694\ufe0f Sword Fights on the Heights IV",
+          "rootPlaceId": 47324
+        }
+      }
+    ]
+  },
+  "65510": {
+    "data": [
+      {
+        "id": 32810981,
+        "name": "50 pts.",
+        "description": "Ehh, what's that, 13 kills? Is that all you got?",
+        "displayName": "50 pts.",
+        "displayDescription": "Ehh, what's that, 13 kills? Is that all you got?",
+        "enabled": true,
+        "iconImageId": 32810913,
+        "displayIconImageId": 32810913,
+        "created": "2010-08-13T02:51:39.053+00:00",
+        "updated": "2024-11-19T19:18:09.395+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 428595,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65510,
+          "name": "The Underground War",
+          "rootPlaceId": 189632
+        }
+      },
+      {
+        "id": 32811038,
+        "name": "100 pts.",
+        "description": "Alright, now we're getting somewhere.",
+        "displayName": "100 pts.",
+        "displayDescription": "Alright, now we're getting somewhere.",
+        "enabled": true,
+        "iconImageId": 32811000,
+        "displayIconImageId": 32811000,
+        "created": "2010-08-13T02:52:36.68+00:00",
+        "updated": "2024-11-19T19:18:09.396+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 218523,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65510,
+          "name": "The Underground War",
+          "rootPlaceId": 189632
+        }
+      },
+      {
+        "id": 32811130,
+        "name": "200 pts.",
+        "description": "Nice! That's far enough. You can stop now. :P",
+        "displayName": "200 pts.",
+        "displayDescription": "Nice! That's far enough. You can stop now. :P",
+        "enabled": true,
+        "iconImageId": 32811052,
+        "displayIconImageId": 32811052,
+        "created": "2010-08-13T02:53:46.993+00:00",
+        "updated": "2024-11-19T19:18:09.396+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 99913,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65510,
+          "name": "The Underground War",
+          "rootPlaceId": 189632
+        }
+      },
+      {
+        "id": 32811560,
+        "name": "400 pts!",
+        "description": "Wow. . . Good Job. You have exceeded my expectations and earned yourself the hardest to obtain badge in this game. How do you feel? Like a champion right?",
+        "displayName": "400 pts!",
+        "displayDescription": "Wow. . . Good Job. You have exceeded my expectations and earned yourself the hardest to obtain badge in this game. How do you feel? Like a champion right?",
+        "enabled": true,
+        "iconImageId": 32811144,
+        "displayIconImageId": 32811144,
+        "created": "2010-08-13T03:00:53.503+00:00",
+        "updated": "2024-11-19T19:18:09.397+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 44679,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65510,
+          "name": "The Underground War",
+          "rootPlaceId": 189632
+        }
+      }
+    ]
   }
 }
