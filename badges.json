@@ -37178,6 +37178,72 @@
           "name": "Pressure",
           "rootPlaceId": 12411473842
         }
+      },
+      {
+        "id": 2016720435205150,
+        "name": "Dead Weight",
+        "description": null,
+        "displayName": "Dead Weight",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 112084183304730,
+        "displayIconImageId": 112084183304730,
+        "created": "2025-02-12T22:28:07.167+00:00",
+        "updated": "2025-02-12T22:28:07.167+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4367208330,
+          "name": "Pressure",
+          "rootPlaceId": 12411473842
+        }
+      },
+      {
+        "id": 3059078604815184,
+        "name": "Smile, Critter",
+        "description": null,
+        "displayName": "Smile, Critter",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 75434454332182,
+        "displayIconImageId": 75434454332182,
+        "created": "2025-02-12T22:28:27.375+00:00",
+        "updated": "2025-02-12T22:28:27.375+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4367208330,
+          "name": "Pressure",
+          "rootPlaceId": 12411473842
+        }
+      },
+      {
+        "id": 2125913381284439,
+        "name": "\"HoRrOr GaMe\"",
+        "description": null,
+        "displayName": "\"HoRrOr GaMe\"",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 110153178982486,
+        "displayIconImageId": 110153178982486,
+        "created": "2025-02-12T22:29:10.155+00:00",
+        "updated": "2025-02-12T22:29:10.155+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4367208330,
+          "name": "Pressure",
+          "rootPlaceId": 12411473842
+        }
       }
     ]
   },
