@@ -37156,6 +37156,28 @@
           "name": "Pressure",
           "rootPlaceId": 12411473842
         }
+      },
+      {
+        "id": 1202097727831880,
+        "name": "Take My Hand.",
+        "description": null,
+        "displayName": "Take My Hand.",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 130921735796610,
+        "displayIconImageId": 130921735796610,
+        "created": "2025-02-12T18:56:45.152+00:00",
+        "updated": "2025-02-12T18:56:45.152+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4367208330,
+          "name": "Pressure",
+          "rootPlaceId": 12411473842
+        }
       }
     ]
   },
