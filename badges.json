@@ -9,7 +9,30 @@
     "data": []
   },
   "4348829796": {
-    "data": []
+    "data": [
+      {
+        "id": 2193041519060031,
+        "name": "Medal X MVSD ",
+        "description": null,
+        "displayName": "Medal X MVSD ",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 131048712182980,
+        "displayIconImageId": 131048712182980,
+        "created": "2024-12-20T22:46:51.022+00:00",
+        "updated": "2025-02-14T23:32:40.47+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4348829796,
+          "name": "Murderers VS Sheriffs Duels",
+          "rootPlaceId": 12355337193
+        }
+      }
+    ]
   },
   "4293374620": {
     "data": []
