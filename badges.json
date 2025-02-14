@@ -69283,6 +69283,50 @@
           "name": "[\u2728UPD] Octopus Game [SQUID GAME]",
           "rootPlaceId": 7610176192
         }
+      },
+      {
+        "id": 3959439990297778,
+        "name": "Rebellion Winner",
+        "description": "You won and survived in the Rebellion gamemode and split up the grand prize. Truly an heroic fight.",
+        "displayName": "Rebellion Winner",
+        "displayDescription": "You won and survived in the Rebellion gamemode and split up the grand prize. Truly an heroic fight.",
+        "enabled": true,
+        "iconImageId": 112600062977171,
+        "displayIconImageId": 112600062977171,
+        "created": "2025-01-12T11:38:20.946+00:00",
+        "updated": "2025-02-14T21:39:53.504+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 63,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2956631811,
+          "name": "[REBELLION +\u2764\ufe0f] Octopus Game [SQUID GAME]",
+          "rootPlaceId": 7610176192
+        }
+      },
+      {
+        "id": 4091537017766031,
+        "name": "Rebellion Defender",
+        "description": "You succesfully stopped the Rebellion as a guard. Thank to your sacrifice the Games will continue... and enjoy the extra pay if you made it out of there alive.",
+        "displayName": "Rebellion Defender",
+        "displayDescription": "You succesfully stopped the Rebellion as a guard. Thank to your sacrifice the Games will continue... and enjoy the extra pay if you made it out of there alive.",
+        "enabled": true,
+        "iconImageId": 94027277926574,
+        "displayIconImageId": 94027277926574,
+        "created": "2025-01-12T11:38:28.484+00:00",
+        "updated": "2025-02-14T21:39:58.934+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 81,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2956631811,
+          "name": "[REBELLION +\u2764\ufe0f] Octopus Game [SQUID GAME]",
+          "rootPlaceId": 7610176192
+        }
       }
     ]
   },
