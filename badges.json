@@ -28056,6 +28056,28 @@
           "name": "\u2b50 Dragon Adventures \ud83d\udc09 Fantasy Pets \u2728",
           "rootPlaceId": 3475397644
         }
+      },
+      {
+        "id": 3543596453313423,
+        "name": "Valentines 2025",
+        "description": "Awarded to players who participated in the Dragon Adventures Valentines 2024 event! Badge Designed By TIPE_NAME",
+        "displayName": "Valentines 2025",
+        "displayDescription": "Awarded to players who participated in the Dragon Adventures Valentines 2024 event! Badge Designed By TIPE_NAME",
+        "enabled": true,
+        "iconImageId": 97236901763340,
+        "displayIconImageId": 97236901763340,
+        "created": "2025-02-14T02:09:16.076+00:00",
+        "updated": "2025-02-14T18:47:26.018+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1235188606,
+          "name": "\u2b50 Dragon Adventures \ud83d\udc09 Fantasy Pets \u2728",
+          "rootPlaceId": 3475397644
+        }
       }
     ]
   },
