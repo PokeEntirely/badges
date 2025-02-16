@@ -61333,6 +61333,28 @@
           "name": "Shrimp Game",
           "rootPlaceId": 7606564092
         }
+      },
+      {
+        "id": 348904982906334,
+        "name": "Bankrupt",
+        "description": "You had it. You really did.",
+        "displayName": "Bankrupt",
+        "displayDescription": "You had it. You really did.",
+        "enabled": true,
+        "iconImageId": 107060704849970,
+        "displayIconImageId": 107060704849970,
+        "created": "2025-02-16T21:10:44.681+00:00",
+        "updated": "2025-02-16T21:10:44.681+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "[\ud83c\udfadFRONTMAN] Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
       }
     ]
   },
