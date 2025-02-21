@@ -12956,6 +12956,28 @@
           "name": "[SUPER BOWL] NFL Universe Football",
           "rootPlaceId": 2338325648
         }
+      },
+      {
+        "id": 4206259774335468,
+        "name": "Event Badge 1",
+        "description": null,
+        "displayName": "Event Badge 1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 88699857132808,
+        "displayIconImageId": 88699857132808,
+        "created": "2025-02-21T19:23:23.776+00:00",
+        "updated": "2025-02-21T19:23:23.776+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 184199275,
+          "name": "[S13\ud83d\udd25] NFL Universe Football",
+          "rootPlaceId": 2338325648
+        }
       }
     ]
   },
