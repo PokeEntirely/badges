@@ -20496,6 +20496,50 @@
           "name": "Greenville",
           "rootPlaceId": 891852901
         }
+      },
+      {
+        "id": 2015223022570664,
+        "name": "Andromeda",
+        "description": "With the stars above us, one can only guess the vastness of space, and all of its complexities...",
+        "displayName": "Andromeda",
+        "displayDescription": "With the stars above us, one can only guess the vastness of space, and all of its complexities...",
+        "enabled": true,
+        "iconImageId": 88893519020132,
+        "displayIconImageId": 88893519020132,
+        "created": "2025-02-21T20:19:31.113+00:00",
+        "updated": "2025-02-21T20:19:31.113+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 371263894,
+          "name": "Greenville",
+          "rootPlaceId": 891852901
+        }
+      },
+      {
+        "id": 2069424930294404,
+        "name": "Cthulhu",
+        "description": "With a creature with such a daring and powerful physical, and mental persona, how shall a mere mortal defeat such a foe?",
+        "displayName": "Cthulhu",
+        "displayDescription": "With a creature with such a daring and powerful physical, and mental persona, how shall a mere mortal defeat such a foe?",
+        "enabled": true,
+        "iconImageId": 92088708791397,
+        "displayIconImageId": 92088708791397,
+        "created": "2025-02-21T20:20:19.68+00:00",
+        "updated": "2025-02-21T20:20:19.68+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 371263894,
+          "name": "Greenville",
+          "rootPlaceId": 891852901
+        }
       }
     ]
   },
