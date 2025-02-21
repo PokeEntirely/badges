@@ -7811,6 +7811,50 @@
           "name": "Clip It \ud83d\ude02\ud83c\udfac\ud83d\udc57",
           "rootPlaceId": 11765402359
         }
+      },
+      {
+        "id": 4036900265247976,
+        "name": "[ Content Deleted 1 ]",
+        "description": "-",
+        "displayName": "[ Content Deleted 1 ]",
+        "displayDescription": "-",
+        "enabled": true,
+        "iconImageId": 126078591238237,
+        "displayIconImageId": 126078591238237,
+        "created": "2025-02-21T04:04:41.807+00:00",
+        "updated": "2025-02-21T04:04:41.807+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4165164803,
+          "name": "Clip It \ud83d\ude02\ud83c\udfac\ud83d\udc57",
+          "rootPlaceId": 11765402359
+        }
+      },
+      {
+        "id": 628671897438034,
+        "name": "[ Content Deleted 2 ]",
+        "description": "-",
+        "displayName": "[ Content Deleted 2 ]",
+        "displayDescription": "-",
+        "enabled": true,
+        "iconImageId": 91570255880217,
+        "displayIconImageId": 91570255880217,
+        "created": "2025-02-21T04:04:42.379+00:00",
+        "updated": "2025-02-21T04:04:42.379+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4165164803,
+          "name": "Clip It \ud83d\ude02\ud83c\udfac\ud83d\udc57",
+          "rootPlaceId": 11765402359
+        }
       }
     ]
   },
