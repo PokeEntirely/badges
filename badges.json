@@ -393,7 +393,52 @@
     "data": []
   },
   "3825332406": {
-    "data": []
+    "data": [
+      {
+        "id": 884141426293139,
+        "name": "???",
+        "description": null,
+        "displayName": "???",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 80134011203427,
+        "displayIconImageId": 80134011203427,
+        "created": "2025-02-21T18:26:34.732+00:00",
+        "updated": "2025-02-21T18:26:34.732+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3825332406,
+          "name": "Elemental Dungeons",
+          "rootPlaceId": 10515146389
+        }
+      },
+      {
+        "id": 1770725961399818,
+        "name": "??? (2)",
+        "description": "w",
+        "displayName": "??? (2)",
+        "displayDescription": "w",
+        "enabled": true,
+        "iconImageId": 104405727756204,
+        "displayIconImageId": 104405727756204,
+        "created": "2025-02-21T18:26:55.725+00:00",
+        "updated": "2025-02-21T18:26:55.725+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3825332406,
+          "name": "Elemental Dungeons",
+          "rootPlaceId": 10515146389
+        }
+      }
+    ]
   },
   "3645347821": {
     "data": [
@@ -10803,6 +10848,50 @@
         "awardingUniverse": {
           "id": 1176784616,
           "name": "\ud83e\udd91 SQUID \ud83e\udd91  Tower Defense Simulator",
+          "rootPlaceId": 3260590327
+        }
+      },
+      {
+        "id": 4162153749211694,
+        "name": "quack.png",
+        "description": null,
+        "displayName": "quack.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 89633968827252,
+        "displayIconImageId": 89633968827252,
+        "created": "2025-02-21T18:35:02.892+00:00",
+        "updated": "2025-02-21T18:35:02.892+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1176784616,
+          "name": "\u2622\ufe0fPolluted Wasteland\u2622\ufe0f  Tower Defense Simulator",
+          "rootPlaceId": 3260590327
+        }
+      },
+      {
+        "id": 1915931582761497,
+        "name": "quack quack.png",
+        "description": null,
+        "displayName": "quack quack.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 134851427655343,
+        "displayIconImageId": 134851427655343,
+        "created": "2025-02-21T18:37:06.881+00:00",
+        "updated": "2025-02-21T18:37:06.881+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1176784616,
+          "name": "\u2622\ufe0fPolluted Wasteland\u2622\ufe0f  Tower Defense Simulator",
           "rootPlaceId": 3260590327
         }
       }
@@ -47326,6 +47415,50 @@
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 902974,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 855385310,
+          "name": "A Wolf Or Other",
+          "rootPlaceId": 2432005634
+        }
+      },
+      {
+        "id": 1820222841083910,
+        "name": "Badge A",
+        "description": null,
+        "displayName": "Badge A",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 104469456661762,
+        "displayIconImageId": 104469456661762,
+        "created": "2025-02-21T18:38:09.229+00:00",
+        "updated": "2025-02-21T18:38:09.229+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 855385310,
+          "name": "A Wolf Or Other",
+          "rootPlaceId": 2432005634
+        }
+      },
+      {
+        "id": 3953154355406868,
+        "name": "Badge B",
+        "description": null,
+        "displayName": "Badge B",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 77182832693642,
+        "displayIconImageId": 77182832693642,
+        "created": "2025-02-21T18:38:30.713+00:00",
+        "updated": "2025-02-21T18:38:30.713+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
