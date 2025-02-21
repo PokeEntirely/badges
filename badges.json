@@ -7139,6 +7139,116 @@
           "name": "Fisch \ud83e\udd88 [\ud83d\udc98VALENTINES]",
           "rootPlaceId": 16732694052
         }
+      },
+      {
+        "id": 2971899933109154,
+        "name": "Bestiary: Volcanic Vents",
+        "description": null,
+        "displayName": "Bestiary: Volcanic Vents",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 132028669928093,
+        "displayIconImageId": 132028669928093,
+        "created": "2025-02-21T17:53:35.803+00:00",
+        "updated": "2025-02-21T17:53:35.803+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch [\ud83c\udf40 1 DAY]",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 2580846320562382,
+        "name": "Bestiary: Challengers Deep",
+        "description": null,
+        "displayName": "Bestiary: Challengers Deep",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 88196808627222,
+        "displayIconImageId": 88196808627222,
+        "created": "2025-02-21T17:53:52.795+00:00",
+        "updated": "2025-02-21T17:53:52.795+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch [\ud83c\udf40 1 DAY]",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 440171660675783,
+        "name": "Bestiary: Abyssal Zenith",
+        "description": null,
+        "displayName": "Bestiary: Abyssal Zenith",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 128218535057819,
+        "displayIconImageId": 128218535057819,
+        "created": "2025-02-21T17:54:19.297+00:00",
+        "updated": "2025-02-21T17:54:19.297+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch [\ud83c\udf40 1 DAY]",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 699973517072777,
+        "name": "Bestiary: Calm Zone",
+        "description": null,
+        "displayName": "Bestiary: Calm Zone",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 116011884251481,
+        "displayIconImageId": 116011884251481,
+        "created": "2025-02-21T17:54:35.549+00:00",
+        "updated": "2025-02-21T17:54:35.549+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch [\ud83c\udf40 1 DAY]",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 434000111228886,
+        "name": "Bestiary: Veil of the Forstaken",
+        "description": null,
+        "displayName": "Bestiary: Veil of the Forstaken",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 88299752468309,
+        "displayIconImageId": 88299752468309,
+        "created": "2025-02-21T17:54:52.296+00:00",
+        "updated": "2025-02-21T17:54:52.296+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch [\ud83c\udf40 1 DAY]",
+          "rootPlaceId": 16732694052
+        }
       }
     ]
   },
