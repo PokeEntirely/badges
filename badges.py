@@ -1,4 +1,5 @@
-# your_script.py
+PUSHOVER_API_KEY = "axaaescm93q62gppb117migpf4k8es"
+PUSHOVER_USER_KEY = "uae6nsc26pq5d79bnoitj4dimyz7hx"
 
 import asyncio
 import aiohttp
@@ -9,10 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 import aiofiles
 from datetime import datetime
 
-# Set to True if you want debug messages
 DEBUG = True
-
-# Use the webhook URL from environment variable for security
 WEBHOOK_URL = os.environ.get("WEBHOOK_URL")
 
 logging.basicConfig(
@@ -70,9 +68,26 @@ class WebhookSender:
             print(f"Failed to send webhook: {e}")
 
     async def close(self):
-        await self.send_batch()  # Ensure all embeds are sent before closing
+        await self.send_batch()
         await self.session.close()
         self.executor.shutdown(wait=True)
+
+async def send_pushover_notification(session, badge, thumbnail_url, game_name):
+    url = "https://api.pushover.net/1/messages.json"
+    data = {
+        "token": PUSHOVER_API_KEY,
+        "user": PUSHOVER_USER_KEY,
+        "title": f"New Badge: {badge['name']}",
+        "message": f"Game: {game_name}"
+    }
+    if thumbnail_url:
+        data["url"] = thumbnail_url
+        data["url_title"] = "Thumbnail"
+    try:
+        async with session.post(url, data=data) as response:
+            response.raise_for_status()
+    except Exception as e:
+        logging.error(f"Failed to send pushover notification for badge {badge['id']}: {e}")
 
 async def get_badges(session, universe_id):
     badges = []
@@ -127,7 +142,6 @@ async def process_new_badge(session, badge, webhook_sender):
     badge_id = badge['id']
     description = badge.get('description') or "None."
     created_time = badge['created']
-
     try:
         creation_time_obj = datetime.fromisoformat(created_time.replace('Z', '+00:00'))
         creation_timestamp = int(creation_time_obj.timestamp())
@@ -135,15 +149,12 @@ async def process_new_badge(session, badge, webhook_sender):
     except Exception as e:
         logging.error(f"Error parsing creation time for badge {badge_id}: {e}")
         discord_timestamp = "Unknown"
-
     awarding_universe = badge.get('awardingUniverse', {})
     game_name = awarding_universe.get('name', 'Unknown Game')
     game_id = awarding_universe.get('rootPlaceId', '0')
     game_link = f"https://www.roblox.com/games/{game_id}/game" if game_id != '0' else game_name
     game_name_hyperlink = f"[{game_name}]({game_link})" if game_id != '0' else game_name
-
     thumbnail_url = await get_badge_thumbnail_url(session, badge_id)
-
     embed = {
         "title": badge['name'],
         "url": f"https://www.roblox.com/badges/{badge_id}/",
@@ -156,7 +167,7 @@ async def process_new_badge(session, badge, webhook_sender):
         ],
         "thumbnail": {"url": thumbnail_url},
         "author": {
-            "name": "New Badge Uploaded",
+            "name": "New Badge Uploaded"
         },
         "footer": {
             "text": "Made by Poke • @PokeTheMagnific on X",
@@ -164,6 +175,7 @@ async def process_new_badge(session, badge, webhook_sender):
         }
     }
     await webhook_sender.add_embed(embed, badge_id)
+    await send_pushover_notification(session, badge, thumbnail_url, game_name)
 
 async def process_universe(session, universe_id, badges_data, webhook_sender):
     fetched_badges = await get_badges(session, universe_id)
@@ -196,12 +208,9 @@ async def save_badges_data(badges_data):
 async def main():
     debug_print("Starting main function")
     webhook_sender = WebhookSender(WEBHOOK_URL)
-
     universal_ids = await load_universe_ids()
     badges_data = await load_badges_data()
-
     timeout = aiohttp.ClientTimeout(total=15)
-
     async with aiohttp.ClientSession(timeout=timeout) as session:
         tasks = [process_universe(session, universe_id, badges_data, webhook_sender) for universe_id in universal_ids]
         total_new_badges = sum(await asyncio.gather(*tasks))
