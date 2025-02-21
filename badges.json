@@ -37686,6 +37686,28 @@
           "name": "Pressure",
           "rootPlaceId": 12411473842
         }
+      },
+      {
+        "id": 1294459815544587,
+        "name": "Total Misplay!",
+        "description": "Successfully make your way across Leshy's board.",
+        "displayName": "Total Misplay!",
+        "displayDescription": "Successfully make your way across Leshy's board.",
+        "enabled": true,
+        "iconImageId": 114846993449517,
+        "displayIconImageId": 114846993449517,
+        "created": "2025-02-21T21:16:23.797+00:00",
+        "updated": "2025-02-21T21:16:23.797+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4367208330,
+          "name": "Pressure",
+          "rootPlaceId": 12411473842
+        }
       }
     ]
   },
