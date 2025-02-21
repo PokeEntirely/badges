@@ -72431,5 +72431,757 @@
         }
       }
     ]
+  },
+  "2628404708": {
+    "data": [
+      {
+        "id": 2124757306,
+        "name": "Played Wacky Wizards",
+        "description": null,
+        "displayName": "Played Wacky Wizards",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6903117261,
+        "displayIconImageId": 6903117261,
+        "created": "2021-06-03T09:26:59.703+00:00",
+        "updated": "2024-11-19T19:28:49.796+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 53093,
+          "awardedCount": 112501426,
+          "winRatePercentage": 0.901
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124759017,
+        "name": "Potion Noob | Discover 5 Potions",
+        "description": null,
+        "displayName": "Potion Noob | Discover 5 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6914873380,
+        "displayIconImageId": 6914873380,
+        "created": "2021-06-05T20:15:31.173+00:00",
+        "updated": "2024-11-19T19:28:51.254+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 32850,
+          "awardedCount": 73219784,
+          "winRatePercentage": 0.557
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124759018,
+        "name": "Noob Wizard | Discover 10 Potions",
+        "description": null,
+        "displayName": "Noob Wizard | Discover 10 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6914874239,
+        "displayIconImageId": 6914874239,
+        "created": "2021-06-05T20:15:43.153+00:00",
+        "updated": "2024-11-19T19:28:51.261+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 22354,
+          "awardedCount": 54629827,
+          "winRatePercentage": 0.379
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124759019,
+        "name": "Potion Beginner | Discover 15 Potions",
+        "description": null,
+        "displayName": "Potion Beginner | Discover 15 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6914878548,
+        "displayIconImageId": 6914878548,
+        "created": "2021-06-05T20:16:47.807+00:00",
+        "updated": "2024-11-19T19:28:51.262+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 13869,
+          "awardedCount": 40576443,
+          "winRatePercentage": 0.235
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124759020,
+        "name": "Potion Trainee | Discover 20 Potions",
+        "description": null,
+        "displayName": "Potion Trainee | Discover 20 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6914879918,
+        "displayIconImageId": 6914879918,
+        "created": "2021-06-05T20:17:10.393+00:00",
+        "updated": "2024-11-19T19:28:51.262+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8936,
+          "awardedCount": 31466860,
+          "winRatePercentage": 0.152
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124759021,
+        "name": "Potion Pro | Discover 30 Potions",
+        "description": null,
+        "displayName": "Potion Pro | Discover 30 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6914881077,
+        "displayIconImageId": 6914881077,
+        "created": "2021-06-05T20:17:25.72+00:00",
+        "updated": "2024-11-19T19:28:51.262+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5591,
+          "awardedCount": 22553993,
+          "winRatePercentage": 0.095
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124759022,
+        "name": "Potion Legend | Discover 40 Potions",
+        "description": null,
+        "displayName": "Potion Legend | Discover 40 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6914881795,
+        "displayIconImageId": 6914881795,
+        "created": "2021-06-05T20:17:36.863+00:00",
+        "updated": "2024-11-19T19:28:51.263+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4163,
+          "awardedCount": 17574147,
+          "winRatePercentage": 0.071
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124759023,
+        "name": "Old Wizard | Discover 50 Potions!!!",
+        "description": null,
+        "displayName": "Old Wizard | Discover 50 Potions!!!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6914882932,
+        "displayIconImageId": 6914882932,
+        "created": "2021-06-05T20:17:54.47+00:00",
+        "updated": "2024-11-19T19:28:51.263+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2983,
+          "awardedCount": 13771806,
+          "winRatePercentage": 0.051
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124769668,
+        "name": "Skilled Wizard | Discover 60 Potions",
+        "description": null,
+        "displayName": "Skilled Wizard | Discover 60 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6991254602,
+        "displayIconImageId": 6991254602,
+        "created": "2021-06-23T01:58:44.467+00:00",
+        "updated": "2024-11-19T19:29:00.567+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2348,
+          "awardedCount": 10869255,
+          "winRatePercentage": 0.04
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124769669,
+        "name": "Pro Wizard | Discover 70 Potions!",
+        "description": null,
+        "displayName": "Pro Wizard | Discover 70 Potions!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6991255446,
+        "displayIconImageId": 6991255446,
+        "created": "2021-06-23T01:58:59.97+00:00",
+        "updated": "2024-11-19T19:29:00.567+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1774,
+          "awardedCount": 8683579,
+          "winRatePercentage": 0.03
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124769670,
+        "name": "Wizard Chief | Discover 80 Potions!",
+        "description": null,
+        "displayName": "Wizard Chief | Discover 80 Potions!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6991256528,
+        "displayIconImageId": 6991256528,
+        "created": "2021-06-23T01:59:22.38+00:00",
+        "updated": "2024-11-19T19:29:00.568+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1515,
+          "awardedCount": 7023435,
+          "winRatePercentage": 0.026
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124769671,
+        "name": "Wizard Captain | Discover 90 Potions",
+        "description": null,
+        "displayName": "Wizard Captain | Discover 90 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6991257200,
+        "displayIconImageId": 6991257200,
+        "created": "2021-06-23T01:59:36.667+00:00",
+        "updated": "2024-11-19T19:29:00.569+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1199,
+          "awardedCount": 5748375,
+          "winRatePercentage": 0.02
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124769672,
+        "name": "WIZARD LEGEND | Discover 100 Potions!",
+        "description": null,
+        "displayName": "WIZARD LEGEND | Discover 100 Potions!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6991257825,
+        "displayIconImageId": 6991257825,
+        "created": "2021-06-23T01:59:49.673+00:00",
+        "updated": "2024-11-19T19:29:00.569+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1015,
+          "awardedCount": 4773289,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124769675,
+        "name": "Find The Beans",
+        "description": null,
+        "displayName": "Find The Beans",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6991263092,
+        "displayIconImageId": 6991263092,
+        "created": "2021-06-23T02:01:39.887+00:00",
+        "updated": "2024-11-19T19:29:00.571+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1330,
+          "awardedCount": 11042365,
+          "winRatePercentage": 0.023
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124769676,
+        "name": "In Hot Water",
+        "description": null,
+        "displayName": "In Hot Water",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6991264209,
+        "displayIconImageId": 6991264209,
+        "created": "2021-06-23T02:01:59.887+00:00",
+        "updated": "2024-11-19T19:29:00.584+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4385,
+          "awardedCount": 17267993,
+          "winRatePercentage": 0.074
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124774098,
+        "name": "Kill Mr. Rich",
+        "description": null,
+        "displayName": "Kill Mr. Rich",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7025244743,
+        "displayIconImageId": 7025244743,
+        "created": "2021-06-30T06:49:03.97+00:00",
+        "updated": "2024-11-19T19:29:04.417+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3110,
+          "awardedCount": 18849950,
+          "winRatePercentage": 0.053
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124779184,
+        "name": "Help the Witch!",
+        "description": null,
+        "displayName": "Help the Witch!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7061097878,
+        "displayIconImageId": 7061097878,
+        "created": "2021-07-07T19:08:02.927+00:00",
+        "updated": "2024-11-19T19:29:08.83+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 994,
+          "awardedCount": 7141304,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124787935,
+        "name": "ULTIMATE WIZARD | Discover 125 Potions!",
+        "description": null,
+        "displayName": "ULTIMATE WIZARD | Discover 125 Potions!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7127860231,
+        "displayIconImageId": 7127860231,
+        "created": "2021-07-20T22:29:42.58+00:00",
+        "updated": "2024-11-19T19:29:16.385+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 663,
+          "awardedCount": 3072291,
+          "winRatePercentage": 0.011
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124787936,
+        "name": "SKILLED LEGEND WIZARD | Discover 150 Potions!",
+        "description": null,
+        "displayName": "SKILLED LEGEND WIZARD | Discover 150 Potions!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7127861958,
+        "displayIconImageId": 7127861958,
+        "created": "2021-07-20T22:30:12.717+00:00",
+        "updated": "2024-11-19T19:29:16.385+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 385,
+          "awardedCount": 2040530,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124805936,
+        "name": "Complete the Witches Vs Wizards Quest!",
+        "description": null,
+        "displayName": "Complete the Witches Vs Wizards Quest!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7266465821,
+        "displayIconImageId": 7266465821,
+        "created": "2021-08-16T19:54:26.947+00:00",
+        "updated": "2024-11-19T19:29:32.009+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1181,
+          "awardedCount": 7596727,
+          "winRatePercentage": 0.02
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124805937,
+        "name": "Complete the Bee Quest!",
+        "description": null,
+        "displayName": "Complete the Bee Quest!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7266466823,
+        "displayIconImageId": 7266466823,
+        "created": "2021-08-16T19:54:39.703+00:00",
+        "updated": "2024-11-19T19:29:32.009+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3954,
+          "awardedCount": 14055513,
+          "winRatePercentage": 0.067
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124807046,
+        "name": "Complete the VOLCANO event!",
+        "description": null,
+        "displayName": "Complete the VOLCANO event!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7274930981,
+        "displayIconImageId": 7274930981,
+        "created": "2021-08-18T06:09:01.323+00:00",
+        "updated": "2024-11-19T19:29:32.992+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1439,
+          "awardedCount": 7847889,
+          "winRatePercentage": 0.024
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124817239,
+        "name": "SO MANY POTIONS | Discover 175 Potions!",
+        "description": null,
+        "displayName": "SO MANY POTIONS | Discover 175 Potions!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7378554634,
+        "displayIconImageId": 7378554634,
+        "created": "2021-09-01T00:58:36.767+00:00",
+        "updated": "2024-11-19T19:29:41.719+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 258,
+          "awardedCount": 1381401,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124817240,
+        "name": "UBER ULTIMATE WIZARD | DISCOVER 200 POTIONS!",
+        "description": null,
+        "displayName": "UBER ULTIMATE WIZARD | DISCOVER 200 POTIONS!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7378555782,
+        "displayIconImageId": 7378555782,
+        "created": "2021-09-01T00:58:54.167+00:00",
+        "updated": "2024-11-19T19:29:41.721+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 142,
+          "awardedCount": 949707,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124817241,
+        "name": "Please no more... | Discover 225 Potions",
+        "description": null,
+        "displayName": "Please no more... | Discover 225 Potions",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7378561826,
+        "displayIconImageId": 7378561826,
+        "created": "2021-09-01T01:00:05.16+00:00",
+        "updated": "2024-11-19T19:29:41.721+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 99,
+          "awardedCount": 659133,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124817242,
+        "name": "WACKY PRO | Discover 250 POTIONS!!!",
+        "description": null,
+        "displayName": "WACKY PRO | Discover 250 POTIONS!!!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7378563434,
+        "displayIconImageId": 7378563434,
+        "created": "2021-09-01T01:00:21.427+00:00",
+        "updated": "2024-11-19T19:29:41.721+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 67,
+          "awardedCount": 475770,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124817245,
+        "name": "Complete the Goblin Village Quest",
+        "description": null,
+        "displayName": "Complete the Goblin Village Quest",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 7378589016,
+        "displayIconImageId": 7378589016,
+        "created": "2021-09-01T01:05:38.267+00:00",
+        "updated": "2024-11-19T19:29:41.725+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1784,
+          "awardedCount": 6889469,
+          "winRatePercentage": 0.03
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124884913,
+        "name": "Complete The 2021 Christmas Live Event!",
+        "description": null,
+        "displayName": "Complete The 2021 Christmas Live Event!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 8312497111,
+        "displayIconImageId": 8312497111,
+        "created": "2021-12-22T02:40:09.1+00:00",
+        "updated": "2024-11-19T19:30:40.503+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 655364,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2124885032,
+        "name": "Kill 200 Witches!",
+        "description": null,
+        "displayName": "Kill 200 Witches!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 8318998264,
+        "displayIconImageId": 8318998264,
+        "created": "2021-12-22T08:40:58.837+00:00",
+        "updated": "2024-11-19T19:30:40.601+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 329875,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2129255219,
+        "name": "Hermitude Mirror Mountain",
+        "description": null,
+        "displayName": "Hermitude Mirror Mountain",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 11436582639,
+        "displayIconImageId": 11436582639,
+        "created": "2022-10-31T22:28:45.77+00:00",
+        "updated": "2024-11-20T17:19:02.363+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 10,
+          "awardedCount": 328669,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2129646723,
+        "name": "???",
+        "description": null,
+        "displayName": "???",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 11704744958,
+        "displayIconImageId": 11704744958,
+        "created": "2022-11-30T08:42:21.917+00:00",
+        "updated": "2024-11-20T17:24:55.214+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 1229251,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 2129646725,
+        "name": "???",
+        "description": null,
+        "displayName": "???",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 11704746289,
+        "displayIconImageId": 11704746289,
+        "created": "2022-11-30T08:42:43.61+00:00",
+        "updated": "2024-11-20T17:24:55.216+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 1550262495167350,
+        "name": "???",
+        "description": null,
+        "displayName": "???",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 127741371589639,
+        "displayIconImageId": 127741371589639,
+        "created": "2025-02-21T18:28:43.085+00:00",
+        "updated": "2025-02-21T18:29:01.36+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      },
+      {
+        "id": 3316093348501036,
+        "name": "???",
+        "description": null,
+        "displayName": "???",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 131265001730352,
+        "displayIconImageId": 131265001730352,
+        "created": "2025-02-21T18:28:53.796+00:00",
+        "updated": "2025-02-21T18:28:53.796+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2628404708,
+          "name": "Wacky Wizards",
+          "rootPlaceId": 6888253864
+        }
+      }
+    ]
   }
 }
