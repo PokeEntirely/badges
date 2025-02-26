@@ -93243,5 +93243,1394 @@
         }
       }
     ]
+  },
+  "5994299007": {
+    "data": []
+  },
+  "2935295205": {
+    "data": []
+  },
+  "5069436117": {
+    "data": []
+  },
+  "5049492946": {
+    "data": []
+  },
+  "6934615886": {
+    "data": []
+  },
+  "3461875920": {
+    "data": []
+  },
+  "5780364934": {
+    "data": []
+  },
+  "6353011601": {
+    "data": []
+  },
+  "7227282574": {
+    "data": []
+  },
+  "2042345357": {
+    "data": []
+  },
+  "5907218889": {
+    "data": []
+  },
+  "5788217981": {
+    "data": []
+  },
+  "4594955504": {
+    "data": []
+  },
+  "4703005655": {
+    "data": []
+  },
+  "4694219939": {
+    "data": []
+  },
+  "4744242199": {
+    "data": []
+  },
+  "5961021075": {
+    "data": []
+  },
+  "6899693468": {
+    "data": []
+  },
+  "5854268910": {
+    "data": []
+  },
+  "4117341881": {
+    "data": []
+  },
+  "6442728358": {
+    "data": []
+  },
+  "6537608978": {
+    "data": []
+  },
+  "6153903142": {
+    "data": []
+  },
+  "6275885379": {
+    "data": []
+  },
+  "142071669": {
+    "data": []
+  },
+  "2673798315": {
+    "data": []
+  },
+  "4850768129": {
+    "data": []
+  },
+  "3485003423": {
+    "data": []
+  },
+  "6928142357": {
+    "data": []
+  },
+  "3431515417": {
+    "data": []
+  },
+  "5752062456": {
+    "data": []
+  },
+  "357845056": {
+    "data": []
+  },
+  "4540132962": {
+    "data": [
+      {
+        "id": 4108343394831864,
+        "name": "METRO HUNTER",
+        "description": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
+        "displayName": "METRO HUNTER",
+        "displayDescription": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
+        "enabled": true,
+        "iconImageId": 16722604802,
+        "displayIconImageId": 16722604802,
+        "created": "2024-03-12T13:21:35.466+00:00",
+        "updated": "2024-11-21T05:56:59.155+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4540132962,
+          "name": "Metro Life [Testing]",
+          "rootPlaceId": 12985341499
+        }
+      }
+    ]
+  },
+  "7103258652": {
+    "data": []
+  },
+  "5693153729": {
+    "data": []
+  },
+  "2929256829": {
+    "data": []
+  },
+  "5673638520": {
+    "data": []
+  },
+  "2618178982": {
+    "data": [
+      {
+        "id": 2154037311,
+        "name": "1st Win",
+        "description": null,
+        "displayName": "1st Win",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 15295554551,
+        "displayIconImageId": 15295554551,
+        "created": "2023-11-07T22:26:28.263+00:00",
+        "updated": "2024-11-19T20:32:24.013+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2618178982,
+          "name": "Speed Run 4 Testing",
+          "rootPlaceId": 6869604060
+        }
+      },
+      {
+        "id": 2154037317,
+        "name": "2nd Win",
+        "description": null,
+        "displayName": "2nd Win",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 15295555905,
+        "displayIconImageId": 15295555905,
+        "created": "2023-11-07T22:26:43.62+00:00",
+        "updated": "2024-11-19T20:32:24.029+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2618178982,
+          "name": "Speed Run 4 Testing",
+          "rootPlaceId": 6869604060
+        }
+      }
+    ]
+  },
+  "1285891599": {
+    "data": [
+      {
+        "id": 4367840271989726,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587130921,
+        "displayIconImageId": 17587130921,
+        "created": "2024-05-23T14:34:32.8+00:00",
+        "updated": "2024-11-21T10:10:59.713+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 1434902506440960,
+        "name": "OG Token.png",
+        "description": null,
+        "displayName": "OG Token.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587131623,
+        "displayIconImageId": 17587131623,
+        "created": "2024-05-23T14:34:39.047+00:00",
+        "updated": "2024-11-20T07:06:38.791+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 4176888811104759,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587132712,
+        "displayIconImageId": 17587132712,
+        "created": "2024-05-23T14:34:48.492+00:00",
+        "updated": "2024-11-21T07:03:23.169+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 105639110871854,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587133710,
+        "displayIconImageId": 17587133710,
+        "created": "2024-05-23T14:34:55.353+00:00",
+        "updated": "2024-11-19T21:09:43.195+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 1831101244251823,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587134848,
+        "displayIconImageId": 17587134848,
+        "created": "2024-05-23T14:35:01.031+00:00",
+        "updated": "2024-11-20T00:41:21.696+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 3682842852029677,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587135994,
+        "displayIconImageId": 17587135994,
+        "created": "2024-05-23T14:35:08.091+00:00",
+        "updated": "2024-11-21T06:01:59.112+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 263757821161990,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587136907,
+        "displayIconImageId": 17587136907,
+        "created": "2024-05-23T14:35:15.57+00:00",
+        "updated": "2024-11-19T23:11:20.354+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      }
+    ]
+  },
+  "5279337001": {
+    "data": []
+  },
+  "2578682540": {
+    "data": [
+      {
+        "id": 3004932556900609,
+        "name": "Test",
+        "description": "Test",
+        "displayName": "Test",
+        "displayDescription": "Test",
+        "enabled": true,
+        "iconImageId": 113432149328036,
+        "displayIconImageId": 113432149328036,
+        "created": "2024-12-11T20:48:22.873+00:00",
+        "updated": "2024-12-11T20:48:22.873+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2578682540,
+          "name": "WT Testing Place",
+          "rootPlaceId": 6793972085
+        }
+      },
+      {
+        "id": 2730345584345529,
+        "name": "Placeholder #1",
+        "description": "Psst, why are you looking at this.. :(",
+        "displayName": "Placeholder #1",
+        "displayDescription": "Psst, why are you looking at this.. :(",
+        "enabled": true,
+        "iconImageId": 123169963603489,
+        "displayIconImageId": 123169963603489,
+        "created": "2024-12-16T20:02:29.314+00:00",
+        "updated": "2024-12-16T20:02:29.314+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 12,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2578682540,
+          "name": "WT Testing Place",
+          "rootPlaceId": 6793972085
+        }
+      },
+      {
+        "id": 1952709863833400,
+        "name": "Placeholder #2",
+        "description": "Hey! Nothing to see here..",
+        "displayName": "Placeholder #2",
+        "displayDescription": "Hey! Nothing to see here..",
+        "enabled": true,
+        "iconImageId": 102811835480812,
+        "displayIconImageId": 102811835480812,
+        "created": "2024-12-16T20:02:56.074+00:00",
+        "updated": "2024-12-16T20:02:56.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 8,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2578682540,
+          "name": "WT Testing Place",
+          "rootPlaceId": 6793972085
+        }
+      }
+    ]
+  },
+  "574813688": {
+    "data": []
+  },
+  "3833818265": {
+    "data": []
+  },
+  "7204920390": {
+    "data": []
+  },
+  "5148575671": {
+    "data": []
+  },
+  "5358615092": {
+    "data": []
+  },
+  "174252938": {
+    "data": []
+  },
+  "3083460315": {
+    "data": [
+      {
+        "id": 2151010999,
+        "name": "test",
+        "description": null,
+        "displayName": "test",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 14579013617,
+        "displayIconImageId": 14579013617,
+        "created": "2023-08-26T17:12:54.96+00:00",
+        "updated": "2024-11-21T00:47:34.686+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3083460315,
+          "name": "RegretevatorDevFile",
+          "rootPlaceId": 7984825694
+        }
+      }
+    ]
+  },
+  "1554612201": {
+    "data": [
+      {
+        "id": 3198100088269041,
+        "name": "U DEFEATED CHRISTMAS TREE LORD",
+        "description": "WOW.",
+        "displayName": "U DEFEATED CHRISTMAS TREE LORD",
+        "displayDescription": "WOW.",
+        "enabled": true,
+        "iconImageId": 140585790573298,
+        "displayIconImageId": 140585790573298,
+        "created": "2024-12-08T23:15:16.99+00:00",
+        "updated": "2024-12-09T00:03:54.423+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 22,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1554612201,
+          "name": "grg testing.",
+          "rootPlaceId": 4694363184
+        }
+      },
+      {
+        "id": 501868043675022,
+        "name": "WELCOME TO GRG!",
+        "description": null,
+        "displayName": "WELCOME TO GRG!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 130118704683665,
+        "displayIconImageId": 130118704683665,
+        "created": "2024-12-09T00:04:18.916+00:00",
+        "updated": "2024-12-09T00:04:18.916+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 920,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1554612201,
+          "name": "grg testing.",
+          "rootPlaceId": 4694363184
+        }
+      }
+    ]
+  },
+  "5196966160": {
+    "data": []
+  },
+  "5216095136": {
+    "data": []
+  },
+  "4351386543": {
+    "data": [
+      {
+        "id": 438277574486937,
+        "name": "METRO HUNTER",
+        "description": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
+        "displayName": "METRO HUNTER",
+        "displayDescription": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
+        "enabled": true,
+        "iconImageId": 16738200816,
+        "displayIconImageId": 16738200816,
+        "created": "2024-03-12T13:16:44.907+00:00",
+        "updated": "2024-11-20T01:14:21.595+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4351386543,
+          "name": "Metro Life [DEV]",
+          "rootPlaceId": 12363313138
+        }
+      }
+    ]
+  },
+  "6573578541": {
+    "data": []
+  },
+  "7008949188": {
+    "data": []
+  },
+  "6134353151": {
+    "data": [
+      {
+        "id": 2528386939942537,
+        "name": "Event Badge 1",
+        "description": null,
+        "displayName": "Event Badge 1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 116398388400421,
+        "displayIconImageId": 116398388400421,
+        "created": "2024-12-12T04:12:41.011+00:00",
+        "updated": "2024-12-12T04:12:41.011+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6134353151,
+          "name": "UF - QA 4",
+          "rootPlaceId": 17898213444
+        }
+      },
+      {
+        "id": 1156445963561441,
+        "name": "Event Badge 2",
+        "description": null,
+        "displayName": "Event Badge 2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 72460821984426,
+        "displayIconImageId": 72460821984426,
+        "created": "2024-12-12T04:12:52.013+00:00",
+        "updated": "2024-12-12T04:12:52.013+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6134353151,
+          "name": "UF - QA 4",
+          "rootPlaceId": 17898213444
+        }
+      }
+    ]
+  },
+  "6442160070": {
+    "data": [
+      {
+        "id": 3500593912031900,
+        "name": "Event Badge 1",
+        "description": null,
+        "displayName": "Event Badge 1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 96891125888727,
+        "displayIconImageId": 96891125888727,
+        "created": "2024-12-12T04:10:40.616+00:00",
+        "updated": "2024-12-12T04:10:40.616+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6442160070,
+          "name": "UF - Josh Dev",
+          "rootPlaceId": 98777343458193
+        }
+      },
+      {
+        "id": 1174459939078661,
+        "name": "Event Badge 2",
+        "description": null,
+        "displayName": "Event Badge 2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 75062180708368,
+        "displayIconImageId": 75062180708368,
+        "created": "2024-12-12T04:10:50.189+00:00",
+        "updated": "2024-12-12T04:10:50.189+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6442160070,
+          "name": "UF - Josh Dev",
+          "rootPlaceId": 98777343458193
+        }
+      }
+    ]
+  },
+  "6899365225": {
+    "data": []
+  },
+  "5839035797": {
+    "data": []
+  },
+  "2984029713": {
+    "data": []
+  },
+  "135387899": {
+    "data": []
+  },
+  "887403347": {
+    "data": [
+      {
+        "id": 2124727272,
+        "name": "WIP Badge 1",
+        "description": null,
+        "displayName": "WIP Badge 1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 6710958600,
+        "displayIconImageId": 6710958600,
+        "created": "2021-04-21T19:40:54.34+00:00",
+        "updated": "2024-11-19T19:28:23.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 238,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 2147618544,
+        "name": "Reached Floor 200",
+        "description": null,
+        "displayName": "Reached Floor 200",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 13840536897,
+        "displayIconImageId": 13840536897,
+        "created": "2023-06-23T18:36:10.207+00:00",
+        "updated": "2024-11-20T22:34:16.838+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 2147618552,
+        "name": "Reached Floor 300",
+        "description": null,
+        "displayName": "Reached Floor 300",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 13840538293,
+        "displayIconImageId": 13840538293,
+        "created": "2023-06-23T18:36:22.173+00:00",
+        "updated": "2024-11-20T22:34:16.862+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 5,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 2150089427,
+        "name": "Zero Greatsword",
+        "description": null,
+        "displayName": "Zero Greatsword",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 14388621049,
+        "displayIconImageId": 14388621049,
+        "created": "2023-08-10T21:13:00.147+00:00",
+        "updated": "2024-11-21T00:11:15.33+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 4257118711264909,
+        "name": "Jeff Test",
+        "description": null,
+        "displayName": "Jeff Test",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 16671392769,
+        "displayIconImageId": 16671392769,
+        "created": "2024-03-08T20:02:15.157+00:00",
+        "updated": "2024-11-21T08:21:24.765+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 10,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 2407136877943106,
+        "name": "Placeholder Badge",
+        "description": null,
+        "displayName": "Placeholder Badge",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 129309443126049,
+        "displayIconImageId": 129309443126049,
+        "created": "2024-11-18T22:01:05.388+00:00",
+        "updated": "2024-11-20T09:42:49.729+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1071,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 1144937084767322,
+        "name": "Test",
+        "description": null,
+        "displayName": "Test",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 91388029291021,
+        "displayIconImageId": 91388029291021,
+        "created": "2025-01-02T19:09:54.033+00:00",
+        "updated": "2025-01-02T19:09:54.033+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      }
+    ]
+  },
+  "5418477508": {
+    "data": [
+      {
+        "id": 961908503005440,
+        "name": "1 Donut Reward",
+        "description": "You received 1 reward from the Donut Event.",
+        "displayName": "1 Donut Reward",
+        "displayDescription": "You received 1 reward from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845883312,
+        "displayIconImageId": 16845883312,
+        "created": "2024-03-23T21:23:22.94+00:00",
+        "updated": "2024-11-20T04:19:32.895+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 166,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 4088637071783717,
+        "name": "2 Donut Rewards",
+        "description": "You received 2 rewards from the Donut Event.",
+        "displayName": "2 Donut Rewards",
+        "displayDescription": "You received 2 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845886732,
+        "displayIconImageId": 16845886732,
+        "created": "2024-03-23T21:23:43.427+00:00",
+        "updated": "2024-11-21T05:37:57.235+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 106,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 4349085291616479,
+        "name": "3 Donut Rewards",
+        "description": "You received 3 rewards from the Donut Event.",
+        "displayName": "3 Donut Rewards",
+        "displayDescription": "You received 3 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845891490,
+        "displayIconImageId": 16845891490,
+        "created": "2024-03-23T21:24:06.994+00:00",
+        "updated": "2024-11-21T09:52:27.239+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 82,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 3904913017965614,
+        "name": "4 Donut Rewards",
+        "description": "You received 4 rewards from the Donut Event.",
+        "displayName": "4 Donut Rewards",
+        "displayDescription": "You received 4 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845897062,
+        "displayIconImageId": 16845897062,
+        "created": "2024-03-23T21:24:31.205+00:00",
+        "updated": "2024-11-21T09:32:38.622+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 66,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 2763087884553395,
+        "name": "5 Donut Rewards",
+        "description": "You received 5 rewards from the Donut Event.",
+        "displayName": "5 Donut Rewards",
+        "displayDescription": "You received 5 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845902338,
+        "displayIconImageId": 16845902338,
+        "created": "2024-03-23T21:24:59.415+00:00",
+        "updated": "2024-11-20T15:21:15.131+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 51,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 493074111923113,
+        "name": "6 Donut Rewards",
+        "description": "You received 2 rewards from the Donut Event.",
+        "displayName": "6 Donut Rewards",
+        "displayDescription": "You received 2 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845906017,
+        "displayIconImageId": 16845906017,
+        "created": "2024-03-23T21:25:19.126+00:00",
+        "updated": "2024-11-20T01:33:33.403+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 49,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 1934006764778083,
+        "name": "7 Donut Rewards",
+        "description": "You received 7 rewards from the Donut Event.",
+        "displayName": "7 Donut Rewards",
+        "displayDescription": "You received 7 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845910458,
+        "displayIconImageId": 16845910458,
+        "created": "2024-03-23T21:25:44.283+00:00",
+        "updated": "2024-11-20T02:18:34.054+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 48,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 3156789427812680,
+        "name": "8 Donut Rewards",
+        "description": "You received 8 rewards from the Donut Event.",
+        "displayName": "8 Donut Rewards",
+        "displayDescription": "You received 8 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845916532,
+        "displayIconImageId": 16845916532,
+        "created": "2024-03-23T21:26:16.541+00:00",
+        "updated": "2024-11-20T21:35:53.804+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 41,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 3721643573164746,
+        "name": "9 Donut Rewards",
+        "description": "You received 9 rewards from the Donut Event.",
+        "displayName": "9 Donut Rewards",
+        "displayDescription": "You received 9 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845921988,
+        "displayIconImageId": 16845921988,
+        "created": "2024-03-23T21:26:46.801+00:00",
+        "updated": "2024-11-21T06:38:39.478+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 36,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 3638011806170277,
+        "name": "10 Donut Rewards",
+        "description": "You received 10 rewards from the Donut Event.",
+        "displayName": "10 Donut Rewards",
+        "displayDescription": "You received 10 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845925607,
+        "displayIconImageId": 16845925607,
+        "created": "2024-03-23T21:27:07.633+00:00",
+        "updated": "2024-11-21T05:19:49.976+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 27,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 2620922152398661,
+        "name": "11 Donut Rewards",
+        "description": "You received 11 rewards from the Donut Event.",
+        "displayName": "11 Donut Rewards",
+        "displayDescription": "You received 11 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845929200,
+        "displayIconImageId": 16845929200,
+        "created": "2024-03-23T21:27:24.789+00:00",
+        "updated": "2024-11-20T13:05:29.488+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 23,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 1133052561846192,
+        "name": "12 Donut Rewards",
+        "description": "You received 12 rewards from the Donut Event.",
+        "displayName": "12 Donut Rewards",
+        "displayDescription": "You received 12 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845933834,
+        "displayIconImageId": 16845933834,
+        "created": "2024-03-23T21:27:48.353+00:00",
+        "updated": "2024-11-20T05:18:59.299+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 19,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 456348155152759,
+        "name": "13 Donut Rewards",
+        "description": "You received 13 rewards from the Donut Event.",
+        "displayName": "13 Donut Rewards",
+        "displayDescription": "You received 13 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845937363,
+        "displayIconImageId": 16845937363,
+        "created": "2024-03-23T21:28:06.148+00:00",
+        "updated": "2024-11-20T01:20:34.634+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 16,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 4310960851173048,
+        "name": "14 Donut Rewards",
+        "description": "You received 14 rewards from the Donut Event.",
+        "displayName": "14 Donut Rewards",
+        "displayDescription": "You received 14 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845939998,
+        "displayIconImageId": 16845939998,
+        "created": "2024-03-23T21:28:21.006+00:00",
+        "updated": "2024-11-21T09:14:42.922+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 14,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 378164837511657,
+        "name": "15 Donut Rewards",
+        "description": "You received 15 rewards from the Donut Event.",
+        "displayName": "15 Donut Rewards",
+        "displayDescription": "You received 15 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845942056,
+        "displayIconImageId": 16845942056,
+        "created": "2024-03-23T21:28:32.728+00:00",
+        "updated": "2024-11-20T00:53:30.41+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 13,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 994384673216178,
+        "name": "16 Donut Rewards",
+        "description": "You received 16 rewards from the Donut Event.",
+        "displayName": "16 Donut Rewards",
+        "displayDescription": "You received 16 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845944775,
+        "displayIconImageId": 16845944775,
+        "created": "2024-03-23T21:28:46.253+00:00",
+        "updated": "2024-11-20T04:30:45.561+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 11,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 2608202108950336,
+        "name": "17 Donut Rewards",
+        "description": "You received 17 rewards from the Donut Event.",
+        "displayName": "17 Donut Rewards",
+        "displayDescription": "You received 17 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845947646,
+        "displayIconImageId": 16845947646,
+        "created": "2024-03-23T21:29:00.311+00:00",
+        "updated": "2024-11-20T12:53:10.974+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 7,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 21424603604312,
+        "name": "18 Donut Rewards",
+        "description": "You received 18 rewards from the Donut Event.",
+        "displayName": "18 Donut Rewards",
+        "displayDescription": "You received 18 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845950037,
+        "displayIconImageId": 16845950037,
+        "created": "2024-03-23T21:29:14.72+00:00",
+        "updated": "2024-11-19T20:40:07.169+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 5,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 4355189939406208,
+        "name": "19 Donut Rewards",
+        "description": "You received 19 rewards from the Donut Event.",
+        "displayName": "19 Donut Rewards",
+        "displayDescription": "You received 19 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845953005,
+        "displayIconImageId": 16845953005,
+        "created": "2024-03-23T21:29:29.245+00:00",
+        "updated": "2024-11-21T09:58:29.965+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 4007224058124939,
+        "name": "20 Donut Rewards",
+        "description": "You received 20 rewards from the Donut Event.",
+        "displayName": "20 Donut Rewards",
+        "displayDescription": "You received 20 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845954949,
+        "displayIconImageId": 16845954949,
+        "created": "2024-03-23T21:29:42.337+00:00",
+        "updated": "2024-11-21T04:19:27.693+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 1644280658591965,
+        "name": "21 Donut Rewards",
+        "description": "You received 21 rewards from the Donut Event.",
+        "displayName": "21 Donut Rewards",
+        "displayDescription": "You received 21 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845957587,
+        "displayIconImageId": 16845957587,
+        "created": "2024-03-23T21:29:55.74+00:00",
+        "updated": "2024-11-19T21:38:31.588+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 2376850635578071,
+        "name": "22 Donut Rewards",
+        "description": "You received 22 rewards from the Donut Event.",
+        "displayName": "22 Donut Rewards",
+        "displayDescription": "You received 22 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845960044,
+        "displayIconImageId": 16845960044,
+        "created": "2024-03-23T21:30:10.357+00:00",
+        "updated": "2024-11-20T09:14:32.034+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 3631765670194841,
+        "name": "23 Donut Rewards",
+        "description": "You received 23 rewards from the Donut Event.",
+        "displayName": "23 Donut Rewards",
+        "displayDescription": "You received 23 rewards from the Donut Event.",
+        "enabled": true,
+        "iconImageId": 16845962893,
+        "displayIconImageId": 16845962893,
+        "created": "2024-03-23T21:30:27.283+00:00",
+        "updated": "2024-11-21T05:13:57.976+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      },
+      {
+        "id": 210517699042288,
+        "name": "All 24 Donut Rewards",
+        "description": "You received all 24 rewards from the Donut Event. Good job!",
+        "displayName": "All 24 Donut Rewards",
+        "displayDescription": "You received all 24 rewards from the Donut Event. Good job!",
+        "enabled": true,
+        "iconImageId": 17227652467,
+        "displayIconImageId": 17227652467,
+        "created": "2024-03-23T21:30:49.21+00:00",
+        "updated": "2024-11-19T22:19:48.598+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5418477508,
+          "name": "Speed Run 4 Testing Place",
+          "rootPlaceId": 15685758379
+        }
+      }
+    ]
+  },
+  "5673322995": {
+    "data": [
+      {
+        "id": 1718516201069387,
+        "name": "Event Badge 1",
+        "description": null,
+        "displayName": "Event Badge 1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 74519385976373,
+        "displayIconImageId": 74519385976373,
+        "created": "2024-12-12T19:01:19.733+00:00",
+        "updated": "2024-12-12T19:01:19.733+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5673322995,
+          "name": "UF - QA1",
+          "rootPlaceId": 16468995956
+        }
+      },
+      {
+        "id": 2234001035325954,
+        "name": "Event Badge 2",
+        "description": null,
+        "displayName": "Event Badge 2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 118572317647565,
+        "displayIconImageId": 118572317647565,
+        "created": "2024-12-12T19:01:28.542+00:00",
+        "updated": "2024-12-12T19:01:28.542+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5673322995,
+          "name": "UF - QA1",
+          "rootPlaceId": 16468995956
+        }
+      }
+    ]
   }
 }
