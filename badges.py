@@ -1,6 +1,3 @@
-PUSHOVER_API_KEY = "axaaescm93q62gppb117migpf4k8es"
-PUSHOVER_USER_KEY = "uae6nsc26pq5d79bnoitj4dimyz7hx"
-
 import asyncio
 import aiohttp
 import json
@@ -10,6 +7,8 @@ from concurrent.futures import ThreadPoolExecutor
 import aiofiles
 from datetime import datetime
 
+PUSHOVER_API_KEY = "axaaescm93q62gppb117migpf4k8es"
+PUSHOVER_USER_KEY = "uae6nsc26pq5d79bnoitj4dimyz7hx"
 DEBUG = True
 WEBHOOK_URL = os.environ.get("WEBHOOK_URL")
 
@@ -32,13 +31,11 @@ class WebhookSender:
         self.lock = asyncio.Lock()
         self.executor = ThreadPoolExecutor(max_workers=10)
         self.session = aiohttp.ClientSession()
-
     async def add_embed(self, embed, badge_id):
         async with self.lock:
             if badge_id not in self.sent_badges:
                 self.embeds.append(embed)
                 self.sent_badges.add(badge_id)
-
     async def send_batch(self):
         async with self.lock:
             if not self.embeds:
@@ -52,7 +49,6 @@ class WebhookSender:
             }
             await self.send_webhook(payload)
             self.embeds = self.embeds[batch_size:]
-
     async def send_webhook(self, payload):
         try:
             async with self.session.post(self.webhook_url, json=payload, timeout=10) as response:
@@ -66,7 +62,6 @@ class WebhookSender:
         except Exception as e:
             logging.error(f"Failed to send webhook: {e}")
             print(f"Failed to send webhook: {e}")
-
     async def close(self):
         await self.send_batch()
         await self.session.close()
@@ -89,32 +84,55 @@ async def send_pushover_notification(session, badge, thumbnail_url, game_name):
     except Exception as e:
         logging.error(f"Failed to send pushover notification for badge {badge['id']}: {e}")
 
-async def get_badges(session, universe_id):
+async def fetch_json_with_proxy(session, url, proxies, max_cycles=5):
+    cycle_count = 0
+    total = len(proxies)
+    proxy_index = 0
+    while cycle_count < max_cycles:
+        current_proxy = proxies[proxy_index]
+        try:
+            async with session.get(url, proxy=current_proxy, timeout=10) as response:
+                if response.status == 429:
+                    proxy_index = (proxy_index + 1) % total
+                    if proxy_index == 0:
+                        cycle_count += 1
+                        await asyncio.sleep(30)
+                    continue
+                response.raise_for_status()
+                return await response.json()
+        except (aiohttp.ClientError, asyncio.TimeoutError):
+            proxy_index = (proxy_index + 1) % total
+            if proxy_index == 0:
+                cycle_count += 1
+                await asyncio.sleep(30)
+    sys.exit("Exceeded maximum retry attempts due to rate limiting.")
+
+async def load_proxies():
+    async with aiofiles.open('proxies.txt', 'r', encoding='utf-8') as f:
+        lines = await f.readlines()
+        proxies = []
+        for line in lines:
+            stripped = line.strip()
+            if stripped:
+                parts = stripped.split(":")
+                if len(parts) == 4:
+                    ip, port, username, password = parts
+                    formatted = f"http://{username}:{password}@{ip}:{port}"
+                    proxies.append(formatted)
+        return proxies
+
+async def get_badges(session, universe_id, proxies):
     badges = []
     cursor = ''
-    retry_count = 0
-    max_retries = 5
     while True:
         url = f"https://badges.roblox.com/v1/universes/{universe_id}/badges?limit=100&sortOrder=Asc"
         if cursor:
             url += f"&cursor={cursor}"
-        try:
-            async with session.get(url, timeout=10) as response:
-                if response.status == 429:
-                    await asyncio.sleep(30)
-                    continue
-                response.raise_for_status()
-                data = await response.json()
-                badges.extend(data.get('data', []))
-                cursor = data.get('nextPageCursor')
-                if not cursor:
-                    break
-                retry_count = 0
-        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
-            retry_count += 1
-            if retry_count >= max_retries:
-                break
-            await asyncio.sleep(5)
+        data = await fetch_json_with_proxy(session, url, proxies)
+        badges.extend(data.get('data', []))
+        cursor = data.get('nextPageCursor')
+        if not cursor:
+            break
     return badges
 
 async def get_badge_thumbnail_url(session, badge_id):
@@ -132,7 +150,7 @@ async def get_badge_thumbnail_url(session, badge_id):
                 if data['data']:
                     return data['data'][0].get('imageUrl', '')
                 return ""
-        except (aiohttp.ClientError, asyncio.TimeoutError) as e:
+        except (aiohttp.ClientError, asyncio.TimeoutError):
             retry_count += 1
             if retry_count >= max_retries:
                 return ""
@@ -166,9 +184,7 @@ async def process_new_badge(session, badge, webhook_sender):
             {"name": "Description", "value": description, "inline": False}
         ],
         "thumbnail": {"url": thumbnail_url},
-        "author": {
-            "name": "New Badge Uploaded"
-        },
+        "author": {"name": "New Badge Uploaded"},
         "footer": {
             "text": "Made by Poke • @PokeTheMagnific on X",
             "icon_url": "https://i.imgur.com/Od3xppJ.png"
@@ -177,8 +193,8 @@ async def process_new_badge(session, badge, webhook_sender):
     await webhook_sender.add_embed(embed, badge_id)
     await send_pushover_notification(session, badge, thumbnail_url, game_name)
 
-async def process_universe(session, universe_id, badges_data, webhook_sender):
-    fetched_badges = await get_badges(session, universe_id)
+async def process_universe(session, universe_id, badges_data, webhook_sender, proxies):
+    fetched_badges = await get_badges(session, universe_id, proxies)
     universe_id_str = str(universe_id)
     if universe_id_str in badges_data:
         existing_badge_ids = set(str(badge['id']) for badge in badges_data[universe_id_str]['data'])
@@ -210,9 +226,10 @@ async def main():
     webhook_sender = WebhookSender(WEBHOOK_URL)
     universal_ids = await load_universe_ids()
     badges_data = await load_badges_data()
+    proxies = await load_proxies()
     timeout = aiohttp.ClientTimeout(total=15)
     async with aiohttp.ClientSession(timeout=timeout) as session:
-        tasks = [process_universe(session, universe_id, badges_data, webhook_sender) for universe_id in universal_ids]
+        tasks = [process_universe(session, universe_id, badges_data, webhook_sender, proxies) for universe_id in universal_ids]
         total_new_badges = sum(await asyncio.gather(*tasks))
         await webhook_sender.send_batch()
     await save_badges_data(badges_data)
