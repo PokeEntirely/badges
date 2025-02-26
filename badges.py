@@ -1,31 +1,15 @@
+WEBHOOK_URL = "https://discord.com/api/webhooks/1342702266347683903/Syw7X5ZrJiVhI-Zl2ENg2QsURsdtjpZ5dOa0pRk-QAGRb8sy3x6zwj2i-ZJ2GtiMhozj"
 PUSHOVER_API_KEY = "axaaescm93q62gppb117migpf4k8es"
 PUSHOVER_USER_KEY = "uae6nsc26pq5d79bnoitj4dimyz7hx"
 
-import asyncio
-import aiohttp
-import json
-import os
-import logging
-from concurrent.futures import ThreadPoolExecutor
-import aiofiles
-from datetime import datetime
-
-DEBUG = True
-WEBHOOK_URL = os.environ.get("WEBHOOK_URL")
-
 logging.basicConfig(
-    filename='error.log',
+    filename="error.log",
     level=logging.ERROR,
-    format='%(asctime)s:%(levelname)s:%(message)s'
+    format="%(asctime)s:%(levelname)s:%(message)s"
 )
-
-def debug_print(message):
-    if DEBUG:
-        print(message)
 
 class WebhookSender:
     def __init__(self, webhook_url):
-        debug_print("Initializing WebhookSender")
         self.webhook_url = webhook_url
         self.embeds = []
         self.sent_badges = set()
@@ -40,32 +24,26 @@ class WebhookSender:
                 self.sent_badges.add(badge_id)
 
     async def send_batch(self):
-        async with self.lock:
-            if not self.embeds:
-                return
-            batch_size = min(len(self.embeds), 10)
-            batch = self.embeds[:batch_size]
-            payload = {
-                "content": "<@&1293689261773557865>",
-                "embeds": batch,
+        while True:
+            async with self.lock:
+                if not self.embeds:
+                    break
+                current_batch = self.embeds[:10]
+                self.embeds = self.embeds[10:]
+            await self.send_webhook({
+                "content": "<@&1342702022771871826>",
+                "embeds": current_batch,
                 "attachments": []
-            }
-            await self.send_webhook(payload)
-            self.embeds = self.embeds[batch_size:]
+            })
+            if len(current_batch) == 10:
+                await asyncio.sleep(10)
 
     async def send_webhook(self, payload):
         try:
-            async with self.session.post(self.webhook_url, json=payload, timeout=10) as response:
-                if response.status == 429:
-                    data = await response.json()
-                    retry_after = data.get("retry_after", 5)
-                    await asyncio.sleep(retry_after)
-                    await self.session.post(self.webhook_url, json=payload, timeout=10)
-                else:
-                    response.raise_for_status()
+            async with self.session.post(self.webhook_url, json=payload) as response:
+                response.raise_for_status()
         except Exception as e:
             logging.error(f"Failed to send webhook: {e}")
-            print(f"Failed to send webhook: {e}")
 
     async def close(self):
         await self.send_batch()
@@ -91,13 +69,13 @@ async def send_pushover_notification(session, badge, thumbnail_url, game_name):
 
 async def get_badges(session, universe_id):
     badges = []
-    cursor = ''
+    cursor = ""
     retry_count = 0
     max_retries = 5
     while True:
         url = f"https://badges.roblox.com/v1/universes/{universe_id}/badges?limit=100&sortOrder=Asc"
         if cursor:
-            url += f"&cursor={cursor}"
+            url = url + f"&cursor={cursor}"
         try:
             async with session.get(url, timeout=10) as response:
                 if response.status == 429:
@@ -105,13 +83,14 @@ async def get_badges(session, universe_id):
                     continue
                 response.raise_for_status()
                 data = await response.json()
-                badges.extend(data.get('data', []))
-                cursor = data.get('nextPageCursor')
+                badges_data = data.get("data", [])
+                badges.extend(badges_data)
+                cursor = data.get("nextPageCursor")
                 if not cursor:
                     break
                 retry_count = 0
         except (aiohttp.ClientError, asyncio.TimeoutError) as e:
-            retry_count += 1
+            retry_count = retry_count + 1
             if retry_count >= max_retries:
                 break
             await asyncio.sleep(5)
@@ -129,43 +108,71 @@ async def get_badge_thumbnail_url(session, badge_id):
                     continue
                 response.raise_for_status()
                 data = await response.json()
-                if data['data']:
-                    return data['data'][0].get('imageUrl', '')
+                if data["data"]:
+                    image_url = data["data"][0].get("imageUrl", "")
+                    return image_url
                 return ""
         except (aiohttp.ClientError, asyncio.TimeoutError) as e:
-            retry_count += 1
+            retry_count = retry_count + 1
             if retry_count >= max_retries:
                 return ""
             await asyncio.sleep(5)
 
 async def process_new_badge(session, badge, webhook_sender):
-    badge_id = badge['id']
-    description = badge.get('description') or "None."
-    created_time = badge['created']
+    badge_id = badge["id"]
+    description = badge.get("description")
+    if not description:
+        description = "None."
+    created_time = badge["created"]
     try:
-        creation_time_obj = datetime.fromisoformat(created_time.replace('Z', '+00:00'))
+        time_string = created_time.replace("Z", "+00:00")
+        creation_time_obj = datetime.fromisoformat(time_string)
         creation_timestamp = int(creation_time_obj.timestamp())
         discord_timestamp = f"<t:{creation_timestamp}:f>"
     except Exception as e:
         logging.error(f"Error parsing creation time for badge {badge_id}: {e}")
         discord_timestamp = "Unknown"
-    awarding_universe = badge.get('awardingUniverse', {})
-    game_name = awarding_universe.get('name', 'Unknown Game')
-    game_id = awarding_universe.get('rootPlaceId', '0')
-    game_link = f"https://www.roblox.com/games/{game_id}/game" if game_id != '0' else game_name
-    game_name_hyperlink = f"[{game_name}]({game_link})" if game_id != '0' else game_name
+    awarding_universe = badge.get("awardingUniverse", {})
+    game_name = awarding_universe.get("name", "Unknown Game")
+    game_id = awarding_universe.get("rootPlaceId", "0")
+    if game_id != "0":
+        game_link = f"https://www.roblox.com/games/{game_id}/game"
+    else:
+        game_link = game_name
+    if game_id != "0":
+        game_name_hyperlink = f"[{game_name}]({game_link})"
+    else:
+        game_name_hyperlink = game_name
     thumbnail_url = await get_badge_thumbnail_url(session, badge_id)
     embed = {
-        "title": badge['name'],
+        "title": badge["name"],
         "url": f"https://www.roblox.com/badges/{badge_id}/",
         "color": 16762779,
         "fields": [
-            {"name": "Badge ID", "value": str(badge_id), "inline": True},
-            {"name": "Game Name", "value": game_name_hyperlink, "inline": True},
-            {"name": "Creation Time", "value": discord_timestamp, "inline": False},
-            {"name": "Description", "value": description, "inline": False}
+            {
+                "name": "Badge ID",
+                "value": str(badge_id),
+                "inline": True
+            },
+            {
+                "name": "Game Name",
+                "value": game_name_hyperlink,
+                "inline": True
+            },
+            {
+                "name": "Creation Time",
+                "value": discord_timestamp,
+                "inline": False
+            },
+            {
+                "name": "Description",
+                "value": description,
+                "inline": False
+            }
         ],
-        "thumbnail": {"url": thumbnail_url},
+        "thumbnail": {
+            "url": thumbnail_url
+        },
         "author": {
             "name": "New Badge Uploaded"
         },
@@ -180,45 +187,72 @@ async def process_new_badge(session, badge, webhook_sender):
 async def process_universe(session, universe_id, badges_data, webhook_sender):
     fetched_badges = await get_badges(session, universe_id)
     universe_id_str = str(universe_id)
+    new_badges_count = 0
     if universe_id_str in badges_data:
-        existing_badge_ids = set(str(badge['id']) for badge in badges_data[universe_id_str]['data'])
-        new_badges = [badge for badge in fetched_badges if str(badge['id']) not in existing_badge_ids]
+        existing_badge_ids = set()
+        for badge in badges_data[universe_id_str]["data"]:
+            badge_id_str = str(badge["id"])
+            existing_badge_ids.add(badge_id_str)
+        new_badges = []
+        for badge in fetched_badges:
+            current_badge_id = str(badge["id"])
+            if current_badge_id not in existing_badge_ids:
+                new_badges.append(badge)
         if new_badges:
-            badges_data[universe_id_str]['data'].extend(new_badges)
-            await asyncio.gather(*(process_new_badge(session, badge, webhook_sender) for badge in new_badges))
-            return len(new_badges)
+            badges_data[universe_id_str]["data"].extend(new_badges)
+            tasks = []
+            for badge in new_badges:
+                tasks.append(process_new_badge(session, badge, webhook_sender))
+            await asyncio.gather(*tasks)
+            new_badges_count = len(new_badges)
     else:
         badges_data[universe_id_str] = {"data": fetched_badges}
-    return 0
+        new_badges_count = len(fetched_badges)
+    return new_badges_count
 
 async def load_universe_ids():
-    async with aiofiles.open('games.txt', 'r', encoding='utf-8') as f:
-        return [line.strip() for line in await f.readlines()]
+    universe_ids = []
+    async with aiofiles.open("games.txt", "r", encoding="utf-8") as f:
+        lines = await f.readlines()
+        for line in lines:
+            stripped_line = line.strip()
+            universe_ids.append(stripped_line)
+    return universe_ids
 
 async def load_badges_data():
-    if os.path.exists('badges.json'):
-        async with aiofiles.open('badges.json', 'r', encoding='utf-8') as f:
-            return json.loads(await f.read())
+    if os.path.exists("badges.json"):
+        async with aiofiles.open("badges.json", "r", encoding="utf-8") as f:
+            content = await f.read()
+            badges = json.loads(content)
+        return badges
     return {}
 
 async def save_badges_data(badges_data):
-    async with aiofiles.open('badges.json', 'w', encoding='utf-8') as f:
-        await f.write(json.dumps(badges_data, indent=2))
+    async with aiofiles.open("badges.json", "w", encoding="utf-8") as f:
+        data_string = json.dumps(badges_data, indent=2)
+        await f.write(data_string)
 
 async def main():
-    debug_print("Starting main function")
+    subprocess.run(["python", "lines.py"])
     webhook_sender = WebhookSender(WEBHOOK_URL)
-    universal_ids = await load_universe_ids()
+    universe_ids = await load_universe_ids()
     badges_data = await load_badges_data()
-    timeout = aiohttp.ClientTimeout(total=15)
-    async with aiohttp.ClientSession(timeout=timeout) as session:
-        tasks = [process_universe(session, universe_id, badges_data, webhook_sender) for universe_id in universal_ids]
-        total_new_badges = sum(await asyncio.gather(*tasks))
-        await webhook_sender.send_batch()
-    await save_badges_data(badges_data)
-    print(f"Processed all universes. New badges: {total_new_badges}")
-    await webhook_sender.close()
+    check = 0
+    while True:
+        check = check + 1
+        timeout = aiohttp.ClientTimeout(total=15)
+        async with aiohttp.ClientSession(timeout=timeout) as session:
+            tasks = []
+            for universe_id in universe_ids:
+                task = process_universe(session, universe_id, badges_data, webhook_sender)
+                tasks.append(task)
+            results = await asyncio.gather(*tasks)
+            total_new_badges = 0
+            for result in results:
+                total_new_badges = total_new_badges + result
+            await webhook_sender.send_batch()
+        await save_badges_data(badges_data)
+        print(f"check {check}: {total_new_badges} badges found")
+        await asyncio.sleep(60)
 
-if __name__ == "__main__":
-    print("Running script")
-    asyncio.run(main())
+asyncio.run(main())
