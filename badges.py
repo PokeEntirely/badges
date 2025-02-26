@@ -3,6 +3,7 @@ import aiohttp
 import json
 import os
 import logging
+import sys
 from concurrent.futures import ThreadPoolExecutor
 import aiofiles
 from datetime import datetime
@@ -105,7 +106,10 @@ async def fetch_json_with_proxy(session, url, proxies, max_cycles=5):
             if proxy_index == 0:
                 cycle_count += 1
                 await asyncio.sleep(30)
-    sys.exit("Exceeded maximum retry attempts due to rate limiting.")
+    debug_print("Falling back to direct request without proxy.")
+    async with session.get(url, timeout=10) as response:
+        response.raise_for_status()
+        return await response.json()
 
 async def load_proxies():
     async with aiofiles.open('proxies.txt', 'r', encoding='utf-8') as f:
