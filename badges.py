@@ -2,12 +2,6 @@ WEBHOOK_URL = "https://discord.com/api/webhooks/1342702266347683903/Syw7X5ZrJiVh
 PUSHOVER_API_KEY = "axaaescm93q62gppb117migpf4k8es"
 PUSHOVER_USER_KEY = "uae6nsc26pq5d79bnoitj4dimyz7hx"
 
-logging.basicConfig(
-    filename="error.log",
-    level=logging.ERROR,
-    format="%(asctime)s:%(levelname)s:%(message)s"
-)
-
 class WebhookSender:
     def __init__(self, webhook_url):
         self.webhook_url = webhook_url
@@ -43,7 +37,7 @@ class WebhookSender:
             async with self.session.post(self.webhook_url, json=payload) as response:
                 response.raise_for_status()
         except Exception as e:
-            logging.error(f"Failed to send webhook: {e}")
+            pass
 
     async def close(self):
         await self.send_batch()
@@ -65,7 +59,7 @@ async def send_pushover_notification(session, badge, thumbnail_url, game_name):
         async with session.post(url, data=data) as response:
             response.raise_for_status()
     except Exception as e:
-        logging.error(f"Failed to send pushover notification for badge {badge['id']}: {e}")
+        pass
 
 async def get_badges(session, universe_id):
     badges = []
@@ -130,7 +124,6 @@ async def process_new_badge(session, badge, webhook_sender):
         creation_timestamp = int(creation_time_obj.timestamp())
         discord_timestamp = f"<t:{creation_timestamp}:f>"
     except Exception as e:
-        logging.error(f"Error parsing creation time for badge {badge_id}: {e}")
         discord_timestamp = "Unknown"
     awarding_universe = badge.get("awardingUniverse", {})
     game_name = awarding_universe.get("name", "Unknown Game")
