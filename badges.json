@@ -79217,6 +79217,28 @@
           "name": "[\ud83d\udc98VALENTINES] Tower Defense X: BETA",
           "rootPlaceId": 9503261072
         }
+      },
+      {
+        "id": 2968370383250655,
+        "name": "Completed TDX Tutorial",
+        "description": "Welcome to TDX!",
+        "displayName": "Completed TDX Tutorial",
+        "displayDescription": "Welcome to TDX!",
+        "enabled": true,
+        "iconImageId": 115044740137773,
+        "displayIconImageId": 115044740137773,
+        "created": "2025-02-28T23:36:21.885+00:00",
+        "updated": "2025-02-28T23:36:21.885+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3541611379,
+          "name": "[\ud83d\udc98VALENTINES] Tower Defense X: BETA",
+          "rootPlaceId": 9503261072
+        }
       }
     ]
   },
