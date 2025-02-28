@@ -94634,6 +94634,29 @@
     ]
   },
   "5324025881": {
-    "data": []
+    "data": [
+      {
+        "id": 845544081065459,
+        "name": "skibidi",
+        "description": "test work mr bot",
+        "displayName": "skibidi",
+        "displayDescription": "test work mr bot",
+        "enabled": true,
+        "iconImageId": 115199166395671,
+        "displayIconImageId": 115199166395671,
+        "created": "2025-02-28T02:04:25.184+00:00",
+        "updated": "2025-02-28T02:04:25.184+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5324025881,
+          "name": "raycast thing",
+          "rootPlaceId": 15430541684
+        }
+      }
+    ]
   }
 }
