@@ -93244,100 +93244,37 @@
       }
     ]
   },
-  "5994299007": {
-    "data": []
-  },
-  "2935295205": {
-    "data": []
-  },
-  "5069436117": {
+  "6899365225": {
     "data": []
   },
   "5049492946": {
     "data": []
   },
-  "6934615886": {
+  "5693153729": {
     "data": []
   },
-  "3461875920": {
-    "data": []
-  },
-  "5780364934": {
-    "data": []
-  },
-  "6353011601": {
-    "data": []
-  },
-  "7227282574": {
-    "data": []
-  },
-  "2042345357": {
-    "data": []
-  },
-  "5907218889": {
-    "data": []
-  },
-  "5788217981": {
-    "data": []
-  },
-  "4594955504": {
-    "data": []
-  },
-  "4703005655": {
-    "data": []
-  },
-  "4694219939": {
-    "data": []
-  },
-  "4744242199": {
-    "data": []
-  },
-  "5961021075": {
-    "data": []
-  },
-  "6899693468": {
-    "data": []
-  },
-  "5854268910": {
-    "data": []
-  },
-  "4117341881": {
-    "data": []
-  },
-  "6442728358": {
-    "data": []
-  },
-  "6537608978": {
-    "data": []
-  },
-  "6153903142": {
-    "data": []
-  },
-  "6275885379": {
-    "data": []
-  },
-  "142071669": {
-    "data": []
-  },
-  "2673798315": {
-    "data": []
-  },
-  "4850768129": {
-    "data": []
-  },
-  "3485003423": {
-    "data": []
-  },
-  "6928142357": {
-    "data": []
-  },
-  "3431515417": {
+  "574813688": {
     "data": []
   },
   "5752062456": {
     "data": []
   },
   "357845056": {
+    "data": []
+  },
+  "5788217981": {
+    "data": []
+  },
+  "5854268910": {
+    "data": []
+  },
+  "5148575671": {
+    "data": []
+  },
+  "5358615092": {
+    "data": []
+  },
+  "6537608978": {
     "data": []
   },
   "4540132962": {
@@ -93366,340 +93303,44 @@
       }
     ]
   },
-  "7103258652": {
+  "3461875920": {
     "data": []
   },
-  "5693153729": {
+  "5216095136": {
     "data": []
   },
-  "2929256829": {
+  "2935295205": {
     "data": []
   },
-  "5673638520": {
-    "data": []
-  },
-  "2618178982": {
-    "data": [
-      {
-        "id": 2154037311,
-        "name": "1st Win",
-        "description": null,
-        "displayName": "1st Win",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 15295554551,
-        "displayIconImageId": 15295554551,
-        "created": "2023-11-07T22:26:28.263+00:00",
-        "updated": "2024-11-19T20:32:24.013+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 6,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 2618178982,
-          "name": "Speed Run 4 Testing",
-          "rootPlaceId": 6869604060
-        }
-      },
-      {
-        "id": 2154037317,
-        "name": "2nd Win",
-        "description": null,
-        "displayName": "2nd Win",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 15295555905,
-        "displayIconImageId": 15295555905,
-        "created": "2023-11-07T22:26:43.62+00:00",
-        "updated": "2024-11-19T20:32:24.029+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 2,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 2618178982,
-          "name": "Speed Run 4 Testing",
-          "rootPlaceId": 6869604060
-        }
-      }
-    ]
-  },
-  "1285891599": {
-    "data": [
-      {
-        "id": 4367840271989726,
-        "name": "TIX.png",
-        "description": null,
-        "displayName": "TIX.png",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 17587130921,
-        "displayIconImageId": 17587130921,
-        "created": "2024-05-23T14:34:32.8+00:00",
-        "updated": "2024-11-21T10:10:59.713+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 2,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 1285891599,
-          "name": "buzztest2",
-          "rootPlaceId": 3700201215
-        }
-      },
-      {
-        "id": 1434902506440960,
-        "name": "OG Token.png",
-        "description": null,
-        "displayName": "OG Token.png",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 17587131623,
-        "displayIconImageId": 17587131623,
-        "created": "2024-05-23T14:34:39.047+00:00",
-        "updated": "2024-11-20T07:06:38.791+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 2,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 1285891599,
-          "name": "buzztest2",
-          "rootPlaceId": 3700201215
-        }
-      },
-      {
-        "id": 4176888811104759,
-        "name": "TIX.png",
-        "description": null,
-        "displayName": "TIX.png",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 17587132712,
-        "displayIconImageId": 17587132712,
-        "created": "2024-05-23T14:34:48.492+00:00",
-        "updated": "2024-11-21T07:03:23.169+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 2,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 1285891599,
-          "name": "buzztest2",
-          "rootPlaceId": 3700201215
-        }
-      },
-      {
-        "id": 105639110871854,
-        "name": "TIX.png",
-        "description": null,
-        "displayName": "TIX.png",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 17587133710,
-        "displayIconImageId": 17587133710,
-        "created": "2024-05-23T14:34:55.353+00:00",
-        "updated": "2024-11-19T21:09:43.195+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 1,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 1285891599,
-          "name": "buzztest2",
-          "rootPlaceId": 3700201215
-        }
-      },
-      {
-        "id": 1831101244251823,
-        "name": "TIX.png",
-        "description": null,
-        "displayName": "TIX.png",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 17587134848,
-        "displayIconImageId": 17587134848,
-        "created": "2024-05-23T14:35:01.031+00:00",
-        "updated": "2024-11-20T00:41:21.696+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 1,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 1285891599,
-          "name": "buzztest2",
-          "rootPlaceId": 3700201215
-        }
-      },
-      {
-        "id": 3682842852029677,
-        "name": "TIX.png",
-        "description": null,
-        "displayName": "TIX.png",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 17587135994,
-        "displayIconImageId": 17587135994,
-        "created": "2024-05-23T14:35:08.091+00:00",
-        "updated": "2024-11-21T06:01:59.112+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 2,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 1285891599,
-          "name": "buzztest2",
-          "rootPlaceId": 3700201215
-        }
-      },
-      {
-        "id": 263757821161990,
-        "name": "TIX.png",
-        "description": null,
-        "displayName": "TIX.png",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 17587136907,
-        "displayIconImageId": 17587136907,
-        "created": "2024-05-23T14:35:15.57+00:00",
-        "updated": "2024-11-19T23:11:20.354+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 1,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 1285891599,
-          "name": "buzztest2",
-          "rootPlaceId": 3700201215
-        }
-      }
-    ]
-  },
-  "5279337001": {
-    "data": []
-  },
-  "2578682540": {
-    "data": [
-      {
-        "id": 3004932556900609,
-        "name": "Test",
-        "description": "Test",
-        "displayName": "Test",
-        "displayDescription": "Test",
-        "enabled": true,
-        "iconImageId": 113432149328036,
-        "displayIconImageId": 113432149328036,
-        "created": "2024-12-11T20:48:22.873+00:00",
-        "updated": "2024-12-11T20:48:22.873+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 0,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 2578682540,
-          "name": "WT Testing Place",
-          "rootPlaceId": 6793972085
-        }
-      },
-      {
-        "id": 2730345584345529,
-        "name": "Placeholder #1",
-        "description": "Psst, why are you looking at this.. :(",
-        "displayName": "Placeholder #1",
-        "displayDescription": "Psst, why are you looking at this.. :(",
-        "enabled": true,
-        "iconImageId": 123169963603489,
-        "displayIconImageId": 123169963603489,
-        "created": "2024-12-16T20:02:29.314+00:00",
-        "updated": "2024-12-16T20:02:29.314+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 12,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 2578682540,
-          "name": "WT Testing Place",
-          "rootPlaceId": 6793972085
-        }
-      },
-      {
-        "id": 1952709863833400,
-        "name": "Placeholder #2",
-        "description": "Hey! Nothing to see here..",
-        "displayName": "Placeholder #2",
-        "displayDescription": "Hey! Nothing to see here..",
-        "enabled": true,
-        "iconImageId": 102811835480812,
-        "displayIconImageId": 102811835480812,
-        "created": "2024-12-16T20:02:56.074+00:00",
-        "updated": "2024-12-16T20:02:56.074+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 8,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 2578682540,
-          "name": "WT Testing Place",
-          "rootPlaceId": 6793972085
-        }
-      }
-    ]
-  },
-  "574813688": {
-    "data": []
-  },
-  "3833818265": {
+  "4703005655": {
     "data": []
   },
   "7204920390": {
     "data": []
   },
-  "5148575671": {
+  "5994299007": {
     "data": []
   },
-  "5358615092": {
+  "5673638520": {
     "data": []
   },
-  "174252938": {
+  "7103258652": {
     "data": []
   },
-  "3083460315": {
-    "data": [
-      {
-        "id": 2151010999,
-        "name": "test",
-        "description": null,
-        "displayName": "test",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 14579013617,
-        "displayIconImageId": 14579013617,
-        "created": "2023-08-26T17:12:54.96+00:00",
-        "updated": "2024-11-21T00:47:34.686+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 0,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 3083460315,
-          "name": "RegretevatorDevFile",
-          "rootPlaceId": 7984825694
-        }
-      }
-    ]
+  "5069436117": {
+    "data": []
+  },
+  "4694219939": {
+    "data": []
+  },
+  "4117341881": {
+    "data": []
+  },
+  "5961021075": {
+    "data": []
+  },
+  "2984029713": {
+    "data": []
   },
   "1554612201": {
     "data": [
@@ -93745,92 +93386,6 @@
           "id": 1554612201,
           "name": "grg testing.",
           "rootPlaceId": 4694363184
-        }
-      }
-    ]
-  },
-  "5196966160": {
-    "data": []
-  },
-  "5216095136": {
-    "data": []
-  },
-  "4351386543": {
-    "data": [
-      {
-        "id": 438277574486937,
-        "name": "METRO HUNTER",
-        "description": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
-        "displayName": "METRO HUNTER",
-        "displayDescription": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
-        "enabled": true,
-        "iconImageId": 16738200816,
-        "displayIconImageId": 16738200816,
-        "created": "2024-03-12T13:16:44.907+00:00",
-        "updated": "2024-11-20T01:14:21.595+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 6,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 4351386543,
-          "name": "Metro Life [DEV]",
-          "rootPlaceId": 12363313138
-        }
-      }
-    ]
-  },
-  "6573578541": {
-    "data": []
-  },
-  "7008949188": {
-    "data": []
-  },
-  "6134353151": {
-    "data": [
-      {
-        "id": 2528386939942537,
-        "name": "Event Badge 1",
-        "description": null,
-        "displayName": "Event Badge 1",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 116398388400421,
-        "displayIconImageId": 116398388400421,
-        "created": "2024-12-12T04:12:41.011+00:00",
-        "updated": "2024-12-12T04:12:41.011+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 2,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 6134353151,
-          "name": "UF - QA 4",
-          "rootPlaceId": 17898213444
-        }
-      },
-      {
-        "id": 1156445963561441,
-        "name": "Event Badge 2",
-        "description": null,
-        "displayName": "Event Badge 2",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 72460821984426,
-        "displayIconImageId": 72460821984426,
-        "created": "2024-12-12T04:12:52.013+00:00",
-        "updated": "2024-12-12T04:12:52.013+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 3,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 6134353151,
-          "name": "UF - QA 4",
-          "rootPlaceId": 17898213444
         }
       }
     ]
@@ -93883,172 +93438,253 @@
       }
     ]
   },
-  "6899365225": {
-    "data": []
+  "3083460315": {
+    "data": [
+      {
+        "id": 2151010999,
+        "name": "test",
+        "description": null,
+        "displayName": "test",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 14579013617,
+        "displayIconImageId": 14579013617,
+        "created": "2023-08-26T17:12:54.96+00:00",
+        "updated": "2024-11-21T00:47:34.686+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3083460315,
+          "name": "RegretevatorDevFile",
+          "rootPlaceId": 7984825694
+        }
+      }
+    ]
   },
   "5839035797": {
     "data": []
   },
-  "2984029713": {
+  "4744242199": {
+    "data": []
+  },
+  "6899693468": {
+    "data": []
+  },
+  "6928142357": {
+    "data": []
+  },
+  "5907218889": {
+    "data": []
+  },
+  "174252938": {
+    "data": []
+  },
+  "3833818265": {
+    "data": []
+  },
+  "6442728358": {
+    "data": []
+  },
+  "6275885379": {
+    "data": []
+  },
+  "142071669": {
+    "data": []
+  },
+  "3485003423": {
+    "data": []
+  },
+  "4594955504": {
+    "data": []
+  },
+  "5780364934": {
+    "data": []
+  },
+  "6153903142": {
+    "data": []
+  },
+  "5196966160": {
     "data": []
   },
   "135387899": {
     "data": []
   },
-  "887403347": {
+  "3431515417": {
+    "data": []
+  },
+  "7227282574": {
+    "data": []
+  },
+  "6934615886": {
+    "data": []
+  },
+  "6353011601": {
+    "data": []
+  },
+  "2929256829": {
+    "data": []
+  },
+  "2042345357": {
+    "data": []
+  },
+  "5279337001": {
+    "data": []
+  },
+  "2673798315": {
+    "data": []
+  },
+  "7008949188": {
+    "data": []
+  },
+  "5673322995": {
     "data": [
       {
-        "id": 2124727272,
-        "name": "WIP Badge 1",
+        "id": 1718516201069387,
+        "name": "Event Badge 1",
         "description": null,
-        "displayName": "WIP Badge 1",
+        "displayName": "Event Badge 1",
         "displayDescription": null,
         "enabled": true,
-        "iconImageId": 6710958600,
-        "displayIconImageId": 6710958600,
-        "created": "2021-04-21T19:40:54.34+00:00",
-        "updated": "2024-11-19T19:28:23.6+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 238,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 887403347,
-          "name": "[DEV] Lobby",
-          "rootPlaceId": 2506552320
-        }
-      },
-      {
-        "id": 2147618544,
-        "name": "Reached Floor 200",
-        "description": null,
-        "displayName": "Reached Floor 200",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 13840536897,
-        "displayIconImageId": 13840536897,
-        "created": "2023-06-23T18:36:10.207+00:00",
-        "updated": "2024-11-20T22:34:16.838+00:00",
+        "iconImageId": 74519385976373,
+        "displayIconImageId": 74519385976373,
+        "created": "2024-12-12T19:01:19.733+00:00",
+        "updated": "2024-12-12T19:01:19.733+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 6,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
-          "id": 887403347,
-          "name": "[DEV] Lobby",
-          "rootPlaceId": 2506552320
+          "id": 5673322995,
+          "name": "UF - QA1",
+          "rootPlaceId": 16468995956
         }
       },
       {
-        "id": 2147618552,
-        "name": "Reached Floor 300",
+        "id": 2234001035325954,
+        "name": "Event Badge 2",
         "description": null,
-        "displayName": "Reached Floor 300",
+        "displayName": "Event Badge 2",
         "displayDescription": null,
         "enabled": true,
-        "iconImageId": 13840538293,
-        "displayIconImageId": 13840538293,
-        "created": "2023-06-23T18:36:22.173+00:00",
-        "updated": "2024-11-20T22:34:16.862+00:00",
+        "iconImageId": 118572317647565,
+        "displayIconImageId": 118572317647565,
+        "created": "2024-12-12T19:01:28.542+00:00",
+        "updated": "2024-12-12T19:01:28.542+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
-          "awardedCount": 5,
+          "awardedCount": 6,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
-          "id": 887403347,
-          "name": "[DEV] Lobby",
-          "rootPlaceId": 2506552320
+          "id": 5673322995,
+          "name": "UF - QA1",
+          "rootPlaceId": 16468995956
         }
-      },
+      }
+    ]
+  },
+  "4850768129": {
+    "data": []
+  },
+  "6134353151": {
+    "data": [
       {
-        "id": 2150089427,
-        "name": "Zero Greatsword",
+        "id": 2528386939942537,
+        "name": "Event Badge 1",
         "description": null,
-        "displayName": "Zero Greatsword",
+        "displayName": "Event Badge 1",
         "displayDescription": null,
         "enabled": true,
-        "iconImageId": 14388621049,
-        "displayIconImageId": 14388621049,
-        "created": "2023-08-10T21:13:00.147+00:00",
-        "updated": "2024-11-21T00:11:15.33+00:00",
+        "iconImageId": 116398388400421,
+        "displayIconImageId": 116398388400421,
+        "created": "2024-12-12T04:12:41.011+00:00",
+        "updated": "2024-12-12T04:12:41.011+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
-          "awardedCount": 3,
+          "awardedCount": 2,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
-          "id": 887403347,
-          "name": "[DEV] Lobby",
-          "rootPlaceId": 2506552320
+          "id": 6134353151,
+          "name": "UF - QA 4",
+          "rootPlaceId": 17898213444
         }
       },
       {
-        "id": 4257118711264909,
-        "name": "Jeff Test",
+        "id": 1156445963561441,
+        "name": "Event Badge 2",
         "description": null,
-        "displayName": "Jeff Test",
+        "displayName": "Event Badge 2",
         "displayDescription": null,
         "enabled": true,
-        "iconImageId": 16671392769,
-        "displayIconImageId": 16671392769,
-        "created": "2024-03-08T20:02:15.157+00:00",
-        "updated": "2024-11-21T08:21:24.765+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 10,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 887403347,
-          "name": "[DEV] Lobby",
-          "rootPlaceId": 2506552320
-        }
-      },
-      {
-        "id": 2407136877943106,
-        "name": "Placeholder Badge",
-        "description": null,
-        "displayName": "Placeholder Badge",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 129309443126049,
-        "displayIconImageId": 129309443126049,
-        "created": "2024-11-18T22:01:05.388+00:00",
-        "updated": "2024-11-20T09:42:49.729+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 0,
-          "awardedCount": 1071,
-          "winRatePercentage": 0.0
-        },
-        "awardingUniverse": {
-          "id": 887403347,
-          "name": "[DEV] Lobby",
-          "rootPlaceId": 2506552320
-        }
-      },
-      {
-        "id": 1144937084767322,
-        "name": "Test",
-        "description": null,
-        "displayName": "Test",
-        "displayDescription": null,
-        "enabled": true,
-        "iconImageId": 91388029291021,
-        "displayIconImageId": 91388029291021,
-        "created": "2025-01-02T19:09:54.033+00:00",
-        "updated": "2025-01-02T19:09:54.033+00:00",
+        "iconImageId": 72460821984426,
+        "displayIconImageId": 72460821984426,
+        "created": "2024-12-12T04:12:52.013+00:00",
+        "updated": "2024-12-12T04:12:52.013+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 3,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
-          "id": 887403347,
-          "name": "[DEV] Lobby",
-          "rootPlaceId": 2506552320
+          "id": 6134353151,
+          "name": "UF - QA 4",
+          "rootPlaceId": 17898213444
+        }
+      }
+    ]
+  },
+  "6573578541": {
+    "data": []
+  },
+  "2618178982": {
+    "data": [
+      {
+        "id": 2154037311,
+        "name": "1st Win",
+        "description": null,
+        "displayName": "1st Win",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 15295554551,
+        "displayIconImageId": 15295554551,
+        "created": "2023-11-07T22:26:28.263+00:00",
+        "updated": "2024-11-19T20:32:24.013+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2618178982,
+          "name": "Speed Run 4 Testing",
+          "rootPlaceId": 6869604060
+        }
+      },
+      {
+        "id": 2154037317,
+        "name": "2nd Win",
+        "description": null,
+        "displayName": "2nd Win",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 15295555905,
+        "displayIconImageId": 15295555905,
+        "created": "2023-11-07T22:26:43.62+00:00",
+        "updated": "2024-11-19T20:32:24.029+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2618178982,
+          "name": "Speed Run 4 Testing",
+          "rootPlaceId": 6869604060
         }
       }
     ]
@@ -94585,50 +94221,414 @@
       }
     ]
   },
-  "5673322995": {
+  "887403347": {
     "data": [
       {
-        "id": 1718516201069387,
-        "name": "Event Badge 1",
+        "id": 2124727272,
+        "name": "WIP Badge 1",
         "description": null,
-        "displayName": "Event Badge 1",
+        "displayName": "WIP Badge 1",
         "displayDescription": null,
         "enabled": true,
-        "iconImageId": 74519385976373,
-        "displayIconImageId": 74519385976373,
-        "created": "2024-12-12T19:01:19.733+00:00",
-        "updated": "2024-12-12T19:01:19.733+00:00",
+        "iconImageId": 6710958600,
+        "displayIconImageId": 6710958600,
+        "created": "2021-04-21T19:40:54.34+00:00",
+        "updated": "2024-11-19T19:28:23.6+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
-          "awardedCount": 6,
+          "awardedCount": 238,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
-          "id": 5673322995,
-          "name": "UF - QA1",
-          "rootPlaceId": 16468995956
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
         }
       },
       {
-        "id": 2234001035325954,
-        "name": "Event Badge 2",
+        "id": 2147618544,
+        "name": "Reached Floor 200",
         "description": null,
-        "displayName": "Event Badge 2",
+        "displayName": "Reached Floor 200",
         "displayDescription": null,
         "enabled": true,
-        "iconImageId": 118572317647565,
-        "displayIconImageId": 118572317647565,
-        "created": "2024-12-12T19:01:28.542+00:00",
-        "updated": "2024-12-12T19:01:28.542+00:00",
+        "iconImageId": 13840536897,
+        "displayIconImageId": 13840536897,
+        "created": "2023-06-23T18:36:10.207+00:00",
+        "updated": "2024-11-20T22:34:16.838+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 6,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
-          "id": 5673322995,
-          "name": "UF - QA1",
-          "rootPlaceId": 16468995956
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 2147618552,
+        "name": "Reached Floor 300",
+        "description": null,
+        "displayName": "Reached Floor 300",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 13840538293,
+        "displayIconImageId": 13840538293,
+        "created": "2023-06-23T18:36:22.173+00:00",
+        "updated": "2024-11-20T22:34:16.862+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 5,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 2150089427,
+        "name": "Zero Greatsword",
+        "description": null,
+        "displayName": "Zero Greatsword",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 14388621049,
+        "displayIconImageId": 14388621049,
+        "created": "2023-08-10T21:13:00.147+00:00",
+        "updated": "2024-11-21T00:11:15.33+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 4257118711264909,
+        "name": "Jeff Test",
+        "description": null,
+        "displayName": "Jeff Test",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 16671392769,
+        "displayIconImageId": 16671392769,
+        "created": "2024-03-08T20:02:15.157+00:00",
+        "updated": "2024-11-21T08:21:24.765+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 10,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 2407136877943106,
+        "name": "Placeholder Badge",
+        "description": null,
+        "displayName": "Placeholder Badge",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 129309443126049,
+        "displayIconImageId": 129309443126049,
+        "created": "2024-11-18T22:01:05.388+00:00",
+        "updated": "2024-11-20T09:42:49.729+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1071,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      },
+      {
+        "id": 1144937084767322,
+        "name": "Test",
+        "description": null,
+        "displayName": "Test",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 91388029291021,
+        "displayIconImageId": 91388029291021,
+        "created": "2025-01-02T19:09:54.033+00:00",
+        "updated": "2025-01-02T19:09:54.033+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 887403347,
+          "name": "[DEV] Lobby",
+          "rootPlaceId": 2506552320
+        }
+      }
+    ]
+  },
+  "2578682540": {
+    "data": [
+      {
+        "id": 2730345584345529,
+        "name": "Placeholder #1",
+        "description": "Psst, why are you looking at this.. :(",
+        "displayName": "Placeholder #1",
+        "displayDescription": "Psst, why are you looking at this.. :(",
+        "enabled": true,
+        "iconImageId": 123169963603489,
+        "displayIconImageId": 123169963603489,
+        "created": "2024-12-16T20:02:29.314+00:00",
+        "updated": "2024-12-16T20:02:29.314+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 12,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2578682540,
+          "name": "WT Testing Place",
+          "rootPlaceId": 6793972085
+        }
+      },
+      {
+        "id": 1952709863833400,
+        "name": "Placeholder #2",
+        "description": "Hey! Nothing to see here..",
+        "displayName": "Placeholder #2",
+        "displayDescription": "Hey! Nothing to see here..",
+        "enabled": true,
+        "iconImageId": 102811835480812,
+        "displayIconImageId": 102811835480812,
+        "created": "2024-12-16T20:02:56.074+00:00",
+        "updated": "2024-12-16T20:02:56.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 8,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2578682540,
+          "name": "WT Testing Place",
+          "rootPlaceId": 6793972085
+        }
+      },
+      {
+        "id": 3004932556900609,
+        "name": "Test",
+        "description": "Test",
+        "displayName": "Test",
+        "displayDescription": "Test",
+        "enabled": true,
+        "iconImageId": 113432149328036,
+        "displayIconImageId": 113432149328036,
+        "created": "2024-12-11T20:48:22.873+00:00",
+        "updated": "2024-12-11T20:48:22.873+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2578682540,
+          "name": "WT Testing Place",
+          "rootPlaceId": 6793972085
+        }
+      }
+    ]
+  },
+  "4351386543": {
+    "data": [
+      {
+        "id": 438277574486937,
+        "name": "METRO HUNTER",
+        "description": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
+        "displayName": "METRO HUNTER",
+        "displayDescription": "This badge was earned by completing hot air balloon game for The Hunt: First Edition.",
+        "enabled": true,
+        "iconImageId": 16738200816,
+        "displayIconImageId": 16738200816,
+        "created": "2024-03-12T13:16:44.907+00:00",
+        "updated": "2024-11-20T01:14:21.595+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4351386543,
+          "name": "Metro Life [DEV]",
+          "rootPlaceId": 12363313138
+        }
+      }
+    ]
+  },
+  "1285891599": {
+    "data": [
+      {
+        "id": 4367840271989726,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587130921,
+        "displayIconImageId": 17587130921,
+        "created": "2024-05-23T14:34:32.8+00:00",
+        "updated": "2024-11-21T10:10:59.713+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 1434902506440960,
+        "name": "OG Token.png",
+        "description": null,
+        "displayName": "OG Token.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587131623,
+        "displayIconImageId": 17587131623,
+        "created": "2024-05-23T14:34:39.047+00:00",
+        "updated": "2024-11-20T07:06:38.791+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 4176888811104759,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587132712,
+        "displayIconImageId": 17587132712,
+        "created": "2024-05-23T14:34:48.492+00:00",
+        "updated": "2024-11-21T07:03:23.169+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 105639110871854,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587133710,
+        "displayIconImageId": 17587133710,
+        "created": "2024-05-23T14:34:55.353+00:00",
+        "updated": "2024-11-19T21:09:43.195+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 1831101244251823,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587134848,
+        "displayIconImageId": 17587134848,
+        "created": "2024-05-23T14:35:01.031+00:00",
+        "updated": "2024-11-20T00:41:21.696+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 3682842852029677,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587135994,
+        "displayIconImageId": 17587135994,
+        "created": "2024-05-23T14:35:08.091+00:00",
+        "updated": "2024-11-21T06:01:59.112+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
+        }
+      },
+      {
+        "id": 263757821161990,
+        "name": "TIX.png",
+        "description": null,
+        "displayName": "TIX.png",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 17587136907,
+        "displayIconImageId": 17587136907,
+        "created": "2024-05-23T14:35:15.57+00:00",
+        "updated": "2024-11-19T23:11:20.354+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1285891599,
+          "name": "buzztest2",
+          "rootPlaceId": 3700201215
         }
       }
     ]
