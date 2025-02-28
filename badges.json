@@ -10676,28 +10676,6 @@
         }
       },
       {
-        "id": 2124615656,
-        "name": "Welcome to TDS!",
-        "description": "You completed the tutorial! Welcome to Tower Defense Simulator recruit!",
-        "displayName": "Welcome to TDS!",
-        "displayDescription": "You completed the tutorial! Welcome to Tower Defense Simulator recruit!",
-        "enabled": true,
-        "iconImageId": 16494989113,
-        "displayIconImageId": 16494989113,
-        "created": "2020-10-01T04:03:15.583+00:00",
-        "updated": "2024-11-19T19:26:46.947+00:00",
-        "statistics": {
-          "pastDayAwardedCount": 20874,
-          "awardedCount": 8920709,
-          "winRatePercentage": 0.042
-        },
-        "awardingUniverse": {
-          "id": 1176784616,
-          "name": "\ud83e\udd91 SQUID \ud83e\udd91  Tower Defense Simulator",
-          "rootPlaceId": 3260590327
-        }
-      },
-      {
         "id": 2124629158,
         "name": "Triumph Hardcore",
         "description": "You triumphed over the strongest of armies. Congratulations you are truly, strong..",
