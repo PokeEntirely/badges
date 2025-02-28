@@ -93328,7 +93328,30 @@
     "data": []
   },
   "5069436117": {
-    "data": []
+    "data": [
+      {
+        "id": 3883320762341716,
+        "name": "S1",
+        "description": null,
+        "displayName": "S1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 126431612639820,
+        "displayIconImageId": 126431612639820,
+        "created": "2025-02-18T02:50:37.176+00:00",
+        "updated": "2025-02-28T11:44:34.964+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5069436117,
+          "name": "Temp",
+          "rootPlaceId": 14704943644
+        }
+      }
+    ]
   },
   "4694219939": {
     "data": []
