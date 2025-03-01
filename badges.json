@@ -93531,7 +93531,52 @@
     "data": []
   },
   "6442728358": {
-    "data": []
+    "data": [
+      {
+        "id": 939278914145273,
+        "name": "Testbadge1",
+        "description": null,
+        "displayName": "Testbadge1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 135700197000871,
+        "displayIconImageId": 135700197000871,
+        "created": "2025-03-01T20:37:30.421+00:00",
+        "updated": "2025-03-01T20:37:30.421+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6442728358,
+          "name": "Chained DEV",
+          "rootPlaceId": 124248440864832
+        }
+      },
+      {
+        "id": 2188635308272231,
+        "name": "testbadge2",
+        "description": null,
+        "displayName": "testbadge2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 117670887909966,
+        "displayIconImageId": 117670887909966,
+        "created": "2025-03-01T20:37:45.336+00:00",
+        "updated": "2025-03-01T20:37:45.336+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6442728358,
+          "name": "Chained DEV",
+          "rootPlaceId": 124248440864832
+        }
+      }
+    ]
   },
   "6275885379": {
     "data": []
