@@ -60962,6 +60962,28 @@
           "name": "Dress To Impress [\ud83d\udc96VALENTINES!]",
           "rootPlaceId": 15101393044
         }
+      },
+      {
+        "id": 956750159533867,
+        "name": "Style Showdown Winner",
+        "description": null,
+        "displayName": "Style Showdown Winner",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 114346432222252,
+        "displayIconImageId": 114346432222252,
+        "created": "2025-03-02T00:10:20.993+00:00",
+        "updated": "2025-03-02T00:10:20.993+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7824,
+          "awardedCount": 16377,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5203828273,
+          "name": "Dress To Impress [\ud83c\udfaeSTYLE SHOWDOWN]",
+          "rootPlaceId": 15101393044
+        }
       }
     ]
   },
