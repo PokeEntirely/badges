@@ -94770,5 +94770,75 @@
         }
       }
     ]
+  },
+  "6726559349": {
+    "data": [
+      {
+        "id": 3730338212540620,
+        "name": "[TEST] Played",
+        "description": null,
+        "displayName": "[TEST] Played",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 91211480682834,
+        "displayIconImageId": 91211480682834,
+        "created": "2024-12-21T14:23:49.736+00:00",
+        "updated": "2024-12-21T14:24:09.685+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 4842,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6726559349,
+          "name": "BL Dev",
+          "rootPlaceId": 75474715372485
+        }
+      },
+      {
+        "id": 1526679129737650,
+        "name": "[TEST] Played for 15 Minutes",
+        "description": null,
+        "displayName": "[TEST] Played for 15 Minutes",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 99818168214049,
+        "displayIconImageId": 99818168214049,
+        "created": "2024-12-21T14:24:01.043+00:00",
+        "updated": "2024-12-21T14:24:01.043+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1654,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6726559349,
+          "name": "BL Dev",
+          "rootPlaceId": 75474715372485
+        }
+      },
+      {
+        "id": 3985681229909535,
+        "name": "[TEST] Returning Player",
+        "description": null,
+        "displayName": "[TEST] Returning Player",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 72543387767533,
+        "displayIconImageId": 72543387767533,
+        "created": "2024-12-21T14:24:24.62+00:00",
+        "updated": "2024-12-21T14:24:24.62+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 582,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6726559349,
+          "name": "BL Dev",
+          "rootPlaceId": 75474715372485
+        }
+      }
+    ]
   }
 }
