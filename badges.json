@@ -93394,6 +93394,28 @@
           "name": "Temp",
           "rootPlaceId": 14704943644
         }
+      },
+      {
+        "id": 1694605184617687,
+        "name": "S2",
+        "description": null,
+        "displayName": "S2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 102726203811108,
+        "displayIconImageId": 102726203811108,
+        "created": "2025-02-19T02:41:34.534+00:00",
+        "updated": "2025-03-03T07:18:05.878+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5069436117,
+          "name": "Temp",
+          "rootPlaceId": 14704943644
+        }
       }
     ]
   },
