@@ -74646,6 +74646,28 @@
           "name": "Dead Rails [Alpha]",
           "rootPlaceId": 116495829188952
         }
+      },
+      {
+        "id": 4124647066959768,
+        "name": "Bad RNG",
+        "description": "Awarded to those who got struck by lightning",
+        "displayName": "Bad RNG",
+        "displayDescription": "Awarded to those who got struck by lightning",
+        "enabled": true,
+        "iconImageId": 134628678604367,
+        "displayIconImageId": 134628678604367,
+        "created": "2025-03-07T18:55:33.414+00:00",
+        "updated": "2025-03-07T18:55:33.414+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7018190066,
+          "name": "Dead Rails [Alpha]",
+          "rootPlaceId": 116495829188952
+        }
       }
     ]
   },
