@@ -5922,6 +5922,28 @@
           "name": "a dusty trip [\ud83d\ude97CAR QUEST]",
           "rootPlaceId": 16389395869
         }
+      },
+      {
+        "id": 4109166999645499,
+        "name": "Bus Breakout",
+        "description": null,
+        "displayName": "Bus Breakout",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 123708989360848,
+        "displayIconImageId": 123708989360848,
+        "created": "2025-03-07T07:58:10.431+00:00",
+        "updated": "2025-03-07T07:58:10.431+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83c\udf19BLOOD MOON]",
+          "rootPlaceId": 16389395869
+        }
       }
     ]
   },
