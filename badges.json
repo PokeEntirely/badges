@@ -74778,6 +74778,28 @@
           "name": "Dead Rails [Alpha]",
           "rootPlaceId": 116495829188952
         }
+      },
+      {
+        "id": 2449825919422098,
+        "name": "Open a Vault with TNT",
+        "description": "Awarded to those who blow open the vault",
+        "displayName": "Open a Vault with TNT",
+        "displayDescription": "Awarded to those who blow open the vault",
+        "enabled": true,
+        "iconImageId": 133681859915499,
+        "displayIconImageId": 133681859915499,
+        "created": "2025-03-07T19:37:44.697+00:00",
+        "updated": "2025-03-07T19:37:44.697+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7018190066,
+          "name": "Dead Rails [Alpha]",
+          "rootPlaceId": 116495829188952
+        }
       }
     ]
   },
