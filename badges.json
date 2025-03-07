@@ -21163,6 +21163,50 @@
           "name": "\u2763\ufe0fBlair",
           "rootPlaceId": 6137321701
         }
+      },
+      {
+        "id": 3264372515406389,
+        "name": "True Hotel Hero",
+        "description": "You thought it couldn't get harder....?",
+        "displayName": "True Hotel Hero",
+        "displayDescription": "You thought it couldn't get harder....?",
+        "enabled": true,
+        "iconImageId": 131209993225143,
+        "displayIconImageId": 131209993225143,
+        "created": "2025-02-11T04:49:33.994+00:00",
+        "updated": "2025-03-07T23:18:04.479+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2239430935,
+          "name": "\u26a1[VUULT] Blair",
+          "rootPlaceId": 6137321701
+        }
+      },
+      {
+        "id": 3894589006868377,
+        "name": "Perfect Game",
+        "description": "You've completed your very first perfect game! By getting this, you've: \r\n\r\n\u2022 Had no one die in your party\r\n\u2022 Guessed the ghost correctly\r\n\u2022 Completed all objectives\r\n\u2022 Taken a picture of the Ghost, A Burning Crucifix, The Boo Boo Doll, and The Cursed Object",
+        "displayName": "Perfect Game",
+        "displayDescription": "You've completed your very first perfect game! By getting this, you've: \r\n\r\n\u2022 Had no one die in your party\r\n\u2022 Guessed the ghost correctly\r\n\u2022 Completed all objectives\r\n\u2022 Taken a picture of the Ghost, A Burning Crucifix, The Boo Boo Doll, and The Cursed Object",
+        "enabled": true,
+        "iconImageId": 76198125700815,
+        "displayIconImageId": 76198125700815,
+        "created": "2025-02-11T05:19:58.319+00:00",
+        "updated": "2025-03-07T23:17:54.679+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2239430935,
+          "name": "\u26a1[VUULT] Blair",
+          "rootPlaceId": 6137321701
+        }
       }
     ]
   },
