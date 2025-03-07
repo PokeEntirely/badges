@@ -74668,6 +74668,72 @@
           "name": "Dead Rails [Alpha]",
           "rootPlaceId": 116495829188952
         }
+      },
+      {
+        "id": 1582987977889455,
+        "name": "Unlocked the Supply Depot",
+        "description": "Awarded to those who found the key and unlocked the supply depot",
+        "displayName": "Unlocked the Supply Depot",
+        "displayDescription": "Awarded to those who found the key and unlocked the supply depot",
+        "enabled": true,
+        "iconImageId": 89456852849523,
+        "displayIconImageId": 89456852849523,
+        "created": "2025-03-07T19:05:17.11+00:00",
+        "updated": "2025-03-07T19:05:17.11+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7018190066,
+          "name": "Dead Rails [Alpha]",
+          "rootPlaceId": 116495829188952
+        }
+      },
+      {
+        "id": 1869857033083964,
+        "name": "Vampire Knife",
+        "description": "Awarded to those who found the vampire knife",
+        "displayName": "Vampire Knife",
+        "displayDescription": "Awarded to those who found the vampire knife",
+        "enabled": true,
+        "iconImageId": 135855207995901,
+        "displayIconImageId": 135855207995901,
+        "created": "2025-03-07T19:08:58.799+00:00",
+        "updated": "2025-03-07T19:08:58.799+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7018190066,
+          "name": "Dead Rails [Alpha]",
+          "rootPlaceId": 116495829188952
+        }
+      },
+      {
+        "id": 120704640674091,
+        "name": "Defeat Tesla",
+        "description": "Awarded to those who defeated Nikola Tesla",
+        "displayName": "Defeat Tesla",
+        "displayDescription": "Awarded to those who defeated Nikola Tesla",
+        "enabled": true,
+        "iconImageId": 121760964596939,
+        "displayIconImageId": 121760964596939,
+        "created": "2025-03-07T19:21:13.226+00:00",
+        "updated": "2025-03-07T19:21:13.226+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7018190066,
+          "name": "Dead Rails [Alpha]",
+          "rootPlaceId": 116495829188952
+        }
       }
     ]
   },
