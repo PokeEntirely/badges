@@ -22396,6 +22396,28 @@
           "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
           "rootPlaceId": 10704789056
         }
+      },
+      {
+        "id": 867991012967232,
+        "name": "Spring Tidings 2025",
+        "description": "Awarded alongside the Roadster 1 Evo sports car for completing the Spring Tidings Mini-Event in 2025!",
+        "displayName": "Spring Tidings 2025",
+        "displayDescription": "Awarded alongside the Roadster 1 Evo sports car for completing the Spring Tidings Mini-Event in 2025!",
+        "enabled": true,
+        "iconImageId": 98473331026156,
+        "displayIconImageId": 98473331026156,
+        "created": "2025-03-06T23:43:29.833+00:00",
+        "updated": "2025-03-07T19:23:56.564+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3876150506,
+          "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
+          "rootPlaceId": 10704789056
+        }
       }
     ]
   },
@@ -74724,6 +74746,28 @@
         "displayIconImageId": 121760964596939,
         "created": "2025-03-07T19:21:13.226+00:00",
         "updated": "2025-03-07T19:21:13.226+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7018190066,
+          "name": "Dead Rails [Alpha]",
+          "rootPlaceId": 116495829188952
+        }
+      },
+      {
+        "id": 4236717693152902,
+        "name": "Tame a Unicorn",
+        "description": "Awarded to those who tame the unicorn",
+        "displayName": "Tame a Unicorn",
+        "displayDescription": "Awarded to those who tame the unicorn",
+        "enabled": true,
+        "iconImageId": 77654966510709,
+        "displayIconImageId": 77654966510709,
+        "created": "2025-03-07T19:28:29.061+00:00",
+        "updated": "2025-03-07T19:28:29.061+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 0,
