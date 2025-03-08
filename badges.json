@@ -51050,6 +51050,72 @@
           "name": "[\u2699\ufe0fEVENT] Sonic Speed Simulator",
           "rootPlaceId": 9049840490
         }
+      },
+      {
+        "id": 2728187056582252,
+        "name": "Karate Showdown!",
+        "description": "You completed the Karate Showdown Event!",
+        "displayName": "Karate Showdown!",
+        "displayDescription": "You completed the Karate Showdown Event!",
+        "enabled": true,
+        "iconImageId": 87912725353967,
+        "displayIconImageId": 87912725353967,
+        "created": "2024-12-14T14:24:43.568+00:00",
+        "updated": "2025-03-08T15:25:08.612+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "[\u2728Season6] Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
+      },
+      {
+        "id": 2997701068737008,
+        "name": "Team Shadow!",
+        "description": "You joined Team Shadow during the Karate Showdown Event",
+        "displayName": "Team Shadow!",
+        "displayDescription": "You joined Team Shadow during the Karate Showdown Event",
+        "enabled": true,
+        "iconImageId": 83554791308843,
+        "displayIconImageId": 83554791308843,
+        "created": "2025-01-11T00:01:56.717+00:00",
+        "updated": "2025-03-08T15:25:10.543+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "[\u2728Season6] Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
+      },
+      {
+        "id": 3134427382837465,
+        "name": "Team Sonic!",
+        "description": "You joined Team Sonic during the Karate Showdown Event",
+        "displayName": "Team Sonic!",
+        "displayDescription": "You joined Team Sonic during the Karate Showdown Event",
+        "enabled": true,
+        "iconImageId": 89038579957537,
+        "displayIconImageId": 89038579957537,
+        "created": "2025-01-11T00:02:06.683+00:00",
+        "updated": "2025-03-08T15:25:05.833+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "[\u2728Season6] Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
       }
     ]
   },
