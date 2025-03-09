@@ -74528,6 +74528,28 @@
           "name": "Build with Friends",
           "rootPlaceId": 17121846721
         }
+      },
+      {
+        "id": 1775175574584994,
+        "name": "Ride a Cart",
+        "description": "Build a track and ride a cart on it!",
+        "displayName": "Ride a Cart",
+        "displayDescription": "Build a track and ride a cart on it!",
+        "enabled": true,
+        "iconImageId": 110261904465786,
+        "displayIconImageId": 110261904465786,
+        "created": "2025-03-09T10:11:08.947+00:00",
+        "updated": "2025-03-09T10:11:08.947+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5866227438,
+          "name": "Build with Friends",
+          "rootPlaceId": 17121846721
+        }
       }
     ]
   },
