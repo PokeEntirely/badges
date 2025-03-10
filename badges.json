@@ -11140,6 +11140,28 @@
           "name": "Carry A Friend! (Teamwork Obby)",
           "rootPlaceId": 14448662003
         }
+      },
+      {
+        "id": 3214319930198117,
+        "name": "Test_Badge",
+        "description": "Test_Badge",
+        "displayName": "Test_Badge",
+        "displayDescription": "Test_Badge",
+        "enabled": true,
+        "iconImageId": 80375715251180,
+        "displayIconImageId": 80375715251180,
+        "created": "2024-12-19T18:10:32.227+00:00",
+        "updated": "2025-03-10T20:00:30.457+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 40,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4990998060,
+          "name": "Carry A Friend! (Teamwork Obby)",
+          "rootPlaceId": 14448662003
+        }
       }
     ]
   },
