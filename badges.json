@@ -93243,7 +93243,52 @@
     "data": []
   },
   "5349377275": {
-    "data": []
+    "data": [
+      {
+        "id": 2334384587175392,
+        "name": "test1",
+        "description": "xyz",
+        "displayName": "test1",
+        "displayDescription": "xyz",
+        "enabled": true,
+        "iconImageId": 75964458154616,
+        "displayIconImageId": 75964458154616,
+        "created": "2025-03-10T21:02:12.523+00:00",
+        "updated": "2025-03-10T21:02:12.523+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5349377275,
+          "name": "[Dev] Pet Simulator 99",
+          "rootPlaceId": 15502302041
+        }
+      },
+      {
+        "id": 2155486344363914,
+        "name": "test2",
+        "description": "xyz2",
+        "displayName": "test2",
+        "displayDescription": "xyz2",
+        "enabled": true,
+        "iconImageId": 95656509027101,
+        "displayIconImageId": 95656509027101,
+        "created": "2025-03-10T21:02:20.735+00:00",
+        "updated": "2025-03-10T21:02:20.735+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5349377275,
+          "name": "[Dev] Pet Simulator 99",
+          "rootPlaceId": 15502302041
+        }
+      }
+    ]
   },
   "6655326572": {
     "data": []
