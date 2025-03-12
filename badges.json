@@ -94161,7 +94161,30 @@
     "data": []
   },
   "4594955504": {
-    "data": []
+    "data": [
+      {
+        "id": 2094508746609356,
+        "name": "awsdfasdf",
+        "description": null,
+        "displayName": "awsdfasdf",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 109436581661505,
+        "displayIconImageId": 109436581661505,
+        "created": "2025-03-12T19:52:00.748+00:00",
+        "updated": "2025-03-12T19:52:00.748+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4594955504,
+          "name": "Lobby: STWR",
+          "rootPlaceId": 13166166701
+        }
+      }
+    ]
   },
   "5780364934": {
     "data": []
