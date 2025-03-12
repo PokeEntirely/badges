@@ -25794,6 +25794,28 @@
           "name": "Emergency Response: Liberty County",
           "rootPlaceId": 2534724415
         }
+      },
+      {
+        "id": 4384254739352363,
+        "name": "Thanks for 1 Million \ud83d\udc4d's",
+        "description": "You joined in on our 1 Million likes event! ",
+        "displayName": "Thanks for 1 Million \ud83d\udc4d's",
+        "displayDescription": "You joined in on our 1 Million likes event! ",
+        "enabled": true,
+        "iconImageId": 118238224913969,
+        "displayIconImageId": 118238224913969,
+        "created": "2025-03-11T20:34:06.725+00:00",
+        "updated": "2025-03-12T19:45:30.742+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 903807016,
+          "name": "[1M\ud83d\udc4d] Emergency Response: Liberty County",
+          "rootPlaceId": 2534724415
+        }
       }
     ]
   },
