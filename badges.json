@@ -73484,6 +73484,116 @@
           "name": "Regretevator [ ELEVATOR SIMULATOR ]",
           "rootPlaceId": 4972273297
         }
+      },
+      {
+        "id": 2133366005408919,
+        "name": "TBD",
+        "description": "WORK IN PROGRESS",
+        "displayName": "TBD",
+        "displayDescription": "WORK IN PROGRESS",
+        "enabled": true,
+        "iconImageId": 124756179074140,
+        "displayIconImageId": 124756179074140,
+        "created": "2025-02-21T02:02:17.406+00:00",
+        "updated": "2025-03-13T22:26:39.501+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3982382580070003,
+        "name": "UNLOCKED",
+        "description": "Something happened.",
+        "displayName": "UNLOCKED",
+        "displayDescription": "Something happened.",
+        "enabled": true,
+        "iconImageId": 115369247367074,
+        "displayIconImageId": 115369247367074,
+        "created": "2025-02-21T02:02:41.029+00:00",
+        "updated": "2025-03-13T22:28:27.571+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 2490218218940137,
+        "name": "HUE MANATION",
+        "description": "The colors have taken form.",
+        "displayName": "HUE MANATION",
+        "displayDescription": "The colors have taken form.",
+        "enabled": true,
+        "iconImageId": 82290898213795,
+        "displayIconImageId": 82290898213795,
+        "created": "2025-03-12T19:22:32.71+00:00",
+        "updated": "2025-03-13T22:30:25.024+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3519746937754163,
+        "name": "THE END ?",
+        "description": "Is this it?",
+        "displayName": "THE END ?",
+        "displayDescription": "Is this it?",
+        "enabled": true,
+        "iconImageId": 101282734023882,
+        "displayIconImageId": 101282734023882,
+        "created": "2025-03-12T19:23:09.255+00:00",
+        "updated": "2025-03-13T22:28:49.119+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
+      },
+      {
+        "id": 3622955967921490,
+        "name": "NULL",
+        "description": "You got NULL on the elevator!",
+        "displayName": "NULL",
+        "displayDescription": "You got NULL on the elevator!",
+        "enabled": true,
+        "iconImageId": 110074318034026,
+        "displayIconImageId": 110074318034026,
+        "created": "2025-03-13T08:29:59.862+00:00",
+        "updated": "2025-03-13T22:30:33.553+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
       }
     ]
   },
@@ -86855,6 +86965,94 @@
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 50452,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4864117649,
+          "name": "untitled tag game [recode] ",
+          "rootPlaceId": 14044547200
+        }
+      },
+      {
+        "id": 1142569173113989,
+        "name": "vandalist - The Hunt: Mega Edition",
+        "description": null,
+        "displayName": "vandalist - The Hunt: Mega Edition",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 132658982262165,
+        "displayIconImageId": 132658982262165,
+        "created": "2025-02-05T01:59:54.829+00:00",
+        "updated": "2025-03-13T22:23:24.447+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4864117649,
+          "name": "untitled tag game [recode] ",
+          "rootPlaceId": 14044547200
+        }
+      },
+      {
+        "id": 3452912050677081,
+        "name": "containment breach",
+        "description": null,
+        "displayName": "containment breach",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 103951401559821,
+        "displayIconImageId": 103951401559821,
+        "created": "2025-02-05T02:00:03.569+00:00",
+        "updated": "2025-03-13T22:23:22.852+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4864117649,
+          "name": "untitled tag game [recode] ",
+          "rootPlaceId": 14044547200
+        }
+      },
+      {
+        "id": 772722014902942,
+        "name": "find the hq",
+        "description": null,
+        "displayName": "find the hq",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 79145611903144,
+        "displayIconImageId": 79145611903144,
+        "created": "2025-03-12T20:06:39.484+00:00",
+        "updated": "2025-03-13T22:23:21.82+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4864117649,
+          "name": "untitled tag game [recode] ",
+          "rootPlaceId": 14044547200
+        }
+      },
+      {
+        "id": 3568175375255915,
+        "name": "ethereal exit",
+        "description": null,
+        "displayName": "ethereal exit",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 118705290813776,
+        "displayIconImageId": 118705290813776,
+        "created": "2025-03-12T20:06:50.259+00:00",
+        "updated": "2025-03-13T22:23:20.736+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
