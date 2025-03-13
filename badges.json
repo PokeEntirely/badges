@@ -95589,6 +95589,94 @@
           "name": "BL Dev",
           "rootPlaceId": 75474715372485
         }
+      },
+      {
+        "id": 3890630280175414,
+        "name": "test 1",
+        "description": null,
+        "displayName": "test 1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 84694281367313,
+        "displayIconImageId": 84694281367313,
+        "created": "2025-03-13T14:22:02.558+00:00",
+        "updated": "2025-03-13T14:22:54.563+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6726559349,
+          "name": "BL Dev",
+          "rootPlaceId": 75474715372485
+        }
+      },
+      {
+        "id": 3169292041934834,
+        "name": "test 2",
+        "description": null,
+        "displayName": "test 2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 134090769464539,
+        "displayIconImageId": 134090769464539,
+        "created": "2025-03-13T14:22:09.775+00:00",
+        "updated": "2025-03-13T14:22:56.211+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6726559349,
+          "name": "BL Dev",
+          "rootPlaceId": 75474715372485
+        }
+      },
+      {
+        "id": 2774042516248690,
+        "name": "test 3",
+        "description": null,
+        "displayName": "test 3",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 117817383416338,
+        "displayIconImageId": 117817383416338,
+        "created": "2025-03-13T14:22:16.227+00:00",
+        "updated": "2025-03-13T14:22:58.067+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6726559349,
+          "name": "BL Dev",
+          "rootPlaceId": 75474715372485
+        }
+      },
+      {
+        "id": 4274577882827127,
+        "name": "test 4",
+        "description": null,
+        "displayName": "test 4",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 73367732909241,
+        "displayIconImageId": 73367732909241,
+        "created": "2025-03-13T14:22:23.812+00:00",
+        "updated": "2025-03-13T14:22:59.899+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6726559349,
+          "name": "BL Dev",
+          "rootPlaceId": 75474715372485
+        }
       }
     ]
   }
