@@ -75710,7 +75710,118 @@
     "data": []
   },
   "6112350547": {
-    "data": []
+    "data": [
+      {
+        "id": 678797720023150,
+        "name": "Hunt Token",
+        "description": "Earn 200 Scores to get!",
+        "displayName": "Hunt Token",
+        "displayDescription": "Earn 200 Scores to get!",
+        "enabled": true,
+        "iconImageId": 137573980783266,
+        "displayIconImageId": 137573980783266,
+        "created": "2025-02-07T04:58:25.196+00:00",
+        "updated": "2025-03-13T22:51:26.076+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6112350547,
+          "name": "Infection Gunfight",
+          "rootPlaceId": 17840058476
+        }
+      },
+      {
+        "id": 1376506552075225,
+        "name": "Zombie Hunter",
+        "description": "Eliminate the target",
+        "displayName": "Zombie Hunter",
+        "displayDescription": "Eliminate the target",
+        "enabled": true,
+        "iconImageId": 110433001408089,
+        "displayIconImageId": 110433001408089,
+        "created": "2025-02-07T04:58:55.322+00:00",
+        "updated": "2025-03-13T22:51:28.673+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6112350547,
+          "name": "Infection Gunfight",
+          "rootPlaceId": 17840058476
+        }
+      },
+      {
+        "id": 2535832810256572,
+        "name": "Sniper!",
+        "description": "Use your sniper",
+        "displayName": "Sniper!",
+        "displayDescription": "Use your sniper",
+        "enabled": true,
+        "iconImageId": 94298042755431,
+        "displayIconImageId": 94298042755431,
+        "created": "2025-03-13T05:01:17.756+00:00",
+        "updated": "2025-03-13T22:51:21.53+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6112350547,
+          "name": "Infection Gunfight",
+          "rootPlaceId": 17840058476
+        }
+      },
+      {
+        "id": 4397048015311654,
+        "name": "Rifleman",
+        "description": "Use your rifler",
+        "displayName": "Rifleman",
+        "displayDescription": "Use your rifler",
+        "enabled": true,
+        "iconImageId": 107570619306653,
+        "displayIconImageId": 107570619306653,
+        "created": "2025-03-13T05:03:04.696+00:00",
+        "updated": "2025-03-13T22:51:29.935+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6112350547,
+          "name": "Infection Gunfight",
+          "rootPlaceId": 17840058476
+        }
+      },
+      {
+        "id": 2013108665512642,
+        "name": "Infecter",
+        "description": "Infect the target",
+        "displayName": "Infecter",
+        "displayDescription": "Infect the target",
+        "enabled": true,
+        "iconImageId": 114743606440236,
+        "displayIconImageId": 114743606440236,
+        "created": "2025-03-13T05:03:12.852+00:00",
+        "updated": "2025-03-13T22:51:31.318+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6112350547,
+          "name": "Infection Gunfight",
+          "rootPlaceId": 17840058476
+        }
+      }
+    ]
   },
   "5368049731": {
     "data": [
