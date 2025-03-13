@@ -8076,6 +8076,50 @@
           "name": "Clip It \ud83d\ude02\ud83c\udfac\ud83d\udc57",
           "rootPlaceId": 11765402359
         }
+      },
+      {
+        "id": 2181567072966039,
+        "name": "[ Content Deleted 1 ]",
+        "description": "-",
+        "displayName": "[ Content Deleted 1 ]",
+        "displayDescription": "-",
+        "enabled": true,
+        "iconImageId": 85727896977887,
+        "displayIconImageId": 85727896977887,
+        "created": "2025-03-13T03:53:43.9+00:00",
+        "updated": "2025-03-13T03:53:43.9+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4165164803,
+          "name": "[ UPD +8 ] Clip It \ud83d\ude02\ud83c\udfac\ud83d\udc57",
+          "rootPlaceId": 11765402359
+        }
+      },
+      {
+        "id": 692190291149038,
+        "name": "[ Content Deleted 2 ]",
+        "description": "-",
+        "displayName": "[ Content Deleted 2 ]",
+        "displayDescription": "-",
+        "enabled": true,
+        "iconImageId": 116663201144386,
+        "displayIconImageId": 116663201144386,
+        "created": "2025-03-13T03:53:44.474+00:00",
+        "updated": "2025-03-13T03:53:44.474+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4165164803,
+          "name": "[ UPD +8 ] Clip It \ud83d\ude02\ud83c\udfac\ud83d\udc57",
+          "rootPlaceId": 11765402359
+        }
       }
     ]
   },
@@ -93800,6 +93844,28 @@
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4540132962,
+          "name": "Metro Life [Testing]",
+          "rootPlaceId": 12985341499
+        }
+      },
+      {
+        "id": 2863559156573654,
+        "name": "222",
+        "description": null,
+        "displayName": "222",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 135344635068185,
+        "displayIconImageId": 135344635068185,
+        "created": "2025-02-21T06:22:42.361+00:00",
+        "updated": "2025-03-13T03:49:51.551+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
