@@ -93814,7 +93814,30 @@
     "data": []
   },
   "5788217981": {
-    "data": []
+    "data": [
+      {
+        "id": 1589948576260244,
+        "name": "testtest",
+        "description": null,
+        "displayName": "testtest",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 108849252158058,
+        "displayIconImageId": 108849252158058,
+        "created": "2025-03-13T18:28:04.17+00:00",
+        "updated": "2025-03-13T18:28:04.17+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5788217981,
+          "name": "DUSTY DEV: LOBBY",
+          "rootPlaceId": 16844101122
+        }
+      }
+    ]
   },
   "5854268910": {
     "data": []
