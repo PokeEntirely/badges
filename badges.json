@@ -93328,7 +93328,976 @@
     ]
   },
   "7296012067": {
-    "data": []
+    "data": [
+      {
+        "id": 1632252210831820,
+        "name": "Badge 1",
+        "description": null,
+        "displayName": "Badge 1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 77912501724923,
+        "displayIconImageId": 77912501724923,
+        "created": "2025-03-05T07:04:00.352+00:00",
+        "updated": "2025-03-13T18:53:23.316+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 2,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1937835649007198,
+        "name": "Badge 2",
+        "description": null,
+        "displayName": "Badge 2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 95628183509617,
+        "displayIconImageId": 95628183509617,
+        "created": "2025-03-05T07:04:10.692+00:00",
+        "updated": "2025-03-13T18:53:26.718+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3490233623021477,
+        "name": "Badge 3",
+        "description": null,
+        "displayName": "Badge 3",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 132014627397930,
+        "displayIconImageId": 132014627397930,
+        "created": "2025-03-05T07:04:24.642+00:00",
+        "updated": "2025-03-13T18:53:29.149+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 4441263408518408,
+        "name": "Badge 4",
+        "description": null,
+        "displayName": "Badge 4",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 113880342326344,
+        "displayIconImageId": 113880342326344,
+        "created": "2025-03-05T07:04:37.219+00:00",
+        "updated": "2025-03-13T18:53:31.636+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 4500366770221080,
+        "name": "Badge 5",
+        "description": null,
+        "displayName": "Badge 5",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 100088426849983,
+        "displayIconImageId": 100088426849983,
+        "created": "2025-03-05T07:04:48.706+00:00",
+        "updated": "2025-03-13T18:53:34.027+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3218668655426872,
+        "name": "Badge 6",
+        "description": null,
+        "displayName": "Badge 6",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 99840897207749,
+        "displayIconImageId": 99840897207749,
+        "created": "2025-03-05T07:05:04.962+00:00",
+        "updated": "2025-03-13T18:53:36.311+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 2462012980213322,
+        "name": "Badge 7",
+        "description": null,
+        "displayName": "Badge 7",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 86525552748351,
+        "displayIconImageId": 86525552748351,
+        "created": "2025-03-05T07:05:18.092+00:00",
+        "updated": "2025-03-13T18:53:38.304+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 2386739279827933,
+        "name": "Badge 8",
+        "description": null,
+        "displayName": "Badge 8",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 103646701693665,
+        "displayIconImageId": 103646701693665,
+        "created": "2025-03-05T07:05:31.483+00:00",
+        "updated": "2025-03-13T18:53:40.591+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 583794608628777,
+        "name": "Badge 9",
+        "description": null,
+        "displayName": "Badge 9",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 135761843224172,
+        "displayIconImageId": 135761843224172,
+        "created": "2025-03-05T07:08:30.911+00:00",
+        "updated": "2025-03-13T18:53:42.808+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 954235672617951,
+        "name": "Badge 10",
+        "description": null,
+        "displayName": "Badge 10",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 136069222930744,
+        "displayIconImageId": 136069222930744,
+        "created": "2025-03-05T07:08:44.231+00:00",
+        "updated": "2025-03-13T18:53:45.023+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3253963337059643,
+        "name": "Badge 11",
+        "description": null,
+        "displayName": "Badge 11",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 118097213937440,
+        "displayIconImageId": 118097213937440,
+        "created": "2025-03-05T07:08:57.084+00:00",
+        "updated": "2025-03-13T18:53:47.716+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3077224399143567,
+        "name": "Badge 12",
+        "description": null,
+        "displayName": "Badge 12",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 77045077364842,
+        "displayIconImageId": 77045077364842,
+        "created": "2025-03-05T07:09:10.09+00:00",
+        "updated": "2025-03-13T18:54:01.847+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1474423210850118,
+        "name": "Badge 13",
+        "description": null,
+        "displayName": "Badge 13",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 130728047239158,
+        "displayIconImageId": 130728047239158,
+        "created": "2025-03-05T07:09:22.806+00:00",
+        "updated": "2025-03-13T18:54:05.403+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1218414825574096,
+        "name": "Badge 14",
+        "description": null,
+        "displayName": "Badge 14",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 105076926470473,
+        "displayIconImageId": 105076926470473,
+        "created": "2025-03-05T07:09:34.417+00:00",
+        "updated": "2025-03-13T18:54:08.861+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 487877322823790,
+        "name": "Badge 15",
+        "description": null,
+        "displayName": "Badge 15",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 113977683324841,
+        "displayIconImageId": 113977683324841,
+        "created": "2025-03-05T07:09:45.611+00:00",
+        "updated": "2025-03-13T18:54:12.388+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3174923132653416,
+        "name": "Badge 16",
+        "description": null,
+        "displayName": "Badge 16",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 139424841368173,
+        "displayIconImageId": 139424841368173,
+        "created": "2025-03-05T07:09:59.757+00:00",
+        "updated": "2025-03-13T18:54:15.839+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1638689040574624,
+        "name": "Badge 17",
+        "description": null,
+        "displayName": "Badge 17",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 107291800079629,
+        "displayIconImageId": 107291800079629,
+        "created": "2025-03-05T07:10:13.716+00:00",
+        "updated": "2025-03-13T18:54:18.66+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1827855450494886,
+        "name": "Badge 18",
+        "description": null,
+        "displayName": "Badge 18",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 136123103545028,
+        "displayIconImageId": 136123103545028,
+        "created": "2025-03-05T07:10:24.908+00:00",
+        "updated": "2025-03-13T18:54:24.334+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3696614583333215,
+        "name": "Badge 19",
+        "description": null,
+        "displayName": "Badge 19",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 126744511716370,
+        "displayIconImageId": 126744511716370,
+        "created": "2025-03-05T07:10:38.013+00:00",
+        "updated": "2025-03-13T18:54:28.092+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 729470809902659,
+        "name": "Badge 20",
+        "description": null,
+        "displayName": "Badge 20",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 109548508720752,
+        "displayIconImageId": 109548508720752,
+        "created": "2025-03-05T07:10:50.619+00:00",
+        "updated": "2025-03-13T18:54:31.361+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 388743440664723,
+        "name": "Badge 21",
+        "description": null,
+        "displayName": "Badge 21",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 136231066960756,
+        "displayIconImageId": 136231066960756,
+        "created": "2025-03-05T07:11:04.244+00:00",
+        "updated": "2025-03-13T18:54:34.94+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1933117171287792,
+        "name": "Badge 22",
+        "description": null,
+        "displayName": "Badge 22",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 137754019360627,
+        "displayIconImageId": 137754019360627,
+        "created": "2025-03-05T07:11:18.271+00:00",
+        "updated": "2025-03-13T18:55:05.91+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 2964993005884868,
+        "name": "Badge 23",
+        "description": null,
+        "displayName": "Badge 23",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 96130666925689,
+        "displayIconImageId": 96130666925689,
+        "created": "2025-03-05T07:11:29.928+00:00",
+        "updated": "2025-03-13T18:55:24.354+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 37501594157858,
+        "name": "Badge 24",
+        "description": null,
+        "displayName": "Badge 24",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 100389971657605,
+        "displayIconImageId": 100389971657605,
+        "created": "2025-03-05T07:11:41.357+00:00",
+        "updated": "2025-03-13T18:55:27.649+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1532393546979204,
+        "name": "Badge 25",
+        "description": null,
+        "displayName": "Badge 25",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 92374176770861,
+        "displayIconImageId": 92374176770861,
+        "created": "2025-03-05T07:11:56.409+00:00",
+        "updated": "2025-03-13T18:55:32.11+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 4356995829460522,
+        "name": "Badge 26",
+        "description": null,
+        "displayName": "Badge 26",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 107400126961695,
+        "displayIconImageId": 107400126961695,
+        "created": "2025-03-05T07:14:31.909+00:00",
+        "updated": "2025-03-13T18:55:36.137+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3680434647803196,
+        "name": "Badge 27",
+        "description": null,
+        "displayName": "Badge 27",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 99076353636082,
+        "displayIconImageId": 99076353636082,
+        "created": "2025-03-05T07:14:43.063+00:00",
+        "updated": "2025-03-13T18:55:39.464+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3213829313075416,
+        "name": "Badge 28",
+        "description": null,
+        "displayName": "Badge 28",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 130082413531773,
+        "displayIconImageId": 130082413531773,
+        "created": "2025-03-05T07:14:56.593+00:00",
+        "updated": "2025-03-13T18:55:42.697+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 205216097677984,
+        "name": "Badge 29",
+        "description": null,
+        "displayName": "Badge 29",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 111799673315389,
+        "displayIconImageId": 111799673315389,
+        "created": "2025-03-05T07:15:09.144+00:00",
+        "updated": "2025-03-13T18:55:46.224+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1068256436891319,
+        "name": "Badge 30",
+        "description": null,
+        "displayName": "Badge 30",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 104102626590232,
+        "displayIconImageId": 104102626590232,
+        "created": "2025-03-05T07:15:19.972+00:00",
+        "updated": "2025-03-13T18:55:49.432+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 18693434803751,
+        "name": "Badge 31",
+        "description": null,
+        "displayName": "Badge 31",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 85753733665455,
+        "displayIconImageId": 85753733665455,
+        "created": "2025-03-05T07:15:30.675+00:00",
+        "updated": "2025-03-13T18:55:52.172+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 2345231851125329,
+        "name": "Badge 32",
+        "description": null,
+        "displayName": "Badge 32",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 77856971941370,
+        "displayIconImageId": 77856971941370,
+        "created": "2025-03-05T07:15:41.739+00:00",
+        "updated": "2025-03-13T18:56:28.075+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 2168029241812640,
+        "name": "Badge 33",
+        "description": null,
+        "displayName": "Badge 33",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 109770738345682,
+        "displayIconImageId": 109770738345682,
+        "created": "2025-03-05T07:15:52.471+00:00",
+        "updated": "2025-03-13T18:56:30.486+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 363780043272618,
+        "name": "Badge 34",
+        "description": null,
+        "displayName": "Badge 34",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 83657118010248,
+        "displayIconImageId": 83657118010248,
+        "created": "2025-03-05T07:16:03.411+00:00",
+        "updated": "2025-03-13T18:56:52.116+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 2200659640643962,
+        "name": "Badge 35",
+        "description": null,
+        "displayName": "Badge 35",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 138697870087037,
+        "displayIconImageId": 138697870087037,
+        "created": "2025-03-05T07:48:09.203+00:00",
+        "updated": "2025-03-13T18:56:55.285+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 368138154698573,
+        "name": "Badge36",
+        "description": null,
+        "displayName": "Badge36",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 120240572401577,
+        "displayIconImageId": 120240572401577,
+        "created": "2025-03-05T07:48:23.589+00:00",
+        "updated": "2025-03-13T18:56:59.456+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3678871014770423,
+        "name": "Badge37",
+        "description": null,
+        "displayName": "Badge37",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 108150141168708,
+        "displayIconImageId": 108150141168708,
+        "created": "2025-03-05T07:48:36.055+00:00",
+        "updated": "2025-03-13T18:57:02.237+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 2667428956752400,
+        "name": "Badge38",
+        "description": null,
+        "displayName": "Badge38",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 96890739397811,
+        "displayIconImageId": 96890739397811,
+        "created": "2025-03-05T07:48:47.931+00:00",
+        "updated": "2025-03-13T18:57:06.302+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 4480347487580118,
+        "name": "Badge39",
+        "description": null,
+        "displayName": "Badge39",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 70972193962284,
+        "displayIconImageId": 70972193962284,
+        "created": "2025-03-05T07:48:59.48+00:00",
+        "updated": "2025-03-13T18:57:09.408+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1006863431792748,
+        "name": "Badge 40",
+        "description": null,
+        "displayName": "Badge 40",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 96419819863164,
+        "displayIconImageId": 96419819863164,
+        "created": "2025-03-05T07:52:10.098+00:00",
+        "updated": "2025-03-13T18:57:13.864+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1796729512984243,
+        "name": "Badge 41",
+        "description": null,
+        "displayName": "Badge 41",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 81298507021146,
+        "displayIconImageId": 81298507021146,
+        "created": "2025-03-05T07:52:22.294+00:00",
+        "updated": "2025-03-13T18:57:17.636+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1344731057346223,
+        "name": "Badge 42",
+        "description": null,
+        "displayName": "Badge 42",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 87603617547755,
+        "displayIconImageId": 87603617547755,
+        "created": "2025-03-05T07:52:35.796+00:00",
+        "updated": "2025-03-13T18:57:22.082+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 4014649536699675,
+        "name": "Badge 43",
+        "description": null,
+        "displayName": "Badge 43",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 114819874144977,
+        "displayIconImageId": 114819874144977,
+        "created": "2025-03-05T07:52:48.221+00:00",
+        "updated": "2025-03-13T18:57:27.492+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1067877731750922,
+        "name": "Badge 44",
+        "description": null,
+        "displayName": "Badge 44",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 134524608340995,
+        "displayIconImageId": 134524608340995,
+        "created": "2025-03-05T07:53:01.103+00:00",
+        "updated": "2025-03-13T18:57:30.979+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      }
+    ]
   },
   "5349377275": {
     "data": [
