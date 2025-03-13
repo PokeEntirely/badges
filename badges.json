@@ -474,6 +474,94 @@
           "name": "Bayside High School \ud83c\udf4e",
           "rootPlaceId": 12640491155
         }
+      },
+      {
+        "id": 4083577564625471,
+        "name": "The Glitch",
+        "description": null,
+        "displayName": "The Glitch",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 77078556420953,
+        "displayIconImageId": 77078556420953,
+        "created": "2025-02-19T20:30:05.824+00:00",
+        "updated": "2025-03-13T22:39:01.749+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4434528807,
+          "name": "Bayside High School \ud83c\udf4e",
+          "rootPlaceId": 12640491155
+        }
+      },
+      {
+        "id": 2533249620649578,
+        "name": "The Principal's Secret",
+        "description": null,
+        "displayName": "The Principal's Secret",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 84806213313884,
+        "displayIconImageId": 84806213313884,
+        "created": "2025-02-19T20:30:21.585+00:00",
+        "updated": "2025-03-13T22:39:09.272+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4434528807,
+          "name": "Bayside High School \ud83c\udf4e",
+          "rootPlaceId": 12640491155
+        }
+      },
+      {
+        "id": 2738561037677031,
+        "name": "The Janitor's Key",
+        "description": null,
+        "displayName": "The Janitor's Key",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 117493311929897,
+        "displayIconImageId": 117493311929897,
+        "created": "2025-03-13T02:43:17.694+00:00",
+        "updated": "2025-03-13T22:38:51.546+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4434528807,
+          "name": "Bayside High School \ud83c\udf4e",
+          "rootPlaceId": 12640491155
+        }
+      },
+      {
+        "id": 1144622450651424,
+        "name": "Ghost of Locker 33",
+        "description": null,
+        "displayName": "Ghost of Locker 33",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 110872098321363,
+        "displayIconImageId": 110872098321363,
+        "created": "2025-03-13T02:43:35.084+00:00",
+        "updated": "2025-03-13T22:39:17.354+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4434528807,
+          "name": "Bayside High School \ud83c\udf4e",
+          "rootPlaceId": 12640491155
+        }
       }
     ]
   },
@@ -83839,6 +83927,94 @@
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 1288719,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4540138978,
+          "name": "Metro Life \ud83c\udfe1 City RP",
+          "rootPlaceId": 12985361032
+        }
+      },
+      {
+        "id": 864053169862030,
+        "name": "METRO RIDER",
+        "description": "Ride your bike, explore the city, and snap landmark photos.",
+        "displayName": "METRO RIDER",
+        "displayDescription": "Ride your bike, explore the city, and snap landmark photos.",
+        "enabled": true,
+        "iconImageId": 70728904474293,
+        "displayIconImageId": 70728904474293,
+        "created": "2025-02-18T07:24:07.718+00:00",
+        "updated": "2025-03-13T22:42:29.281+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4540138978,
+          "name": "Metro Life \ud83c\udfe1 City RP",
+          "rootPlaceId": 12985361032
+        }
+      },
+      {
+        "id": 1479224618360539,
+        "name": "METRO SEEKER",
+        "description": "Earn with a curious spirit.",
+        "displayName": "METRO SEEKER",
+        "displayDescription": "Earn with a curious spirit.",
+        "enabled": true,
+        "iconImageId": 138777748017568,
+        "displayIconImageId": 138777748017568,
+        "created": "2025-02-20T02:56:27.704+00:00",
+        "updated": "2025-03-13T22:42:39.929+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4540138978,
+          "name": "Metro Life \ud83c\udfe1 City RP",
+          "rootPlaceId": 12985361032
+        }
+      },
+      {
+        "id": 1579322312549620,
+        "name": "METRO INQUIRER",
+        "description": "Earn with endless wonder.",
+        "displayName": "METRO INQUIRER",
+        "displayDescription": "Earn with endless wonder.",
+        "enabled": true,
+        "iconImageId": 133920925220086,
+        "displayIconImageId": 133920925220086,
+        "created": "2025-03-13T04:03:47.412+00:00",
+        "updated": "2025-03-13T22:42:48.982+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4540138978,
+          "name": "Metro Life \ud83c\udfe1 City RP",
+          "rootPlaceId": 12985361032
+        }
+      },
+      {
+        "id": 1111748746768111,
+        "name": "METRO PATHFINDER",
+        "description": "Earn with clear direction.",
+        "displayName": "METRO PATHFINDER",
+        "displayDescription": "Earn with clear direction.",
+        "enabled": true,
+        "iconImageId": 73914821642124,
+        "displayIconImageId": 73914821642124,
+        "created": "2025-03-13T04:04:17.68+00:00",
+        "updated": "2025-03-13T22:42:56.359+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
