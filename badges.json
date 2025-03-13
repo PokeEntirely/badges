@@ -93920,7 +93920,52 @@
     "data": []
   },
   "7103258652": {
-    "data": []
+    "data": [
+      {
+        "id": 501337831114985,
+        "name": "1",
+        "description": null,
+        "displayName": "1",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 93038376466074,
+        "displayIconImageId": 93038376466074,
+        "created": "2025-03-13T06:05:06.631+00:00",
+        "updated": "2025-03-13T06:05:06.631+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7103258652,
+          "name": "IG[test server]",
+          "rootPlaceId": 86144761010329
+        }
+      },
+      {
+        "id": 2991187878894260,
+        "name": "2",
+        "description": null,
+        "displayName": "2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 92686632346028,
+        "displayIconImageId": 92686632346028,
+        "created": "2025-03-13T06:05:35.264+00:00",
+        "updated": "2025-03-13T06:05:35.264+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7103258652,
+          "name": "IG[test server]",
+          "rootPlaceId": 86144761010329
+        }
+      }
+    ]
   },
   "5069436117": {
     "data": [
