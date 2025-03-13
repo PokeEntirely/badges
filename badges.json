@@ -111,6 +111,94 @@
           "name": "Pet Simulator 99! \u2b50",
           "rootPlaceId": 8737899170
         }
+      },
+      {
+        "id": 754796678735151,
+        "name": "The Hunt: Mega Edition",
+        "description": "This badge was earned by completing Pet Simulator 99 for The Hunt: Mega Edition.",
+        "displayName": "The Hunt: Mega Edition",
+        "displayDescription": "This badge was earned by completing Pet Simulator 99 for The Hunt: Mega Edition.",
+        "enabled": true,
+        "iconImageId": 123003868073477,
+        "displayIconImageId": 123003868073477,
+        "created": "2025-02-20T18:24:44.936+00:00",
+        "updated": "2025-03-13T22:04:35.529+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 25,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3317771874,
+          "name": "Pet Simulator 99! \u2b50",
+          "rootPlaceId": 8737899170
+        }
+      },
+      {
+        "id": 327631483993374,
+        "name": "Journey's End",
+        "description": "You made it!",
+        "displayName": "Journey's End",
+        "displayDescription": "You made it!",
+        "enabled": true,
+        "iconImageId": 98461678215905,
+        "displayIconImageId": 98461678215905,
+        "created": "2025-02-20T18:24:56.892+00:00",
+        "updated": "2025-03-13T22:04:25.9+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3317771874,
+          "name": "Pet Simulator 99! \u2b50",
+          "rootPlaceId": 8737899170
+        }
+      },
+      {
+        "id": 590964301217341,
+        "name": "Endless Echo",
+        "description": "Echo... echo... echo!",
+        "displayName": "Endless Echo",
+        "displayDescription": "Echo... echo... echo!",
+        "enabled": true,
+        "iconImageId": 82722539935639,
+        "displayIconImageId": 82722539935639,
+        "created": "2025-03-13T05:32:14.046+00:00",
+        "updated": "2025-03-13T22:04:15.491+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3317771874,
+          "name": "Pet Simulator 99! \u2b50",
+          "rootPlaceId": 8737899170
+        }
+      },
+      {
+        "id": 4133400773342721,
+        "name": "End of the Line",
+        "description": "Where to now?",
+        "displayName": "End of the Line",
+        "displayDescription": "Where to now?",
+        "enabled": true,
+        "iconImageId": 96178073091293,
+        "displayIconImageId": 96178073091293,
+        "created": "2025-03-13T05:32:22.061+00:00",
+        "updated": "2025-03-13T22:04:06.187+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3317771874,
+          "name": "Pet Simulator 99! \u2b50",
+          "rootPlaceId": 8737899170
+        }
       }
     ]
   },
@@ -5944,6 +6032,94 @@
           "name": "a dusty trip [\ud83c\udf19BLOOD MOON]",
           "rootPlaceId": 16389395869
         }
+      },
+      {
+        "id": 1032933130595223,
+        "name": "The Hunt: MEGA Edition",
+        "description": "Complete The Highlands world between March 13th and March 24th.",
+        "displayName": "The Hunt: MEGA Edition",
+        "displayDescription": "Complete The Highlands world between March 13th and March 24th.",
+        "enabled": true,
+        "iconImageId": 139995090382462,
+        "displayIconImageId": 139995090382462,
+        "created": "2025-02-18T21:07:21.396+00:00",
+        "updated": "2025-03-13T22:13:41.554+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\ude8cBUS QUEST]",
+          "rootPlaceId": 16389395869
+        }
+      },
+      {
+        "id": 8343502976173,
+        "name": "The Beginning of Everything",
+        "description": null,
+        "displayName": "The Beginning of Everything",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 92157463691553,
+        "displayIconImageId": 92157463691553,
+        "created": "2025-02-18T21:07:29.628+00:00",
+        "updated": "2025-03-13T22:14:04.88+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\ude8cBUS QUEST]",
+          "rootPlaceId": 16389395869
+        }
+      },
+      {
+        "id": 377035379820313,
+        "name": "Splintered",
+        "description": null,
+        "displayName": "Splintered",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 87143115109390,
+        "displayIconImageId": 87143115109390,
+        "created": "2025-03-12T22:08:12.967+00:00",
+        "updated": "2025-03-13T22:13:56.37+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\ude8cBUS QUEST]",
+          "rootPlaceId": 16389395869
+        }
+      },
+      {
+        "id": 1728561744189164,
+        "name": "Below The Surface",
+        "description": null,
+        "displayName": "Below The Surface",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 71649858365762,
+        "displayIconImageId": 71649858365762,
+        "created": "2025-03-12T22:09:01.7+00:00",
+        "updated": "2025-03-13T22:13:50.192+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\ude8cBUS QUEST]",
+          "rootPlaceId": 16389395869
+        }
       }
     ]
   },
@@ -7358,6 +7534,94 @@
         "awardingUniverse": {
           "id": 5750914919,
           "name": "Fisch [\ud83d\udc0bMARIANA]",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 2224309781376427,
+        "name": "The Weighted Truth",
+        "description": "Balance was struck, the shell shattered, and the secret within was set free.",
+        "displayName": "The Weighted Truth",
+        "displayDescription": "Balance was struck, the shell shattered, and the secret within was set free.",
+        "enabled": true,
+        "iconImageId": 114793544944175,
+        "displayIconImageId": 114793544944175,
+        "created": "2025-02-21T17:55:30.758+00:00",
+        "updated": "2025-03-13T21:59:12.314+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 907688071658606,
+        "name": "Abyssal Echoes",
+        "description": "The song lingers where no voice should be. The fish have sung, and now the silence listens.\n",
+        "displayName": "Abyssal Echoes",
+        "displayDescription": "The song lingers where no voice should be. The fish have sung, and now the silence listens.\n",
+        "enabled": true,
+        "iconImageId": 135727161245861,
+        "displayIconImageId": 135727161245861,
+        "created": "2025-02-21T17:55:42.444+00:00",
+        "updated": "2025-03-13T21:59:19.872+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 1930105118522861,
+        "name": "A Silent Lullaby",
+        "description": "Beneath rusted steel and flickering light, a cat once curled up and dreamed. But who sings her to sleep now?\n",
+        "displayName": "A Silent Lullaby",
+        "displayDescription": "Beneath rusted steel and flickering light, a cat once curled up and dreamed. But who sings her to sleep now?\n",
+        "enabled": true,
+        "iconImageId": 90834993940525,
+        "displayIconImageId": 90834993940525,
+        "created": "2025-03-13T12:40:22.634+00:00",
+        "updated": "2025-03-13T21:59:29.373+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 3824103730892525,
+        "name": "The Keeper's Light",
+        "description": "It beckons through the fog, a guiding hand or a warning unseen? Some things are best left in the dark.",
+        "displayName": "The Keeper's Light",
+        "displayDescription": "It beckons through the fog, a guiding hand or a warning unseen? Some things are best left in the dark.",
+        "enabled": true,
+        "iconImageId": 101662672823817,
+        "displayIconImageId": 101662672823817,
+        "created": "2025-03-13T12:42:38.361+00:00",
+        "updated": "2025-03-13T21:59:36.825+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch\ud83e\udd88",
           "rootPlaceId": 16732694052
         }
       }
@@ -11002,6 +11266,50 @@
         "awardingUniverse": {
           "id": 1176784616,
           "name": "\ud83d\udcaaNEW BOSS!\ud83d\udcaa  Tower Defense Simulator ",
+          "rootPlaceId": 3260590327
+        }
+      },
+      {
+        "id": 988747593756124,
+        "name": "Sigil of the Deathwalker",
+        "description": "Following whispers of an ancient power, the path to vengeance is complete.",
+        "displayName": "Sigil of the Deathwalker",
+        "displayDescription": "Following whispers of an ancient power, the path to vengeance is complete.",
+        "enabled": true,
+        "iconImageId": 86021588496752,
+        "displayIconImageId": 86021588496752,
+        "created": "2025-02-06T22:03:53.593+00:00",
+        "updated": "2025-03-13T21:59:11.93+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1176784616,
+          "name": "\ud83d\udca5 Tower Defense Simulator \ud83d\udca5",
+          "rootPlaceId": 3260590327
+        }
+      },
+      {
+        "id": 421393796741928,
+        "name": "Korblox Token",
+        "description": "Repel the vengeful empire on Easy difficulty.",
+        "displayName": "Korblox Token",
+        "displayDescription": "Repel the vengeful empire on Easy difficulty.",
+        "enabled": true,
+        "iconImageId": 130458114950907,
+        "displayIconImageId": 130458114950907,
+        "created": "2025-02-06T22:04:09.808+00:00",
+        "updated": "2025-03-13T21:59:15.244+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1176784616,
+          "name": "\ud83d\udca5 Tower Defense Simulator \ud83d\udca5",
           "rootPlaceId": 3260590327
         }
       }
@@ -17174,6 +17482,94 @@
           "name": "RIVALS",
           "rootPlaceId": 17625359962
         }
+      },
+      {
+        "id": 2472187632273965,
+        "name": "The Hunt Token!",
+        "description": "Earned by completing the special challenge during The Hunt: Mega Edition!",
+        "displayName": "The Hunt Token!",
+        "displayDescription": "Earned by completing the special challenge during The Hunt: Mega Edition!",
+        "enabled": true,
+        "iconImageId": 104488851615411,
+        "displayIconImageId": 104488851615411,
+        "created": "2025-02-19T21:53:48.789+00:00",
+        "updated": "2025-03-13T22:14:06.745+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6035872082,
+          "name": "RIVALS",
+          "rootPlaceId": 17625359962
+        }
+      },
+      {
+        "id": 2731731095831523,
+        "name": "Mission Accomplished!",
+        "description": "Well done! The reward is now yours.",
+        "displayName": "Mission Accomplished!",
+        "displayDescription": "Well done! The reward is now yours.",
+        "enabled": true,
+        "iconImageId": 104140708117213,
+        "displayIconImageId": 104140708117213,
+        "created": "2025-02-19T21:54:00.372+00:00",
+        "updated": "2025-03-13T22:14:28.122+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6035872082,
+          "name": "RIVALS",
+          "rootPlaceId": 17625359962
+        }
+      },
+      {
+        "id": 2461617012201191,
+        "name": "Success!",
+        "description": "Great job! You've earned this!",
+        "displayName": "Success!",
+        "displayDescription": "Great job! You've earned this!",
+        "enabled": true,
+        "iconImageId": 78474611041566,
+        "displayIconImageId": 78474611041566,
+        "created": "2025-02-27T22:50:54.19+00:00",
+        "updated": "2025-03-13T22:14:12.534+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6035872082,
+          "name": "RIVALS",
+          "rootPlaceId": 17625359962
+        }
+      },
+      {
+        "id": 2536990019471452,
+        "name": "Challenge Completed!",
+        "description": "The prize is now yours.",
+        "displayName": "Challenge Completed!",
+        "displayDescription": "The prize is now yours.",
+        "enabled": true,
+        "iconImageId": 135375965399410,
+        "displayIconImageId": 135375965399410,
+        "created": "2025-02-27T22:51:03.744+00:00",
+        "updated": "2025-03-13T22:14:10.372+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6035872082,
+          "name": "RIVALS",
+          "rootPlaceId": 17625359962
+        }
       }
     ]
   },
@@ -19908,6 +20304,94 @@
           "name": "[2X] \ud83c\udfc0Basketball Legends\ud83c\udfc0",
           "rootPlaceId": 14259168147
         }
+      },
+      {
+        "id": 1664734702796965,
+        "name": "Teamwork",
+        "description": "Get together with 3 friends and take on an AI in a 1v4 basketball game! Head to the MyPark event area to play!",
+        "displayName": "Teamwork",
+        "displayDescription": "Get together with 3 friends and take on an AI in a 1v4 basketball game! Head to the MyPark event area to play!",
+        "enabled": true,
+        "iconImageId": 107210584455055,
+        "displayIconImageId": 107210584455055,
+        "created": "2025-02-20T04:38:52.676+00:00",
+        "updated": "2025-03-13T21:58:25.752+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 2173,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4931927012,
+          "name": "[UPD] \ud83c\udfc0Basketball Legends\ud83c\udfc0",
+          "rootPlaceId": 14259168147
+        }
+      },
+      {
+        "id": 1587591751494717,
+        "name": "Sharpshooter",
+        "description": "Can't miss.",
+        "displayName": "Sharpshooter",
+        "displayDescription": "Can't miss.",
+        "enabled": true,
+        "iconImageId": 134411723953366,
+        "displayIconImageId": 134411723953366,
+        "created": "2025-02-20T04:38:59.21+00:00",
+        "updated": "2025-03-13T21:58:31.857+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4931927012,
+          "name": "[UPD] \ud83c\udfc0Basketball Legends\ud83c\udfc0",
+          "rootPlaceId": 14259168147
+        }
+      },
+      {
+        "id": 402572127462171,
+        "name": "Dunk Master",
+        "description": "Knock them over.",
+        "displayName": "Dunk Master",
+        "displayDescription": "Knock them over.",
+        "enabled": true,
+        "iconImageId": 83685337404011,
+        "displayIconImageId": 83685337404011,
+        "created": "2025-03-13T07:24:56.243+00:00",
+        "updated": "2025-03-13T21:58:37.251+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4931927012,
+          "name": "[UPD] \ud83c\udfc0Basketball Legends\ud83c\udfc0",
+          "rootPlaceId": 14259168147
+        }
+      },
+      {
+        "id": 4235033121125249,
+        "name": "Top Scorer",
+        "description": "Keep scoring.",
+        "displayName": "Top Scorer",
+        "displayDescription": "Keep scoring.",
+        "enabled": true,
+        "iconImageId": 109281086029625,
+        "displayIconImageId": 109281086029625,
+        "created": "2025-03-13T07:25:04.892+00:00",
+        "updated": "2025-03-13T21:58:58.119+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4931927012,
+          "name": "[UPD] \ud83c\udfc0Basketball Legends\ud83c\udfc0",
+          "rootPlaceId": 14259168147
+        }
       }
     ]
   },
@@ -22518,6 +23002,94 @@
         "displayIconImageId": 98473331026156,
         "created": "2025-03-06T23:43:29.833+00:00",
         "updated": "2025-03-07T19:23:56.564+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3876150506,
+          "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
+          "rootPlaceId": 10704789056
+        }
+      },
+      {
+        "id": 1740742623413683,
+        "name": "DRIVE WORLD x THE HUNT: Mega Edition",
+        "description": " Complete all The Hunt obbies to unlock the event token!",
+        "displayName": "DRIVE WORLD x THE HUNT: Mega Edition",
+        "displayDescription": " Complete all The Hunt obbies to unlock the event token!",
+        "enabled": true,
+        "iconImageId": 118906922667790,
+        "displayIconImageId": 118906922667790,
+        "created": "2025-02-21T18:25:02.182+00:00",
+        "updated": "2025-03-13T22:10:43.134+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3876150506,
+          "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
+          "rootPlaceId": 10704789056
+        }
+      },
+      {
+        "id": 1482373842786824,
+        "name": " Vault of the Traveler",
+        "description": "Aided the travelers from the great beyond. ",
+        "displayName": " Vault of the Traveler",
+        "displayDescription": "Aided the travelers from the great beyond. ",
+        "enabled": true,
+        "iconImageId": 99524755416237,
+        "displayIconImageId": 99524755416237,
+        "created": "2025-02-21T18:29:37.24+00:00",
+        "updated": "2025-03-13T22:10:49.403+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3876150506,
+          "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
+          "rootPlaceId": 10704789056
+        }
+      },
+      {
+        "id": 3420480976329565,
+        "name": "Not another Twister!",
+        "description": "That was a close one!",
+        "displayName": "Not another Twister!",
+        "displayDescription": "That was a close one!",
+        "enabled": true,
+        "iconImageId": 127794979318352,
+        "displayIconImageId": 127794979318352,
+        "created": "2025-03-13T05:00:37.615+00:00",
+        "updated": "2025-03-13T22:10:55.037+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3876150506,
+          "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
+          "rootPlaceId": 10704789056
+        }
+      },
+      {
+        "id": 465912410553485,
+        "name": "Saved by the...... Blox?",
+        "description": "Saved the car from the clutches of imminent demise!",
+        "displayName": "Saved by the...... Blox?",
+        "displayDescription": "Saved the car from the clutches of imminent demise!",
+        "enabled": true,
+        "iconImageId": 99586251749173,
+        "displayIconImageId": 99586251749173,
+        "created": "2025-03-13T05:02:03.041+00:00",
+        "updated": "2025-03-13T22:11:01.447+00:00",
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 0,
@@ -31212,6 +31784,94 @@
           "name": "[Catapult!\ud83d\udca5] Car Crushers 2 - Physics Simulation",
           "rootPlaceId": 654732683
         }
+      },
+      {
+        "id": 2775369981285971,
+        "name": "Car Crushers 2 Hunt Token",
+        "description": "To earn Car Crushers 2's token, you need to ascend the heights of the giant volcano and make the ultimate stunt jump. The first step is to prepare a stunt car!",
+        "displayName": "Car Crushers 2 Hunt Token",
+        "displayDescription": "To earn Car Crushers 2's token, you need to ascend the heights of the giant volcano and make the ultimate stunt jump. The first step is to prepare a stunt car!",
+        "enabled": true,
+        "iconImageId": 108285616566542,
+        "displayIconImageId": 108285616566542,
+        "created": "2025-02-18T21:58:58.439+00:00",
+        "updated": "2025-03-13T22:06:08.301+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 274816972,
+          "name": "[8X MAP SIZE\ud83c\udf0b] Car Crushers 2 - Physics Sim",
+          "rootPlaceId": 654732683
+        }
+      },
+      {
+        "id": 4482310921951732,
+        "name": "Secret of the Past",
+        "description": "Rumors have begun to surface about a secret passage into the past...",
+        "displayName": "Secret of the Past",
+        "displayDescription": "Rumors have begun to surface about a secret passage into the past...",
+        "enabled": true,
+        "iconImageId": 82492718169922,
+        "displayIconImageId": 82492718169922,
+        "created": "2025-02-18T21:59:14.402+00:00",
+        "updated": "2025-03-13T22:06:24.128+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 274816972,
+          "name": "[8X MAP SIZE\ud83c\udf0b] Car Crushers 2 - Physics Sim",
+          "rootPlaceId": 654732683
+        }
+      },
+      {
+        "id": 3352825306081212,
+        "name": "Mysterious Predator",
+        "description": "A mysterious creature lurks in the depths of the unknown..",
+        "displayName": "Mysterious Predator",
+        "displayDescription": "A mysterious creature lurks in the depths of the unknown..",
+        "enabled": true,
+        "iconImageId": 112681159764289,
+        "displayIconImageId": 112681159764289,
+        "created": "2025-03-13T16:53:45.122+00:00",
+        "updated": "2025-03-13T22:06:16.896+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 274816972,
+          "name": "[8X MAP SIZE\ud83c\udf0b] Car Crushers 2 - Physics Sim",
+          "rootPlaceId": 654732683
+        }
+      },
+      {
+        "id": 3935105514276677,
+        "name": "Tomb of Death",
+        "description": "An adventurous explorer once disappeared in the search for the unexplored..",
+        "displayName": "Tomb of Death",
+        "displayDescription": "An adventurous explorer once disappeared in the search for the unexplored..",
+        "enabled": true,
+        "iconImageId": 71640414121748,
+        "displayIconImageId": 71640414121748,
+        "created": "2025-03-13T16:54:14.764+00:00",
+        "updated": "2025-03-13T22:06:31.482+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 274816972,
+          "name": "[8X MAP SIZE\ud83c\udf0b] Car Crushers 2 - Physics Sim",
+          "rootPlaceId": 654732683
+        }
       }
     ]
   },
@@ -34420,6 +35080,94 @@
         "awardingUniverse": {
           "id": 111958650,
           "name": "[\u2622\ufe0f] Arsenal",
+          "rootPlaceId": 286090429
+        }
+      },
+      {
+        "id": 2415433826934115,
+        "name": "Evacuate",
+        "description": "Return to the scene of the crime of Operation Infiltration and pick up where our story ended last.",
+        "displayName": "Evacuate",
+        "displayDescription": "Return to the scene of the crime of Operation Infiltration and pick up where our story ended last.",
+        "enabled": true,
+        "iconImageId": 114474533871808,
+        "displayIconImageId": 114474533871808,
+        "created": "2025-02-18T21:55:33.565+00:00",
+        "updated": "2025-03-13T22:00:26.382+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 21,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 111958650,
+          "name": "Arsenal",
+          "rootPlaceId": 286090429
+        }
+      },
+      {
+        "id": 4086005939682446,
+        "name": "Another Life",
+        "description": "Where did we go?",
+        "displayName": "Another Life",
+        "displayDescription": "Where did we go?",
+        "enabled": true,
+        "iconImageId": 73166791854111,
+        "displayIconImageId": 73166791854111,
+        "created": "2025-02-18T22:08:18.331+00:00",
+        "updated": "2025-03-13T22:00:24.31+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 111958650,
+          "name": "Arsenal",
+          "rootPlaceId": 286090429
+        }
+      },
+      {
+        "id": 4284469596037925,
+        "name": "Bytecode Defender",
+        "description": "Why did he do it?",
+        "displayName": "Bytecode Defender",
+        "displayDescription": "Why did he do it?",
+        "enabled": true,
+        "iconImageId": 86524907956445,
+        "displayIconImageId": 86524907956445,
+        "created": "2025-03-13T14:34:42.032+00:00",
+        "updated": "2025-03-13T22:00:16.725+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 111958650,
+          "name": "Arsenal",
+          "rootPlaceId": 286090429
+        }
+      },
+      {
+        "id": 1301203351136676,
+        "name": "Break Free",
+        "description": "Easier said then done.",
+        "displayName": "Break Free",
+        "displayDescription": "Easier said then done.",
+        "enabled": true,
+        "iconImageId": 103106819658943,
+        "displayIconImageId": 103106819658943,
+        "created": "2025-03-13T14:35:00.093+00:00",
+        "updated": "2025-03-13T22:00:18.557+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 111958650,
+          "name": "Arsenal",
           "rootPlaceId": 286090429
         }
       }
@@ -38299,6 +39047,94 @@
         "statistics": {
           "pastDayAwardedCount": 18,
           "awardedCount": 23282,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5677613211,
+          "name": "Eat the World",
+          "rootPlaceId": 16480898254
+        }
+      },
+      {
+        "id": 4487537695606286,
+        "name": "Quest Complete!",
+        "description": "Awarded for feeding the giant noob and earning the token during The Hunt: Mega Edition!",
+        "displayName": "Quest Complete!",
+        "displayDescription": "Awarded for feeding the giant noob and earning the token during The Hunt: Mega Edition!",
+        "enabled": true,
+        "iconImageId": 111376293592563,
+        "displayIconImageId": 111376293592563,
+        "created": "2025-02-20T17:17:32.007+00:00",
+        "updated": "2025-03-13T22:02:39.87+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 7,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5677613211,
+          "name": "Eat the World",
+          "rootPlaceId": 16480898254
+        }
+      },
+      {
+        "id": 74342729181728,
+        "name": "Darkness Defeated",
+        "description": "Remain undevoured.",
+        "displayName": "Darkness Defeated",
+        "displayDescription": "Remain undevoured.",
+        "enabled": true,
+        "iconImageId": 127995541690039,
+        "displayIconImageId": 127995541690039,
+        "created": "2025-02-20T17:18:09.561+00:00",
+        "updated": "2025-03-13T22:02:44.981+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5677613211,
+          "name": "Eat the World",
+          "rootPlaceId": 16480898254
+        }
+      },
+      {
+        "id": 2215738337126064,
+        "name": "Light Defended",
+        "description": "Restore the light.",
+        "displayName": "Light Defended",
+        "displayDescription": "Restore the light.",
+        "enabled": true,
+        "iconImageId": 131886963623702,
+        "displayIconImageId": 131886963623702,
+        "created": "2025-03-12T19:14:38.234+00:00",
+        "updated": "2025-03-13T22:02:49.918+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5677613211,
+          "name": "Eat the World",
+          "rootPlaceId": 16480898254
+        }
+      },
+      {
+        "id": 2105680174724752,
+        "name": "Fate Averted",
+        "description": "...",
+        "displayName": "Fate Averted",
+        "displayDescription": "...",
+        "enabled": true,
+        "iconImageId": 79815453832170,
+        "displayIconImageId": 79815453832170,
+        "created": "2025-03-12T19:14:53.325+00:00",
+        "updated": "2025-03-13T22:02:55.38+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
@@ -62036,7 +62872,96 @@
     "data": []
   },
   "6594435384": {
-    "data": []
+    "data": [
+      {
+        "id": 4149492279618510,
+        "name": "Defender of the Deep",
+        "description": "You defended Bikini Bottom against 15 Waves of Enemies and earned yourself the Hunt Token!",
+        "displayName": "Defender of the Deep",
+        "displayDescription": "You defended Bikini Bottom against 15 Waves of Enemies and earned yourself the Hunt Token!",
+        "enabled": true,
+        "iconImageId": 93284167701914,
+        "displayIconImageId": 93284167701914,
+        "created": "2025-02-21T18:48:43.009+00:00",
+        "updated": "2025-03-13T22:07:28.832+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6594435384,
+          "name": "SpongeBob Tower Defense [Update 10]",
+          "rootPlaceId": 123662243100680
+        }
+      },
+      {
+        "id": 3222872806234834,
+        "name": "Secret Unveiled",
+        "description": "You unveiled the greatest mystery of Bikini Bottom!",
+        "displayName": "Secret Unveiled",
+        "displayDescription": "You unveiled the greatest mystery of Bikini Bottom!",
+        "enabled": true,
+        "iconImageId": 104837143133537,
+        "displayIconImageId": 104837143133537,
+        "created": "2025-02-21T18:49:00.79+00:00",
+        "updated": "2025-03-13T22:07:31.489+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6594435384,
+          "name": "SpongeBob Tower Defense [Update 10]",
+          "rootPlaceId": 123662243100680
+        }
+      },
+      {
+        "id": 4418208411782293,
+        "name": "Mysterious Bubble",
+        "description": "Who blew this bubble?!",
+        "displayName": "Mysterious Bubble",
+        "displayDescription": "Who blew this bubble?!",
+        "enabled": true,
+        "iconImageId": 100410369181396,
+        "displayIconImageId": 100410369181396,
+        "created": "2025-03-12T19:34:25.04+00:00",
+        "updated": "2025-03-13T22:07:34.694+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6594435384,
+          "name": "SpongeBob Tower Defense [Update 10]",
+          "rootPlaceId": 123662243100680
+        }
+      },
+      {
+        "id": 3365303611596355,
+        "name": "Floating Shopping List",
+        "description": "You've encountered the scariest nightmare of them all!",
+        "displayName": "Floating Shopping List",
+        "displayDescription": "You've encountered the scariest nightmare of them all!",
+        "enabled": true,
+        "iconImageId": 86834176838836,
+        "displayIconImageId": 86834176838836,
+        "created": "2025-03-12T19:48:47.58+00:00",
+        "updated": "2025-03-13T22:07:38.039+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6594435384,
+          "name": "SpongeBob Tower Defense [Update 10]",
+          "rootPlaceId": 123662243100680
+        }
+      }
+    ]
   },
   "6906326545": {
     "data": []
@@ -70395,6 +71320,94 @@
           "name": "Natural Disaster Survival",
           "rootPlaceId": 189707
         }
+      },
+      {
+        "id": 3837305451707717,
+        "name": "The Hunt Mega Edition Quest",
+        "description": "Win 3 rounds.",
+        "displayName": "The Hunt Mega Edition Quest",
+        "displayDescription": "Win 3 rounds.",
+        "enabled": true,
+        "iconImageId": 75986411814688,
+        "displayIconImageId": 75986411814688,
+        "created": "2025-02-21T03:56:14.653+00:00",
+        "updated": "2025-03-13T22:03:33.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 432654036537812,
+        "name": "Badge 2",
+        "description": null,
+        "displayName": "Badge 2",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 78234718752034,
+        "displayIconImageId": 78234718752034,
+        "created": "2025-02-21T04:06:39.309+00:00",
+        "updated": "2025-03-13T22:04:03.326+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 3168692526170251,
+        "name": "Badge 3",
+        "description": null,
+        "displayName": "Badge 3",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 102056115326328,
+        "displayIconImageId": 102056115326328,
+        "created": "2025-03-13T05:10:28.841+00:00",
+        "updated": "2025-03-13T22:04:22.528+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
+      },
+      {
+        "id": 927221212286521,
+        "name": "Badge 4",
+        "description": null,
+        "displayName": "Badge 4",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 91737965642852,
+        "displayIconImageId": 91737965642852,
+        "created": "2025-03-13T05:10:52.647+00:00",
+        "updated": "2025-03-13T22:04:36.212+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 65241,
+          "name": "Natural Disaster Survival",
+          "rootPlaceId": 189707
+        }
       }
     ]
   },
@@ -75157,6 +76170,94 @@
           "pastDayAwardedCount": 23122,
           "awardedCount": 938613,
           "winRatePercentage": 0.189
+        },
+        "awardingUniverse": {
+          "id": 6894451805,
+          "name": "\u26bd Blade League",
+          "rootPlaceId": 80316691895873
+        }
+      },
+      {
+        "id": 2128329782799753,
+        "name": "Divine Sovereign",
+        "description": "A being beyond time, beyond space, beyond comprehension.",
+        "displayName": "Divine Sovereign",
+        "displayDescription": "A being beyond time, beyond space, beyond comprehension.",
+        "enabled": true,
+        "iconImageId": 92235795287637,
+        "displayIconImageId": 92235795287637,
+        "created": "2025-02-19T08:30:11.871+00:00",
+        "updated": "2025-03-13T22:17:10.849+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6894451805,
+          "name": "\u26bd Blade League",
+          "rootPlaceId": 80316691895873
+        }
+      },
+      {
+        "id": 2176668593785951,
+        "name": "Galactic Challenger",
+        "description": "A cosmic challenger awaits\u2026",
+        "displayName": "Galactic Challenger",
+        "displayDescription": "A cosmic challenger awaits\u2026",
+        "enabled": true,
+        "iconImageId": 105241056524287,
+        "displayIconImageId": 105241056524287,
+        "created": "2025-02-19T08:32:01.181+00:00",
+        "updated": "2025-03-13T22:12:15.643+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6894451805,
+          "name": "\u26bd Blade League",
+          "rootPlaceId": 80316691895873
+        }
+      },
+      {
+        "id": 4487571943148359,
+        "name": "Celestial Conqueror",
+        "description": "Ruler of the skies.",
+        "displayName": "Celestial Conqueror",
+        "displayDescription": "Ruler of the skies.",
+        "enabled": true,
+        "iconImageId": 96645024490292,
+        "displayIconImageId": 96645024490292,
+        "created": "2025-03-13T05:20:21.611+00:00",
+        "updated": "2025-03-13T22:13:46.148+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6894451805,
+          "name": "\u26bd Blade League",
+          "rootPlaceId": 80316691895873
+        }
+      },
+      {
+        "id": 2334479733247949,
+        "name": "Hunt Token",
+        "description": "Complete Quests in Blade League to unlock this badge!",
+        "displayName": "Hunt Token",
+        "displayDescription": "Complete Quests in Blade League to unlock this badge!",
+        "enabled": true,
+        "iconImageId": 128773544423469,
+        "displayIconImageId": 128773544423469,
+        "created": "2025-03-13T05:20:58.41+00:00",
+        "updated": "2025-03-13T22:11:38.956+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
         },
         "awardingUniverse": {
           "id": 6894451805,
@@ -84631,6 +85732,94 @@
           "name": "Chained [2 Player Obby]",
           "rootPlaceId": 18334179599
         }
+      },
+      {
+        "id": 3102322137581426,
+        "name": "Token",
+        "description": "Work together, climb to the top of the moai, and claim your token! Teamwork and parkour will lead the way!",
+        "displayName": "Token",
+        "displayDescription": "Work together, climb to the top of the moai, and claim your token! Teamwork and parkour will lead the way!",
+        "enabled": true,
+        "iconImageId": 80855536564934,
+        "displayIconImageId": 80855536564934,
+        "created": "2025-02-18T20:27:03.495+00:00",
+        "updated": "2025-03-13T22:08:06.737+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6215464786,
+          "name": "Chained [2 Player Obby]",
+          "rootPlaceId": 18334179599
+        }
+      },
+      {
+        "id": 843392362589494,
+        "name": "The Unmoving Gaze",
+        "description": "For those who dare to see.",
+        "displayName": "The Unmoving Gaze",
+        "displayDescription": "For those who dare to see.",
+        "enabled": true,
+        "iconImageId": 93769885622363,
+        "displayIconImageId": 93769885622363,
+        "created": "2025-02-18T20:33:06.347+00:00",
+        "updated": "2025-03-13T22:07:57.277+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6215464786,
+          "name": "Chained [2 Player Obby]",
+          "rootPlaceId": 18334179599
+        }
+      },
+      {
+        "id": 2465535216613483,
+        "name": "The Immense Skull",
+        "description": "Teamwork will help you along the way",
+        "displayName": "The Immense Skull",
+        "displayDescription": "Teamwork will help you along the way",
+        "enabled": true,
+        "iconImageId": 107534717478346,
+        "displayIconImageId": 107534717478346,
+        "created": "2025-03-13T22:07:04.69+00:00",
+        "updated": "2025-03-13T22:09:20.114+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6215464786,
+          "name": "Chained [2 Player Obby]",
+          "rootPlaceId": 18334179599
+        }
+      },
+      {
+        "id": 3196119040827547,
+        "name": "The Dooming Bridge",
+        "description": "Walking over the bridge, will bring immense...",
+        "displayName": "The Dooming Bridge",
+        "displayDescription": "Walking over the bridge, will bring immense...",
+        "enabled": true,
+        "iconImageId": 123184962564342,
+        "displayIconImageId": 123184962564342,
+        "created": "2025-03-13T22:07:33.191+00:00",
+        "updated": "2025-03-13T22:09:27.965+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6215464786,
+          "name": "Chained [2 Player Obby]",
+          "rootPlaceId": 18334179599
+        }
       }
     ]
   },
@@ -84941,6 +86130,94 @@
         "awardingUniverse": {
           "id": 985731078,
           "name": "\ud83d\udc96 World // Zero \u2694\ufe0f Anime RPG",
+          "rootPlaceId": 2727067538
+        }
+      },
+      {
+        "id": 3141599589206075,
+        "name": "The Hunt: Mega Edition Token",
+        "description": "Travel through time to the Gravetower's Past and defeat Anima, the Soul Dragon, to obtain the token!",
+        "displayName": "The Hunt: Mega Edition Token",
+        "displayDescription": "Travel through time to the Gravetower's Past and defeat Anima, the Soul Dragon, to obtain the token!",
+        "enabled": true,
+        "iconImageId": 120541066099895,
+        "displayIconImageId": 120541066099895,
+        "created": "2025-02-18T19:40:44.487+00:00",
+        "updated": "2025-03-13T22:02:05.278+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 985731078,
+          "name": "World // Zero \u2694\ufe0f Anime RPG",
+          "rootPlaceId": 2727067538
+        }
+      },
+      {
+        "id": 2393120032241166,
+        "name": "Nullseeker",
+        "description": "A test of strength lies ahead.",
+        "displayName": "Nullseeker",
+        "displayDescription": "A test of strength lies ahead.",
+        "enabled": true,
+        "iconImageId": 90941803944476,
+        "displayIconImageId": 90941803944476,
+        "created": "2025-02-18T19:41:12.017+00:00",
+        "updated": "2025-03-13T22:02:21.957+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 985731078,
+          "name": "World // Zero \u2694\ufe0f Anime RPG",
+          "rootPlaceId": 2727067538
+        }
+      },
+      {
+        "id": 1653836847115364,
+        "name": "Voidreaper",
+        "description": "Save the world..",
+        "displayName": "Voidreaper",
+        "displayDescription": "Save the world..",
+        "enabled": true,
+        "iconImageId": 118057634385655,
+        "displayIconImageId": 118057634385655,
+        "created": "2025-03-12T19:18:32.156+00:00",
+        "updated": "2025-03-13T22:02:28.004+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 985731078,
+          "name": "World // Zero \u2694\ufe0f Anime RPG",
+          "rootPlaceId": 2727067538
+        }
+      },
+      {
+        "id": 2810330795489327,
+        "name": "Embergold",
+        "description": "Everything she touches turns to gold..",
+        "displayName": "Embergold",
+        "displayDescription": "Everything she touches turns to gold..",
+        "enabled": true,
+        "iconImageId": 85219765899412,
+        "displayIconImageId": 85219765899412,
+        "created": "2025-03-12T19:25:19.046+00:00",
+        "updated": "2025-03-13T22:02:11.667+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 985731078,
+          "name": "World // Zero \u2694\ufe0f Anime RPG",
           "rootPlaceId": 2727067538
         }
       }
@@ -89862,6 +91139,94 @@
         "awardingUniverse": {
           "id": 5451143054,
           "name": "[BOYS] IT GIRL V-DAY \ud83d\udc9d",
+          "rootPlaceId": 15768329004
+        }
+      },
+      {
+        "id": 2910469445814718,
+        "name": "Fashionable",
+        "description": "You've proven you're worthy of being on the runway.",
+        "displayName": "Fashionable",
+        "displayDescription": "You've proven you're worthy of being on the runway.",
+        "enabled": true,
+        "iconImageId": 137861147388520,
+        "displayIconImageId": 137861147388520,
+        "created": "2025-02-05T04:36:27.601+00:00",
+        "updated": "2025-03-13T22:02:32.35+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5451143054,
+          "name": "[THE HUNT] IT GIRL \ud83c\udf80",
+          "rootPlaceId": 15768329004
+        }
+      },
+      {
+        "id": 2005551080600350,
+        "name": "Savior",
+        "description": "You singlehandedly saved the IT GIRL Universe!",
+        "displayName": "Savior",
+        "displayDescription": "You singlehandedly saved the IT GIRL Universe!",
+        "enabled": true,
+        "iconImageId": 132442312342442,
+        "displayIconImageId": 132442312342442,
+        "created": "2025-02-05T04:36:37.192+00:00",
+        "updated": "2025-03-13T22:02:31.427+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5451143054,
+          "name": "[THE HUNT] IT GIRL \ud83c\udf80",
+          "rootPlaceId": 15768329004
+        }
+      },
+      {
+        "id": 3295405783607277,
+        "name": "\ud83d\udcab Superstar!",
+        "description": "No one's better than me...",
+        "displayName": "\ud83d\udcab Superstar!",
+        "displayDescription": "No one's better than me...",
+        "enabled": true,
+        "iconImageId": 114718479210517,
+        "displayIconImageId": 114718479210517,
+        "created": "2025-03-12T20:53:11.042+00:00",
+        "updated": "2025-03-13T22:02:30.477+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5451143054,
+          "name": "[THE HUNT] IT GIRL \ud83c\udf80",
+          "rootPlaceId": 15768329004
+        }
+      },
+      {
+        "id": 162386047159648,
+        "name": "\ud83d\udc8e Hoarder",
+        "description": "I want it all...",
+        "displayName": "\ud83d\udc8e Hoarder",
+        "displayDescription": "I want it all...",
+        "enabled": true,
+        "iconImageId": 105270505843584,
+        "displayIconImageId": 105270505843584,
+        "created": "2025-03-12T20:53:18.382+00:00",
+        "updated": "2025-03-13T22:02:29.345+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5451143054,
+          "name": "[THE HUNT] IT GIRL \ud83c\udf80",
           "rootPlaceId": 15768329004
         }
       }
