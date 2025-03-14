@@ -11489,6 +11489,28 @@
           "name": "\ud83d\udca5 Tower Defense Simulator \ud83d\udca5",
           "rootPlaceId": 3260590327
         }
+      },
+      {
+        "id": 4101345145774971,
+        "name": "Defeated the Brute",
+        "description": "Defeat the Brute in Easy mode.",
+        "displayName": "Defeated the Brute",
+        "displayDescription": "Defeat the Brute in Easy mode.",
+        "enabled": true,
+        "iconImageId": 122059958571527,
+        "displayIconImageId": 122059958571527,
+        "created": "2025-03-14T17:15:45.784+00:00",
+        "updated": "2025-03-14T17:16:46.764+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1176784616,
+          "name": "\ud83d\udd0e Tower Defense Simulator \ud83d\udd0e",
+          "rootPlaceId": 3260590327
+        }
       }
     ]
   },
