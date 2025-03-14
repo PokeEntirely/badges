@@ -63621,6 +63621,28 @@
           "name": "Be a Silly Seal [NIGHTFALL]",
           "rootPlaceId": 71816718496622
         }
+      },
+      {
+        "id": 1956983473034727,
+        "name": "Daring Detective",
+        "description": "Found 30 types of treasures!",
+        "displayName": "Daring Detective",
+        "displayDescription": "Found 30 types of treasures!",
+        "enabled": true,
+        "iconImageId": 118464592394201,
+        "displayIconImageId": 118464592394201,
+        "created": "2025-03-14T18:59:24.736+00:00",
+        "updated": "2025-03-14T18:59:24.736+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6624299680,
+          "name": "Be a Silly Seal [MINIGAMES]",
+          "rootPlaceId": 71816718496622
+        }
       }
     ]
   },
