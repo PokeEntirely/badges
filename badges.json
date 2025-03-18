@@ -96279,6 +96279,72 @@
           "name": "The Hunt: Mega Edition",
           "rootPlaceId": 124180448122765
         }
+      },
+      {
+        "id": 1574388823053399,
+        "name": "Puzzle 1 Complete",
+        "description": null,
+        "displayName": "Puzzle 1 Complete",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 139655319668994,
+        "displayIconImageId": 139655319668994,
+        "created": "2025-03-18T13:01:30.427+00:00",
+        "updated": "2025-03-18T13:01:30.427+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 8156,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 1864592267998076,
+        "name": "Puzzle 2 Complete",
+        "description": null,
+        "displayName": "Puzzle 2 Complete",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 139821398426847,
+        "displayIconImageId": 139821398426847,
+        "created": "2025-03-18T13:01:46.476+00:00",
+        "updated": "2025-03-18T13:01:46.476+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 6143,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
+      },
+      {
+        "id": 3998470320791269,
+        "name": "Puzzle 3 Complete",
+        "description": null,
+        "displayName": "Puzzle 3 Complete",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 89779364201636,
+        "displayIconImageId": 89779364201636,
+        "created": "2025-03-18T13:01:59.938+00:00",
+        "updated": "2025-03-18T13:01:59.938+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 326,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
       }
     ]
   },
