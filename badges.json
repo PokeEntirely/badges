@@ -54949,6 +54949,28 @@
           "name": "Slap Battles\ud83d\udc4f ",
           "rootPlaceId": 6403373529
         }
+      },
+      {
+        "id": 1788920058870613,
+        "name": "what now? i just woke up",
+        "description": null,
+        "displayName": "what now? i just woke up",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 78116528170729,
+        "displayIconImageId": 78116528170729,
+        "created": "2025-03-21T13:08:18.015+00:00",
+        "updated": "2025-03-21T13:08:18.015+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2380077519,
+          "name": "Slap Battles\ud83d\udc4f ",
+          "rootPlaceId": 6403373529
+        }
       }
     ]
   },
