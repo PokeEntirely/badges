@@ -6297,6 +6297,28 @@
           "name": "a dusty trip [\ud83d\ude8cBUS QUEST]",
           "rootPlaceId": 16389395869
         }
+      },
+      {
+        "id": 3597609621544519,
+        "name": "Locked & Loaded",
+        "description": null,
+        "displayName": "Locked & Loaded",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 112803770792285,
+        "displayIconImageId": 112803770792285,
+        "created": "2025-03-22T02:57:24.768+00:00",
+        "updated": "2025-03-22T21:26:01.106+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\udcb0THE HUNT]",
+          "rootPlaceId": 16389395869
+        }
       }
     ]
   },
