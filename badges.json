@@ -96367,6 +96367,28 @@
           "name": "The Hunt: Mega Edition",
           "rootPlaceId": 124180448122765
         }
+      },
+      {
+        "id": 2180753758368563,
+        "name": "Puzzle 4 Complete",
+        "description": null,
+        "displayName": "Puzzle 4 Complete",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 139078579174692,
+        "displayIconImageId": 139078579174692,
+        "created": "2025-03-18T13:02:13.069+00:00",
+        "updated": "2025-03-22T00:54:17.246+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3954,
+          "awardedCount": 15930,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 7296012067,
+          "name": "The Hunt: Mega Edition",
+          "rootPlaceId": 124180448122765
+        }
       }
     ]
   },
