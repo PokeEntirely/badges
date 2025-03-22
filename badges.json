@@ -52261,6 +52261,28 @@
           "name": "[\u2728Season6] Sonic Speed Simulator",
           "rootPlaceId": 9049840490
         }
+      },
+      {
+        "id": 4153856631239826,
+        "name": "Metro City Treasure Hunter ",
+        "description": "You collected 25 Red Star Rings in Metro City",
+        "displayName": "Metro City Treasure Hunter ",
+        "displayDescription": "You collected 25 Red Star Rings in Metro City",
+        "enabled": true,
+        "iconImageId": 125121887521365,
+        "displayIconImageId": 125121887521365,
+        "created": "2024-12-14T14:24:34.738+00:00",
+        "updated": "2025-03-22T15:34:04.964+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "[\ud83c\udf20NEW WORLD] Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
       }
     ]
   },
