@@ -35391,6 +35391,28 @@
           "name": "Arsenal",
           "rootPlaceId": 286090429
         }
+      },
+      {
+        "id": 3838641538033460,
+        "name": "RPG Winner",
+        "description": "You beat the RPG!",
+        "displayName": "RPG Winner",
+        "displayDescription": "You beat the RPG!",
+        "enabled": true,
+        "iconImageId": 103368576785104,
+        "displayIconImageId": 103368576785104,
+        "created": "2025-03-24T21:06:59.592+00:00",
+        "updated": "2025-03-24T21:06:59.592+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 111958650,
+          "name": "Arsenal",
+          "rootPlaceId": 286090429
+        }
       }
     ]
   },
