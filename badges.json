@@ -62279,6 +62279,28 @@
           "name": "Royale\ud83d\udc95High",
           "rootPlaceId": 735030788
         }
+      },
+      {
+        "id": 384578469747378,
+        "name": "You found the 6 Fairies!",
+        "description": "You redeemed the code from the 6 Fairies Pack, exclusively at Target! To all show their thanks, 5 fairies are giving you their very special gifts, with another on the way shortly..\nGifts for Redeeming:\n\u2764\ufe0fBlazing Beauty Dress \u2764\ufe0f Fire Fairy\n\ud83d\udc9b Prom Queen Dress \ud83d\udc51 Light Fairy\n\ud83d\udc9a Nurturing Nymph Dress \ud83d\udc9a Nature Fairy\n\ud83d\udc9c Wicked Vampress Bodice \ud83d\udda4 and Wicked Vampress Skirt \ud83d\udda4 Dark Fairy\n\ud83e\ude75Crystalline Dreams \ud83e\ude75 Ice Fairy Dress\n\ud83d\udc99 Water coming soon!",
+        "displayName": "You found the 6 Fairies!",
+        "displayDescription": "You redeemed the code from the 6 Fairies Pack, exclusively at Target! To all show their thanks, 5 fairies are giving you their very special gifts, with another on the way shortly..\nGifts for Redeeming:\n\u2764\ufe0fBlazing Beauty Dress \u2764\ufe0f Fire Fairy\n\ud83d\udc9b Prom Queen Dress \ud83d\udc51 Light Fairy\n\ud83d\udc9a Nurturing Nymph Dress \ud83d\udc9a Nature Fairy\n\ud83d\udc9c Wicked Vampress Bodice \ud83d\udda4 and Wicked Vampress Skirt \ud83d\udda4 Dark Fairy\n\ud83e\ude75Crystalline Dreams \ud83e\ude75 Ice Fairy Dress\n\ud83d\udc99 Water coming soon!",
+        "enabled": true,
+        "iconImageId": 81194980394470,
+        "displayIconImageId": 81194980394470,
+        "created": "2025-03-26T21:02:29.671+00:00",
+        "updated": "2025-03-26T21:03:52.099+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 321778215,
+          "name": "Royale\ud83d\udc95High",
+          "rootPlaceId": 735030788
+        }
       }
     ]
   },
