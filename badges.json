@@ -64895,6 +64895,116 @@
           "name": "Sorcerer Battlegrounds",
           "rootPlaceId": 13601434903
         }
+      },
+      {
+        "id": 2751666126058339,
+        "name": "First Victory",
+        "description": "First Win, Many to come.",
+        "displayName": "First Victory",
+        "displayDescription": "First Win, Many to come.",
+        "enabled": true,
+        "iconImageId": 106794090153719,
+        "displayIconImageId": 106794090153719,
+        "created": "2025-03-27T19:10:43.37+00:00",
+        "updated": "2025-03-27T19:10:43.37+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4724071612,
+          "name": "Sorcerer Battlegrounds",
+          "rootPlaceId": 13601434903
+        }
+      },
+      {
+        "id": 283294135983445,
+        "name": "Experienced Fighter",
+        "description": "Getting settled in, finding your own way.",
+        "displayName": "Experienced Fighter",
+        "displayDescription": "Getting settled in, finding your own way.",
+        "enabled": true,
+        "iconImageId": 73113976687393,
+        "displayIconImageId": 73113976687393,
+        "created": "2025-03-27T19:11:03.979+00:00",
+        "updated": "2025-03-27T19:11:03.979+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4724071612,
+          "name": "Sorcerer Battlegrounds",
+          "rootPlaceId": 13601434903
+        }
+      },
+      {
+        "id": 3469230064651947,
+        "name": "Lesser Grade Sorcerer",
+        "description": "Your name is getting out there, start counting up your fans.",
+        "displayName": "Lesser Grade Sorcerer",
+        "displayDescription": "Your name is getting out there, start counting up your fans.",
+        "enabled": true,
+        "iconImageId": 126939764332919,
+        "displayIconImageId": 126939764332919,
+        "created": "2025-03-27T19:11:19.64+00:00",
+        "updated": "2025-03-27T19:11:19.64+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4724071612,
+          "name": "Sorcerer Battlegrounds",
+          "rootPlaceId": 13601434903
+        }
+      },
+      {
+        "id": 1501491568288072,
+        "name": "High Grade Sorcerer",
+        "description": "Known by many and feared by most, you're making your way to the big leagues.",
+        "displayName": "High Grade Sorcerer",
+        "displayDescription": "Known by many and feared by most, you're making your way to the big leagues.",
+        "enabled": true,
+        "iconImageId": 133224055388024,
+        "displayIconImageId": 133224055388024,
+        "created": "2025-03-27T19:11:44.094+00:00",
+        "updated": "2025-03-27T19:11:44.094+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4724071612,
+          "name": "Sorcerer Battlegrounds",
+          "rootPlaceId": 13601434903
+        }
+      },
+      {
+        "id": 1927264414419800,
+        "name": "FISH???",
+        "description": "Interesting... How can you even?",
+        "displayName": "FISH???",
+        "displayDescription": "Interesting... How can you even?",
+        "enabled": true,
+        "iconImageId": 101448909011313,
+        "displayIconImageId": 101448909011313,
+        "created": "2025-03-27T19:15:12.191+00:00",
+        "updated": "2025-03-27T19:16:10.262+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4724071612,
+          "name": "Sorcerer Battlegrounds",
+          "rootPlaceId": 13601434903
+        }
       }
     ]
   },
