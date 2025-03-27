@@ -81376,6 +81376,28 @@
           "name": "[\ud83d\udc98VALENTINES] Tower Defense X: BETA",
           "rootPlaceId": 9503261072
         }
+      },
+      {
+        "id": 3498426379502089,
+        "name": "Defeat Destructor!",
+        "description": "Destruction no more, obtainable on Wave 40 of Expert.",
+        "displayName": "Defeat Destructor!",
+        "displayDescription": "Destruction no more, obtainable on Wave 40 of Expert.",
+        "enabled": true,
+        "iconImageId": 124662539802151,
+        "displayIconImageId": 124662539802151,
+        "created": "2025-03-27T07:39:04.027+00:00",
+        "updated": "2025-03-27T07:39:04.027+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3541611379,
+          "name": "[\ud83d\udcddTUTORIAL] Tower Defense X: BETA",
+          "rootPlaceId": 9503261072
+        }
       }
     ]
   },
