@@ -81398,6 +81398,94 @@
           "name": "[\ud83d\udcddTUTORIAL] Tower Defense X: BETA",
           "rootPlaceId": 9503261072
         }
+      },
+      {
+        "id": 3821431113784734,
+        "name": "Defeat Eradicator MK II+",
+        "description": "Dr. Xenon did not figure out the core over heating problem. Obtainable on Wave 42.",
+        "displayName": "Defeat Eradicator MK II+",
+        "displayDescription": "Dr. Xenon did not figure out the core over heating problem. Obtainable on Wave 42.",
+        "enabled": true,
+        "iconImageId": 113198145205139,
+        "displayIconImageId": 113198145205139,
+        "created": "2025-03-27T07:41:34.215+00:00",
+        "updated": "2025-03-27T07:41:34.215+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3541611379,
+          "name": "[\ud83d\udcddTUTORIAL] Tower Defense X: BETA",
+          "rootPlaceId": 9503261072
+        }
+      },
+      {
+        "id": 3335600170793678,
+        "name": "Defeat Phoebus!",
+        "description": "From the sun, obtainable on Wave 30 in Expert.",
+        "displayName": "Defeat Phoebus!",
+        "displayDescription": "From the sun, obtainable on Wave 30 in Expert.",
+        "enabled": true,
+        "iconImageId": 98880783918415,
+        "displayIconImageId": 98880783918415,
+        "created": "2025-03-27T07:42:55.213+00:00",
+        "updated": "2025-03-27T07:44:58.248+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3541611379,
+          "name": "[\ud83d\udcddTUTORIAL] Tower Defense X: BETA",
+          "rootPlaceId": 9503261072
+        }
+      },
+      {
+        "id": 3543065376287382,
+        "name": "Defeat Zeus!",
+        "description": "From thunder, obtainable on Wave 30 in Expert.",
+        "displayName": "Defeat Zeus!",
+        "displayDescription": "From thunder, obtainable on Wave 30 in Expert.",
+        "enabled": true,
+        "iconImageId": 84727083718268,
+        "displayIconImageId": 84727083718268,
+        "created": "2025-03-27T07:44:31.511+00:00",
+        "updated": "2025-03-27T07:44:31.511+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3541611379,
+          "name": "[\ud83d\udcddTUTORIAL] Tower Defense X: BETA",
+          "rootPlaceId": 9503261072
+        }
+      },
+      {
+        "id": 1864276158172623,
+        "name": "Defeat Artemis!",
+        "description": "From the hunt, obtainable on Wave 30 in Expert.",
+        "displayName": "Defeat Artemis!",
+        "displayDescription": "From the hunt, obtainable on Wave 30 in Expert.",
+        "enabled": true,
+        "iconImageId": 128289072937177,
+        "displayIconImageId": 128289072937177,
+        "created": "2025-03-27T07:49:05.368+00:00",
+        "updated": "2025-03-27T07:49:05.368+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3541611379,
+          "name": "[\ud83d\udcddTUTORIAL] Tower Defense X: BETA",
+          "rootPlaceId": 9503261072
+        }
       }
     ]
   },
