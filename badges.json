@@ -42577,6 +42577,72 @@
           "name": "\ud83d\udcaa Gym League ",
           "rootPlaceId": 17450551531
         }
+      },
+      {
+        "id": 1345598207409155,
+        "name": "Warrior",
+        "description": null,
+        "displayName": "Warrior",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 120227096681962,
+        "displayIconImageId": 120227096681962,
+        "created": "2025-03-28T11:50:03.145+00:00",
+        "updated": "2025-03-28T11:50:03.145+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5972059550,
+          "name": "Gym League ",
+          "rootPlaceId": 17450551531
+        }
+      },
+      {
+        "id": 1284584623022292,
+        "name": "Sandstone",
+        "description": null,
+        "displayName": "Sandstone",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 120991509642030,
+        "displayIconImageId": 120991509642030,
+        "created": "2025-03-28T11:50:12.658+00:00",
+        "updated": "2025-03-28T11:50:12.658+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5972059550,
+          "name": "Gym League ",
+          "rootPlaceId": 17450551531
+        }
+      },
+      {
+        "id": 3605623797850497,
+        "name": "Pharaoh",
+        "description": null,
+        "displayName": "Pharaoh",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 80814811474762,
+        "displayIconImageId": 80814811474762,
+        "created": "2025-03-28T11:50:20.679+00:00",
+        "updated": "2025-03-28T11:50:20.679+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5972059550,
+          "name": "Gym League ",
+          "rootPlaceId": 17450551531
+        }
       }
     ]
   },
