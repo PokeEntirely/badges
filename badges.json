@@ -43487,6 +43487,28 @@
           "name": "[VALENTINES] Fishing Simulator \ud83c\udfa3\u2764\ufe0f",
           "rootPlaceId": 2866967438
         }
+      },
+      {
+        "id": 1384299120244644,
+        "name": "Index Complete - Cyber City",
+        "description": "You collected every variation of fish in Cyber City!",
+        "displayName": "Index Complete - Cyber City",
+        "displayDescription": "You collected every variation of fish in Cyber City!",
+        "enabled": true,
+        "iconImageId": 85938172163321,
+        "displayIconImageId": 85938172163321,
+        "created": "2025-03-28T05:02:56.398+00:00",
+        "updated": "2025-03-28T05:03:24.147+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1037979853,
+          "name": "[CYBER ISLAND] Fishing Simulator \ud83e\udd16",
+          "rootPlaceId": 2866967438
+        }
       }
     ]
   },
