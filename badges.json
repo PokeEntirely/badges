@@ -7823,6 +7823,28 @@
           "name": "Fisch\ud83e\udd88",
           "rootPlaceId": 16732694052
         }
+      },
+      {
+        "id": 279267787604757,
+        "name": "Bestiary: Sea 2 Open Ocean",
+        "description": null,
+        "displayName": "Bestiary: Sea 2 Open Ocean",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 81509237999407,
+        "displayIconImageId": 81509237999407,
+        "created": "2025-03-29T03:39:36.277+00:00",
+        "updated": "2025-03-30T19:24:10.3+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
       }
     ]
   },
