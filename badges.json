@@ -7845,6 +7845,160 @@
           "name": "[2ND SEA] Fisch\ud83e\udd88",
           "rootPlaceId": 16732694052
         }
+      },
+      {
+        "id": 4035200905115276,
+        "name": "Bestiary: Waveborne",
+        "description": null,
+        "displayName": "Bestiary: Waveborne",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 102830608840677,
+        "displayIconImageId": 102830608840677,
+        "created": "2025-03-28T21:14:20.197+00:00",
+        "updated": "2025-03-30T19:24:47.669+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 229,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 2613933330373724,
+        "name": "Bestiary: Azure Lagoon",
+        "description": null,
+        "displayName": "Bestiary: Azure Lagoon",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 107301082761886,
+        "displayIconImageId": 107301082761886,
+        "created": "2025-03-28T21:15:36.377+00:00",
+        "updated": "2025-03-30T19:24:42.575+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 106,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 62688893003566,
+        "name": "Bestiary: Isle Of New Beginnings",
+        "description": null,
+        "displayName": "Bestiary: Isle Of New Beginnings",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 72758382773286,
+        "displayIconImageId": 72758382773286,
+        "created": "2025-03-28T21:18:21.789+00:00",
+        "updated": "2025-03-30T19:24:37.326+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 1997541657461197,
+        "name": "Bestiary: Lushgrove",
+        "description": null,
+        "displayName": "Bestiary: Lushgrove",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 72090518731409,
+        "displayIconImageId": 72090518731409,
+        "created": "2025-03-28T21:19:49.061+00:00",
+        "updated": "2025-03-30T19:24:32.614+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 63,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 2076076069924140,
+        "name": "Bestiary: Emberreach",
+        "description": null,
+        "displayName": "Bestiary: Emberreach",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 82942626088088,
+        "displayIconImageId": 82942626088088,
+        "created": "2025-03-28T21:21:18.204+00:00",
+        "updated": "2025-03-30T19:24:26.629+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 17,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 410506324603873,
+        "name": "Bestiary: The Cursed Shores",
+        "description": null,
+        "displayName": "Bestiary: The Cursed Shores",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 86116554720266,
+        "displayIconImageId": 86116554720266,
+        "created": "2025-03-28T21:22:48.163+00:00",
+        "updated": "2025-03-30T19:24:21.044+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 62,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 3256592958077820,
+        "name": "Bestiary: Pine Shoals",
+        "description": null,
+        "displayName": "Bestiary: Pine Shoals",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 106740663644082,
+        "displayIconImageId": 106740663644082,
+        "created": "2025-03-28T21:25:53.068+00:00",
+        "updated": "2025-03-30T19:24:16.016+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 81,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "[2ND SEA] Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
       }
     ]
   },
