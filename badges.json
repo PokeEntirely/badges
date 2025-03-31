@@ -68839,6 +68839,182 @@
           "name": "PETAPETA\uff5cNew Lobby",
           "rootPlaceId": 14451515684
         }
+      },
+      {
+        "id": 3207861618552482,
+        "name": "Abandoned Hotel",
+        "description": "No one remember how to come back from this hotel.",
+        "displayName": "Abandoned Hotel",
+        "displayDescription": "No one remember how to come back from this hotel.",
+        "enabled": true,
+        "iconImageId": 71217723989812,
+        "displayIconImageId": 71217723989812,
+        "created": "2025-01-10T06:24:29.422+00:00",
+        "updated": "2025-03-31T05:59:42.211+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 4169879894314872,
+        "name": "Puzzles never end",
+        "description": "Puzzles never end and no one can escape from the hotel.",
+        "displayName": "Puzzles never end",
+        "displayDescription": "Puzzles never end and no one can escape from the hotel.",
+        "enabled": true,
+        "iconImageId": 100113809492265,
+        "displayIconImageId": 100113809492265,
+        "created": "2025-01-14T02:16:03.807+00:00",
+        "updated": "2025-03-31T05:59:55.247+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3756738083631185,
+        "name": "Awake from a nightmare",
+        "description": "She is still held within the hotel. Things better left unseen.",
+        "displayName": "Awake from a nightmare",
+        "displayDescription": "She is still held within the hotel. Things better left unseen.",
+        "enabled": true,
+        "iconImageId": 94654471674281,
+        "displayIconImageId": 94654471674281,
+        "created": "2025-01-14T02:16:49.481+00:00",
+        "updated": "2025-03-31T06:00:05.598+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 757381761207515,
+        "name": "Protect",
+        "description": "Wanderers believe it is kind of protective.",
+        "displayName": "Protect",
+        "displayDescription": "Wanderers believe it is kind of protective.",
+        "enabled": true,
+        "iconImageId": 99253784241816,
+        "displayIconImageId": 99253784241816,
+        "created": "2025-01-14T02:17:44.935+00:00",
+        "updated": "2025-03-31T06:00:15.073+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 1730316295105593,
+        "name": "No more than puzzles",
+        "description": "It's not for fun, but some wanderers still enjoy puzzles.",
+        "displayName": "No more than puzzles",
+        "displayDescription": "It's not for fun, but some wanderers still enjoy puzzles.",
+        "enabled": true,
+        "iconImageId": 91601327863046,
+        "displayIconImageId": 91601327863046,
+        "created": "2025-01-14T02:18:17.54+00:00",
+        "updated": "2025-03-31T06:00:25.295+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 4288041681245456,
+        "name": "Choice",
+        "description": "Seek for dolls and overcome this.",
+        "displayName": "Choice",
+        "displayDescription": "Seek for dolls and overcome this.",
+        "enabled": true,
+        "iconImageId": 96854141853517,
+        "displayIconImageId": 96854141853517,
+        "created": "2025-01-14T02:18:51.741+00:00",
+        "updated": "2025-03-31T06:00:34.173+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 3875144619462605,
+        "name": "Cursed Hanging Scroll",
+        "description": "The screams of the hanging scrolls echo in my eardrums.",
+        "displayName": "Cursed Hanging Scroll",
+        "displayDescription": "The screams of the hanging scrolls echo in my eardrums.",
+        "enabled": true,
+        "iconImageId": 106777338866800,
+        "displayIconImageId": 106777338866800,
+        "created": "2025-01-15T05:46:06.393+00:00",
+        "updated": "2025-03-31T06:00:42.56+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
+      },
+      {
+        "id": 2921375875931452,
+        "name": "Keep your eyes ahead",
+        "description": "Never let you go (hit by flying things 5 times).",
+        "displayName": "Keep your eyes ahead",
+        "displayDescription": "Never let you go (hit by flying things 5 times).",
+        "enabled": true,
+        "iconImageId": 94070499649757,
+        "displayIconImageId": 94070499649757,
+        "created": "2025-01-15T05:46:29.093+00:00",
+        "updated": "2025-03-31T06:00:50.23+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4991821731,
+          "name": "PETAPETA\uff5cNew Lobby",
+          "rootPlaceId": 14451515684
+        }
       }
     ]
   },
