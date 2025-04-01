@@ -82058,6 +82058,28 @@
           "name": "[\ud83d\udcddTUTORIAL] Tower Defense X: BETA",
           "rootPlaceId": 9503261072
         }
+      },
+      {
+        "id": 1167076085806468,
+        "name": "defeat the illuminati boss",
+        "description": "congrats u r pro",
+        "displayName": "defeat the illuminati boss",
+        "displayDescription": "congrats u r pro",
+        "enabled": true,
+        "iconImageId": 91831095349682,
+        "displayIconImageId": 91831095349682,
+        "created": "2025-04-01T08:48:46.626+00:00",
+        "updated": "2025-04-01T08:48:46.626+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3541611379,
+          "name": "[EXPERT REWORK] Tower Defense X: BETA",
+          "rootPlaceId": 9503261072
+        }
       }
     ]
   },
