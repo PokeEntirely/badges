@@ -31561,6 +31561,28 @@
           "name": "DOORS \ud83d\udc41\ufe0f",
           "rootPlaceId": 6516141723
         }
+      },
+      {
+        "id": 446899243741856,
+        "name": "???",
+        "description": "Wow! I Wonder What This Is For",
+        "displayName": "???",
+        "displayDescription": "Wow! I Wonder What This Is For",
+        "enabled": true,
+        "iconImageId": 87102106138695,
+        "displayIconImageId": 87102106138695,
+        "created": "2025-04-01T07:21:52.543+00:00",
+        "updated": "2025-04-01T07:26:48.81+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2440500124,
+          "name": "DOORS \ud83d\udc41\ufe0f",
+          "rootPlaceId": 6516141723
+        }
       }
     ]
   },
