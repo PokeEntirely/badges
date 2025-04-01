@@ -24451,6 +24451,28 @@
           "name": "Piggy [MRS. P QUEST]",
           "rootPlaceId": 4623386862
         }
+      },
+      {
+        "id": 4407637845617340,
+        "name": "Completed Home",
+        "description": "This badge is awarded to those who completed Book 3: Chapter 1!",
+        "displayName": "Completed Home",
+        "displayDescription": "This badge is awarded to those who completed Book 3: Chapter 1!",
+        "enabled": true,
+        "iconImageId": 103211739013072,
+        "displayIconImageId": 103211739013072,
+        "created": "2025-04-01T01:38:31.706+00:00",
+        "updated": "2025-04-01T15:59:11.48+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 7371,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1516533665,
+          "name": "Piggy [BOOK 3]",
+          "rootPlaceId": 4623386862
+        }
       }
     ]
   },
