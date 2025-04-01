@@ -93259,6 +93259,50 @@
           "name": "Secret Staycation",
           "rootPlaceId": 15240723287
         }
+      },
+      {
+        "id": 743022355819034,
+        "name": "April Fool 2025!",
+        "description": "She is working hard.",
+        "displayName": "April Fool 2025!",
+        "displayDescription": "She is working hard.",
+        "enabled": true,
+        "iconImageId": 112910543465577,
+        "displayIconImageId": 112910543465577,
+        "created": "2025-04-01T04:06:17.647+00:00",
+        "updated": "2025-04-01T09:05:38.65+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 9978,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5254920366,
+          "name": "Secret Staycation [April Fool]",
+          "rootPlaceId": 15240723287
+        }
+      },
+      {
+        "id": 3495717650365476,
+        "name": "Fresh!",
+        "description": "It's not tap water.",
+        "displayName": "Fresh!",
+        "displayDescription": "It's not tap water.",
+        "enabled": true,
+        "iconImageId": 102550342769245,
+        "displayIconImageId": 102550342769245,
+        "created": "2025-04-01T08:17:26.664+00:00",
+        "updated": "2025-04-01T09:05:53.883+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 362,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5254920366,
+          "name": "Secret Staycation [April Fool]",
+          "rootPlaceId": 15240723287
+        }
       }
     ]
   },
