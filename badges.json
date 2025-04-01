@@ -84922,6 +84922,28 @@
           "name": "[\u2764\ufe0fAKIMBOS] Notoriety: A PAYDAY\u00ae Experience",
           "rootPlaceId": 21532277
         }
+      },
+      {
+        "id": 2124713809,
+        "name": "Sus",
+        "description": "Complete the Diamond Store heist on Nightmare in stealth using the \"Sus\" Mutator, while killing all guards using only the Knife or Throwing Knife. Unlocks the 'Sus' title. ",
+        "displayName": "Sus",
+        "displayDescription": "Complete the Diamond Store heist on Nightmare in stealth using the \"Sus\" Mutator, while killing all guards using only the Knife or Throwing Knife. Unlocks the 'Sus' title. ",
+        "enabled": true,
+        "iconImageId": 6595306545,
+        "displayIconImageId": 6595306545,
+        "created": "2021-04-01T04:00:24.727+00:00",
+        "updated": "2025-04-01T06:52:16.169+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 142853,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
       }
     ]
   },
