@@ -35611,6 +35611,28 @@
           "name": "Arsenal",
           "rootPlaceId": 286090429
         }
+      },
+      {
+        "id": 3327084193711923,
+        "name": "not this",
+        "description": "it was that",
+        "displayName": "not this",
+        "displayDescription": "it was that",
+        "enabled": true,
+        "iconImageId": 103051277437521,
+        "displayIconImageId": 103051277437521,
+        "created": "2025-04-01T15:19:56.633+00:00",
+        "updated": "2025-04-01T15:19:56.633+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 111958650,
+          "name": "Arsenal",
+          "rootPlaceId": 286090429
+        }
       }
     ]
   },
