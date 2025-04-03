@@ -87318,6 +87318,28 @@
           "name": "Chained [2 Player Obby]",
           "rootPlaceId": 18334179599
         }
+      },
+      {
+        "id": 3391647302604429,
+        "name": "Sams",
+        "description": "Template",
+        "displayName": "Sams",
+        "displayDescription": "Template",
+        "enabled": true,
+        "iconImageId": 112182235418353,
+        "displayIconImageId": 112182235418353,
+        "created": "2025-04-03T19:30:00.913+00:00",
+        "updated": "2025-04-03T19:30:00.913+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6215464786,
+          "name": "Chained [2 Player Obby]",
+          "rootPlaceId": 18334179599
+        }
       }
     ]
   },
