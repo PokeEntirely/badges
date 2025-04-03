@@ -24473,6 +24473,50 @@
           "name": "Piggy [BOOK 3]",
           "rootPlaceId": 4623386862
         }
+      },
+      {
+        "id": 2143975092,
+        "name": "Metallica Event",
+        "description": "UNOBTAINABLE* This is certainly one of the badges of all time.",
+        "displayName": "Metallica Event",
+        "displayDescription": "UNOBTAINABLE* This is certainly one of the badges of all time.",
+        "enabled": true,
+        "iconImageId": 13119087716,
+        "displayIconImageId": 13119087716,
+        "created": "2023-04-13T23:12:36.913+00:00",
+        "updated": "2025-04-03T18:33:09.358+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 384653,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1516533665,
+          "name": "Piggy",
+          "rootPlaceId": 4623386862
+        }
+      },
+      {
+        "id": 222984738107196,
+        "name": "Time",
+        "description": "UNOBTAINABLE* Caught a glimpse of what's occurred and what's to come.",
+        "displayName": "Time",
+        "displayDescription": "UNOBTAINABLE* Caught a glimpse of what's occurred and what's to come.",
+        "enabled": true,
+        "iconImageId": 16751680193,
+        "displayIconImageId": 16751680193,
+        "created": "2024-03-08T04:45:39.454+00:00",
+        "updated": "2025-04-03T18:32:58.54+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 1204397,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1516533665,
+          "name": "Piggy",
+          "rootPlaceId": 4623386862
+        }
       }
     ]
   },
