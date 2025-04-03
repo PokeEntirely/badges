@@ -50247,6 +50247,28 @@
           "name": "[\ud83e\udd4aBOXING] Tongue Battles",
           "rootPlaceId": 16721806812
         }
+      },
+      {
+        "id": 2886434095280647,
+        "name": "Zombie",
+        "description": "Congratulations on getting Zombie!  Obtain this badge by completing the corresponding achievement.",
+        "displayName": "Zombie",
+        "displayDescription": "Congratulations on getting Zombie!  Obtain this badge by completing the corresponding achievement.",
+        "enabled": true,
+        "iconImageId": 135623465540494,
+        "displayIconImageId": 135623465540494,
+        "created": "2025-04-03T07:03:39.365+00:00",
+        "updated": "2025-04-03T07:03:39.365+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5747480325,
+          "name": "[UPD] Tongue Battles \ud83e\udd21",
+          "rootPlaceId": 16721806812
+        }
       }
     ]
   },
