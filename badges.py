@@ -46,7 +46,7 @@ class WebhookSender:
             batch_size = min(len(self.embeds), 10)
             batch = self.embeds[:batch_size]
             payload = {
-                "content": "<@&1293689261773557865>",
+                "content": "<@&1342702022771871826>",
                 "embeds": batch,
                 "attachments": []
             }
