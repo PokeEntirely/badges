@@ -7999,6 +7999,72 @@
           "name": "[2ND SEA] Fisch\ud83e\udd88",
           "rootPlaceId": 16732694052
         }
+      },
+      {
+        "id": 2020919067872646,
+        "name": "Bestiary: Octophant",
+        "description": null,
+        "displayName": "Bestiary: Octophant",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 124662125688224,
+        "displayIconImageId": 124662125688224,
+        "created": "2025-04-04T18:02:26.44+00:00",
+        "updated": "2025-04-05T09:59:43.414+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 4460712899366124,
+        "name": "Bestiary: Animals First Sea",
+        "description": null,
+        "displayName": "Bestiary: Animals First Sea",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 136812411342295,
+        "displayIconImageId": 136812411342295,
+        "created": "2025-04-04T18:03:03.78+00:00",
+        "updated": "2025-04-05T09:59:51.97+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 1444909653191652,
+        "name": "Bestiary: Animals Second Sea",
+        "description": null,
+        "displayName": "Bestiary: Animals Second Sea",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 84402191432878,
+        "displayIconImageId": 84402191432878,
+        "created": "2025-04-04T18:03:24.527+00:00",
+        "updated": "2025-04-05T09:59:59.9+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": "Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
       }
     ]
   },
