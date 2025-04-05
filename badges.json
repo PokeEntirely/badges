@@ -18921,6 +18921,28 @@
           "name": "Five Nights TD [x2\ud83c\udf40]",
           "rootPlaceId": 15846919378
         }
+      },
+      {
+        "id": 1350170603923805,
+        "name": "Fools Hunt Winner",
+        "description": "For winners of the 2025 Fools Hunt (april fools mini-arg event)\r\nReward: bear5 enchanted bear5",
+        "displayName": "Fools Hunt Winner",
+        "displayDescription": "For winners of the 2025 Fools Hunt (april fools mini-arg event)\r\nReward: bear5 enchanted bear5",
+        "enabled": true,
+        "iconImageId": 139644761097567,
+        "displayIconImageId": 139644761097567,
+        "created": "2025-04-05T18:26:29.564+00:00",
+        "updated": "2025-04-05T18:26:29.564+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5479908441,
+          "name": "Five Nights TD [ENDLESS]",
+          "rootPlaceId": 15846919378
+        }
       }
     ]
   },
