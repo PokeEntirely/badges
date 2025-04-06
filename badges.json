@@ -6319,6 +6319,28 @@
           "name": "a dusty trip [\ud83d\udcb0THE HUNT]",
           "rootPlaceId": 16389395869
         }
+      },
+      {
+        "id": 2866337934746848,
+        "name": "Defused",
+        "description": null,
+        "displayName": "Defused",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 90497179372254,
+        "displayIconImageId": 90497179372254,
+        "created": "2025-04-03T21:26:28.577+00:00",
+        "updated": "2025-04-06T01:32:26.251+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\udca5NEW SEASON]",
+          "rootPlaceId": 16389395869
+        }
       }
     ]
   },
