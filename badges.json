@@ -62851,6 +62851,28 @@
           "name": "Royale\ud83d\udc95High",
           "rootPlaceId": 735030788
         }
+      },
+      {
+        "id": 262378485309787,
+        "name": "???",
+        "description": "\ud83d\udddd\ufe0f",
+        "displayName": "???",
+        "displayDescription": "\ud83d\udddd\ufe0f",
+        "enabled": true,
+        "iconImageId": 112737811107672,
+        "displayIconImageId": 112737811107672,
+        "created": "2025-04-07T22:20:17.503+00:00",
+        "updated": "2025-04-07T22:20:17.503+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 321778215,
+          "name": "Royale\ud83c\udf3cHigh",
+          "rootPlaceId": 735030788
+        }
       }
     ]
   },
