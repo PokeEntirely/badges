@@ -29287,6 +29287,28 @@
           "name": "\ud83d\udc0a Creatures of Sonaria \ud83e\udd94 Survive Kaiju Animals",
           "rootPlaceId": 5233782396
         }
+      },
+      {
+        "id": 1675841494057005,
+        "name": "Easter 2025",
+        "description": "Awarded for participating in the Creatures of Sonaria 2025 Easter event!",
+        "displayName": "Easter 2025",
+        "displayDescription": "Awarded for participating in the Creatures of Sonaria 2025 Easter event!",
+        "enabled": true,
+        "iconImageId": 95156110421664,
+        "displayIconImageId": 95156110421664,
+        "created": "2025-04-07T23:28:09.083+00:00",
+        "updated": "2025-04-07T23:28:09.083+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1831550657,
+          "name": "\ud83e\udde1 Creatures of Sonaria \u2728 Survive Kaiju Animals",
+          "rootPlaceId": 5233782396
+        }
       }
     ]
   },
