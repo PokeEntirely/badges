@@ -3277,6 +3277,28 @@
           "name": "[\ud83d\udecf\ufe0f] BedWars",
           "rootPlaceId": 6872265039
         }
+      },
+      {
+        "id": 731758855100911,
+        "name": "Egg Hunt 2025",
+        "description": "Rewarded for finding 16 eggs in the 2025 Egg Hunt",
+        "displayName": "Egg Hunt 2025",
+        "displayDescription": "Rewarded for finding 16 eggs in the 2025 Egg Hunt",
+        "enabled": true,
+        "iconImageId": 74617987639895,
+        "displayIconImageId": 74617987639895,
+        "created": "2025-04-09T09:38:20.123+00:00",
+        "updated": "2025-04-09T09:38:20.123+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2619619496,
+          "name": "[\ud83c\udd93FREE KIT] BedWars",
+          "rootPlaceId": 6872265039
+        }
       }
     ]
   },
