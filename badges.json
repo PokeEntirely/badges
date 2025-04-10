@@ -562,6 +562,28 @@
           "name": "Bayside High School \ud83c\udf4e",
           "rootPlaceId": 12640491155
         }
+      },
+      {
+        "id": 1434969307707723,
+        "name": "???",
+        "description": "???",
+        "displayName": "???",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 95995076328094,
+        "displayIconImageId": 95995076328094,
+        "created": "2025-04-10T08:45:38.594+00:00",
+        "updated": "2025-04-10T08:45:38.594+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4434528807,
+          "name": "Bayside High School \ud83c\udf4e",
+          "rootPlaceId": 12640491155
+        }
       }
     ]
   },
