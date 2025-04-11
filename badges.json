@@ -30017,6 +30017,28 @@
           "name": "\u2764\ufe0f V-Day \u2b50 Dragon Adventures \ud83d\udc09 Fantasy Pets \u2728",
           "rootPlaceId": 3475397644
         }
+      },
+      {
+        "id": 1570550551506460,
+        "name": "Easter 2025",
+        "description": null,
+        "displayName": "Easter 2025",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 136456873350474,
+        "displayIconImageId": 136456873350474,
+        "created": "2025-04-08T21:39:21.036+00:00",
+        "updated": "2025-04-11T18:08:14.395+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1235188606,
+          "name": "NEW SZN 43\u2b50 Dragon Adventures \ud83d\udc09 Fantasy Pets \u2728",
+          "rootPlaceId": 3475397644
+        }
       }
     ]
   },
