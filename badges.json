@@ -50489,6 +50489,28 @@
           "name": "[UPD] Tongue Battles \ud83e\udd21",
           "rootPlaceId": 16721806812
         }
+      },
+      {
+        "id": 1104474643577991,
+        "name": "Easter Egg",
+        "description": "Congratulations on getting Easter Egg!  Obtain this badge by completing the corresponding achievement.",
+        "displayName": "Easter Egg",
+        "displayDescription": "Congratulations on getting Easter Egg!  Obtain this badge by completing the corresponding achievement.",
+        "enabled": true,
+        "iconImageId": 108000786160092,
+        "displayIconImageId": 108000786160092,
+        "created": "2025-04-11T05:13:34.816+00:00",
+        "updated": "2025-04-11T05:35:29.443+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5747480325,
+          "name": "[\u231b] Tongue Battles",
+          "rootPlaceId": 16721806812
+        }
       }
     ]
   },
