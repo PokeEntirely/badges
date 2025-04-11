@@ -45893,6 +45893,50 @@
           "name": "Epic Minigames \u2728",
           "rootPlaceId": 277751860
         }
+      },
+      {
+        "id": 893315860376098,
+        "name": "Epic Hunter",
+        "description": "Collect the Epic Faberg\u00e9!",
+        "displayName": "Epic Hunter",
+        "displayDescription": "Collect the Epic Faberg\u00e9!",
+        "enabled": true,
+        "iconImageId": 82882725880459,
+        "displayIconImageId": 82882725880459,
+        "created": "2025-04-09T16:30:53.722+00:00",
+        "updated": "2025-04-11T09:29:52.8+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 110181652,
+          "name": "Epic Minigames \u2728",
+          "rootPlaceId": 277751860
+        }
+      },
+      {
+        "id": 387248507,
+        "name": "Eggceptional Hunter",
+        "description": "Collect an egg dropped by a Typical Games staff member.",
+        "displayName": "Eggceptional Hunter",
+        "displayDescription": "Collect an egg dropped by a Typical Games staff member.",
+        "enabled": true,
+        "iconImageId": 9182568138,
+        "displayIconImageId": 9182568138,
+        "created": "2016-03-24T22:52:38.687+00:00",
+        "updated": "2025-04-11T09:30:12.396+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 40135,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 110181652,
+          "name": "Epic Minigames \u2728",
+          "rootPlaceId": 277751860
+        }
       }
     ]
   },
