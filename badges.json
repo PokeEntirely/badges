@@ -26293,6 +26293,28 @@
           "name": "SharkBite 2 \ud83e\udd88",
           "rootPlaceId": 8908228901
         }
+      },
+      {
+        "id": 3564449807099282,
+        "name": "SharkBite Egg Hunt 2025",
+        "description": null,
+        "displayName": "SharkBite Egg Hunt 2025",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 120511587195710,
+        "displayIconImageId": 120511587195710,
+        "created": "2025-04-11T21:37:49.05+00:00",
+        "updated": "2025-04-11T21:37:49.05+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3365661357,
+          "name": "SharkBite 2 \ud83e\udd88",
+          "rootPlaceId": 8908228901
+        }
       }
     ]
   },
