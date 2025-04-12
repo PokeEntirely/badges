@@ -75003,6 +75003,28 @@
           "name": "Regretevator [ ELEVATOR SIMULATOR ]",
           "rootPlaceId": 4972273297
         }
+      },
+      {
+        "id": 1888744546649600,
+        "name": "DETECTIVE",
+        "description": "Meet Bive for the first time",
+        "displayName": "DETECTIVE",
+        "displayDescription": "Meet Bive for the first time",
+        "enabled": true,
+        "iconImageId": 110776737633037,
+        "displayIconImageId": 110776737633037,
+        "created": "2025-02-21T02:03:19.922+00:00",
+        "updated": "2025-04-12T21:11:27.811+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 875,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1709917610,
+          "name": "Regretevator [ ELEVATOR SIMULATOR ]",
+          "rootPlaceId": 4972273297
+        }
       }
     ]
   },
