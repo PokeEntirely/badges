@@ -53031,6 +53031,50 @@
           "name": "[\ud83c\udf20NEW WORLD] Sonic Speed Simulator",
           "rootPlaceId": 9049840490
         }
+      },
+      {
+        "id": 4430268482816592,
+        "name": "Metro City Adventurer",
+        "description": "You completed the Main Quest in Metro City",
+        "displayName": "Metro City Adventurer",
+        "displayDescription": "You completed the Main Quest in Metro City",
+        "enabled": true,
+        "iconImageId": 95557642558389,
+        "displayIconImageId": 95557642558389,
+        "created": "2024-12-02T19:13:14.29+00:00",
+        "updated": "2025-04-12T14:50:43.394+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
+      },
+      {
+        "id": 3216187869491563,
+        "name": "Welcome to Metro City!",
+        "description": "You\u2019ve Unlocked Metro City",
+        "displayName": "Welcome to Metro City!",
+        "displayDescription": "You\u2019ve Unlocked Metro City",
+        "enabled": true,
+        "iconImageId": 117633462763808,
+        "displayIconImageId": 117633462763808,
+        "created": "2024-12-02T19:13:22.977+00:00",
+        "updated": "2025-04-12T14:50:15.414+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
       }
     ]
   },
