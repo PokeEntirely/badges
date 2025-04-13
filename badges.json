@@ -6385,6 +6385,28 @@
           "name": "a dusty trip [\ud83d\udca5NEW SEASON]",
           "rootPlaceId": 16389395869
         }
+      },
+      {
+        "id": 1065209553456500,
+        "name": "Boxed Up",
+        "description": null,
+        "displayName": "Boxed Up",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 133659330992598,
+        "displayIconImageId": 133659330992598,
+        "created": "2025-04-12T05:55:17.915+00:00",
+        "updated": "2025-04-13T00:58:59.314+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\ude97QUEST]",
+          "rootPlaceId": 16389395869
+        }
       }
     ]
   },
