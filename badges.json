@@ -64445,6 +64445,28 @@
           "name": " [\u270a\ud83d\udcc3\u2702\ufe0f MINUS ONE] Squid Game X",
           "rootPlaceId": 7554888362
         }
+      },
+      {
+        "id": 1730316676355123,
+        "name": "Easter Egg Hunt 2025",
+        "description": "Complete the Easter Egg Hunt 2025.",
+        "displayName": "Easter Egg Hunt 2025",
+        "displayDescription": "Complete the Easter Egg Hunt 2025.",
+        "enabled": true,
+        "iconImageId": 120122918640849,
+        "displayIconImageId": 120122918640849,
+        "created": "2025-04-15T17:02:39.697+00:00",
+        "updated": "2025-04-15T17:02:39.697+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2936053166,
+          "name": "[\ud83d\udd2bREBELLION] Squid Game X",
+          "rootPlaceId": 7554888362
+        }
       }
     ]
   },
