@@ -35,7 +35,52 @@
     ]
   },
   "4293374620": {
-    "data": []
+    "data": [
+      {
+        "id": 2571088016791283,
+        "name": "Easter 2025 - Participation",
+        "description": "You participated in the Easter 2025 event!",
+        "displayName": "Easter 2025 - Participation",
+        "displayDescription": "You participated in the Easter 2025 event!",
+        "enabled": true,
+        "iconImageId": 71514014071053,
+        "displayIconImageId": 71514014071053,
+        "created": "2025-04-09T22:27:15.366+00:00",
+        "updated": "2025-04-17T18:47:54.917+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4293374620,
+          "name": "Super League Soccer! ",
+          "rootPlaceId": 12177325772
+        }
+      },
+      {
+        "id": 1887625929883535,
+        "name": "Easter 2025 - Egg Hunter",
+        "description": "You collected this many eggs without even knowing the reward?",
+        "displayName": "Easter 2025 - Egg Hunter",
+        "displayDescription": "You collected this many eggs without even knowing the reward?",
+        "enabled": true,
+        "iconImageId": 105296029630172,
+        "displayIconImageId": 105296029630172,
+        "created": "2025-04-09T22:38:45.654+00:00",
+        "updated": "2025-04-17T18:48:22.103+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4293374620,
+          "name": "Super League Soccer! ",
+          "rootPlaceId": 12177325772
+        }
+      }
+    ]
   },
   "6707924214": {
     "data": []
