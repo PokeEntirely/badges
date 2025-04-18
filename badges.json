@@ -50710,6 +50710,28 @@
           "name": "[\u231b] Tongue Battles",
           "rootPlaceId": 16721806812
         }
+      },
+      {
+        "id": 1602834527882556,
+        "name": "Volley",
+        "description": "Congratulations on getting Volley!  Obtain this badge by completing the corresponding achievement.",
+        "displayName": "Volley",
+        "displayDescription": "Congratulations on getting Volley!  Obtain this badge by completing the corresponding achievement.",
+        "enabled": true,
+        "iconImageId": 80747693563245,
+        "displayIconImageId": 80747693563245,
+        "created": "2025-04-18T07:46:42.224+00:00",
+        "updated": "2025-04-18T07:46:59.216+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5747480325,
+          "name": "[\u231b] Tongue Battles",
+          "rootPlaceId": 16721806812
+        }
       }
     ]
   },
