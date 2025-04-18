@@ -27182,6 +27182,28 @@
           "name": "[1M\ud83d\udc4d] Emergency Response: Liberty County",
           "rootPlaceId": 2534724415
         }
+      },
+      {
+        "id": 494345940165126,
+        "name": "Certified Egg Finder",
+        "description": "Over easy? No way, this is quite the accomplishment! \n\nYou found at least 5 eggs in the ER:LC Egg Hunts\u2014eggceptional work!",
+        "displayName": "Certified Egg Finder",
+        "displayDescription": "Over easy? No way, this is quite the accomplishment! \n\nYou found at least 5 eggs in the ER:LC Egg Hunts\u2014eggceptional work!",
+        "enabled": true,
+        "iconImageId": 79638961528750,
+        "displayIconImageId": 79638961528750,
+        "created": "2025-04-18T17:38:41.057+00:00",
+        "updated": "2025-04-18T17:43:53.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 903807016,
+          "name": "Emergency Response: Liberty County",
+          "rootPlaceId": 2534724415
+        }
       }
     ]
   },
@@ -32686,6 +32708,28 @@
         "awardingUniverse": {
           "id": 274816972,
           "name": "[8X MAP SIZE\ud83c\udf0b] Car Crushers 2 - Physics Sim",
+          "rootPlaceId": 654732683
+        }
+      },
+      {
+        "id": 2125878659,
+        "name": "Faberge Egg",
+        "description": "Unlocked by finding the rare \"Faberge Egg\" in an Egg Hunt event.",
+        "displayName": "Faberge Egg",
+        "displayDescription": "Unlocked by finding the rare \"Faberge Egg\" in an Egg Hunt event.",
+        "enabled": true,
+        "iconImageId": 9331345740,
+        "displayIconImageId": 9331345740,
+        "created": "2022-04-10T14:07:55.557+00:00",
+        "updated": "2025-04-18T17:41:35.922+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 112174,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 274816972,
+          "name": "[Egg Hunt!\ud83e\udd5a] Car Crushers 2 - Physics Simulation",
           "rootPlaceId": 654732683
         }
       }
