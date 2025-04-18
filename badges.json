@@ -100437,5 +100437,2939 @@
         }
       }
     ]
+  },
+  "6485238799": {
+    "data": [
+      {
+        "id": 2675449188670007,
+        "name": "Welcome",
+        "description": "Join the game",
+        "displayName": "Welcome",
+        "displayDescription": "Join the game",
+        "enabled": true,
+        "iconImageId": 105258213387767,
+        "displayIconImageId": 105258213387767,
+        "created": "2024-09-09T19:57:21.179+00:00",
+        "updated": "2024-11-20T13:58:10.385+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 98,
+          "awardedCount": 7267,
+          "winRatePercentage": 1.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3725163974515062,
+        "name": "1 Secret",
+        "description": null,
+        "displayName": "1 Secret",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 71196984148308,
+        "displayIconImageId": 71196984148308,
+        "created": "2024-09-09T19:57:50.942+00:00",
+        "updated": "2024-11-21T06:42:00.052+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 49,
+          "awardedCount": 2655,
+          "winRatePercentage": 0.541
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3248481839783162,
+        "name": "5 Secrets",
+        "description": null,
+        "displayName": "5 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 76173864575960,
+        "displayIconImageId": 76173864575960,
+        "created": "2024-09-09T19:58:02.379+00:00",
+        "updated": "2024-11-20T23:02:16.598+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 6,
+          "awardedCount": 329,
+          "winRatePercentage": 0.066
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3343911309391982,
+        "name": "10 Secrets",
+        "description": null,
+        "displayName": "10 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 132943333010210,
+        "displayIconImageId": 132943333010210,
+        "created": "2024-09-09T19:58:12.68+00:00",
+        "updated": "2024-11-21T00:33:56.461+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4,
+          "awardedCount": 144,
+          "winRatePercentage": 0.044
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 320162607538335,
+        "name": "15 Secrets",
+        "description": null,
+        "displayName": "15 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 119989342052592,
+        "displayIconImageId": 119989342052592,
+        "created": "2024-09-09T19:58:21.631+00:00",
+        "updated": "2024-11-20T00:06:04.125+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3,
+          "awardedCount": 102,
+          "winRatePercentage": 0.033
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 4257360291912895,
+        "name": "20 Secrets",
+        "description": null,
+        "displayName": "20 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 90582174489525,
+        "displayIconImageId": 90582174489525,
+        "created": "2024-09-09T19:58:32.432+00:00",
+        "updated": "2024-11-21T08:21:38.92+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 49,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 2433442071134776,
+        "name": "25 Secrets",
+        "description": null,
+        "displayName": "25 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 91628076152027,
+        "displayIconImageId": 91628076152027,
+        "created": "2024-09-09T19:58:43.414+00:00",
+        "updated": "2024-11-20T10:07:25.531+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1,
+          "awardedCount": 15,
+          "winRatePercentage": 0.011
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 1869262059880473,
+        "name": "30 Secrets",
+        "description": null,
+        "displayName": "30 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 73421500638535,
+        "displayIconImageId": 73421500638535,
+        "created": "2024-09-09T19:58:53.356+00:00",
+        "updated": "2024-11-20T01:17:04.709+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 2481471169056079,
+        "name": "35 Secrets",
+        "description": null,
+        "displayName": "35 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 80056141174989,
+        "displayIconImageId": 80056141174989,
+        "created": "2024-09-09T19:59:02.992+00:00",
+        "updated": "2024-11-20T10:52:16.851+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3400325462627649,
+        "name": "40 Secrets",
+        "description": null,
+        "displayName": "40 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 97566400961366,
+        "displayIconImageId": 97566400961366,
+        "created": "2024-09-09T19:59:13.623+00:00",
+        "updated": "2024-11-21T01:29:51.499+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3539108037301966,
+        "name": "45 Secrets",
+        "description": null,
+        "displayName": "45 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 96417443172282,
+        "displayIconImageId": 96417443172282,
+        "created": "2024-09-09T19:59:22.856+00:00",
+        "updated": "2024-11-21T03:45:16.334+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 1300415704712249,
+        "name": "50 Secrets",
+        "description": null,
+        "displayName": "50 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 93909847769897,
+        "displayIconImageId": 93909847769897,
+        "created": "2024-09-09T19:59:32.283+00:00",
+        "updated": "2024-11-20T06:18:38.708+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 2413085070817222,
+        "name": "60 Secrets",
+        "description": null,
+        "displayName": "60 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 137659597716886,
+        "displayIconImageId": 137659597716886,
+        "created": "2024-09-09T19:59:43.79+00:00",
+        "updated": "2024-11-20T09:48:24.293+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 440366503066194,
+        "name": "70 Secrets",
+        "description": null,
+        "displayName": "70 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 118761995960134,
+        "displayIconImageId": 118761995960134,
+        "created": "2024-09-09T19:59:52.921+00:00",
+        "updated": "2024-11-20T01:15:04.812+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 255261017223274,
+        "name": "80 Secrets",
+        "description": null,
+        "displayName": "80 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 125983393094641,
+        "displayIconImageId": 125983393094641,
+        "created": "2024-09-09T20:00:03.831+00:00",
+        "updated": "2024-11-19T23:03:07.283+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3236755658520454,
+        "name": "90 Secrets",
+        "description": null,
+        "displayName": "90 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 122654901941750,
+        "displayIconImageId": 122654901941750,
+        "created": "2024-09-09T20:00:13.56+00:00",
+        "updated": "2024-11-20T22:51:13.937+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 4453355916130310,
+        "name": "100 Secrets",
+        "description": null,
+        "displayName": "100 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 132333507646279,
+        "displayIconImageId": 132333507646279,
+        "created": "2024-09-09T20:00:23.065+00:00",
+        "updated": "2024-11-21T11:35:53.814+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3449397856633946,
+        "name": "110 Secrets",
+        "description": null,
+        "displayName": "110 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 70845193044803,
+        "displayIconImageId": 70845193044803,
+        "created": "2024-09-09T20:00:33.357+00:00",
+        "updated": "2024-11-21T02:18:19.035+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 837815713963102,
+        "name": "120 Secrets",
+        "description": null,
+        "displayName": "120 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 100844520669682,
+        "displayIconImageId": 100844520669682,
+        "created": "2024-09-09T20:00:42.525+00:00",
+        "updated": "2024-11-20T03:35:33.085+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 1194481509571374,
+        "name": "130 Secrets",
+        "description": null,
+        "displayName": "130 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 88485774816952,
+        "displayIconImageId": 88485774816952,
+        "created": "2024-09-09T20:00:52.907+00:00",
+        "updated": "2024-11-20T05:40:28.409+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 4019401090445499,
+        "name": "140 Secrets",
+        "description": null,
+        "displayName": "140 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 119808926820121,
+        "displayIconImageId": 119808926820121,
+        "created": "2024-09-09T20:01:02.767+00:00",
+        "updated": "2024-11-21T04:31:16.028+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 4449982845354681,
+        "name": "150 Secrets",
+        "description": null,
+        "displayName": "150 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 117948238346371,
+        "displayIconImageId": 117948238346371,
+        "created": "2024-09-09T20:01:13.266+00:00",
+        "updated": "2024-11-21T11:32:31.801+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 3161989905830892,
+        "name": "160 Secrets",
+        "description": null,
+        "displayName": "160 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 137599173523329,
+        "displayIconImageId": 137599173523329,
+        "created": "2024-09-09T20:01:22.594+00:00",
+        "updated": "2024-11-20T21:40:48.767+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 2101497475290733,
+        "name": "170 Secrets",
+        "description": null,
+        "displayName": "170 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 119933751896508,
+        "displayIconImageId": 119933751896508,
+        "created": "2024-09-09T20:01:33.267+00:00",
+        "updated": "2024-11-20T04:57:15.427+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 2293870023509858,
+        "name": "180 Secrets",
+        "description": null,
+        "displayName": "180 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 130954773032192,
+        "displayIconImageId": 130954773032192,
+        "created": "2024-09-09T20:01:43.041+00:00",
+        "updated": "2024-11-20T07:57:03.674+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 1010856647422049,
+        "name": "190 Secrets",
+        "description": null,
+        "displayName": "190 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 122542740090510,
+        "displayIconImageId": 122542740090510,
+        "created": "2024-09-09T20:01:53.001+00:00",
+        "updated": "2024-11-20T04:36:27.273+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 1308235209474619,
+        "name": "200 Secrets",
+        "description": null,
+        "displayName": "200 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 113172988996851,
+        "displayIconImageId": 113172988996851,
+        "created": "2024-09-09T20:02:01.23+00:00",
+        "updated": "2024-11-20T06:21:27.041+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 2542712224067250,
+        "name": "210 Secrets",
+        "description": null,
+        "displayName": "210 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 121919697556225,
+        "displayIconImageId": 121919697556225,
+        "created": "2024-09-09T20:02:12.515+00:00",
+        "updated": "2024-11-20T11:49:47.282+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 1618238583070078,
+        "name": "220 Secrets",
+        "description": null,
+        "displayName": "220 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 138337678679433,
+        "displayIconImageId": 138337678679433,
+        "created": "2024-09-09T20:02:22.291+00:00",
+        "updated": "2024-11-19T21:01:04.744+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 56234668599233,
+        "name": "230 Secrets",
+        "description": null,
+        "displayName": "230 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 129227819759566,
+        "displayIconImageId": 129227819759566,
+        "created": "2024-09-09T20:02:33.002+00:00",
+        "updated": "2024-11-19T20:52:10.201+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 99424688355441,
+        "name": "240 Secrets",
+        "description": null,
+        "displayName": "240 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 72413503644330,
+        "displayIconImageId": 72413503644330,
+        "created": "2024-09-09T20:02:42.396+00:00",
+        "updated": "2024-11-19T21:07:35.095+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      },
+      {
+        "id": 2312187257961630,
+        "name": "250 Secrets",
+        "description": null,
+        "displayName": "250 Secrets",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 105116273407326,
+        "displayIconImageId": 105116273407326,
+        "created": "2024-09-09T20:02:51.961+00:00",
+        "updated": "2024-11-20T08:14:08.572+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6485238799,
+          "name": "Endless Secrets",
+          "rootPlaceId": 104812823582608
+        }
+      }
+    ]
+  },
+  "5550530788": {
+    "data": [
+      {
+        "id": 506689914497097,
+        "name": "You won!",
+        "description": "yay good job!",
+        "displayName": "You won!",
+        "displayDescription": "yay good job!",
+        "enabled": true,
+        "iconImageId": 16432004224,
+        "displayIconImageId": 16432004224,
+        "created": "2024-01-21T04:36:05.673+00:00",
+        "updated": "2024-11-20T01:38:28.083+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 72954,
+          "awardedCount": 12164680,
+          "winRatePercentage": 0.25
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3983179531864560,
+        "name": "Fell",
+        "description": "that hurt",
+        "displayName": "Fell",
+        "displayDescription": "that hurt",
+        "enabled": true,
+        "iconImageId": 16432033618,
+        "displayIconImageId": 16432033618,
+        "created": "2024-01-21T20:58:41.513+00:00",
+        "updated": "2024-11-21T10:49:19.358+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 68903,
+          "awardedCount": 11681551,
+          "winRatePercentage": 0.237
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3347303313698686,
+        "name": "Reset",
+        "description": "oof",
+        "displayName": "Reset",
+        "displayDescription": "oof",
+        "enabled": true,
+        "iconImageId": 16432053240,
+        "displayIconImageId": 16432053240,
+        "created": "2024-01-21T20:58:53.54+00:00",
+        "updated": "2024-11-21T00:37:21.451+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 30926,
+          "awardedCount": 5789453,
+          "winRatePercentage": 0.106
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2792126119235024,
+        "name": "Cheese",
+        "description": "mmm cheese",
+        "displayName": "Cheese",
+        "displayDescription": "mmm cheese",
+        "enabled": true,
+        "iconImageId": 16432073845,
+        "displayIconImageId": 16432073845,
+        "created": "2024-01-21T20:59:02.57+00:00",
+        "updated": "2024-11-20T15:48:33.169+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 58471,
+          "awardedCount": 9974600,
+          "winRatePercentage": 0.201
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1572812120958801,
+        "name": "Super Win",
+        "description": "you won but in a cooler way",
+        "displayName": "Super Win",
+        "displayDescription": "you won but in a cooler way",
+        "enabled": true,
+        "iconImageId": 16432101597,
+        "displayIconImageId": 16432101597,
+        "created": "2024-01-21T22:19:09.926+00:00",
+        "updated": "2024-11-19T20:45:17.288+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 16643,
+          "awardedCount": 1910584,
+          "winRatePercentage": 0.057
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 737746399388782,
+        "name": "Dance Party",
+        "description": "woohoo party!",
+        "displayName": "Dance Party",
+        "displayDescription": "woohoo party!",
+        "enabled": true,
+        "iconImageId": 16432141654,
+        "displayIconImageId": 16432141654,
+        "created": "2024-01-21T22:19:20.159+00:00",
+        "updated": "2024-11-20T03:00:20.91+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 7323,
+          "awardedCount": 1626815,
+          "winRatePercentage": 0.025
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3939158612366754,
+        "name": "Party Pooper",
+        "description": "):",
+        "displayName": "Party Pooper",
+        "displayDescription": "):",
+        "enabled": true,
+        "iconImageId": 16432170424,
+        "displayIconImageId": 16432170424,
+        "created": "2024-01-21T22:19:31.452+00:00",
+        "updated": "2024-11-21T10:06:09.396+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4829,
+          "awardedCount": 1025268,
+          "winRatePercentage": 0.017
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1004340561514103,
+        "name": "Disco Ball",
+        "description": "sparkly",
+        "displayName": "Disco Ball",
+        "displayDescription": "sparkly",
+        "enabled": true,
+        "iconImageId": 16692920120,
+        "displayIconImageId": 16692920120,
+        "created": "2024-01-21T22:34:39.193+00:00",
+        "updated": "2024-11-20T04:34:12.989+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3526,
+          "awardedCount": 722612,
+          "winRatePercentage": 0.012
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2321452368114160,
+        "name": "Super Dance Party",
+        "description": "???",
+        "displayName": "Super Dance Party",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 16692926084,
+        "displayIconImageId": 16692926084,
+        "created": "2024-01-21T22:34:45.396+00:00",
+        "updated": "2024-11-20T08:22:47.448+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2765,
+          "awardedCount": 550909,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2517383542048118,
+        "name": "Consumed",
+        "description": "uh oh",
+        "displayName": "Consumed",
+        "displayDescription": "uh oh",
+        "enabled": true,
+        "iconImageId": 16432187682,
+        "displayIconImageId": 16432187682,
+        "created": "2024-01-21T22:34:52.216+00:00",
+        "updated": "2024-11-20T11:25:56.062+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 18453,
+          "awardedCount": 3666966,
+          "winRatePercentage": 0.063
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3900171386237014,
+        "name": "Golden Cheese",
+        "description": "ooo shiny",
+        "displayName": "Golden Cheese",
+        "displayDescription": "ooo shiny",
+        "enabled": true,
+        "iconImageId": 16432231213,
+        "displayIconImageId": 16432231213,
+        "created": "2024-01-21T22:34:58.495+00:00",
+        "updated": "2024-11-21T09:27:59.621+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5478,
+          "awardedCount": 969809,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3627188615660080,
+        "name": "Stuck",
+        "description": "you're stuck",
+        "displayName": "Stuck",
+        "displayDescription": "you're stuck",
+        "enabled": true,
+        "iconImageId": 16432242013,
+        "displayIconImageId": 16432242013,
+        "created": "2024-01-21T22:35:05.907+00:00",
+        "updated": "2024-11-21T05:09:39.93+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 12677,
+          "awardedCount": 1794254,
+          "winRatePercentage": 0.044
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2182812628771255,
+        "name": "Money Bag",
+        "description": "???",
+        "displayName": "Money Bag",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 16692996737,
+        "displayIconImageId": 16692996737,
+        "created": "2024-01-21T22:35:17.411+00:00",
+        "updated": "2024-11-20T06:13:24.984+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4627,
+          "awardedCount": 803131,
+          "winRatePercentage": 0.016
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4016044953164326,
+        "name": "Toxic Death",
+        "description": "don't touch that",
+        "displayName": "Toxic Death",
+        "displayDescription": "don't touch that",
+        "enabled": true,
+        "iconImageId": 16432262636,
+        "displayIconImageId": 16432262636,
+        "created": "2024-01-21T22:36:25.771+00:00",
+        "updated": "2024-11-21T04:28:01.013+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 14839,
+          "awardedCount": 2557524,
+          "winRatePercentage": 0.051
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3734412347432577,
+        "name": "Rat Attack",
+        "description": "you made him mad",
+        "displayName": "Rat Attack",
+        "displayDescription": "you made him mad",
+        "enabled": true,
+        "iconImageId": 16432275304,
+        "displayIconImageId": 16432275304,
+        "created": "2024-01-21T22:36:33.083+00:00",
+        "updated": "2024-11-21T06:50:45.624+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 15452,
+          "awardedCount": 2567378,
+          "winRatePercentage": 0.053
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1452952561076752,
+        "name": "Pit of Death",
+        "description": "death",
+        "displayName": "Pit of Death",
+        "displayDescription": "death",
+        "enabled": true,
+        "iconImageId": 16432286944,
+        "displayIconImageId": 16432286944,
+        "created": "2024-01-21T22:36:39.748+00:00",
+        "updated": "2024-11-20T07:12:52.133+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3522,
+          "awardedCount": 574721,
+          "winRatePercentage": 0.012
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3449495976740290,
+        "name": "Lightning Strike",
+        "description": "that tickled",
+        "displayName": "Lightning Strike",
+        "displayDescription": "that tickled",
+        "enabled": true,
+        "iconImageId": 16693007460,
+        "displayIconImageId": 16693007460,
+        "created": "2024-01-21T22:36:45.886+00:00",
+        "updated": "2024-11-21T02:18:24.645+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 817,
+          "awardedCount": 186617,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 844636692959558,
+        "name": "Unstuck?",
+        "description": "nope still stuck",
+        "displayName": "Unstuck?",
+        "displayDescription": "nope still stuck",
+        "enabled": true,
+        "iconImageId": 16972119910,
+        "displayIconImageId": 16972119910,
+        "created": "2024-01-21T22:36:51.946+00:00",
+        "updated": "2024-11-20T03:37:58.808+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2084,
+          "awardedCount": 339590,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 394158987024363,
+        "name": "Dominus",
+        "description": "RICH",
+        "displayName": "Dominus",
+        "displayDescription": "RICH",
+        "enabled": true,
+        "iconImageId": 16693019827,
+        "displayIconImageId": 16693019827,
+        "created": "2024-01-21T22:36:57.675+00:00",
+        "updated": "2024-11-20T00:59:02.339+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 273,
+          "awardedCount": 53293,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4387363514067523,
+        "name": "Apple",
+        "description": "yummy",
+        "displayName": "Apple",
+        "displayDescription": "yummy",
+        "enabled": true,
+        "iconImageId": 16432351237,
+        "displayIconImageId": 16432351237,
+        "created": "2024-01-21T22:37:03.917+00:00",
+        "updated": "2024-11-21T10:30:20.506+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 35575,
+          "awardedCount": 6445238,
+          "winRatePercentage": 0.122
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3562269155153741,
+        "name": "Grapes",
+        "description": "i love grapes",
+        "displayName": "Grapes",
+        "displayDescription": "i love grapes",
+        "enabled": true,
+        "iconImageId": 16432375932,
+        "displayIconImageId": 16432375932,
+        "created": "2024-01-21T22:37:09.853+00:00",
+        "updated": "2024-11-21T04:07:06.239+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 19861,
+          "awardedCount": 3806937,
+          "winRatePercentage": 0.068
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 967319593419218,
+        "name": "Golden Apple",
+        "description": "i prefer my apples golden",
+        "displayName": "Golden Apple",
+        "displayDescription": "i prefer my apples golden",
+        "enabled": true,
+        "iconImageId": 135223942280658,
+        "displayIconImageId": 135223942280658,
+        "created": "2024-01-21T22:37:16.195+00:00",
+        "updated": "2024-11-20T04:21:25.142+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 437,
+          "awardedCount": 83593,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4266432065843399,
+        "name": "Gold Bar",
+        "description": "we rich",
+        "displayName": "Gold Bar",
+        "displayDescription": "we rich",
+        "enabled": true,
+        "iconImageId": 16693032175,
+        "displayIconImageId": 16693032175,
+        "created": "2024-01-21T22:37:22.215+00:00",
+        "updated": "2025-01-20T16:49:18.223+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 126,
+          "awardedCount": 24298,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2228561582811460,
+        "name": "Murderer",
+        "description": "how could you?",
+        "displayName": "Murderer",
+        "displayDescription": "how could you?",
+        "enabled": true,
+        "iconImageId": 16693037091,
+        "displayIconImageId": 16693037091,
+        "created": "2024-01-21T22:37:29.309+00:00",
+        "updated": "2025-01-20T16:49:33.688+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2638,
+          "awardedCount": 460736,
+          "winRatePercentage": 0.009
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2038238352563365,
+        "name": "Ascension",
+        "description": "to the heavens",
+        "displayName": "Ascension",
+        "displayDescription": "to the heavens",
+        "enabled": true,
+        "iconImageId": 70829650680827,
+        "displayIconImageId": 70829650680827,
+        "created": "2024-01-21T22:37:49.95+00:00",
+        "updated": "2024-11-20T03:57:32.151+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3880,
+          "awardedCount": 704734,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4086279921625857,
+        "name": "Explosion",
+        "description": "BOOM!",
+        "displayName": "Explosion",
+        "displayDescription": "BOOM!",
+        "enabled": true,
+        "iconImageId": 72581350276003,
+        "displayIconImageId": 72581350276003,
+        "created": "2024-01-22T03:01:44.751+00:00",
+        "updated": "2025-01-20T16:49:43.563+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1277,
+          "awardedCount": 236239,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 836980152962368,
+        "name": "Obby",
+        "description": "easy mega fun obby",
+        "displayName": "Obby",
+        "displayDescription": "easy mega fun obby",
+        "enabled": true,
+        "iconImageId": 104763753131230,
+        "displayIconImageId": 104763753131230,
+        "created": "2024-01-22T03:01:55.605+00:00",
+        "updated": "2025-01-20T16:49:56.841+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 5649,
+          "awardedCount": 1121785,
+          "winRatePercentage": 0.019
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1303839577874643,
+        "name": "Lava",
+        "description": "i would recommend not touching that",
+        "displayName": "Lava",
+        "displayDescription": "i would recommend not touching that",
+        "enabled": true,
+        "iconImageId": 72696621969581,
+        "displayIconImageId": 72696621969581,
+        "created": "2024-01-22T03:02:01.112+00:00",
+        "updated": "2025-01-20T16:50:21.999+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 8936,
+          "awardedCount": 1672532,
+          "winRatePercentage": 0.031
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 179078362784761,
+        "name": "Underground",
+        "description": "deep below the surface",
+        "displayName": "Underground",
+        "displayDescription": "deep below the surface",
+        "enabled": true,
+        "iconImageId": 85091893137069,
+        "displayIconImageId": 85091893137069,
+        "created": "2024-01-22T03:02:07.101+00:00",
+        "updated": "2025-01-20T16:50:38.923+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 870,
+          "awardedCount": 143538,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2040352151823757,
+        "name": "Moon",
+        "description": "???",
+        "displayName": "Moon",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 74239301423525,
+        "displayIconImageId": 74239301423525,
+        "created": "2024-01-22T03:02:15.245+00:00",
+        "updated": "2024-11-20T03:59:31.802+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1885,
+          "awardedCount": 299036,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4131722187734295,
+        "name": "Paintbrush",
+        "description": "picasso",
+        "displayName": "Paintbrush",
+        "displayDescription": "picasso",
+        "enabled": true,
+        "iconImageId": 121231226650036,
+        "displayIconImageId": 121231226650036,
+        "created": "2024-01-22T03:02:21.814+00:00",
+        "updated": "2025-01-20T16:51:10.982+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1760,
+          "awardedCount": 299579,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1650248694557779,
+        "name": "Ghost",
+        "description": "boo!",
+        "displayName": "Ghost",
+        "displayDescription": "boo!",
+        "enabled": true,
+        "iconImageId": 121670191962684,
+        "displayIconImageId": 121670191962684,
+        "created": "2024-01-22T03:02:28.423+00:00",
+        "updated": "2025-01-20T16:51:27.99+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1077,
+          "awardedCount": 156347,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3395174628444964,
+        "name": "Golden Rat",
+        "description": "???",
+        "displayName": "Golden Rat",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 134873654437980,
+        "displayIconImageId": 134873654437980,
+        "created": "2024-01-22T03:02:34.858+00:00",
+        "updated": "2024-11-21T01:24:47.836+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1533,
+          "awardedCount": 212087,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1216126232923763,
+        "name": "Sick",
+        "description": "i don't feel so good",
+        "displayName": "Sick",
+        "displayDescription": "i don't feel so good",
+        "enabled": true,
+        "iconImageId": 16432398631,
+        "displayIconImageId": 16432398631,
+        "created": "2024-01-22T03:02:41.062+00:00",
+        "updated": "2024-11-20T05:48:16.879+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4523,
+          "awardedCount": 803325,
+          "winRatePercentage": 0.016
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1504427777001478,
+        "name": "Fire",
+        "description": "???",
+        "displayName": "Fire",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 92772432095698,
+        "displayIconImageId": 92772432095698,
+        "created": "2024-01-22T03:02:47.056+00:00",
+        "updated": "2024-11-19T20:21:41.146+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 580,
+          "awardedCount": 91296,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 361624016471764,
+        "name": "Engulfed",
+        "description": "it keeps growing...",
+        "displayName": "Engulfed",
+        "displayDescription": "it keeps growing...",
+        "enabled": true,
+        "iconImageId": 114921412132442,
+        "displayIconImageId": 114921412132442,
+        "created": "2024-01-22T03:02:53.302+00:00",
+        "updated": "2025-01-20T16:51:50.15+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 579,
+          "awardedCount": 103040,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3687315953502759,
+        "name": "Obby Master",
+        "description": "???",
+        "displayName": "Obby Master",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 104910947873752,
+        "displayIconImageId": 104910947873752,
+        "created": "2024-01-22T03:02:59.999+00:00",
+        "updated": "2024-11-21T06:06:12.286+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1176,
+          "awardedCount": 225383,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1875247408420045,
+        "name": "Void",
+        "description": ".",
+        "displayName": "Void",
+        "displayDescription": ".",
+        "enabled": true,
+        "iconImageId": 16432305241,
+        "displayIconImageId": 16432305241,
+        "created": "2024-01-22T03:03:05.795+00:00",
+        "updated": "2024-11-20T01:22:44.715+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2932,
+          "awardedCount": 455697,
+          "winRatePercentage": 0.01
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3525255449810220,
+        "name": "Sad",
+        "description": "):",
+        "displayName": "Sad",
+        "displayDescription": "):",
+        "enabled": true,
+        "iconImageId": 115795510197138,
+        "displayIconImageId": 115795510197138,
+        "created": "2024-01-22T03:03:12.083+00:00",
+        "updated": "2025-01-20T16:52:08.462+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4293,
+          "awardedCount": 738907,
+          "winRatePercentage": 0.015
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1474783286516499,
+        "name": "KO'd",
+        "description": "???",
+        "displayName": "KO'd",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 94074953720458,
+        "displayIconImageId": 94074953720458,
+        "created": "2024-01-22T03:03:19.24+00:00",
+        "updated": "2024-11-20T07:20:25.851+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3497,
+          "awardedCount": 622893,
+          "winRatePercentage": 0.012
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2186833742024515,
+        "name": "Forest",
+        "description": "???",
+        "displayName": "Forest",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 78555835160503,
+        "displayIconImageId": 78555835160503,
+        "created": "2024-01-22T03:03:34.672+00:00",
+        "updated": "2024-11-20T06:17:11.23+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1201,
+          "awardedCount": 225355,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1469764879663913,
+        "name": "Burger",
+        "description": "cheezburger",
+        "displayName": "Burger",
+        "displayDescription": "cheezburger",
+        "enabled": true,
+        "iconImageId": 91122171946464,
+        "displayIconImageId": 91122171946464,
+        "created": "2024-01-22T03:03:41.861+00:00",
+        "updated": "2025-01-20T16:54:34.313+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 314,
+          "awardedCount": 49567,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1516420972575996,
+        "name": "Burnt",
+        "description": "???",
+        "displayName": "Burnt",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 121495150295400,
+        "displayIconImageId": 121495150295400,
+        "created": "2024-01-22T03:03:48.847+00:00",
+        "updated": "2024-11-19T20:25:45.41+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 224,
+          "awardedCount": 52462,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2007372519040253,
+        "name": "Cloud",
+        "description": "way up in the sky",
+        "displayName": "Cloud",
+        "displayDescription": "way up in the sky",
+        "enabled": true,
+        "iconImageId": 16432423206,
+        "displayIconImageId": 16432423206,
+        "created": "2024-01-22T03:03:54.927+00:00",
+        "updated": "2024-11-20T03:28:16.626+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 9923,
+          "awardedCount": 1488706,
+          "winRatePercentage": 0.034
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3113815160605641,
+        "name": "Spawn",
+        "description": "???",
+        "displayName": "Spawn",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 80659364114882,
+        "displayIconImageId": 80659364114882,
+        "created": "2024-01-22T03:04:01.089+00:00",
+        "updated": "2024-11-20T20:55:15.772+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 210,
+          "awardedCount": 36805,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1421129947021942,
+        "name": "Mine",
+        "description": "BOOM!!",
+        "displayName": "Mine",
+        "displayDescription": "BOOM!!",
+        "enabled": true,
+        "iconImageId": 16432444127,
+        "displayIconImageId": 16432444127,
+        "created": "2024-01-22T03:04:07.662+00:00",
+        "updated": "2024-11-20T07:01:52.758+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 4017,
+          "awardedCount": 616463,
+          "winRatePercentage": 0.014
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1668769159848094,
+        "name": "Trapped",
+        "description": "let him out!",
+        "displayName": "Trapped",
+        "displayDescription": "let him out!",
+        "enabled": true,
+        "iconImageId": 108910699024584,
+        "displayIconImageId": 108910699024584,
+        "created": "2024-01-22T03:04:14.565+00:00",
+        "updated": "2025-01-20T16:55:31.344+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 532,
+          "awardedCount": 96430,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2465710594489253,
+        "name": "Colorful",
+        "description": "???",
+        "displayName": "Colorful",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 124800718610692,
+        "displayIconImageId": 124800718610692,
+        "created": "2024-01-22T03:04:20.982+00:00",
+        "updated": "2024-11-20T10:37:34.772+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 284,
+          "awardedCount": 52302,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3417783271222121,
+        "name": "Shattered",
+        "description": "hey I paid for that",
+        "displayName": "Shattered",
+        "displayDescription": "hey I paid for that",
+        "enabled": true,
+        "iconImageId": 80703687360995,
+        "displayIconImageId": 80703687360995,
+        "created": "2024-01-22T03:04:27.739+00:00",
+        "updated": "2025-01-20T16:55:43.799+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 392,
+          "awardedCount": 74548,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1197833395790853,
+        "name": "Sun",
+        "description": "???",
+        "displayName": "Sun",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 104848067638952,
+        "displayIconImageId": 104848067638952,
+        "created": "2024-01-22T03:04:35.402+00:00",
+        "updated": "2024-11-20T05:41:40.938+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1213,
+          "awardedCount": 216247,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 139999870545659,
+        "name": "Rainbow",
+        "description": "???",
+        "displayName": "Rainbow",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 110795793085793,
+        "displayIconImageId": 110795793085793,
+        "created": "2024-02-13T01:31:58.514+00:00",
+        "updated": "2024-11-19T21:21:40.551+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 63,
+          "awardedCount": 9441,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4056234054803342,
+        "name": "Globe",
+        "description": "???",
+        "displayName": "Globe",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 114261928211136,
+        "displayIconImageId": 114261928211136,
+        "created": "2024-02-13T02:20:31.832+00:00",
+        "updated": "2024-11-21T05:06:41.327+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 76,
+          "awardedCount": 10405,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2287629836182173,
+        "name": "Storm Cloud",
+        "description": "???",
+        "displayName": "Storm Cloud",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 135012554233273,
+        "displayIconImageId": 135012554233273,
+        "created": "2024-02-18T22:31:45.535+00:00",
+        "updated": "2024-11-20T07:51:14.29+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1385,
+          "awardedCount": 193996,
+          "winRatePercentage": 0.005
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2163270689852649,
+        "name": "Lost",
+        "description": "where am i?",
+        "displayName": "Lost",
+        "displayDescription": "where am i?",
+        "enabled": true,
+        "iconImageId": 116050352170208,
+        "displayIconImageId": 116050352170208,
+        "created": "2024-02-19T00:29:01.595+00:00",
+        "updated": "2025-01-20T16:56:05.289+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1157,
+          "awardedCount": 188185,
+          "winRatePercentage": 0.004
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 474035268709008,
+        "name": "Lockdown",
+        "description": "???",
+        "displayName": "Lockdown",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 72937267727268,
+        "displayIconImageId": 72937267727268,
+        "created": "2024-02-19T03:59:37.696+00:00",
+        "updated": "2024-11-20T01:26:43.809+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 464,
+          "awardedCount": 80606,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1680072919901565,
+        "name": "Overloaded",
+        "description": "???",
+        "displayName": "Overloaded",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 108543320981635,
+        "displayIconImageId": 108543320981635,
+        "created": "2024-02-19T04:00:00.274+00:00",
+        "updated": "2024-11-19T22:19:48.459+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 140,
+          "awardedCount": 24534,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1193765618434637,
+        "name": "Mirror",
+        "description": "???",
+        "displayName": "Mirror",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 112164086608399,
+        "displayIconImageId": 112164086608399,
+        "created": "2024-02-20T01:47:24.969+00:00",
+        "updated": "2024-11-20T05:40:12.962+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 464,
+          "awardedCount": 72196,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3374896506277179,
+        "name": "Invisible",
+        "description": "???",
+        "displayName": "Invisible",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 128756952306231,
+        "displayIconImageId": 128756952306231,
+        "created": "2024-02-20T01:47:38.357+00:00",
+        "updated": "2024-11-21T01:04:42.319+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 267,
+          "awardedCount": 42346,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3921772044116238,
+        "name": "Flood",
+        "description": "???",
+        "displayName": "Flood",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 134851542212977,
+        "displayIconImageId": 134851542212977,
+        "created": "2024-02-23T21:33:50.828+00:00",
+        "updated": "2024-11-21T09:49:08.713+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 858,
+          "awardedCount": 105229,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3936671022061704,
+        "name": "Angry",
+        "description": "???",
+        "displayName": "Angry",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 102736778350377,
+        "displayIconImageId": 102736778350377,
+        "created": "2024-02-23T21:38:03.788+00:00",
+        "updated": "2024-11-21T10:03:43.165+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 294,
+          "awardedCount": 45279,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3827930951933962,
+        "name": "Diamond Cheese",
+        "description": "???",
+        "displayName": "Diamond Cheese",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 92885041037643,
+        "displayIconImageId": 92885041037643,
+        "created": "2024-02-23T21:38:23.27+00:00",
+        "updated": "2024-11-21T08:19:29.96+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 204,
+          "awardedCount": 35073,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2023876154348483,
+        "name": "Rubber Ducky",
+        "description": "???",
+        "displayName": "Rubber Ducky",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 134893858413412,
+        "displayIconImageId": 134893858413412,
+        "created": "2024-02-24T01:03:33.084+00:00",
+        "updated": "2024-11-20T03:43:57.978+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 275,
+          "awardedCount": 24687,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3904813908933265,
+        "name": "Vault",
+        "description": "???",
+        "displayName": "Vault",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 84079727795823,
+        "displayIconImageId": 84079727795823,
+        "created": "2024-02-24T01:13:25.442+00:00",
+        "updated": "2024-11-21T09:32:32.782+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 66,
+          "awardedCount": 11982,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1279281084783973,
+        "name": "Graveyard",
+        "description": "???",
+        "displayName": "Graveyard",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 103449354682221,
+        "displayIconImageId": 103449354682221,
+        "created": "2024-02-29T00:45:33.393+00:00",
+        "updated": "2024-11-20T06:11:00.94+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 204,
+          "awardedCount": 25296,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2045962419232996,
+        "name": "Acrophobia",
+        "description": "???",
+        "displayName": "Acrophobia",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 80500051296343,
+        "displayIconImageId": 80500051296343,
+        "created": "2024-03-01T02:48:26.188+00:00",
+        "updated": "2024-11-20T04:04:51.602+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 356,
+          "awardedCount": 56838,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 382640279096320,
+        "name": "Dance Moves",
+        "description": "???",
+        "displayName": "Dance Moves",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 106417470504613,
+        "displayIconImageId": 106417470504613,
+        "created": "2024-03-01T22:54:12.815+00:00",
+        "updated": "2024-11-20T00:55:02.641+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 476,
+          "awardedCount": 83693,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2459735494955133,
+        "name": "Deforestation",
+        "description": "???",
+        "displayName": "Deforestation",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 123271382376562,
+        "displayIconImageId": 123271382376562,
+        "created": "2024-03-01T23:32:49.813+00:00",
+        "updated": "2024-11-20T10:32:00.998+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 137,
+          "awardedCount": 19221,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2937024391011318,
+        "name": "Broken",
+        "description": "???",
+        "displayName": "Broken",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 129610248080366,
+        "displayIconImageId": 129610248080366,
+        "created": "2024-03-01T23:54:31.247+00:00",
+        "updated": "2024-11-20T18:04:48.628+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 172,
+          "awardedCount": 23577,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2047338698976282,
+        "name": "Glitched",
+        "description": "???",
+        "displayName": "Glitched",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 104389920383231,
+        "displayIconImageId": 104389920383231,
+        "created": "2024-03-02T02:50:55.888+00:00",
+        "updated": "2024-11-20T04:06:08.853+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 58,
+          "awardedCount": 6856,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 662294315086723,
+        "name": "Black Hole",
+        "description": "???",
+        "displayName": "Black Hole",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 106474744215131,
+        "displayIconImageId": 106474744215131,
+        "created": "2024-03-02T03:52:04.83+00:00",
+        "updated": "2024-11-20T02:33:52.808+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 79,
+          "awardedCount": 11404,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 589938854234706,
+        "name": "Destruction",
+        "description": "???",
+        "displayName": "Destruction",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 124687963622119,
+        "displayIconImageId": 124687963622119,
+        "created": "2024-03-02T15:32:02.277+00:00",
+        "updated": "2024-11-20T02:08:20.245+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1008,
+          "awardedCount": 83907,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1717448476252442,
+        "name": "Caught",
+        "description": "???",
+        "displayName": "Caught",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 74458398101730,
+        "displayIconImageId": 74458398101730,
+        "created": "2024-03-02T15:55:33.254+00:00",
+        "updated": "2024-11-19T22:55:00.6+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 518,
+          "awardedCount": 73880,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3629207653307642,
+        "name": "Restuck",
+        "description": "???",
+        "displayName": "Restuck",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 78351680487701,
+        "displayIconImageId": 78351680487701,
+        "created": "2024-03-02T16:19:35.823+00:00",
+        "updated": "2024-11-21T05:11:33.401+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 256,
+          "awardedCount": 31442,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2749096702991881,
+        "name": "Collapse",
+        "description": "???",
+        "displayName": "Collapse",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 135645099736567,
+        "displayIconImageId": 135645099736567,
+        "created": "2024-03-08T23:25:44.148+00:00",
+        "updated": "2024-11-20T15:08:04.807+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 11015,
+          "awardedCount": 1638508,
+          "winRatePercentage": 0.038
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2941943555456632,
+        "name": "Skeleton",
+        "description": "???",
+        "displayName": "Skeleton",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 121820190053658,
+        "displayIconImageId": 121820190053658,
+        "created": "2024-03-08T23:25:54.225+00:00",
+        "updated": "2024-11-20T18:09:28.084+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1825,
+          "awardedCount": 277686,
+          "winRatePercentage": 0.006
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4022383285367914,
+        "name": "R.I.P.",
+        "description": "???",
+        "displayName": "R.I.P.",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 106449480293031,
+        "displayIconImageId": 106449480293031,
+        "created": "2024-03-08T23:26:02.211+00:00",
+        "updated": "2024-11-21T04:34:09.284+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 105,
+          "awardedCount": 16330,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3366524520008997,
+        "name": "Revived",
+        "description": "???",
+        "displayName": "Revived",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 77443767052383,
+        "displayIconImageId": 77443767052383,
+        "created": "2024-03-08T23:26:11.517+00:00",
+        "updated": "2024-11-21T00:56:26.98+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 558,
+          "awardedCount": 74662,
+          "winRatePercentage": 0.002
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 241360240380097,
+        "name": "Spiky",
+        "description": "???",
+        "displayName": "Spiky",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 92776421435458,
+        "displayIconImageId": 92776421435458,
+        "created": "2024-03-08T23:26:20.085+00:00",
+        "updated": "2024-11-19T22:49:39.125+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 22119,
+          "awardedCount": 3219814,
+          "winRatePercentage": 0.076
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4001291011210746,
+        "name": "Ablaze",
+        "description": "???",
+        "displayName": "Ablaze",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 117987527924376,
+        "displayIconImageId": 117987527924376,
+        "created": "2024-03-08T23:26:29.47+00:00",
+        "updated": "2024-11-21T04:13:41.092+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 265,
+          "awardedCount": 39963,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 16822181195128,
+        "name": "Forest Fire",
+        "description": "???",
+        "displayName": "Forest Fire",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 108655463666683,
+        "displayIconImageId": 108655463666683,
+        "created": "2024-03-08T23:26:39.865+00:00",
+        "updated": "2024-11-19T20:38:32.93+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 111,
+          "awardedCount": 11633,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3671018979274658,
+        "name": "Button",
+        "description": "???",
+        "displayName": "Button",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 137156667758784,
+        "displayIconImageId": 137156667758784,
+        "created": "2024-03-08T23:26:50.014+00:00",
+        "updated": "2024-11-21T05:50:51.56+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 115,
+          "awardedCount": 13766,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3870722598256609,
+        "name": "Beam",
+        "description": "???",
+        "displayName": "Beam",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 117077198166921,
+        "displayIconImageId": 117077198166921,
+        "created": "2024-03-08T23:27:00.474+00:00",
+        "updated": "2024-11-21T08:59:52.002+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 196,
+          "awardedCount": 17901,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2115955295312834,
+        "name": "Abducted",
+        "description": "???",
+        "displayName": "Abducted",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 131960370852318,
+        "displayIconImageId": 131960370852318,
+        "created": "2024-03-08T23:27:13.089+00:00",
+        "updated": "2024-11-20T05:10:57.396+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 183,
+          "awardedCount": 16461,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2690524800597484,
+        "name": "Gift",
+        "description": "???",
+        "displayName": "Gift",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 129352716883875,
+        "displayIconImageId": 129352716883875,
+        "created": "2024-03-23T02:26:08.169+00:00",
+        "updated": "2024-11-20T14:12:28.887+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 144,
+          "awardedCount": 13380,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 620734134699632,
+        "name": "Annihilation",
+        "description": "???",
+        "displayName": "Annihilation",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 124693121126458,
+        "displayIconImageId": 124693121126458,
+        "created": "2024-03-23T02:47:24.423+00:00",
+        "updated": "2024-11-20T02:19:25.082+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 171,
+          "awardedCount": 15244,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2331949246590358,
+        "name": "Swarmed",
+        "description": "???",
+        "displayName": "Swarmed",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 107095857383730,
+        "displayIconImageId": 107095857383730,
+        "created": "2024-03-23T02:47:47.721+00:00",
+        "updated": "2024-11-20T08:32:36.082+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 90,
+          "awardedCount": 9133,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 797018842178884,
+        "name": "Rock",
+        "description": "???",
+        "displayName": "Rock",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 119421073429087,
+        "displayIconImageId": 119421073429087,
+        "created": "2024-03-23T22:38:15.834+00:00",
+        "updated": "2024-11-20T03:21:11.18+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 3688,
+          "awardedCount": 439799,
+          "winRatePercentage": 0.013
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1455425429432741,
+        "name": "Big Cheese",
+        "description": "???",
+        "displayName": "Big Cheese",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 111895996599619,
+        "displayIconImageId": 111895996599619,
+        "created": "2024-03-23T22:38:30.706+00:00",
+        "updated": "2024-11-20T07:13:43.515+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 2130,
+          "awardedCount": 266300,
+          "winRatePercentage": 0.007
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3887044554314939,
+        "name": "Little Cheese",
+        "description": "???",
+        "displayName": "Little Cheese",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 85475141543628,
+        "displayIconImageId": 85475141543628,
+        "created": "2024-03-23T22:38:47.035+00:00",
+        "updated": "2024-11-21T09:15:15.455+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 1004,
+          "awardedCount": 112706,
+          "winRatePercentage": 0.003
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 618915042301246,
+        "name": "ERROR",
+        "description": "Not yet released.",
+        "displayName": "ERROR",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024011162,
+        "displayIconImageId": 17024011162,
+        "created": "2024-04-05T19:06:28.381+00:00",
+        "updated": "2024-11-20T02:18:44.075+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3069505362609424,
+        "name": "INVALID_ENDING",
+        "description": "Not yet released.",
+        "displayName": "INVALID_ENDING",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024031188,
+        "displayIconImageId": 17024031188,
+        "created": "2024-04-05T19:08:13.466+00:00",
+        "updated": "2024-11-20T20:11:47.715+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1524782840612552,
+        "name": "SHUTDOWN",
+        "description": "Not yet released.",
+        "displayName": "SHUTDOWN",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024034341,
+        "displayIconImageId": 17024034341,
+        "created": "2024-04-05T19:08:27.877+00:00",
+        "updated": "2024-11-19T20:28:37.794+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3942440874282182,
+        "name": "???",
+        "description": "Not yet released.",
+        "displayName": "???",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024036646,
+        "displayIconImageId": 17024036646,
+        "created": "2024-04-05T19:08:42.043+00:00",
+        "updated": "2024-11-21T10:09:22.825+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2949959803420520,
+        "name": "???",
+        "description": "Not yet released.",
+        "displayName": "???",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024039713,
+        "displayIconImageId": 17024039713,
+        "created": "2024-04-05T19:08:54.98+00:00",
+        "updated": "2024-11-20T18:17:00.3+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 4502450303378652,
+        "name": "???",
+        "description": "Not yet released.",
+        "displayName": "???",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024045598,
+        "displayIconImageId": 17024045598,
+        "created": "2024-04-05T19:09:24.857+00:00",
+        "updated": "2024-11-21T12:24:50.576+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3470293039336229,
+        "name": "???",
+        "description": "Not yet released.",
+        "displayName": "???",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024049216,
+        "displayIconImageId": 17024049216,
+        "created": "2024-04-05T19:09:48.164+00:00",
+        "updated": "2024-11-21T02:38:55.601+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 2863651874308924,
+        "name": "???",
+        "description": "Not yet released.",
+        "displayName": "???",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024051254,
+        "displayIconImageId": 17024051254,
+        "created": "2024-04-05T19:10:00.343+00:00",
+        "updated": "2024-11-20T16:55:49.036+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3169890146660998,
+        "name": "???",
+        "description": "Not yet released.",
+        "displayName": "???",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024055123,
+        "displayIconImageId": 17024055123,
+        "created": "2024-04-05T19:10:17.314+00:00",
+        "updated": "2024-11-20T21:48:13.687+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 3866514736495432,
+        "name": "???",
+        "description": "Not yet released.",
+        "displayName": "???",
+        "displayDescription": "Not yet released.",
+        "enabled": true,
+        "iconImageId": 17024057865,
+        "displayIconImageId": 17024057865,
+        "created": "2024-04-05T19:10:33.713+00:00",
+        "updated": "2024-11-21T08:55:52.727+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 1472844924662288,
+        "name": "You won?",
+        "description": "Not yet released...",
+        "displayName": "You won?",
+        "displayDescription": "Not yet released...",
+        "enabled": true,
+        "iconImageId": 17024132618,
+        "displayIconImageId": 17024132618,
+        "created": "2024-04-05T19:11:12.9+00:00",
+        "updated": "2025-01-29T18:29:04.955+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      },
+      {
+        "id": 836955702931171,
+        "name": "???",
+        "description": "Unreleased",
+        "displayName": "???",
+        "displayDescription": "Unreleased",
+        "enabled": true,
+        "iconImageId": 121830669915693,
+        "displayIconImageId": 121830669915693,
+        "created": "2024-11-15T20:27:30.832+00:00",
+        "updated": "2024-11-20T03:35:15.182+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5550530788,
+          "name": "easiest game on roblox!",
+          "rootPlaceId": 16057679366
+        }
+      }
+    ]
   }
 }
