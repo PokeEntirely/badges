@@ -55918,6 +55918,28 @@
           "name": "Slap Battles\ud83d\udc4f ",
           "rootPlaceId": 6403373529
         }
+      },
+      {
+        "id": 2286252038116816,
+        "name": "who is that?? 0.0",
+        "description": ":)",
+        "displayName": "who is that?? 0.0",
+        "displayDescription": ":)",
+        "enabled": true,
+        "iconImageId": 93060968571514,
+        "displayIconImageId": 93060968571514,
+        "created": "2025-04-17T23:57:13.705+00:00",
+        "updated": "2025-04-17T23:57:13.705+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2380077519,
+          "name": "Slap Battles\ud83d\udc4f ",
+          "rootPlaceId": 6403373529
+        }
       }
     ]
   },
