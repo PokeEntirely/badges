@@ -43304,6 +43304,72 @@
           "name": "Gym League ",
           "rootPlaceId": 17450551531
         }
+      },
+      {
+        "id": 4111251928312189,
+        "name": "Nebula",
+        "description": null,
+        "displayName": "Nebula",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 104252619230745,
+        "displayIconImageId": 104252619230745,
+        "created": "2025-04-19T16:25:05.497+00:00",
+        "updated": "2025-04-19T16:25:05.497+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5972059550,
+          "name": "[\u23f3] Gym League ",
+          "rootPlaceId": 17450551531
+        }
+      },
+      {
+        "id": 528321259453026,
+        "name": "Celestial",
+        "description": null,
+        "displayName": "Celestial",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 139012640126225,
+        "displayIconImageId": 139012640126225,
+        "created": "2025-04-19T16:26:06.246+00:00",
+        "updated": "2025-04-19T16:26:06.246+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5972059550,
+          "name": "[\u23f3] Gym League ",
+          "rootPlaceId": 17450551531
+        }
+      },
+      {
+        "id": 2712976231829939,
+        "name": "Space marine",
+        "description": null,
+        "displayName": "Space marine",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 103142569379361,
+        "displayIconImageId": 103142569379361,
+        "created": "2025-04-19T16:24:34.109+00:00",
+        "updated": "2025-04-19T16:24:34.109+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5972059550,
+          "name": "[\u23f3] Gym League ",
+          "rootPlaceId": 17450551531
+        }
       }
     ]
   },
