@@ -87689,6 +87689,28 @@
           "name": " Sol's RNG [\u2744\ufe0f]",
           "rootPlaceId": 15532962292
         }
+      },
+      {
+        "id": 4100206722227429,
+        "name": "???",
+        "description": null,
+        "displayName": "???",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 101896470042109,
+        "displayIconImageId": 101896470042109,
+        "created": "2025-04-19T11:11:38.896+00:00",
+        "updated": "2025-04-19T11:11:38.896+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5361032378,
+          "name": "Sol's RNG\ud83c\udf40[ Eon 1 - 3 ]",
+          "rootPlaceId": 15532962292
+        }
       }
     ]
   },
