@@ -90049,6 +90049,28 @@
           "name": "Sierra, Mexico.",
           "rootPlaceId": 17045823120
         }
+      },
+      {
+        "id": 1437929604506253,
+        "name": "Pascua 2025",
+        "description": "Solo disponible por 2 dias.",
+        "displayName": "Easter 2025",
+        "displayDescription": "Only available for 2 days.",
+        "enabled": true,
+        "iconImageId": 78887419213234,
+        "displayIconImageId": 78887419213234,
+        "created": "2025-04-20T02:39:59.734+00:00",
+        "updated": "2025-04-20T02:39:59.734+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5844427042,
+          "name": "Sierra, Mexico.",
+          "rootPlaceId": 17045823120
+        }
       }
     ]
   },
