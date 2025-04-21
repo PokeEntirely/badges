@@ -95673,6 +95673,28 @@
           "name": "Cube Combination",
           "rootPlaceId": 9798463281
         }
+      },
+      {
+        "id": 3559658504992006,
+        "name": "Eggoship",
+        "description": "???",
+        "displayName": "Eggoship",
+        "displayDescription": "???",
+        "enabled": true,
+        "iconImageId": 139891181951851,
+        "displayIconImageId": 139891181951851,
+        "created": "2025-04-20T15:16:13.569+00:00",
+        "updated": "2025-04-21T15:09:03.074+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 3,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3626363135,
+          "name": "Cube Combination",
+          "rootPlaceId": 9798463281
+        }
       }
     ]
   },
