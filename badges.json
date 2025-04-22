@@ -22419,6 +22419,28 @@
           "name": "\u26a1[VUULT] Blair",
           "rootPlaceId": 6137321701
         }
+      },
+      {
+        "id": 3563898563496113,
+        "name": "Egg Hunter",
+        "description": "You've successfully found a rare Faberge Egg! ",
+        "displayName": "Egg Hunter",
+        "displayDescription": "You've successfully found a rare Faberge Egg! ",
+        "enabled": true,
+        "iconImageId": 110682263354658,
+        "displayIconImageId": 110682263354658,
+        "created": "2025-04-15T17:16:52.387+00:00",
+        "updated": "2025-04-22T02:42:16.582+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 47,
+          "awardedCount": 63,
+          "winRatePercentage": 0.001
+        },
+        "awardingUniverse": {
+          "id": 2239430935,
+          "name": "Blair ",
+          "rootPlaceId": 6137321701
+        }
       }
     ]
   },
