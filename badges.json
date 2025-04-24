@@ -95805,6 +95805,50 @@
           "name": "Cube Combination",
           "rootPlaceId": 9798463281
         }
+      },
+      {
+        "id": 4411302345810268,
+        "name": "April Fools 2025 Epilogue",
+        "description": "Beat AF25's Epilogue.",
+        "displayName": "April Fools 2025 Epilogue",
+        "displayDescription": "Beat AF25's Epilogue.",
+        "enabled": true,
+        "iconImageId": 131070338302242,
+        "displayIconImageId": 131070338302242,
+        "created": "2025-04-24T07:10:30.691+00:00",
+        "updated": "2025-04-24T15:05:25.401+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3626363135,
+          "name": "Cube Combination",
+          "rootPlaceId": 9798463281
+        }
+      },
+      {
+        "id": 938717040132125,
+        "name": "FOC Solo",
+        "description": "Defeat AF25 Epilogue solo.",
+        "displayName": "FOC Solo",
+        "displayDescription": "Defeat AF25 Epilogue solo.",
+        "enabled": true,
+        "iconImageId": 98003288643578,
+        "displayIconImageId": 98003288643578,
+        "created": "2025-04-24T07:10:43.025+00:00",
+        "updated": "2025-04-24T15:04:49.199+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3626363135,
+          "name": "Cube Combination",
+          "rootPlaceId": 9798463281
+        }
       }
     ]
   },
