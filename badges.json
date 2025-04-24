@@ -8198,6 +8198,50 @@
           "name": "Fisch\ud83e\udd88",
           "rootPlaceId": 16732694052
         }
+      },
+      {
+        "id": 4358181133009953,
+        "name": "Bestiary: Blue Moon First Sea",
+        "description": null,
+        "displayName": "Bestiary: Blue Moon First Sea",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 73138427343833,
+        "displayIconImageId": 73138427343833,
+        "created": "2025-04-10T21:58:36.761+00:00",
+        "updated": "2025-04-24T02:33:13.403+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": " Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
+      },
+      {
+        "id": 1132127671855113,
+        "name": "Bestiary: Blue Moon Second Sea",
+        "description": null,
+        "displayName": "Bestiary: Blue Moon Second Sea",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 129173780477873,
+        "displayIconImageId": 129173780477873,
+        "created": "2025-04-10T21:59:00.479+00:00",
+        "updated": "2025-04-24T02:32:57.383+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": " Fisch\ud83e\udd88",
+          "rootPlaceId": 16732694052
+        }
       }
     ]
   },
