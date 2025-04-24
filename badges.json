@@ -89869,6 +89869,28 @@
           "name": "generic roleplay gaem.",
           "rootPlaceId": 4598019433
         }
+      },
+      {
+        "id": 4095254086907627,
+        "name": "RACE WINNER!",
+        "description": "You win race in 1st place! Wow!",
+        "displayName": "RACE WINNER!",
+        "displayDescription": "You win race in 1st place! Wow!",
+        "enabled": true,
+        "iconImageId": 101339791729982,
+        "displayIconImageId": 101339791729982,
+        "created": "2025-04-24T21:42:02.02+00:00",
+        "updated": "2025-04-24T21:42:37.419+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1499870257,
+          "name": "generic roleplay gaem.",
+          "rootPlaceId": 4598019433
+        }
       }
     ]
   },
@@ -99109,6 +99131,28 @@
         "statistics": {
           "pastDayAwardedCount": 0,
           "awardedCount": 920,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1554612201,
+          "name": "grg testing.",
+          "rootPlaceId": 4694363184
+        }
+      },
+      {
+        "id": 3535139526582043,
+        "name": "RACE WINNER!",
+        "description": "You win race in 1st place! Wow!",
+        "displayName": "RACE WINNER!",
+        "displayDescription": "You win race in 1st place! Wow!",
+        "enabled": true,
+        "iconImageId": 94683006555511,
+        "displayIconImageId": 94683006555511,
+        "created": "2025-04-24T21:41:17.889+00:00",
+        "updated": "2025-04-24T21:42:42.263+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
           "winRatePercentage": 0.0
         },
         "awardingUniverse": {
