@@ -6452,6 +6452,28 @@
           "name": "a dusty trip [\ud83d\ude97QUEST]",
           "rootPlaceId": 16389395869
         }
+      },
+      {
+        "id": 2290628867192972,
+        "name": "Quest",
+        "description": null,
+        "displayName": "Quest",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 139852211427514,
+        "displayIconImageId": 139852211427514,
+        "created": "2025-04-25T16:42:01.501+00:00",
+        "updated": "2025-04-25T16:42:01.501+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5650396773,
+          "name": "a dusty trip [\ud83d\udc30EASTER]",
+          "rootPlaceId": 16389395869
+        }
       }
     ]
   },
