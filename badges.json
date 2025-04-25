@@ -65254,6 +65254,28 @@
           "name": "Shrimp Game",
           "rootPlaceId": 7606564092
         }
+      },
+      {
+        "id": 4203226113548527,
+        "name": "Complete Marbles Game",
+        "description": null,
+        "displayName": "Complete Marbles Game",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 106541488605272,
+        "displayIconImageId": 106541488605272,
+        "created": "2024-12-29T17:11:40.379+00:00",
+        "updated": "2025-04-25T04:39:24.627+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2955322961,
+          "name": "Shrimp Game",
+          "rootPlaceId": 7606564092
+        }
       }
     ]
   },
