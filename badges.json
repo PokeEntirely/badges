@@ -85891,6 +85891,226 @@
           "name": "Notoriety: A PAYDAY\u00ae Experience",
           "rootPlaceId": 21532277
         }
+      },
+      {
+        "id": 618593671197870,
+        "name": "Party Hard",
+        "description": "Complete the Nightclub Heist on any difficulty.",
+        "displayName": "Party Hard",
+        "displayDescription": "Complete the Nightclub Heist on any difficulty.",
+        "enabled": true,
+        "iconImageId": 101142415048991,
+        "displayIconImageId": 101142415048991,
+        "created": "2025-04-25T06:23:22.119+00:00",
+        "updated": "2025-04-25T06:23:22.119+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 636847315055468,
+        "name": "Party Harder",
+        "description": "Complete the Nightclub Heist on Nightmare difficulty.",
+        "displayName": "Party Harder",
+        "displayDescription": "Complete the Nightclub Heist on Nightmare difficulty.",
+        "enabled": true,
+        "iconImageId": 93308050078820,
+        "displayIconImageId": 93308050078820,
+        "created": "2025-04-25T06:23:53.624+00:00",
+        "updated": "2025-04-25T06:23:53.624+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 2911910078244638,
+        "name": "Was That So Hard?",
+        "description": "Complete the Nightclub Heist in stealth on the Nightmare difficulty.",
+        "displayName": "Was That So Hard?",
+        "displayDescription": "Complete the Nightclub Heist in stealth on the Nightmare difficulty.",
+        "enabled": true,
+        "iconImageId": 119520624929335,
+        "displayIconImageId": 119520624929335,
+        "created": "2025-04-25T06:24:40.026+00:00",
+        "updated": "2025-04-25T06:24:40.026+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 3410723896492162,
+        "name": "Friday Night",
+        "description": "Complete the Nightclub Heist on Friday.",
+        "displayName": "Friday Night",
+        "displayDescription": "Complete the Nightclub Heist on Friday.",
+        "enabled": true,
+        "iconImageId": 74250398209606,
+        "displayIconImageId": 74250398209606,
+        "created": "2025-04-25T06:25:11.779+00:00",
+        "updated": "2025-04-25T06:25:11.779+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 864375460224163,
+        "name": "He's Portable!",
+        "description": "Complete the Nightclub Heist with \"Captain Groovy\" the DJ inside of the escape van.",
+        "displayName": "He's Portable!",
+        "displayDescription": "Complete the Nightclub Heist with \"Captain Groovy\" the DJ inside of the escape van.",
+        "enabled": true,
+        "iconImageId": 135148812075294,
+        "displayIconImageId": 135148812075294,
+        "created": "2025-04-25T06:26:04.899+00:00",
+        "updated": "2025-04-25T06:26:04.899+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 3794638586742714,
+        "name": "Dance, Dance!",
+        "description": "In the Nightclub Heist, kill 30 enemies in a row without leaving the dance floor.",
+        "displayName": "Dance, Dance!",
+        "displayDescription": "In the Nightclub Heist, kill 30 enemies in a row without leaving the dance floor.",
+        "enabled": true,
+        "iconImageId": 100234788687018,
+        "displayIconImageId": 100234788687018,
+        "created": "2025-04-25T06:26:56.927+00:00",
+        "updated": "2025-04-25T06:26:56.927+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 1791734727806196,
+        "name": "Hand Me The Aux",
+        "description": "At some point during the Nightclub Heist during stealth, with the \"Bad Music\" asset unlocked, have at least 12 living civilians on the dance floor. Unlocks the \"Visionary\" title.",
+        "displayName": "Hand Me The Aux",
+        "displayDescription": "At some point during the Nightclub Heist during stealth, with the \"Bad Music\" asset unlocked, have at least 12 living civilians on the dance floor. Unlocks the \"Visionary\" title.",
+        "enabled": true,
+        "iconImageId": 101851540598940,
+        "displayIconImageId": 101851540598940,
+        "created": "2025-04-25T06:28:02.275+00:00",
+        "updated": "2025-04-25T06:28:02.275+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 2571050017994661,
+        "name": "All In",
+        "description": "In the Nightclub Heist, throw a bag of money on the game table.",
+        "displayName": "All In",
+        "displayDescription": "In the Nightclub Heist, throw a bag of money on the game table.",
+        "enabled": true,
+        "iconImageId": 108621682093552,
+        "displayIconImageId": 108621682093552,
+        "created": "2025-04-25T06:28:44.956+00:00",
+        "updated": "2025-04-25T06:28:44.956+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 1710043745790666,
+        "name": "VIP",
+        "description": "In the Nightclub Heist, open a safe with a keycard.",
+        "displayName": "VIP",
+        "displayDescription": "In the Nightclub Heist, open a safe with a keycard.",
+        "enabled": true,
+        "iconImageId": 87383509591598,
+        "displayIconImageId": 87383509591598,
+        "created": "2025-04-25T06:29:23.404+00:00",
+        "updated": "2025-04-25T06:29:23.404+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
+      },
+      {
+        "id": 3884715130451366,
+        "name": "This is a Heisting Game?!",
+        "description": "In the Nightclub Heist, spend a whole minute on the dance floor without a mask on.",
+        "displayName": "This is a Heisting Game?!",
+        "displayDescription": "In the Nightclub Heist, spend a whole minute on the dance floor without a mask on.",
+        "enabled": true,
+        "iconImageId": 126595823801716,
+        "displayIconImageId": 126595823801716,
+        "created": "2025-04-25T06:30:00.34+00:00",
+        "updated": "2025-04-25T06:30:00.34+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 16680835,
+          "name": "Notoriety: A PAYDAY\u00ae Experience",
+          "rootPlaceId": 21532277
+        }
       }
     ]
   },
