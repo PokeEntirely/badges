@@ -97240,6 +97240,28 @@
           "name": "RetroStudio \ud83d\udd28",
           "rootPlaceId": 5846386835
         }
+      },
+      {
+        "id": 4324606783288729,
+        "name": "Eggmin 2025",
+        "description": null,
+        "displayName": "Eggmin 2025",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 139024976932565,
+        "displayIconImageId": 139024976932565,
+        "created": "2025-04-25T15:40:08.118+00:00",
+        "updated": "2025-04-25T15:40:08.118+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2082205150,
+          "name": "RetroStudio \ud83d\udd28",
+          "rootPlaceId": 5846386835
+        }
       }
     ]
   },
