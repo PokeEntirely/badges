@@ -97266,6 +97266,28 @@
           "name": "[\ud83c\udf39UPD] Cake Off!",
           "rootPlaceId": 17670743999
         }
+      },
+      {
+        "id": 908883965121761,
+        "name": "Sam\u2019s Club Membership",
+        "description": "Awarded for participating in Sam's Club integration quest and receiving a discount card.",
+        "displayName": "Sam\u2019s Club Membership",
+        "displayDescription": "Awarded for participating in Sam's Club integration quest and receiving a discount card.",
+        "enabled": true,
+        "iconImageId": 132606049023404,
+        "displayIconImageId": 132606049023404,
+        "created": "2025-04-02T21:17:15.479+00:00",
+        "updated": "2025-04-25T00:56:20.733+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 6052033819,
+          "name": "[\ud83c\udf1fUPD] Cake Off!",
+          "rootPlaceId": 17670743999
+        }
       }
     ]
   },
