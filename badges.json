@@ -53428,6 +53428,72 @@
           "name": "Sonic Speed Simulator",
           "rootPlaceId": 9049840490
         }
+      },
+      {
+        "id": 3333586070866786,
+        "name": "Hero or Dark",
+        "description": "You completed both Hero Side and Dark Side Events\n",
+        "displayName": "Hero or Dark",
+        "displayDescription": "You completed both Hero Side and Dark Side Events\n",
+        "enabled": true,
+        "iconImageId": 111712786628129,
+        "displayIconImageId": 111712786628129,
+        "created": "2025-04-26T02:10:48.799+00:00",
+        "updated": "2025-04-26T14:38:31.975+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "[\ud83d\udc8eSALE] Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
+      },
+      {
+        "id": 1298597836528972,
+        "name": "Hero Side",
+        "description": "You chose Hero Side during the Hero or Dark Event\n",
+        "displayName": "Hero Side",
+        "displayDescription": "You chose Hero Side during the Hero or Dark Event\n",
+        "enabled": true,
+        "iconImageId": 77428069140542,
+        "displayIconImageId": 77428069140542,
+        "created": "2025-04-26T02:11:00.645+00:00",
+        "updated": "2025-04-26T14:38:06.784+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 101,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "[\ud83d\udc8eSALE] Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
+      },
+      {
+        "id": 4485819151626949,
+        "name": "Dark Side",
+        "description": "You chose Dark Side during the Hero or Dark Event\n",
+        "displayName": "Dark Side",
+        "displayDescription": "You chose Dark Side during the Hero or Dark Event\n",
+        "enabled": true,
+        "iconImageId": 71289989048643,
+        "displayIconImageId": 71289989048643,
+        "created": "2025-04-26T02:11:09.402+00:00",
+        "updated": "2025-04-26T14:37:58.227+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 80,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3405618667,
+          "name": "[\ud83d\udc8eSALE] Sonic Speed Simulator",
+          "rootPlaceId": 9049840490
+        }
       }
     ]
   },
