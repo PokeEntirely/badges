@@ -71952,6 +71952,50 @@
           "name": "Guts & Blackpowder",
           "rootPlaceId": 12334109280
         }
+      },
+      {
+        "id": 552247404714065,
+        "name": "Rejoice, St. Petersburg!",
+        "description": "Successfully survive all 10 waves and defend Saint Petersburg in HOLDOUT mode.",
+        "displayName": "Rejoice, St. Petersburg!",
+        "displayDescription": "Successfully survive all 10 waves and defend Saint Petersburg in HOLDOUT mode.",
+        "enabled": true,
+        "iconImageId": 75179484016344,
+        "displayIconImageId": 75179484016344,
+        "created": "2025-04-16T21:26:35.092+00:00",
+        "updated": "2025-04-26T21:37:52.345+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder [Update]",
+          "rootPlaceId": 12334109280
+        }
+      },
+      {
+        "id": 560165148104357,
+        "name": "No Match for a Flintlock",
+        "description": "Put down a Cuirassier Zombie in a sword duel by shooting it in the head.",
+        "displayName": "No Match for a Flintlock",
+        "displayDescription": "Put down a Cuirassier Zombie in a sword duel by shooting it in the head.",
+        "enabled": true,
+        "iconImageId": 89324344683088,
+        "displayIconImageId": 89324344683088,
+        "created": "2025-04-25T05:18:57.231+00:00",
+        "updated": "2025-04-26T21:38:00.351+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 29,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 4342047058,
+          "name": "Guts & Blackpowder [Update]",
+          "rootPlaceId": 12334109280
+        }
       }
     ]
   },
