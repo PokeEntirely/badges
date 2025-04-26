@@ -25978,6 +25978,28 @@
           "name": "Combat Warriors \ud83e\ude78",
           "rootPlaceId": 4282985734
         }
+      },
+      {
+        "id": 3619715744378769,
+        "name": "Prestige 003: Chainsword",
+        "description": "Exclusive to holders of the:\r\n\r\nChainsword\r\nPrestige Weapon 003",
+        "displayName": "Prestige 003: Chainsword",
+        "displayDescription": "Exclusive to holders of the:\r\n\r\nChainsword\r\nPrestige Weapon 003",
+        "enabled": true,
+        "iconImageId": 138595980101598,
+        "displayIconImageId": 138595980101598,
+        "created": "2025-04-26T14:40:53.353+00:00",
+        "updated": "2025-04-26T14:40:53.353+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1390601379,
+          "name": "[ParryFix] Combat Warriors",
+          "rootPlaceId": 4282985734
+        }
       }
     ]
   },
