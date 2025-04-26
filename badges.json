@@ -8264,6 +8264,28 @@
           "name": " Fisch\ud83e\udd88",
           "rootPlaceId": 16732694052
         }
+      },
+      {
+        "id": 507614698244930,
+        "name": "Bestiary: Lego",
+        "description": null,
+        "displayName": "Bestiary: Lego",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 130999860932256,
+        "displayIconImageId": 130999860932256,
+        "created": "2025-04-22T19:31:25.933+00:00",
+        "updated": "2025-04-26T12:50:30.777+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5750914919,
+          "name": " Fisch\ud83e\udd88  [LEGO\u00ae EVENT]",
+          "rootPlaceId": 16732694052
+        }
       }
     ]
   },
