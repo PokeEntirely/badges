@@ -29640,6 +29640,28 @@
           "name": "\ud83e\udde1 Creatures of Sonaria \u2728 Survive Kaiju Animals",
           "rootPlaceId": 5233782396
         }
+      },
+      {
+        "id": 4147356069775595,
+        "name": "Mini-Might Takeover",
+        "description": "Given to players who completed the Mini-Might Takeover mission!",
+        "displayName": "Mini-Might Takeover",
+        "displayDescription": "Given to players who completed the Mini-Might Takeover mission!",
+        "enabled": true,
+        "iconImageId": 121961858024507,
+        "displayIconImageId": 121961858024507,
+        "created": "2025-04-25T18:35:58.799+00:00",
+        "updated": "2025-04-30T16:02:22.791+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1831550657,
+          "name": "\ud83e\udd5a Creatures of Sonaria \u2728 Survive Kaiju Animals",
+          "rootPlaceId": 5233782396
+        }
       }
     ]
   },
@@ -30324,6 +30346,28 @@
         "awardingUniverse": {
           "id": 1235188606,
           "name": "NEW SZN 43\u2b50 Dragon Adventures \ud83d\udc09 Fantasy Pets \u2728",
+          "rootPlaceId": 3475397644
+        }
+      },
+      {
+        "id": 1801518391673651,
+        "name": "Mini-Might Takeover",
+        "description": "Given to players who completed the Mini-Might Takeover quest!",
+        "displayName": "Mini-Might Takeover",
+        "displayDescription": "Given to players who completed the Mini-Might Takeover quest!",
+        "enabled": true,
+        "iconImageId": 132858020267264,
+        "displayIconImageId": 132858020267264,
+        "created": "2025-04-25T18:19:40.026+00:00",
+        "updated": "2025-04-30T16:02:53+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 1235188606,
+          "name": "EASTER \u2b50 Dragon Adventures \ud83d\udc09 Fantasy Pets \u2728",
           "rootPlaceId": 3475397644
         }
       }
