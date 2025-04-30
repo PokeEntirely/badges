@@ -23872,6 +23872,28 @@
           "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
           "rootPlaceId": 10704789056
         }
+      },
+      {
+        "id": 1688467549304878,
+        "name": "Hypergalactic Mini-Might Takeover Event 2025",
+        "description": "Finish the Hypergalactic Monkey Quest Mini-Might Takeover Plushie delivery missions to unlock this badge!",
+        "displayName": "Hypergalactic Mini-Might Takeover Event 2025",
+        "displayDescription": "Finish the Hypergalactic Monkey Quest Mini-Might Takeover Plushie delivery missions to unlock this badge!",
+        "enabled": true,
+        "iconImageId": 125749502143646,
+        "displayIconImageId": 125749502143646,
+        "created": "2025-04-30T08:19:02.415+00:00",
+        "updated": "2025-04-30T23:47:40.063+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 3876150506,
+          "name": "Drive World \ud83c\udfce\ufe0f Drifting & Racing",
+          "rootPlaceId": 10704789056
+        }
       }
     ]
   },
