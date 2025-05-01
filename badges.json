@@ -88995,6 +88995,28 @@
           "name": "World // Zero \u2694\ufe0f Anime RPG",
           "rootPlaceId": 2727067538
         }
+      },
+      {
+        "id": 1020493659202590,
+        "name": "Mini-Might Legend",
+        "description": "- The Mini-Mights have burst into World // Zero!\n- Talk to Monkey Man in the World 1 Town to take on 3 Quests and earn exclusive Mini-Might pets!\n- Jump into other Twin Atlas games to boost your rewards and raise your chances at epic prizes!",
+        "displayName": "Mini-Might Legend",
+        "displayDescription": "- The Mini-Mights have burst into World // Zero!\n- Talk to Monkey Man in the World 1 Town to take on 3 Quests and earn exclusive Mini-Might pets!\n- Jump into other Twin Atlas games to boost your rewards and raise your chances at epic prizes!",
+        "enabled": true,
+        "iconImageId": 139863838119088,
+        "displayIconImageId": 139863838119088,
+        "created": "2025-04-25T15:51:26.404+00:00",
+        "updated": "2025-05-01T21:03:21.994+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 985731078,
+          "name": "\ud83e\udd5aWorld // Zero \u2694\ufe0f Anime RPG",
+          "rootPlaceId": 2727067538
+        }
       }
     ]
   },
