@@ -1582,6 +1582,28 @@
           "name": "\ud83e\uddfc Horse Life \ud83d\udc0e",
           "rootPlaceId": 15696848933
         }
+      },
+      {
+        "id": 4203352206456438,
+        "name": "Mini-Might Takeover!",
+        "description": null,
+        "displayName": "Mini-Might Takeover!",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 72714360669778,
+        "displayIconImageId": 72714360669778,
+        "created": "2025-04-25T19:24:51.979+00:00",
+        "updated": "2025-05-01T22:48:50.286+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 44,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 5422546686,
+          "name": "\ud83e\udd55 Horse Life \ud83d\udc0e",
+          "rootPlaceId": 15696848933
+        }
       }
     ]
   },
