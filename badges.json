@@ -56358,6 +56358,28 @@
           "name": "Slap Battles\ud83d\udc4f ",
           "rootPlaceId": 6403373529
         }
+      },
+      {
+        "id": 2442504376213257,
+        "name": "hmm",
+        "description": null,
+        "displayName": "hmm",
+        "displayDescription": null,
+        "enabled": true,
+        "iconImageId": 82344263017904,
+        "displayIconImageId": 82344263017904,
+        "created": "2025-05-02T13:44:06.526+00:00",
+        "updated": "2025-05-02T13:44:06.526+00:00",
+        "statistics": {
+          "pastDayAwardedCount": 0,
+          "awardedCount": 0,
+          "winRatePercentage": 0.0
+        },
+        "awardingUniverse": {
+          "id": 2380077519,
+          "name": "Slap Battles\ud83d\udc4f ",
+          "rootPlaceId": 6403373529
+        }
       }
     ]
   },
